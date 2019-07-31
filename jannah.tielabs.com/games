@@ -1,0 +1,2028 @@
+<!DOCTYPE html>
+<html lang="en-US" class="dark-skin" prefix="og: http://ogp.me/ns#">
+<head>
+<meta charset="UTF-8" />
+<script src="/cdn-cgi/apps/head/svZxNnjSmGCwZH9Ca1C6yPS3ec8.js"></script><link rel="profile" href="https://gmpg.org/xfn/11" />
+<link rel="pingback" href="https://jannah.tielabs.com/games/xmlrpc.php" />
+<title>Jannah Games &#8211; Just another TieLabs Themes Sites site</title>
+<script type="text/javascript">
+		var ajaxurl = 'https://jannah.tielabs.com/games/wp-admin/admin-ajax.php';
+		</script>
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Jannah Games &raquo; Feed" href="https://jannah.tielabs.com/games/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Jannah Games &raquo; Comments Feed" href="https://jannah.tielabs.com/games/comments/feed/" />
+<meta property="og:title" content="Jannah Games" />
+<meta property="og:type" content="website" />
+<meta property="og:description" content="Just another TieLabs Themes Sites site" />
+<meta property="og:url" content="https://jannah.tielabs.com/games/" />
+<meta property="og:site_name" content="Jannah Games" />
+<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/jannah.tielabs.com\/games\/wp-includes\/js\/wp-emoji-release.min.js"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56692,8205,9792,65039],[55357,56692,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='jannah-demos-css-css' href='https://jannah.tielabs.com/games/wp-content/plugins/jannah-demos/assets/css/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='taqyeem-buttons-style-css' href='https://jannah.tielabs.com/games/wp-content/plugins/taqyeem-buttons/assets/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='tie-css-woocommerce-css' href='https://jannah.tielabs.com/games/wp-content/themes/jannah/assets/css/woocommerce.css' type='text/css' media='all' />
+<link rel='stylesheet' id='tie-css-bbpress-css' href='https://jannah.tielabs.com/games/wp-content/themes/jannah/assets/css/bbpress.css' type='text/css' media='all' />
+<link rel='stylesheet' id='taqyeem-styles-css' href='https://jannah.tielabs.com/games/wp-content/themes/jannah/assets/css/taqyeem.css' type='text/css' media='all' />
+<link rel='stylesheet' id='tie-css-styles-css' href='https://jannah.tielabs.com/games/wp-content/themes/jannah/assets/css/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='tie-css-ilightbox-css' href='https://jannah.tielabs.com/games/wp-content/themes/jannah/assets/css/ilightbox/dark-skin/skin.css' type='text/css' media='all' />
+<style id='tie-css-ilightbox-inline-css' type='text/css'>
+.wf-active .logo-text,.wf-active h1,.wf-active h2,.wf-active h3,.wf-active h4,.wf-active h5,.wf-active h6{font-family: 'Play';}#main-nav .main-menu > ul > li > a{font-size: 14px;}#tie-body{background-image: url(https://jannah.tielabs.com/games/wp-content/uploads/sites/45/2018/02/bg.jpg);background-repeat: no-repeat;background-size: cover; background-attachment: fixed;}.brand-title,a:hover,#tie-popup-search-submit,.components button#search-submit:hover,#logo.text-logo a,#tie-wrapper #top-nav a:hover,#tie-wrapper #top-nav .breaking a:hover,#tie-wrapper #main-nav .components a:hover,#theme-header #top-nav .components > li > a:hover,#theme-header #top-nav .components > li:hover > a,#theme-header #main-nav .components > li > a:hover,#theme-header #main-nav .components > li:hover > a,#top-nav .top-menu .menu > li.tie-current-menu > a,#tie-wrapper #top-nav .top-menu .menu li:hover > a,#tie-wrapper #top-nav .top-menu .menu a:hover,#tie-wrapper #main-nav .main-menu .mega-menu .post-box-title a:hover,#tie-wrapper #main-nav .main-menu .menu .mega-cat-sub-categories.cats-vertical li:hover a,#tie-wrapper #main-nav .main-menu .menu .mega-cat-sub-categories.cats-vertical li a.is-active,div.mag-box .mag-box-options .mag-box-filter-links a.active,.mag-box-filter-links .flexMenu-viewMore:hover > a,.stars-rating-active,body .tabs.tabs .active > a,.video-play-icon,.spinner-circle:after,#go-to-content:hover,.comment-list .comment-author .fn,.commentlist .comment-author .fn,blockquote::before,blockquote cite,blockquote.quote-simple p,.multiple-post-pages a:hover,#story-index li .is-current,.latest-tweets-widget .twitter-icon-wrap span,.wide-next-prev-slider-wrapper .tie-slider-nav li:hover span,#instagram-link:hover,.review-final-score h3,#mobile-menu-icon:hover .menu-text,.entry a,.entry .post-bottom-meta a[href]:hover,#footer-widgets-container a:hover,#footer-widgets-container .stars-rating-active,#footer-widgets-container .latest-tweets-widget .twitter-icon-wrap span,#site-info a:hover,.widget.tie-weather-widget .icon-basecloud-bg:after,.wide-slider-nav-wrapper .slide{color: #733d91;}#theme-header #main-nav .spinner-circle:after{color: #733d91;}.button,#tie-wrapper #theme-header .comp-sub-menu .button:hover,#tie-wrapper #theme-header .comp-sub-menu .button.guest-btn:hover,#tie-wrapper #theme-header .comp-sub-menu .button.checkout-button,#tie-wrapper #theme-header #main-nav .comp-sub-menu .button:hover,input[type='submit'],.post-cat,.tie-slider-nav li > span:hover,.pages-nav .next-prev li.current span,.pages-nav .pages-numbers li.current span,#tie-wrapper .mejs-container .mejs-controls,.spinner > div,#mobile-menu-icon:hover .nav-icon,#mobile-menu-icon:hover .nav-icon:before,#mobile-menu-icon:hover .nav-icon:after,#theme-header #main-nav .main-menu .menu > li.tie-current-menu > a,#theme-header #main-nav .main-menu .menu > li:hover > a,#theme-header #main-nav .main-menu .menu > li > a:hover,#tie-wrapper #main-nav .main-menu ul li .mega-links-head:after,#theme-header #main-nav .menu .mega-cat-sub-categories.cats-horizontal li a.is-active,#theme-header #main-nav .menu .mega-cat-sub-categories.cats-horizontal li a:hover,.main-nav-dark .main-menu .menu > li > a:hover,#mobile-menu-icon:hover .nav-icon,#mobile-menu-icon:hover .nav-icon:before,#mobile-menu-icon:hover .nav-icon:after,.mag-box-filter-links a:hover,.slider-arrow-nav a:not(.pagination-disabled):hover,.comment-list .reply a:hover,.commentlist .reply a:hover,#reading-position-indicator,.multiple-post-pages > span,#story-index-icon,.posts-list-counter .posts-list-items li:before,.cat-counter span,.digital-rating-static strong,#wp-calendar #today,.basecloud-bg,.basecloud-bg::before,.basecloud-bg::after,.timeline-widget ul li a:hover .date:before,.cat-counter a + span,.videos-block .playlist-title,.review-percentage .review-item span span,.tie-slick-dots li.slick-active button,.tie-slick-dots li button:hover,#tie-body.magazine2:not(.block-head-4) .dark-widgetized-area .tabs a:hover,#tie-body.magazine2:not(.block-head-4) .dark-widgetized-area .tabs .active a,#tie-body.magazine1 .dark-widgetized-area .tabs a:hover,#tie-body.magazine1 .dark-widgetized-area .tabs .active a,#footer-widgets-container .digital-rating-static strong,#footer-widgets-container .timeline-widget li:hover .date:before,#footer-widgets-container #wp-calendar #today,#footer-widgets-container .basecloud-bg::before,#footer-widgets-container .posts-list-counter .posts-list-items li:before,#footer-widgets-container .cat-counter span,#footer-widgets-container .widget-title:after,#footer-widgets-container .button,#footer-widgets-container input[type='submit'],#footer-widgets-container .tie-slider-nav li > span:hover,#footer-widgets-container .fullwidth-area .widget_tag_cloud .tagcloud a:hover,.demo_store,.demo #logo:after,.widget.tie-weather-widget,span.video-close-btn:hover,#go-to-top{background-color: #733d91;color: #FFFFFF;}pre,code,.pages-nav .next-prev li.current span,.pages-nav .pages-numbers li.current span,#tie-wrapper #theme-header .comp-sub-menu .button:hover,#tie-wrapper #theme-header .comp-sub-menu .button.guest-btn:hover,.multiple-post-pages > span,.post-content-slideshow .tie-slider-nav li span:hover,.latest-tweets-widget .slider-links .tie-slider-nav li span:hover,.dark-skin .latest-tweets-widget .slider-links .tie-slider-nav span:hover,#instagram-link:before,#instagram-link:after,.slider-arrow-nav a:not(.pagination-disabled):hover,#theme-header #main-nav .menu .mega-cat-sub-categories.cats-horizontal li a.is-active,#theme-header #main-nav .menu .mega-cat-sub-categories.cats-horizontal li a:hover,#footer.dark-skin #instagram-link:before,#footer.dark-skin #instagram-link:after,#footer-widgets-container .tie-slider-nav li > span:hover,#theme-header #main-nav .main-menu .menu > li > .sub-menu,#theme-header #main-nav .main-menu .menu > li > .menu-sub-content{border-color: #733d91;}#tie-wrapper #top-nav .top-menu .menu li.menu-item-has-children:hover > a:before{border-top-color: #733d91;}#theme-header .main-menu .menu > li.tie-current-menu > a:before,#theme-header #main-nav .main-menu .menu > li > a:hover:before,#theme-header #main-nav .main-menu .menu > li:hover > a:before{border-top-color: #FFFFFF;}#tie-wrapper #top-nav .top-menu .menu li li.menu-item-has-children:hover > a:before{border-left-color: #733d91;border-top-color: transparent;}.rtl #tie-wrapper #top-nav .top-menu .menu li li.menu-item-has-children:hover > a:before{border-right-color: #733d91;border-top-color: transparent;}#tie-wrapper #main-nav .main-menu .menu > li.tie-current-menu{border-bottom-color: #733d91;}#footer-widgets-container{border-top: 8px solid #733d91;-webkit-box-shadow: 0 -5px 0 rgba(0,0,0,0.07); -moz-box-shadow: 0 -8px 0 rgba(0,0,0,0.07); box-shadow: 0 -8px 0 rgba(0,0,0,0.07);}::-moz-selection{background-color: #733d91;color: #FFFFFF;}::selection{background-color: #733d91;color: #FFFFFF;}circle.circle_bar,#footer-widgets-container circle.circle_bar{stroke: #733d91;}#reading-position-indicator{box-shadow: 0 0 10px rgba( 115,61,145,0.7);}#tie-popup-search-submit:hover,#logo.text-logo a:hover,.entry a:hover{color: #410b5f;}.button:hover,input[type='submit']:hover,a.post-cat:hover,#footer-widgets-container .button:hover,#footer-widgets-container input[type='submit']:hover{background-color: #410b5f;color: #FFFFFF;}.search-in-main-nav.autocomplete-suggestions a.button:hover,#tie-wrapper #theme-header #top-nav .comp-sub-menu .button.checkout-button:hover,#tie-wrapper #theme-header #main-nav .comp-sub-menu .button.checkout-button:hover{background-color: #410b5f;color: #FFFFFF;}#theme-header #main-nav .comp-sub-menu a.checkout-button:not(:hover),#theme-header #top-nav .comp-sub-menu a.checkout-button:not(:hover),.entry a.button{color: #FFFFFF;}#footer-widgets-container .tie-slider-nav li > span:hover{color: #FFFFFF !important;}@media (max-width: 1600px){#story-index ul{background-color: #733d91;}#story-index ul li a,#story-index ul li .is-current{color: #FFFFFF;}}.woocommerce div.product span.price,.woocommerce div.product p.price,.woocommerce div.product div.summary .product_meta > span,.woocommerce div.product div.summary .product_meta > span a:hover,.woocommerce ul.products li.product .price ins,.woocommerce .woocommerce-pagination .page-numbers li a.current,.woocommerce .woocommerce-pagination .page-numbers li a:hover,.woocommerce .woocommerce-pagination .page-numbers li span.current,.woocommerce .woocommerce-pagination .page-numbers li span:hover,.woocommerce .widget_rating_filter ul li.chosen a,.woocommerce-MyAccount-navigation ul li.is-active a{color: #733d91;}.woocommerce span.new,.woocommerce a.button.alt,.woocommerce button.button.alt,.woocommerce input.button.alt,.woocommerce a.button.alt.disabled,.woocommerce a.button.alt:disabled,.woocommerce a.button.alt:disabled[disabled],.woocommerce a.button.alt.disabled:hover,.woocommerce a.button.alt:disabled:hover,.woocommerce a.button.alt:disabled[disabled]:hover,.woocommerce button.button.alt.disabled,.woocommerce button.button.alt:disabled,.woocommerce button.button.alt:disabled[disabled],.woocommerce button.button.alt.disabled:hover,.woocommerce button.button.alt:disabled:hover,.woocommerce button.button.alt:disabled[disabled]:hover,.woocommerce input.button.alt.disabled,.woocommerce input.button.alt:disabled,.woocommerce input.button.alt:disabled[disabled],.woocommerce input.button.alt.disabled:hover,.woocommerce input.button.alt:disabled:hover,.woocommerce input.button.alt:disabled[disabled]:hover,.woocommerce .widget_price_filter .ui-slider .ui-slider-range{background-color: #733d91;color: #FFFFFF;}.woocommerce div.product #product-images-slider-nav .tie-slick-slider .slide.slick-current img{border-color: #733d91;}.woocommerce a.button:hover,.woocommerce button.button:hover,.woocommerce input.button:hover,.woocommerce a.button.alt:hover,.woocommerce button.button.alt:hover,.woocommerce input.button.alt:hover{background-color: #410b5f;}#tie-body .has-block-head-4,#tie-body .mag-box-title h3,#tie-body .comment-reply-title,#tie-body .related.products > h2,#tie-body .up-sells > h2,#tie-body .cross-sells > h2,#tie-body .cart_totals > h2,#tie-body .bbp-form legend,#tie-body .mag-box-title h3 a,#tie-body .section-title-default a,#tie-body #cancel-comment-reply-link {color: #FFFFFF;}#tie-body .has-block-head-4:before,#tie-body .mag-box-title h3:before,#tie-body .comment-reply-title:before,#tie-body .related.products > h2:before,#tie-body .up-sells > h2:before,#tie-body .cross-sells > h2:before,#tie-body .cart_totals > h2:before,#tie-body .bbp-form legend:before {background-color: #733d91;}#tie-body .block-more-button{color: #733d91;}#tie-body .block-more-button:hover{color: #410b5f;}#tie-body .tabs,#tie-body .tabs .flexMenu-popup{border-color: #733d91;}#tie-body .tabs li a{color: #733d91;}#tie-body .tabs li a:hover{color: #410b5f;}#tie-body .tabs li.active a{color: #FFFFFF;background-color: #733d91;}#tie-wrapper #main-nav{background-color : #4b367c;border-width: 0;}#tie-wrapper #main-nav.fixed-nav{background-color : rgba( 75,54,124 ,0.95);}#main-nav .main-menu-wrapper,#tie-wrapper .main-nav-boxed #main-nav .main-menu-wrapper,#tie-wrapper #main-nav .main-menu .menu li > .sub-menu,#tie-wrapper #main-nav .main-menu .menu-sub-content,#tie-wrapper #main-nav .comp-sub-menu,#tie-body .search-in-main-nav.autocomplete-suggestions{background-color: #4b367c;}#main-nav .weather-menu-item .icon-basecloud-bg:after{color: #4b367c;}#tie-wrapper #main-nav .components > li,#tie-wrapper #main-nav .comp-sub-menu,#tie-wrapper #main-nav .comp-sub-menu li,#tie-wrapper #main-nav .main-menu .menu li > .sub-menu > li > a,#tie-wrapper #main-nav .main-menu .menu-sub-content > li > a,#tie-wrapper #main-nav .main-menu li.mega-link-column > ul > li > a,#tie-wrapper #main-nav .main-menu .mega-recent-featured-list a,#tie-wrapper #main-nav .main-menu .mega-cat .mega-cat-more-links > li a,#tie-wrapper #main-nav .main-menu .cats-horizontal li a,#tie-wrapper .main-menu .mega-cat.menu-item-has-children .mega-cat-wrapper{border-color: rgba(255,255,255,0.07);}#tie-wrapper #main-nav .comp-sub-menu .button,#tie-wrapper #main-nav .comp-sub-menu .button.guest-btn,.search-in-main-nav.autocomplete-suggestions{ border-color: #2d185e; }#tie-wrapper #main-nav .comp-sub-menu .button,#tie-wrapper #main-nav .comp-sub-menu .button.guest-btn{background-color: #2d185e;}#tie-wrapper #theme-header.main-nav-boxed #main-nav:not(.fixed-nav){background-color: transparent;}.main-nav-boxed.main-nav-light #main-nav .main-menu-wrapper{ border-width: 0;}.main-nav-boxed.main-nav-below.top-nav-below #main-nav .main-menu-wrapper{ border-bottom-width: 1px;}#tie-wrapper #main-nav .menu li.menu-item-has-children > a:before,#tie-wrapper #main-nav .main-menu .mega-menu > a:before{border-top-color: #ffffff;}#tie-wrapper #main-nav .menu li.menu-item-has-children .menu-item-has-children > a:before,#tie-wrapper #main-nav .main-menu .mega-menu .menu-item-has-children > a:before{border-top-color: transparent;border-left-color: #ffffff;}.rtl #tie-wrapper #main-nav .menu li.menu-item-has-children .menu-item-has-children > a:before,.rtl #tie-wrapper #main-nav .main-menu .mega-menu .menu-item-has-children > a:before{border-left-color: transparent;border-right-color: #ffffff;}#tie-wrapper #main-nav .menu > li > a,#tie-wrapper #main-nav .menu-sub-content a,#tie-wrapper #main-nav .comp-sub-menu a:not(:hover),#tie-wrapper #main-nav .dropdown-social-icons li a span,#tie-wrapper #main-nav .components a.button:hover,#tie-wrapper #main-nav .components > li > a,#tie-wrapper #main-nav .comp-sub-menu .button:hover,.search-in-main-nav.autocomplete-suggestions a:not(.button){color: #ffffff;}#tie-wrapper #main-nav .comp-sub-menu .button:hover,#tie-wrapper #main-nav .main-menu .menu > li.tie-current-menu,#tie-wrapper #main-nav .main-menu .menu > li > .sub-menu,#tie-wrapper #main-nav .main-menu .menu > li > .menu-sub-content,#theme-header #main-nav .menu .mega-cat-sub-categories.cats-horizontal li a.is-active,#theme-header #main-nav .menu .mega-cat-sub-categories.cats-horizontal li a:hover{border-color: #17141f;}#tie-wrapper #main-nav .main-menu .menu > li.tie-current-menu > a,#tie-wrapper #main-nav .main-menu .menu > li:hover > a,#tie-wrapper #main-nav .main-menu .menu > li > a:hover,#tie-wrapper #main-nav .main-menu ul li .mega-links-head:after,#tie-wrapper #theme-header #main-nav .comp-sub-menu .button:hover,#tie-wrapper #main-nav .comp-sub-menu .button.checkout-button,#theme-header #main-nav .menu .mega-cat-sub-categories.cats-horizontal li a.is-active,#theme-header #main-nav .menu .mega-cat-sub-categories.cats-horizontal li a:hover,.search-in-main-nav.autocomplete-suggestions a.button,#main-nav .spinner > div{background-color: #17141f;}#tie-wrapper #main-nav .components a:hover,#tie-wrapper #main-nav .components > li > a:hover,#tie-wrapper #main-nav .components > li:hover > a,#tie-wrapper #main-nav .components button#search-submit:hover,#tie-wrapper #main-nav .mega-cat-sub-categories.cats-vertical,#tie-wrapper #main-nav .cats-vertical li:hover a,#tie-wrapper #main-nav .cats-vertical li a.is-active,#tie-wrapper #main-nav .cats-vertical li a:hover,#tie-wrapper #main-nav .main-menu .mega-menu .post-meta a:hover,#tie-wrapper #main-nav .main-menu .menu .mega-cat-sub-categories.cats-vertical li a.is-active,#tie-wrapper #main-nav .main-menu .mega-menu .post-box-title a:hover,.search-in-main-nav.autocomplete-suggestions a:not(.button):hover,#tie-wrapper #main-nav .spinner-circle:after{color: #17141f;}#tie-wrapper #main-nav .main-menu .menu > li.tie-current-menu > a,#tie-wrapper #main-nav .main-menu .menu > li:hover > a,#tie-wrapper #main-nav .main-menu .menu > li > a:hover,#tie-wrapper #main-nav .components a.button:hover,#tie-wrapper #main-nav .comp-sub-menu a.button.checkout-button,#tie-wrapper #main-nav .components a.button.guest-btn:hover,#theme-header #main-nav .menu .mega-cat-sub-categories.cats-horizontal li a.is-active,#theme-header #main-nav .menu .mega-cat-sub-categories.cats-horizontal li a:hover,.search-in-main-nav.autocomplete-suggestions .widget-post-list a.button{color: #FFFFFF;}#tie-wrapper #main-nav .menu > li.tie-current-menu > a:before,#tie-wrapper #theme-header #main-nav .menu > li > a:hover:before,#tie-wrapper #theme-header #main-nav .menu > li:hover > a:before{border-top-color: #FFFFFF;}.search-in-main-nav.autocomplete-suggestions a.button:hover,#tie-wrapper #theme-header #main-nav .comp-sub-menu .button.checkout-button:hover{background-color: #000001;}#tie-wrapper #main-nav,#tie-wrapper #main-nav input,#tie-wrapper #main-nav .components button#search-submit,#tie-wrapper #main-nav .components button#search-submit .fa-spinner,#tie-wrapper #main-nav .comp-sub-menu,.search-in-main-nav.autocomplete-suggestions,#main-nav .weather-menu-item .tie-weather-widget{color: #ffffff;}#tie-wrapper #main-nav input::-moz-placeholder{color: #ffffff;}#tie-wrapper #main-nav input:-moz-placeholder{color: #ffffff;}#tie-wrapper #main-nav input:-ms-input-placeholder{color: #ffffff;}#tie-wrapper #main-nav input::-webkit-input-placeholder{color: #ffffff;}#tie-wrapper #main-nav .main-menu .mega-menu .post-meta,#tie-wrapper #main-nav .main-menu .mega-menu .post-meta a:not(:hover){color: rgba(255,255,255,0.6);}.search-in-main-nav.autocomplete-suggestions .post-meta,.search-in-main-nav.autocomplete-suggestions .post-meta a:not(:hover){color: rgba(255,255,255,0.7);}#tie-wrapper #theme-header{background-color: #4b367c;}#logo.text-logo a,#logo.text-logo a:hover{color: #FFFFFF;}@media (max-width: 991px){#tie-wrapper #theme-header .logo-container.fixed-nav{background-color: rgba(75,54,124,0.95);}}@media (max-width: 991px){#tie-wrapper #theme-header .logo-container{background-color: #4b367c;}}#footer{background-color: #17141f;background-image: url(https://jannah.tielabs.com/games/wp-content/uploads/sites/45/2018/02/footer-bg-1.jpg);background-size: cover; background-attachment: fixed;}#site-info{background-color: #17141f;}#footer .posts-list-counter .posts-list-items li:before{ border-color: #17141f;}#footer .timeline-widget .date:before{ border-color: rgba(23,20,31,0.8);}#footer-widgets-container .footer-boxed-widget-area,#footer-widgets-container textarea,#footer-widgets-container input:not([type=submit]),#footer-widgets-container select,#footer-widgets-container code,#footer-widgets-container kbd,#footer-widgets-container pre,#footer-widgets-container samp,#footer-widgets-container .latest-tweets-slider-widget .latest-tweets-slider .tie-slider-nav li a:not(:hover),#footer-widgets-container .show-more-button,#footer-widgets-container .latest-tweets-widget .slider-links .tie-slider-nav span,#footer .footer-boxed-widget-area{ border-color: rgba(255,255,255,0.1);}#footer.dark-skin .social-statistics-widget ul.white-bg li.social-icons-item a,#footer.dark-skin ul:not(.solid-social-icons) .social-icons-item a:not(:hover),#footer.dark-skin .widget_product_tag_cloud a,#footer.dark-skin .widget_tag_cloud .tagcloud a,#footer.dark-skin .post-tags a,#footer.dark-skin .widget_layered_nav_filters a{border-color: rgba(255,255,255,0.1) !important;}.dark-skin .social-statistics-widget ul.white-bg li.social-icons-item:before{ background: rgba(255,255,255,0.1);}#footer-widgets-container .widget-title,#footer.dark-skin .social-statistics-widget .white-bg .social-icons-item a span.followers span,.dark-skin .social-statistics-widget .circle-three-cols .social-icons-item a span{ color: rgba(255,255,255,0.8);}#footer-widgets-container .timeline-widget ul:before,#footer-widgets-container .timeline-widget .date:before,#footer.dark-skin .tabs-widget .tabs-wrapper .tabs-menu li a{ background-color: #000001;}#go-to-top{background: #733d91;}#go-to-top{color: #ffffff;}.tie-cat-7,.tie-cat-item-7 > span{background-color:#3498db !important;color:#FFFFFF !important;}.tie-cat-7:after{border-top-color:#3498db !important;}.tie-cat-7:hover{background-color:#167abd !important;}.tie-cat-7:hover:after{border-top-color:#167abd !important;}.tie-cat-4,.tie-cat-item-4 > span{background-color:#2ecc71 !important;color:#FFFFFF !important;}.tie-cat-4:after{border-top-color:#2ecc71 !important;}.tie-cat-4:hover{background-color:#10ae53 !important;}.tie-cat-4:hover:after{border-top-color:#10ae53 !important;}.tie-cat-5,.tie-cat-item-5 > span{background-color:#0088ff !important;color:#FFFFFF !important;}.tie-cat-5:after{border-top-color:#0088ff !important;}.tie-cat-5:hover{background-color:#006ae1 !important;}.tie-cat-5:hover:after{border-top-color:#006ae1 !important;}.tie-cat-1,.tie-cat-item-1 > span{background-color:#e74c3c !important;color:#FFFFFF !important;}.tie-cat-1:after{border-top-color:#e74c3c !important;}.tie-cat-1:hover{background-color:#c92e1e !important;}.tie-cat-1:hover:after{border-top-color:#c92e1e !important;}.tie-cat-8,.tie-cat-item-8 > span{background-color:#00aa91 !important;color:#FFFFFF !important;}.tie-cat-8:after{border-top-color:#00aa91 !important;}.tie-cat-8:hover{background-color:#008c73 !important;}.tie-cat-8:hover:after{border-top-color:#008c73 !important;}.tie-cat-9,.tie-cat-item-9 > span{background-color:#3369e7 !important;color:#FFFFFF !important;}.tie-cat-9:after{border-top-color:#3369e7 !important;}.tie-cat-9:hover{background-color:#154bc9 !important;}.tie-cat-9:hover:after{border-top-color:#154bc9 !important;}.tie-cat-6,.tie-cat-item-6 > span{background-color:#7ac143 !important;color:#FFFFFF !important;}.tie-cat-6:after{border-top-color:#7ac143 !important;}.tie-cat-6:hover{background-color:#5ca325 !important;}.tie-cat-6:hover:after{border-top-color:#5ca325 !important;}@media (min-width: 1200px){.container{width: auto;}}.boxed-layout #tie-wrapper,.boxed-layout .fixed-nav{max-width: 1180px;}@media (min-width: 1150px){.container,.wide-next-prev-slider-wrapper .slider-main-container{max-width: 1150px;}}#mobile-menu-icon .menu-text{color: #ffffff!important;}#mobile-menu-icon .nav-icon,#mobile-menu-icon .nav-icon:before,#mobile-menu-icon .nav-icon:after{background-color: #ffffff!important;}#tiepost-8-section-4438 .full-overlay-title li:not(.no-post-thumb) .block-title-overlay{background-color: #0a0a0a;}#tiepost-8-section-4438 .full-overlay-title li:not(.no-post-thumb) .block-title-overlay .post-meta,#tiepost-8-section-4438 .full-overlay-title li:not(.no-post-thumb) .block-title-overlay a:not(:hover){color: #FFFFFF;}#tiepost-8-section-4438 .full-overlay-title li:not(.no-post-thumb) .block-title-overlay .post-meta{opacity: 0.80;}#tiepost-8-section-3361 .section-title,#tiepost-8-section-3361 .section-title a{color: rgba(255,255,255,0.36);}#tiepost-8-section-3361 .section-title a:hover{color: #e1e1e1;}#tiepost-8-section-3361 .full-overlay-title li:not(.no-post-thumb) .block-title-overlay{background-color: #b4a996;}#tiepost-8-section-3361 .full-overlay-title li:not(.no-post-thumb) .block-title-overlay .post-meta,#tiepost-8-section-3361 .full-overlay-title li:not(.no-post-thumb) .block-title-overlay a:not(:hover){color: #FFFFFF;}#tiepost-8-section-3361 .full-overlay-title li:not(.no-post-thumb) .block-title-overlay .post-meta{opacity: 0.80;}#tie-block_1193 .mag-box-filter-links a.active,#tie-block_1193 .mag-box-filter-links .flexMenu-viewMore:hover > a,#tie-block_1193 .stars-rating-active,#tie-block_1193 .tabs.tabs .active > a,#tie-block_1193 .spinner-circle:after,#tie-block_1193 .video-play-icon,#tie-block_1193 .pages-nav li a:hover,#tie-block_1193 .show-more-button:hover,#tie-block_1193 .entry a,#tie-block_1193.woocommerce ins{color: #10a800;}#tie-block_1193 a:hover,#tie-block_1193 .entry a:hover{color: #008a00;}#tie-block_1193 .digital-rating-static strong,#tie-block_1193 .spinner > div,#tie-block_1193 .tie-slick-dots li.slick-active button,#tie-block_1193 .tie-slick-dots li button:hover,#tie-block_1193 li.current span,#tie-block_1193 .tie-slick-dots li.slick-active button#tie-block_1193 .tie-slick-dots li button:hover{background-color: #10a800;}#tie-block_1193 .mag-box-filter-links a:hover,#tie-block_1193 .slider-arrow-nav a:not(.pagination-disabled):hover,#tie-block_1193 .playlist-title,#tie-block_1193 .breaking-title:before,#tie-block_1193 .breaking-news-nav li:hover,#tie-block_1193 .post-cat,#tie-block_1193 .tie-slider-nav li > span:hover,#tie-block_1193 .button{background-color: #10a800;color: #FFFFFF;}#tie-block_1193 a.post-cat:hover,#tie-block_1193 .button:hover{background-color: #008a00;color: #FFFFFF;}#tie-block_1193 .entry a.button{ color: #FFFFFF;}#tie-block_1193 .circle_bar{ stroke: #10a800;}#tie-block_1193 .slider-arrow-nav a:not(.pagination-disabled):hover,#tie-block_1193 li.current span,#tie-block_1193 .breaking-news-nav li:hover{border-color: #10a800;}#tie-block_1193 .mag-box-title h3,#tie-block_1193 .mag-box-title h3 a{color: #FFFFFF;}#tie-block_1193 .mag-box-title h3:before{background-color: #10a800;}#tie-block_1193 .block-more-button{color: #10a800;}#tie-block_1193 .block-more-button:hover{color: #008a00;}#tie-block_1556 .mag-box-filter-links a.active,#tie-block_1556 .mag-box-filter-links .flexMenu-viewMore:hover > a,#tie-block_1556 .stars-rating-active,#tie-block_1556 .tabs.tabs .active > a,#tie-block_1556 .spinner-circle:after,#tie-block_1556 .video-play-icon,#tie-block_1556 .pages-nav li a:hover,#tie-block_1556 .show-more-button:hover,#tie-block_1556 .entry a,#tie-block_1556.woocommerce ins{color: #249be5;}#tie-block_1556 a:hover,#tie-block_1556 .entry a:hover{color: #067dc7;}#tie-block_1556 .digital-rating-static strong,#tie-block_1556 .spinner > div,#tie-block_1556 .tie-slick-dots li.slick-active button,#tie-block_1556 .tie-slick-dots li button:hover,#tie-block_1556 li.current span,#tie-block_1556 .tie-slick-dots li.slick-active button#tie-block_1556 .tie-slick-dots li button:hover{background-color: #249be5;}#tie-block_1556 .mag-box-filter-links a:hover,#tie-block_1556 .slider-arrow-nav a:not(.pagination-disabled):hover,#tie-block_1556 .playlist-title,#tie-block_1556 .breaking-title:before,#tie-block_1556 .breaking-news-nav li:hover,#tie-block_1556 .post-cat,#tie-block_1556 .tie-slider-nav li > span:hover,#tie-block_1556 .button{background-color: #249be5;color: #FFFFFF;}#tie-block_1556 a.post-cat:hover,#tie-block_1556 .button:hover{background-color: #067dc7;color: #FFFFFF;}#tie-block_1556 .entry a.button{ color: #FFFFFF;}#tie-block_1556 .circle_bar{ stroke: #249be5;}#tie-block_1556 .slider-arrow-nav a:not(.pagination-disabled):hover,#tie-block_1556 li.current span,#tie-block_1556 .breaking-news-nav li:hover{border-color: #249be5;}#tie-block_1556 .mag-box-title h3,#tie-block_1556 .mag-box-title h3 a{color: #FFFFFF;}#tie-block_1556 .mag-box-title h3:before{background-color: #249be5;}#tie-block_1556 .block-more-button{color: #249be5;}#tie-block_1556 .block-more-button:hover{color: #067dc7;}#tiepost-8-section-8048 .full-overlay-title li:not(.no-post-thumb) .block-title-overlay{background-color: #191919;}#tiepost-8-section-8048 .full-overlay-title li:not(.no-post-thumb) .block-title-overlay .post-meta,#tiepost-8-section-8048 .full-overlay-title li:not(.no-post-thumb) .block-title-overlay a:not(:hover){color: #FFFFFF;}#tiepost-8-section-8048 .full-overlay-title li:not(.no-post-thumb) .block-title-overlay .post-meta{opacity: 0.80;}
+</style>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var tie = {"is_rtl":"","ajaxurl":"https:\/\/jannah.tielabs.com\/games\/wp-admin\/admin-ajax.php","mobile_menu_active":"true","mobile_menu_top":"","mobile_menu_parent":"","lightbox_all":"true","lightbox_gallery":"true","lightbox_skin":"dark","lightbox_thumb":"horizontal","lightbox_arrows":"true","is_singular":"1","is_sticky_video":"","reading_indicator":"true","lazyload":"true","select_share":"true","select_share_twitter":"true","select_share_facebook":"true","select_share_linkedin":"true","select_share_email":"","facebook_app_id":"1050426888323267","twitter_username":"","responsive_tables":"true","ad_blocker_detector":"","sticky_behavior":"default","sticky_desktop":"true","sticky_mobile":"true","ajax_loader":"<div class=\"loader-overlay\"><div class=\"spinner-circle\"><\/div><\/div>","type_to_search":"1","lang_no_results":"Nothing Found"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://jannah.tielabs.com/games/wp-includes/js/jquery/jquery.js'></script>
+<script type='text/javascript' src='https://jannah.tielabs.com/games/wp-includes/js/jquery/jquery-migrate.min.js'></script>
+<link rel='https://api.w.org/' href='https://jannah.tielabs.com/games/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://jannah.tielabs.com/games/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://jannah.tielabs.com/games/wp-includes/wlwmanifest.xml" />
+<meta name="generator" content="WordPress 4.9.7" />
+<meta name="generator" content="WooCommerce 3.3.5" />
+<link rel="canonical" href="https://jannah.tielabs.com/games/" />
+<link rel='shortlink' href='https://jannah.tielabs.com/games/' />
+<link rel="alternate" type="application/json+oembed" href="https://jannah.tielabs.com/games/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fjannah.tielabs.com%2Fgames%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://jannah.tielabs.com/games/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fjannah.tielabs.com%2Fgames%2F&#038;format=xml" />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var taqyeem = {"ajaxurl":"https://jannah.tielabs.com/games/wp-admin/admin-ajax.php" , "your_rating":"Your Rating:"};
+/* ]]> */
+</script>
+<style type="text/css" media="screen">
+
+</style>
+<meta name="generator" content="Jannah 2.1.4" />
+<meta name="theme-color" content="#733d91" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /> <noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+<script>
+						WebFontConfig ={
+							google:{
+								families: ['Play:regular,500,600,700:latin']
+							}
+						};
+						(function(){
+							var wf   = document.createElement('script');
+							wf.src   = '//ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+							wf.type  = 'text/javascript';
+							wf.async = 'true';
+							var s = document.getElementsByTagName('script')[0];
+							s.parentNode.insertBefore(wf, s);
+						})();
+					</script>
+<link rel="icon" href="https://jannah.tielabs.com/games/wp-content/uploads/sites/45/2018/02/cropped-games-fav-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://jannah.tielabs.com/games/wp-content/uploads/sites/45/2018/02/cropped-games-fav-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://jannah.tielabs.com/games/wp-content/uploads/sites/45/2018/02/cropped-games-fav-180x180.png" />
+<meta name="msapplication-TileImage" content="https://jannah.tielabs.com/games/wp-content/uploads/sites/45/2018/02/cropped-games-fav-270x270.png" />
+</head>
+<body id="tie-body" class="home page-template-default page page-id-8 boxed-layout framed-layout wrapper-has-shadow block-head-4 magazine2 is-lazyload is-thumb-overlay-disabled is-desktop is-header-layout-1 has-builder">
+<div class="background-overlay">
+<div id="tie-container" class="site tie-container">
+<div id="tie-wrapper">
+<header id="theme-header" class="header-layout-1 main-nav-dark main-nav-below mobile-header-default">
+<div class="main-nav-wrapper">
+<nav id="main-nav" data-skin="search-in-main-nav live-search-dark" class=" live-search-parent" style="line-height:96px" aria-label="Primary Navigation">
+<div class="container">
+<div class="main-menu-wrapper">
+<div class="header-layout-1-logo  has-line-height" style="width:145px">
+<a href="#" id="mobile-menu-icon"><span class="nav-icon"></span></a>
+<div id="logo" class="image-logo">
+<a title="Jannah Games" href="https://jannah.tielabs.com/games/">
+<img src="https://jannah.tielabs.com/games/wp-content/uploads/sites/45/2017/11/jannah-games-logo.png" alt="Jannah Games" class="logo_normal" width="145" height="56" style="max-height:56px; width: auto;">
+<img src="https://jannah.tielabs.com/games/wp-content/uploads/sites/45/2017/11/jannah-games-logo@2x.png" alt="Jannah Games" class="logo_2x" width="145" height="56" style="max-height:56px; width: auto;">
+<h1 class="h1-off">Jannah Games</h1> </a>
+</div>
+</div>
+<div id="menu-components-wrap">
+<div id="sticky-logo" class="image-logo">
+<a title="Jannah Games" href="https://jannah.tielabs.com/games/">
+<img src="https://jannah.tielabs.com/games/wp-content/uploads/sites/45/2017/11/jannah-games-logo.png" alt="Jannah Games" class="logo_normal">
+<img src="https://jannah.tielabs.com/games/wp-content/uploads/sites/45/2017/11/jannah-games-logo@2x.png" alt="Jannah Games" class="logo_2x">
+</a>
+</div>
+<div class="flex-placeholder"></div>
+<div class="main-menu main-menu-wrap tie-alignleft">
+<div id="main-nav-menu" class="main-menu"><ul id="menu-main-mneu" class="menu" role="menubar"><li id="menu-item-82" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-82 mega-menu mega-cat " data-id="1"><a href="https://jannah.tielabs.com/games/category/reviews-2/">Reviews</a>
+<div class="mega-menu-block menu-sub-content">
+<div class="mega-menu-content">
+<div class="mega-cat-wrapper">
+<div class="mega-cat-content vertical-posts">
+<div class="mega-ajax-content mega-cat-posts-container clearfix">
+</div>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li id="menu-item-61" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-61 mega-menu mega-cat " data-id="4"><a href="https://jannah.tielabs.com/games/category/pc/">PC</a>
+<div class="mega-menu-block menu-sub-content">
+<div class="mega-menu-content">
+<div class="mega-cat-wrapper">
+<div class="mega-cat-content horizontal-posts">
+<div class="mega-ajax-content mega-cat-posts-container clearfix">
+</div>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li id="menu-item-62" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-62 mega-menu mega-cat " data-id="5"><a href="https://jannah.tielabs.com/games/category/ps4/">PS4</a>
+<div class="mega-menu-block menu-sub-content">
+<div class="mega-menu-content">
+<div class="mega-cat-wrapper">
+<div class="mega-cat-content horizontal-posts">
+<div class="mega-ajax-content mega-cat-posts-container clearfix">
+</div>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li id="menu-item-67" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-67 mega-menu mega-cat " data-id="6"><a href="https://jannah.tielabs.com/games/category/xbox-one/">Xbox One</a>
+<div class="mega-menu-block menu-sub-content">
+<div class="mega-menu-content">
+<div class="mega-cat-wrapper">
+<div class="mega-cat-content vertical-posts">
+<div class="mega-ajax-content mega-cat-posts-container clearfix">
+</div>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li id="menu-item-60" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-60 mega-menu mega-cat " data-id="7"><a href="https://jannah.tielabs.com/games/category/news/">News</a>
+<div class="mega-menu-block menu-sub-content">
+<div class="mega-menu-content">
+<div class="mega-cat-wrapper">
+<div class="mega-cat-content vertical-posts">
+<div class="mega-ajax-content mega-cat-posts-container clearfix">
+</div>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li id="menu-item-66" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-66 menu-item-has-icon mega-menu mega-cat " data-id="9"><a href="https://jannah.tielabs.com/games/category/videos/"> <span aria-hidden="true" class="fa fa-youtube-play"></span> Videos</a>
+<div class="mega-menu-block menu-sub-content">
+<div class="mega-menu-content media-overlay">
+<div class="mega-cat-wrapper">
+<div class="mega-cat-content horizontal-posts">
+<div class="mega-ajax-content mega-cat-posts-container clearfix">
+</div>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li id="menu-item-76" class="menu-item menu-item-type-post_type_archive menu-item-object-forum menu-item-has-children menu-item-76 menu-item-has-icon" aria-haspopup="true" aria-expanded="false" tabindex="0"><a href="https://jannah.tielabs.com/games/forums/"> <span aria-hidden="true" class="fa fa-comments"></span> Forums</a>
+<ul class="sub-menu menu-sub-content">
+<li id="menu-item-4052" class="menu-item menu-item-type-post_type menu-item-object-forum menu-item-4052"><a href="https://jannah.tielabs.com/games/forums/forum/test-forum-forum-with-nested-forums/">Games Discussion</a></li>
+<li id="menu-item-4053" class="menu-item menu-item-type-post_type menu-item-object-forum menu-item-4053"><a href="https://jannah.tielabs.com/games/forums/forum/test-forum-forum-with-one-topic-with-loads-of-replies-for-reply-pagination/">PlayStation Nation</a></li>
+<li id="menu-item-4054" class="menu-item menu-item-type-post_type menu-item-object-forum menu-item-4054"><a href="https://jannah.tielabs.com/games/forums/forum/faq/">Off-Topic Discussion</a></li>
+<li id="menu-item-4055" class="menu-item menu-item-type-post_type menu-item-object-forum menu-item-4055"><a href="https://jannah.tielabs.com/games/forums/forum/off-topic/">System Wars</a></li>
+<li id="menu-item-4056" class="menu-item menu-item-type-post_type menu-item-object-forum menu-item-4056"><a href="https://jannah.tielabs.com/games/forums/forum/general/">Xbox Association</a></li>
+</ul>
+</li>
+<li id="menu-item-338" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-338 menu-item-has-icon"><a href="https://jannah.tielabs.com/games/shop/"> <span aria-hidden="true" class="fa fa-shopping-cart"></span> Shop</a></li>
+<li id="menu-item-68" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-68 menu-item-has-icon is-icon-only mega-menu mega-links mega-links-5col " aria-haspopup="true" aria-expanded="false" tabindex="0"><a href="#"> <span aria-hidden="true" class="fa fa-ellipsis-h"></span> <span class="screen-reader-text">More</span></a>
+<div class="mega-menu-block menu-sub-content" style=" background-image: url(https://jannah.tielabs.com/games/wp-content/uploads/sites/45/2017/11/mega-bg-big.jpg) ; background-position: top right ; background-repeat: no-repeat ;  padding-right : 200px; ">
+<ul class="sub-menu-columns">
+<li id="menu-item-175" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-175 mega-link-column  hide-mega-headings" aria-haspopup="true" aria-expanded="false" tabindex="0"><a class="mega-links-head" href="http://#">heading 1</a>
+<ul class="sub-menu-columns-item">
+<li id="menu-item-69" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-69"><a href="#"> <span aria-hidden="true" class="mega-links-default-icon"></span>WII U</a></li>
+<li id="menu-item-74" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-74"><a href="#"> <span aria-hidden="true" class="mega-links-default-icon"></span>GAMETECH</a></li>
+<li id="menu-item-70" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-70"><a href="#"> <span aria-hidden="true" class="mega-links-default-icon"></span>PS3</a></li>
+<li id="menu-item-71" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-71"><a href="#"> <span aria-hidden="true" class="mega-links-default-icon"></span>VITA</a></li>
+<li id="menu-item-73" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-73"><a href="#"> <span aria-hidden="true" class="mega-links-default-icon"></span>3DS</a></li>
+</ul>
+</li>
+<li id="menu-item-176" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-176 mega-link-column  hide-mega-headings" aria-haspopup="true" aria-expanded="false" tabindex="0"><a class="mega-links-head" href="http://#">heading 2</a>
+<ul class="sub-menu-columns-item">
+<li id="menu-item-180" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-180"><a href="#"> <span aria-hidden="true" class="mega-links-default-icon"></span>Reboot</a></li>
+<li id="menu-item-181" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-181"><a href="#"> <span aria-hidden="true" class="mega-links-default-icon"></span>GameSpot News</a></li>
+<li id="menu-item-182" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-182"><a href="#"> <span aria-hidden="true" class="mega-links-default-icon"></span>The Lobby</a></li>
+<li id="menu-item-183" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-183"><a href="#"> <span aria-hidden="true" class="mega-links-default-icon"></span>New Releases</a></li>
+<li id="menu-item-184" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-184"><a href="#"> <span aria-hidden="true" class="mega-links-default-icon"></span>GameSpot Live</a></li>
+</ul>
+</li>
+<li id="menu-item-177" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-177 mega-link-column  hide-mega-headings" aria-haspopup="true" aria-expanded="false" tabindex="0"><a class="mega-links-head" href="http://#">heading 3</a>
+<ul class="sub-menu-columns-item">
+<li id="menu-item-185" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-185"><a href="#"> <span aria-hidden="true" class="mega-links-default-icon"></span>Screen/Play</a></li>
+<li id="menu-item-186" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-186"><a href="#"> <span aria-hidden="true" class="mega-links-default-icon"></span>Let&#8217;s Play</a></li>
+<li id="menu-item-187" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-187"><a href="#"> <span aria-hidden="true" class="mega-links-default-icon"></span>Now Playing</a></li>
+<li id="menu-item-188" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-188"><a href="#"> <span aria-hidden="true" class="mega-links-default-icon"></span>Reality Check</a></li>
+<li id="menu-item-189" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-189"><a href="#"> <span aria-hidden="true" class="mega-links-default-icon"></span>In 2 Minutes</a></li>
+</ul>
+</li>
+<li id="menu-item-178" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-178 mega-link-column  hide-mega-headings" aria-haspopup="true" aria-expanded="false" tabindex="0"><a class="mega-links-head" href="http://#">heading 4</a>
+<ul class="sub-menu-columns-item">
+<li id="menu-item-190" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-190"><a href="#"> <span aria-hidden="true" class="mega-links-default-icon"></span>In 2 Minutes</a></li>
+<li id="menu-item-191" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-191"><a href="#"> <span aria-hidden="true" class="mega-links-default-icon"></span>The Gist</a></li>
+<li id="menu-item-192" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-192"><a href="#"> <span aria-hidden="true" class="mega-links-default-icon"></span>The Point</a></li>
+<li id="menu-item-72" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-72"><a href="#"> <span aria-hidden="true" class="mega-links-default-icon"></span>Xbox 360</a></li>
+</ul>
+</li>
+<li id="menu-item-179" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-179 mega-link-column  hide-mega-headings"><a class="mega-links-head" href="#!">heading 5</a></li>
+</ul>
+</div>
+</li>
+</ul></div> </div>
+<ul class="components"> <li class="search-compact-icon menu-item custom-menu-link">
+<a href="#" data-type="modal-trigger" class="tie-search-trigger">
+<span class="fa fa-search" aria-hidden="true"></span>
+<span class="screen-reader-text">Search for</span>
+</a>
+<span class="cd-modal-bg"></span>
+</li>
+<li class="shopping-cart-icon menu-item custom-menu-link">
+<a href="https://jannah.tielabs.com/games/cart/" title="View your shopping cart">
+<span class="shooping-cart-counter menu-counter-bubble-outer">
+</span>
+<span class="fa fa-shopping-bag" aria-hidden="true"></span>
+<span class="screen-reader-text">View your shopping cart</span>
+</a>
+<div class="components-sub-menu comp-sub-menu">
+<div class="shopping-cart-details">
+<div class="shopping-cart-details">
+<div class="cart-empty-message">
+Your cart is currently empty. </div>
+<a href="https://jannah.tielabs.com/games/shop/" class="checkout-button button">Go to the shop</a>
+</div>
+</div>
+</div>
+</li>
+<li class="list-social-icons menu-item custom-menu-link">
+<a href="#" class="follow-btn">
+<span class="fa fa-plus" aria-hidden="true"></span>
+<span class="follow-text">Follow</span>
+</a>
+<ul class="dropdown-social-icons comp-sub-menu"><li class="social-icons-item"><a class="social-link  facebook-social-icon" title="Facebook" rel="nofollow" target="_blank" href="#!"><span class="fa fa-facebook"></span><span class="social-text">Facebook</span></a></li><li class="social-icons-item"><a class="social-link  twitter-social-icon" title="Twitter" rel="nofollow" target="_blank" href="#!"><span class="fa fa-twitter"></span><span class="social-text">Twitter</span></a></li><li class="social-icons-item"><a class="social-link  youtube-social-icon" title="YouTube" rel="nofollow" target="_blank" href="#!"><span class="fa fa-youtube"></span><span class="social-text">YouTube</span></a></li><li class="social-icons-item"><a class="social-link  instagram-social-icon" title="Instagram" rel="nofollow" target="_blank" href="#!"><span class="fa fa-instagram"></span><span class="social-text">Instagram</span></a></li><li class="social-icons-item"><a class="social-link  twitch-social-icon" title="Twitch" rel="nofollow" target="_blank" href="#"><span class="fa fa-twitch"></span><span class="social-text">Twitch</span></a></li></ul> </li>
+</ul>
+</div>
+</div>
+</div>
+</nav>
+</div>
+</header>
+<div id="tiepost-8-section-4438" class="section-wrapper container-full has-background">
+<div class="section-item is-first-section full-width first-block-is-full-width dark-skin" style="background-color: #0a0a0a; background-size: cover;">
+<section id="tie-block_3354" class="slider-area mag-box media-overlay">
+<div id="tie-main-slider-1-block_3354" class="tie-main-slider main-slider fullwidth-slider-wrapper wide-slider-wrapper tie-slick-slider-wrapper" data-slider-id="1" data-speed="3000">
+<div class="main-slider-inner">
+<div class="container slider-main-container">
+<div class="tie-slick-slider">
+<ul class="tie-slider-nav"></ul>
+<div class="slide lazy-bg slide-id-9 tie-slide-1 is-trending tie-video"><img data-lazy="https://jannah.tielabs.com/games/wp-content/uploads/sites/45/2017/09/captain_cold-injustice_2-game-1625-1170x610.jpg" src="https://jannah.tielabs.com/games/wp-content/themes/jannah/assets/images/tie-empty.png" width="2000" height="2000" alt=""><div class="slide-bg"></div>
+<a href="https://jannah.tielabs.com/games/2017/05/13/captain-cold-injustice-2-game-review/" class="all-over-thumb-link"></a>
+<div class="thumb-overlay">
+<span class="icon"></span>
+<div class="digital-rating">
+<div data-score="7.5" data-pct="75.166666666667" class="pie-wrap">
+<svg width="40" height="40" class="pie-svg">
+<circle r="19" cx="20" cy="20" fill="transparent" stroke-dasharray="119.38" stroke-dashoffset="0" class="circle_base"></circle>
+<circle r="19" cx="20" cy="20" fill="transparent" stroke-dasharray="119.38" stroke-dashoffset="0" class="circle_bar"></circle>
+</svg>
+</div>
+</div>
+<div class="container"><div class="thumb-content"><h5 class="post-cat-wrap"><a class="post-cat tie-cat-1" href="https://jannah.tielabs.com/games/category/reviews-2/">Reviews</a></h5><div class="thumb-meta"><span class="trending-post fa fa-bolt " aria-hidden="true"></span><span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>May 13, 2017</span></span></div>
+<h2 class="thumb-title"><a href="https://jannah.tielabs.com/games/2017/05/13/captain-cold-injustice-2-game-review/" title="Captain Cold Injustice 2 Game Review">Captain Cold Injustice 2 Game Review</a></h2>
+</div> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<div class="container">
+<div class="tie-row main-content-row">
+<div class="main-content tie-col-md-12">
+<section id="tie-block_2343" class="slider-area mag-box media-overlay">
+<div id="tie-main-slider-7-block_2343" class="tie-main-slider main-slider boxed-four-taller-slider boxed-slider tie-slick-slider-wrapper" data-slider-id="7" data-speed="3000">
+<div class="loader-overlay"><div class="spinner-circle"></div></div>
+<div class="main-slider-inner">
+<ul class="tie-slider-nav"></ul>
+<div class="containerblock_2343">
+<div class="tie-slick-slider">
+<div class="slide lazy-bg slide-id-39 tie-slide-1 tie-video"><img data-lazy="https://jannah.tielabs.com/games/wp-content/uploads/sites/45/2017/09/dead_alliance-shooter-game-2-780x500.jpg" src="https://jannah.tielabs.com/games/wp-content/themes/jannah/assets/images/tie-empty.png" width="2000" height="2000" alt=""><div class="slide-bg"></div>
+<a href="https://jannah.tielabs.com/games/2017/03/13/dead-alliance-shooter-game-review/" class="all-over-thumb-link"></a>
+<div class="thumb-overlay">
+<span class="icon"></span>
+<h5 class="post-cat-wrap"><a class="post-cat tie-cat-1" href="https://jannah.tielabs.com/games/category/reviews-2/">Reviews</a></h5>
+<div class="digital-rating">
+<div data-score="9.3" data-pct="92.666666666667" class="pie-wrap">
+<svg width="40" height="40" class="pie-svg">
+<circle r="19" cx="20" cy="20" fill="transparent" stroke-dasharray="119.38" stroke-dashoffset="0" class="circle_base"></circle>
+<circle r="19" cx="20" cy="20" fill="transparent" stroke-dasharray="119.38" stroke-dashoffset="0" class="circle_bar"></circle>
+</svg>
+</div>
+</div>
+<div class="thumb-content"><div class="thumb-meta"><span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>Mar 13, 2017</span></span></div>
+<h2 class="thumb-title"><a href="https://jannah.tielabs.com/games/2017/03/13/dead-alliance-shooter-game-review/" title="Dead Alliance Shooter Game Review">Dead Alliance Shooter Game Review</a></h2>
+<div class="thumb-desc">Teleportation is also what VFR uses to replace the gory melee kills in Doom: once you stagger and enemy by&hellip;</div></div> 
+</div>
+</div>
+<div class="slide lazy-bg slide-id-36 tie-slide-2 tie-video"><img data-lazy="https://jannah.tielabs.com/games/wp-content/uploads/sites/45/2017/09/far_cry_5-car-chase-2102-780x500.jpg" src="https://jannah.tielabs.com/games/wp-content/themes/jannah/assets/images/tie-empty.png" width="2000" height="2000" alt=""><div class="slide-bg"></div>
+<a href="https://jannah.tielabs.com/games/2017/09/13/far-cry-5-car-chase-review/" class="all-over-thumb-link"></a>
+<div class="thumb-overlay">
+<span class="icon"></span>
+<h5 class="post-cat-wrap"><a class="post-cat tie-cat-1" href="https://jannah.tielabs.com/games/category/reviews-2/">Reviews</a></h5>
+<div class="digital-rating">
+<div data-score="9.2" data-pct="91.666666666667" class="pie-wrap">
+<svg width="40" height="40" class="pie-svg">
+<circle r="19" cx="20" cy="20" fill="transparent" stroke-dasharray="119.38" stroke-dashoffset="0" class="circle_base"></circle>
+<circle r="19" cx="20" cy="20" fill="transparent" stroke-dasharray="119.38" stroke-dashoffset="0" class="circle_bar"></circle>
+</svg>
+</div>
+</div>
+<div class="thumb-content"><div class="thumb-meta"><span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>Sep 13, 2017</span></span></div>
+<h2 class="thumb-title"><a href="https://jannah.tielabs.com/games/2017/09/13/far-cry-5-car-chase-review/" title="Far Cry 5 Car Chase Review">Far Cry 5 Car Chase Review</a></h2>
+<div class="thumb-desc">Metroid is a Nintendo institution, one that dates almost as far back as the company&#8217;s console business. The series includes phenomenal&hellip;</div></div> 
+</div>
+</div>
+<div class="slide lazy-bg slide-id-41 tie-slide-3 is-trending tie-video"><img data-lazy="https://jannah.tielabs.com/games/wp-content/uploads/sites/45/2017/09/crunch-paragon-game-911-780x500.jpg" src="https://jannah.tielabs.com/games/wp-content/themes/jannah/assets/images/tie-empty.png" width="2000" height="2000" alt=""><div class="slide-bg"></div>
+<a href="https://jannah.tielabs.com/games/2017/05/13/crunch-paragon-game-review/" class="all-over-thumb-link"></a>
+<div class="thumb-overlay">
+<span class="icon"></span>
+<h5 class="post-cat-wrap"><a class="post-cat tie-cat-1" href="https://jannah.tielabs.com/games/category/reviews-2/">Reviews</a></h5>
+<div class="digital-rating">
+<div data-score="9" data-pct="89.666666666667" class="pie-wrap">
+<svg width="40" height="40" class="pie-svg">
+<circle r="19" cx="20" cy="20" fill="transparent" stroke-dasharray="119.38" stroke-dashoffset="0" class="circle_base"></circle>
+<circle r="19" cx="20" cy="20" fill="transparent" stroke-dasharray="119.38" stroke-dashoffset="0" class="circle_bar"></circle>
+</svg>
+</div>
+</div>
+<div class="thumb-content"><div class="thumb-meta"><span class="trending-post fa fa-bolt " aria-hidden="true"></span><span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>May 13, 2017</span></span></div>
+<h2 class="thumb-title"><a href="https://jannah.tielabs.com/games/2017/05/13/crunch-paragon-game-review/" title="Crunch Paragon Game Review">Crunch Paragon Game Review</a></h2>
+<div class="thumb-desc">Metroid is a Nintendo institution, one that dates almost as far back as the company&#8217;s console business. The series includes phenomenal&hellip;</div></div> 
+</div>
+</div>
+<div class="slide lazy-bg slide-id-40 tie-slide-4 tie-video"><img data-lazy="https://jannah.tielabs.com/games/wp-content/uploads/sites/45/2017/09/dark_souls_3-nameless_king-boss-13614-780x500.jpg" src="https://jannah.tielabs.com/games/wp-content/themes/jannah/assets/images/tie-empty.png" width="2000" height="2000" alt=""><div class="slide-bg"></div>
+<a href="https://jannah.tielabs.com/games/2017/04/13/dark-souls-3-nameless-king-boss-review/" class="all-over-thumb-link"></a>
+<div class="thumb-overlay">
+<span class="icon"></span>
+<h5 class="post-cat-wrap"><a class="post-cat tie-cat-1" href="https://jannah.tielabs.com/games/category/reviews-2/">Reviews</a></h5>
+<div class="digital-rating">
+<div data-score="8.3" data-pct="82.5" class="pie-wrap">
+<svg width="40" height="40" class="pie-svg">
+<circle r="19" cx="20" cy="20" fill="transparent" stroke-dasharray="119.38" stroke-dashoffset="0" class="circle_base"></circle>
+<circle r="19" cx="20" cy="20" fill="transparent" stroke-dasharray="119.38" stroke-dashoffset="0" class="circle_bar"></circle>
+</svg>
+</div>
+</div>
+<div class="thumb-content"><div class="thumb-meta"><span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>Apr 13, 2017</span></span></div>
+<h2 class="thumb-title"><a href="https://jannah.tielabs.com/games/2017/04/13/dark-souls-3-nameless-king-boss-review/" title="Dark Souls 3 Nameless King Boss Review">Dark Souls 3 Nameless King Boss Review</a></h2>
+<div class="thumb-desc">Why it took Nintendo so long to get to this point is anyone&#8217;s guess, but Samus Returns is so good&hellip;</div></div> 
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+</div> </div>
+</div>
+<div id="tiepost-8-section-1755" class="section-wrapper container-full has-background has-title">
+<div class="section-item full-width dark-skin" style="background-size: cover;">
+<div class="container"><h2 class="section-title section-title-big"><span class="the-section-title">Live From Twitch</span></h2></div>
+<div class="container">
+<div class="tie-row main-content-row">
+<div class="main-content tie-col-md-12">
+<div id="tie-block_1071" class="mag-box block-custom-content">
+<div class="container-wrapper">
+<div class="mag-box-container clearfix">
+<div class="entry"><p><iframe src="https://player.twitch.tv/?channel=riotgames" width="1280" height="720" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"><br />
+</iframe></p>
+</div>
+<div class="clearfix"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div> </div>
+</div>
+<div id="tiepost-8-section-3361" class="section-wrapper container-full has-background has-title">
+<div class="section-item full-width tie-parallax" style="background-color: #b4a996; background-image: url( https://jannah.tielabs.com/games/wp-content/uploads/sites/45/2017/09/secion-bg-2.jpg);" data-type='scroll'>
+<div class="container"><h2 class="section-title section-title-big"><span class="the-section-title">What's Rising </span></h2></div>
+<div class="container">
+<div class="tie-row main-content-row">
+<div class="main-content tie-col-md-12">
+<section id="tie-block_557" class="slider-area mag-box media-overlay">
+<div id="tie-main-slider-15-block_557" class="tie-main-slider main-slider grid-6-slides boxed-slider grid-slider-wrapper tie-slick-slider-wrapper" data-slider-id="15" data-speed="3000">
+<div class="main-slider-inner">
+<div class="containerblock_557">
+<div class="tie-slick-slider">
+<ul class="tie-slider-nav"></ul><div class="slide"><div class="grid-item lazy-bg slide-id-89 tie-slide-1 tie-standard"><img data-lazy="https://jannah.tielabs.com/games/wp-content/uploads/sites/45/2017/09/machine-horizon_zero_dawn-game1186-780x500.jpg" src="https://jannah.tielabs.com/games/wp-content/themes/jannah/assets/images/tie-empty.png" width="2000" height="2000" alt=""><div class="slide-bg"></div>
+<a href="https://jannah.tielabs.com/games/2017/04/14/overwatch-addressing-rising-tide-of-toxicity-in-the-game-heres-how-2/" class="all-over-thumb-link"></a>
+<div class="thumb-overlay">
+<span class="icon"></span>
+<h5 class="post-cat-wrap"><a class="post-cat tie-cat-7" href="https://jannah.tielabs.com/games/category/news/">News</a></h5><div class="thumb-content"><div class="thumb-meta"><span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>Apr 14, 2017</span></span></div>
+<h2 class="thumb-title"><a href="https://jannah.tielabs.com/games/2017/04/14/overwatch-addressing-rising-tide-of-toxicity-in-the-game-heres-how-2/" title="Overwatch Addressing &#8220;Rising Tide Of Toxicity&#8221; In The Game, Here&#8217;s How">Overwatch Addressing &#8220;Rising Tide Of Toxicity&#8221; In The Game, Here&#8217;s How</a></h2>
+<div class="thumb-desc">Using those two types of movement together to stay one step ahead of the horde takes some getting used to,&hellip;</div></div> 
+</div>
+</div>
+<div class="grid-item lazy-bg slide-id-84 tie-slide-2 tie-standard"><img data-lazy="https://jannah.tielabs.com/games/wp-content/uploads/sites/45/2017/09/feng_mao-paragon-game-fantasy-f33-780x500.jpg" src="https://jannah.tielabs.com/games/wp-content/themes/jannah/assets/images/tie-empty.png" width="2000" height="2000" alt=""><div class="slide-bg"></div>
+<a href="https://jannah.tielabs.com/games/2017/07/14/destiny-2s-first-raid-beaten-see-who-did-it-and-how/" class="all-over-thumb-link"></a>
+<div class="thumb-overlay">
+<span class="icon"></span>
+<h5 class="post-cat-wrap"><a class="post-cat tie-cat-7" href="https://jannah.tielabs.com/games/category/news/">News</a></h5><div class="thumb-content"><div class="thumb-meta"><span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>Jul 14, 2017</span></span></div>
+<h2 class="thumb-title"><a href="https://jannah.tielabs.com/games/2017/07/14/destiny-2s-first-raid-beaten-see-who-did-it-and-how/" title="Destiny 2&#8217;s First Raid Beaten, See Who Did It And How">Destiny 2&#8217;s First Raid Beaten, See Who Did It And How</a></h2>
+<div class="thumb-desc">Metroid is a Nintendo institution, one that dates almost as far back as the company&#8217;s console business. The series includes phenomenal&hellip;</div></div> 
+</div>
+</div>
+<div class="grid-item lazy-bg slide-id-94 tie-slide-3 tie-standard"><img data-lazy="https://jannah.tielabs.com/games/wp-content/uploads/sites/45/2017/09/gas_mask-soldiers-battlefield_1-13026-780x500.jpg" src="https://jannah.tielabs.com/games/wp-content/themes/jannah/assets/images/tie-empty.png" width="2000" height="2000" alt=""><div class="slide-bg"></div>
+<a href="https://jannah.tielabs.com/games/2017/09/14/nintendo-direct-switch3ds-all-the-news-videos-and-more/" class="all-over-thumb-link"></a>
+<div class="thumb-overlay">
+<span class="icon"></span>
+<h5 class="post-cat-wrap"><a class="post-cat tie-cat-7" href="https://jannah.tielabs.com/games/category/news/">News</a></h5><div class="thumb-content"><div class="thumb-meta"><span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>Sep 14, 2017</span></span></div>
+<h2 class="thumb-title"><a href="https://jannah.tielabs.com/games/2017/09/14/nintendo-direct-switch3ds-all-the-news-videos-and-more/" title="Nintendo Direct Switch/3DS: All The News, Videos, And More">Nintendo Direct Switch/3DS: All The News, Videos, And More</a></h2>
+<div class="thumb-desc">Teleportation is also what VFR uses to replace the gory melee kills in Doom: once you stagger and enemy by&hellip;</div></div> 
+</div>
+</div>
+</div> 
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+</div> </div>
+</div>
+<div id="tiepost-8-section-9512" class="section-wrapper container-full without-background">
+<div class="section-item sidebar-right has-sidebar" style="">
+<div class="container">
+<div class="tie-row main-content-row">
+<div class="main-content tie-col-md-8 tie-col-xs-12" role="main">
+<div id="tie-block_2382" class="mag-box wide-post-box top-news-box media-overlay">
+<div class="container-wrapper">
+<div class="mag-box-title the-global-title">
+<h3>
+Top Reviews </h3>
+</div>
+<div class="mag-box-container clearfix">
+<ul class="posts-items posts-list-container">
+<li class="post-item  post-90 post type-post status-publish format-standard has-post-thumbnail category-news category-universe tag-news tag-universe tie-standard">
+<a href="https://jannah.tielabs.com/games/2017/04/14/shirtless-mario-heres-how-people-reacted/" title="Shirtless Mario: Here&#8217;s How People Reacted" class="post-thumb">
+<div class="digital-rating">
+<div data-score="9.5" data-pct="94.833333333333" class="pie-wrap">
+<svg width="40" height="40" class="pie-svg">
+<circle r="19" cx="20" cy="20" fill="transparent" stroke-dasharray="119.38" stroke-dashoffset="0" class="circle_base"></circle>
+<circle r="19" cx="20" cy="20" fill="transparent" stroke-dasharray="119.38" stroke-dashoffset="0" class="circle_bar"></circle>
+</svg>
+</div>
+</div>
+<h5 class="post-cat-wrap"><span class="post-cat tie-cat-7">News</span></h5>
+<div class="post-thumb-overlay-wrap">
+<div class="post-thumb-overlay">
+<span class="icon"></span>
+</div>
+</div>
+<img width="390" height="220" src="https://jannah.tielabs.com/games/wp-content/themes/jannah/assets/images/tie-empty.png" class="attachment-jannah-image-large size-jannah-image-large lazy-img wp-post-image" alt="" data-src="https://jannah.tielabs.com/games/wp-content/uploads/sites/45/2017/09/industrial-zarya-overwatch-skin-girl-5238-390x220.jpg" /></a><div class="post-meta">
+<span class="meta-author meta-item"><a href="https://jannah.tielabs.com/games/author/admin/" class="author-name" title="Fouad Badawy"><span class="fa fa-user" aria-hidden="true"></span> Fouad Badawy</a>
+</span>
+<span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>Apr 14, 2017</span></span><div class="tie-alignright"><span class="meta-comment meta-item"><a href="https://jannah.tielabs.com/games/2017/04/14/shirtless-mario-heres-how-people-reacted/#respond"><span class="fa fa-comments" aria-hidden="true"></span> 0</a></span><span class="meta-views meta-item "><span class="tie-icon-fire" aria-hidden="true"></span> 274 </span> </div><div class="clearfix"></div></div>
+<div class="post-details">
+<h3 class="post-title"><a href="https://jannah.tielabs.com/games/2017/04/14/shirtless-mario-heres-how-people-reacted/" title="Shirtless Mario: Here&#8217;s How People Reacted">Shirtless Mario: Here&#8217;s How People Reacted</a></h3>
+<p class="post-excerpt">Metroid is a Nintendo institution, one that dates almost as far back as the company&#8217;s console business. The series includes phenomenal games like Super Metroid and Metroid Prime, two games that frequently appear on &#8220;best of&#8221; lists. But Metroid&hellip;</p>
+</div>
+</li>
+<li class="post-item  post-88 post type-post status-publish format-standard has-post-thumbnail category-news category-universe tag-news tag-universe is-trending tie-standard">
+<a href="https://jannah.tielabs.com/games/2017/05/14/fifa-18-soundtrack-revealed-includes-40-plus-songs-2/" title="FIFA 18 Soundtrack Revealed, Includes 40-Plus Songs" class="post-thumb">
+<div class="digital-rating">
+<div data-score="9.3" data-pct="93.333333333333" class="pie-wrap">
+<svg width="40" height="40" class="pie-svg">
+<circle r="19" cx="20" cy="20" fill="transparent" stroke-dasharray="119.38" stroke-dashoffset="0" class="circle_base"></circle>
+<circle r="19" cx="20" cy="20" fill="transparent" stroke-dasharray="119.38" stroke-dashoffset="0" class="circle_bar"></circle>
+</svg>
+</div>
+</div>
+<span class="trending-post fa fa-bolt trending-lg" aria-hidden="true"></span><h5 class="post-cat-wrap"><span class="post-cat tie-cat-7">News</span></h5>
+<div class="post-thumb-overlay-wrap">
+<div class="post-thumb-overlay">
+<span class="icon"></span>
+</div>
+</div>
+<img width="390" height="220" src="https://jannah.tielabs.com/games/wp-content/themes/jannah/assets/images/tie-empty.png" class="attachment-jannah-image-large size-jannah-image-large lazy-img wp-post-image" alt="" data-src="https://jannah.tielabs.com/games/wp-content/uploads/sites/45/2017/09/nier_automata-yorha_2b-and-yorha_9s-271-390x220.jpg" /></a><div class="post-meta">
+<span class="meta-author meta-item"><a href="https://jannah.tielabs.com/games/author/yahia/" class="author-name" title="Yahia Ragae"><span class="fa fa-user" aria-hidden="true"></span> Yahia Ragae</a>
+</span>
+<span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>May 14, 2017</span></span><div class="tie-alignright"><span class="meta-comment meta-item"><a href="https://jannah.tielabs.com/games/2017/05/14/fifa-18-soundtrack-revealed-includes-40-plus-songs-2/#respond"><span class="fa fa-comments" aria-hidden="true"></span> 0</a></span><span class="meta-views meta-item warm"><span class="tie-icon-fire" aria-hidden="true"></span> 821 </span> </div><div class="clearfix"></div></div>
+<div class="post-details">
+<h3 class="post-title"><a href="https://jannah.tielabs.com/games/2017/05/14/fifa-18-soundtrack-revealed-includes-40-plus-songs-2/" title="FIFA 18 Soundtrack Revealed, Includes 40-Plus Songs">FIFA 18 Soundtrack Revealed, Includes 40-Plus Songs</a></h3>
+<p class="post-excerpt">Teleportation is also what VFR uses to replace the gory melee kills in Doom: once you stagger and enemy by dealing some damage, you telefrag them (teleport on top of their location) for fun and&hellip;</p>
+</div>
+</li>
+<li class="post-item  post-89 post type-post status-publish format-standard has-post-thumbnail category-news tag-news tie-standard">
+<a href="https://jannah.tielabs.com/games/2017/04/14/overwatch-addressing-rising-tide-of-toxicity-in-the-game-heres-how-2/" title="Overwatch Addressing &#8220;Rising Tide Of Toxicity&#8221; In The Game, Here&#8217;s How" class="post-thumb">
+<div class="digital-rating">
+<div data-score="9" data-pct="90.333333333333" class="pie-wrap">
+<svg width="40" height="40" class="pie-svg">
+<circle r="19" cx="20" cy="20" fill="transparent" stroke-dasharray="119.38" stroke-dashoffset="0" class="circle_base"></circle>
+<circle r="19" cx="20" cy="20" fill="transparent" stroke-dasharray="119.38" stroke-dashoffset="0" class="circle_bar"></circle>
+</svg>
+</div>
+</div>
+<h5 class="post-cat-wrap"><span class="post-cat tie-cat-7">News</span></h5>
+<div class="post-thumb-overlay-wrap">
+<div class="post-thumb-overlay">
+<span class="icon"></span>
+</div>
+</div>
+<img width="390" height="220" src="https://jannah.tielabs.com/games/wp-content/themes/jannah/assets/images/tie-empty.png" class="attachment-jannah-image-large size-jannah-image-large lazy-img wp-post-image" alt="" data-src="https://jannah.tielabs.com/games/wp-content/uploads/sites/45/2017/09/machine-horizon_zero_dawn-game1186-390x220.jpg" /></a><div class="post-meta">
+<span class="meta-author meta-item"><a href="https://jannah.tielabs.com/games/author/ashraf/" class="author-name" title="Ashraf Reda"><span class="fa fa-user" aria-hidden="true"></span> Ashraf Reda</a>
+</span>
+<span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>Apr 14, 2017</span></span><div class="tie-alignright"><span class="meta-comment meta-item"><a href="https://jannah.tielabs.com/games/2017/04/14/overwatch-addressing-rising-tide-of-toxicity-in-the-game-heres-how-2/#respond"><span class="fa fa-comments" aria-hidden="true"></span> 0</a></span><span class="meta-views meta-item very-hot"><span class="tie-icon-fire" aria-hidden="true"></span> 8,130 </span> </div><div class="clearfix"></div></div>
+<div class="post-details">
+<h3 class="post-title"><a href="https://jannah.tielabs.com/games/2017/04/14/overwatch-addressing-rising-tide-of-toxicity-in-the-game-heres-how-2/" title="Overwatch Addressing &#8220;Rising Tide Of Toxicity&#8221; In The Game, Here&#8217;s How">Overwatch Addressing &#8220;Rising Tide Of Toxicity&#8221; In The Game, Here&#8217;s How</a></h3>
+<p class="post-excerpt">Using those two types of movement together to stay one step ahead of the horde takes some getting used to, especially learning not to panic when it looks like a 12-foot-tall Hell Knight is about&hellip;</p>
+</div>
+</li>
+</ul><div class="clearfix"></div>
+</div>
+</div>
+</div>
+<div id="tie-block_1193" class="mag-box tie-col-sm-6 half-box has-first-big-post has-custom-color first-half-box">
+<div class="container-wrapper">
+<div class="mag-box-title the-global-title">
+<h3>
+Xbox One </h3>
+</div>
+<div class="mag-box-container clearfix">
+<ul class="posts-items posts-list-container"> <li class="post-item  tie-slider">
+<a href="https://jannah.tielabs.com/games/2017/09/14/watch-ghost-recon-wildlands-new-pvp-mode-ghost-war-in-action-destiny-2/" title="Watch Ghost Recon: Wildlands&#8217; New PvP Mode In Action Destiny 2" class="post-thumb">
+<div class="digital-rating">
+<div data-score="7" data-pct="69.833333333333" class="pie-wrap">
+<svg width="40" height="40" class="pie-svg">
+<circle r="19" cx="20" cy="20" fill="transparent" stroke-dasharray="119.38" stroke-dashoffset="0" class="circle_base"></circle>
+<circle r="19" cx="20" cy="20" fill="transparent" stroke-dasharray="119.38" stroke-dashoffset="0" class="circle_bar"></circle>
+</svg>
+</div>
+</div>
+<h5 class="post-cat-wrap"><span class="post-cat tie-cat-6">Xbox One</span></h5>
+<div class="post-thumb-overlay-wrap">
+<div class="post-thumb-overlay">
+<span class="icon"></span>
+</div>
+</div>
+<img width="390" height="220" src="https://jannah.tielabs.com/games/wp-content/themes/jannah/assets/images/tie-empty.png" class="attachment-jannah-image-large size-jannah-image-large lazy-img wp-post-image" alt="" data-src="https://jannah.tielabs.com/games/wp-content/uploads/sites/45/2017/09/warlock-destiny_2-game-21612-390x220.jpg" /></a>
+<div class="post-details">
+<div class="post-meta">
+<span class="meta-author meta-item"><a href="https://jannah.tielabs.com/games/author/yahia/" class="author-name" title="Yahia Ragae"><span class="fa fa-user" aria-hidden="true"></span> Yahia Ragae</a>
+</span>
+ <span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>Sep 14, 2017</span></span><div class="tie-alignright"><span class="meta-comment meta-item"><a href="https://jannah.tielabs.com/games/2017/09/14/watch-ghost-recon-wildlands-new-pvp-mode-ghost-war-in-action-destiny-2/#comments"><span class="fa fa-comments" aria-hidden="true"></span> 1</a></span><span class="meta-views meta-item warm"><span class="tie-icon-fire" aria-hidden="true"></span> 909 </span> </div><div class="clearfix"></div></div>
+<h3 class="post-title"><a href="https://jannah.tielabs.com/games/2017/09/14/watch-ghost-recon-wildlands-new-pvp-mode-ghost-war-in-action-destiny-2/" title="Watch Ghost Recon: Wildlands&#8217; New PvP Mode In Action Destiny 2">Watch Ghost Recon: Wildlands&#8217; New PvP Mode In Action Destiny 2</a></h3>
+<p class="post-excerpt">Metroid is a Nintendo institution, one that dates almost as far back as the company&#8217;s console business. The series includes phenomenal&hellip;</p>
+</div>
+</li>
+<li class="post-item  is-trending tie-slider">
+<a href="https://jannah.tielabs.com/games/2017/09/14/overwatch-addressing-rising-tide-of-toxicity-in-the-game-heres-how-3/" title="Overwatch Addressing &#8220;Rising Tide Of Toxicity&#8221; In The Game, Here&#8217;s How" class="post-thumb"><div class="digital-rating-static" data-rate-val="92.333333333333"><strong>9.2</strong></div>
+<div class="post-thumb-overlay-wrap">
+<div class="post-thumb-overlay">
+<span class="icon"></span>
+</div>
+</div>
+<img width="220" height="150" src="https://jannah.tielabs.com/games/wp-content/themes/jannah/assets/images/tie-empty-small.png" class="attachment-jannah-image-small size-jannah-image-small lazy-img tie-small-image wp-post-image" alt="" data-src="https://jannah.tielabs.com/games/wp-content/uploads/sites/45/2017/09/t_rex-super_mario_odyssey-game-2210-220x150.jpg" /></a>
+<div class="post-details">
+<div class="post-meta"><span class="trending-post fa fa-bolt trending-sm meta-item" aria-hidden="true"></span><span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>Sep 14, 2017</span></span><div class="clearfix"></div></div>
+<h3 class="post-title"><a href="https://jannah.tielabs.com/games/2017/09/14/overwatch-addressing-rising-tide-of-toxicity-in-the-game-heres-how-3/" title="Overwatch Addressing &#8220;Rising Tide Of Toxicity&#8221; In The Game, Here&#8217;s How">Overwatch Addressing &#8220;Rising Tide Of Toxicity&#8221; In The Game, Here&#8217;s How</a></h3>
+</div>
+</li>
+<li class="post-item  tie-standard">
+<a href="https://jannah.tielabs.com/games/2017/09/14/nintendo-direct-switch3ds-all-the-news-videos-and-more/" title="Nintendo Direct Switch/3DS: All The News, Videos, And More" class="post-thumb"><div class="digital-rating-static" data-rate-val="82.5"><strong>8.3</strong></div>
+<div class="post-thumb-overlay-wrap">
+<div class="post-thumb-overlay">
+<span class="icon"></span>
+</div>
+</div>
+<img width="220" height="150" src="https://jannah.tielabs.com/games/wp-content/themes/jannah/assets/images/tie-empty-small.png" class="attachment-jannah-image-small size-jannah-image-small lazy-img tie-small-image wp-post-image" alt="" data-src="https://jannah.tielabs.com/games/wp-content/uploads/sites/45/2017/09/gas_mask-soldiers-battlefield_1-13026-220x150.jpg" /></a>
+<div class="post-details">
+<div class="post-meta"><span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>Sep 14, 2017</span></span><div class="clearfix"></div></div>
+<h3 class="post-title"><a href="https://jannah.tielabs.com/games/2017/09/14/nintendo-direct-switch3ds-all-the-news-videos-and-more/" title="Nintendo Direct Switch/3DS: All The News, Videos, And More">Nintendo Direct Switch/3DS: All The News, Videos, And More</a></h3>
+</div>
+</li>
+<li class="post-item  tie-standard">
+<a href="https://jannah.tielabs.com/games/2017/06/14/gs-news-update-star-wars-battlefronts-dlc-season-pass-is-free/" title="GS News Update: Star Wars Battlefront&#8217;s DLC Season Pass Is Free" class="post-thumb"><div class="digital-rating-static" data-rate-val="95.333333333333"><strong>9.5</strong></div>
+<div class="post-thumb-overlay-wrap">
+<div class="post-thumb-overlay">
+<span class="icon"></span>
+</div>
+</div>
+<img width="220" height="150" src="https://jannah.tielabs.com/games/wp-content/themes/jannah/assets/images/tie-empty-small.png" class="attachment-jannah-image-small size-jannah-image-small lazy-img tie-small-image wp-post-image" alt="" data-src="https://jannah.tielabs.com/games/wp-content/uploads/sites/45/2017/09/soldier-battlefield_1-game-fire-5310-220x150.jpg" /></a>
+<div class="post-details">
+<div class="post-meta"><span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>Jun 14, 2017</span></span><div class="clearfix"></div></div>
+<h3 class="post-title"><a href="https://jannah.tielabs.com/games/2017/06/14/gs-news-update-star-wars-battlefronts-dlc-season-pass-is-free/" title="GS News Update: Star Wars Battlefront&#8217;s DLC Season Pass Is Free">GS News Update: Star Wars Battlefront&#8217;s DLC Season Pass Is Free</a></h3>
+</div>
+</li>
+</ul><div class="clearfix"></div>
+</div>
+</div>
+</div>
+<div id="tie-block_1556" class="mag-box tie-col-sm-6 half-box has-first-big-post has-custom-color second-half-box">
+<div class="container-wrapper">
+<div class="mag-box-title the-global-title">
+<h3>
+PS4 </h3>
+</div>
+<div class="mag-box-container clearfix">
+<ul class="posts-items posts-list-container"> <li class="post-item  is-trending tie-slider">
+<a href="https://jannah.tielabs.com/games/2017/09/14/overwatch-addressing-rising-tide-of-toxicity-in-the-game-heres-how-3/" title="Overwatch Addressing &#8220;Rising Tide Of Toxicity&#8221; In The Game, Here&#8217;s How" class="post-thumb">
+<div class="digital-rating">
+<div data-score="9.2" data-pct="92.333333333333" class="pie-wrap">
+<svg width="40" height="40" class="pie-svg">
+<circle r="19" cx="20" cy="20" fill="transparent" stroke-dasharray="119.38" stroke-dashoffset="0" class="circle_base"></circle>
+<circle r="19" cx="20" cy="20" fill="transparent" stroke-dasharray="119.38" stroke-dashoffset="0" class="circle_bar"></circle>
+</svg>
+</div>
+</div>
+<span class="trending-post fa fa-bolt trending-lg" aria-hidden="true"></span><h5 class="post-cat-wrap"><span class="post-cat tie-cat-5">PS4</span></h5>
+<div class="post-thumb-overlay-wrap">
+<div class="post-thumb-overlay">
+<span class="icon"></span>
+</div>
+</div>
+<img width="390" height="220" src="https://jannah.tielabs.com/games/wp-content/themes/jannah/assets/images/tie-empty.png" class="attachment-jannah-image-large size-jannah-image-large lazy-img wp-post-image" alt="" data-src="https://jannah.tielabs.com/games/wp-content/uploads/sites/45/2017/09/t_rex-super_mario_odyssey-game-2210-390x220.jpg" /></a>
+<div class="post-details">
+<div class="post-meta">
+<span class="meta-author meta-item"><a href="https://jannah.tielabs.com/games/author/ashraf/" class="author-name" title="Ashraf Reda"><span class="fa fa-user" aria-hidden="true"></span> Ashraf Reda</a>
+</span>
+<span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>Sep 14, 2017</span></span><div class="tie-alignright"><span class="meta-comment meta-item"><a href="https://jannah.tielabs.com/games/2017/09/14/overwatch-addressing-rising-tide-of-toxicity-in-the-game-heres-how-3/#comments"><span class="fa fa-comments" aria-hidden="true"></span> 1</a></span><span class="meta-views meta-item warm"><span class="tie-icon-fire" aria-hidden="true"></span> 1,560 </span> </div><div class="clearfix"></div></div>
+<h3 class="post-title"><a href="https://jannah.tielabs.com/games/2017/09/14/overwatch-addressing-rising-tide-of-toxicity-in-the-game-heres-how-3/" title="Overwatch Addressing &#8220;Rising Tide Of Toxicity&#8221; In The Game, Here&#8217;s How">Overwatch Addressing &#8220;Rising Tide Of Toxicity&#8221; In The Game, Here&#8217;s How</a></h3>
+<p class="post-excerpt">Why it took Nintendo so long to get to this point is anyone&#8217;s guess, but Samus Returns is so good&hellip;</p>
+</div>
+</li>
+<li class="post-item  is-trending tie-slider">
+<a href="https://jannah.tielabs.com/games/2017/08/14/pes-2018-legendary-edition-and-fidget-spinner-giveaway-ps4/" title="PES 2018 Legendary Edition And Fidget Spinner Giveaway (PS4)" class="post-thumb"><div class="digital-rating-static" data-rate-val="90.833333333333"><strong>9.1</strong></div>
+<div class="post-thumb-overlay-wrap">
+<div class="post-thumb-overlay">
+<span class="icon"></span>
+</div>
+</div>
+<img width="220" height="150" src="https://jannah.tielabs.com/games/wp-content/themes/jannah/assets/images/tie-empty-small.png" class="attachment-jannah-image-small size-jannah-image-small lazy-img tie-small-image wp-post-image" alt="" data-src="https://jannah.tielabs.com/games/wp-content/uploads/sites/45/2017/09/south_park_phone_destroyer-game-2137-220x150.jpg" /></a>
+<div class="post-details">
+<div class="post-meta"><span class="trending-post fa fa-bolt trending-sm meta-item" aria-hidden="true"></span><span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>Aug 14, 2017</span></span><div class="clearfix"></div></div>
+<h3 class="post-title"><a href="https://jannah.tielabs.com/games/2017/08/14/pes-2018-legendary-edition-and-fidget-spinner-giveaway-ps4/" title="PES 2018 Legendary Edition And Fidget Spinner Giveaway (PS4)">PES 2018 Legendary Edition And Fidget Spinner Giveaway (PS4)</a></h3>
+</div>
+</li>
+<li class="post-item  tie-slider">
+<a href="https://jannah.tielabs.com/games/2017/07/14/fifa-18-soundtrack-revealed-includes-40-plus-songs-3/" title="FIFA 18 Soundtrack Revealed, Includes 40-Plus Songs" class="post-thumb"><div class="digital-rating-static" data-rate-val="65.666666666667"><strong>6.6</strong></div>
+<div class="post-thumb-overlay-wrap">
+<div class="post-thumb-overlay">
+<span class="icon"></span>
+</div>
+</div>
+<img width="220" height="150" src="https://jannah.tielabs.com/games/wp-content/themes/jannah/assets/images/tie-empty-small.png" class="attachment-jannah-image-small size-jannah-image-small lazy-img tie-small-image wp-post-image" alt="" data-src="https://jannah.tielabs.com/games/wp-content/uploads/sites/45/2017/09/tyto-gigantic-hero-8320-220x150.jpg" /></a>
+<div class="post-details">
+<div class="post-meta"><span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>Jul 14, 2017</span></span><div class="clearfix"></div></div>
+<h3 class="post-title"><a href="https://jannah.tielabs.com/games/2017/07/14/fifa-18-soundtrack-revealed-includes-40-plus-songs-3/" title="FIFA 18 Soundtrack Revealed, Includes 40-Plus Songs">FIFA 18 Soundtrack Revealed, Includes 40-Plus Songs</a></h3>
+</div>
+</li>
+<li class="post-item  tie-slider">
+<a href="https://jannah.tielabs.com/games/2017/06/14/pro-overwatch-team-starts-cooking-show/" title="Pro Overwatch Team Starts Cooking Show" class="post-thumb"><div class="digital-rating-static" data-rate-val="80"><strong>8</strong></div>
+<div class="post-thumb-overlay-wrap">
+<div class="post-thumb-overlay">
+<span class="icon"></span>
+</div>
+</div>
+<img width="220" height="150" src="https://jannah.tielabs.com/games/wp-content/themes/jannah/assets/images/tie-empty-small.png" class="attachment-jannah-image-small size-jannah-image-small lazy-img tie-small-image wp-post-image" alt="" data-src="https://jannah.tielabs.com/games/wp-content/uploads/sites/45/2017/09/tristana-splash_art-girl-update-h115-220x150.jpg" /></a>
+<div class="post-details">
+<div class="post-meta"><span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>Jun 14, 2017</span></span><div class="clearfix"></div></div>
+<h3 class="post-title"><a href="https://jannah.tielabs.com/games/2017/06/14/pro-overwatch-team-starts-cooking-show/" title="Pro Overwatch Team Starts Cooking Show">Pro Overwatch Team Starts Cooking Show</a></h3>
+</div>
+</li>
+</ul><div class="clearfix"></div>
+</div>
+</div>
+</div>
+<div class="clearfix half-box-clearfix"></div>
+</div>
+<aside class="sidebar tie-col-md-4 tie-col-xs-12 normal-side is-sticky" aria-label="Primary Sidebar">
+<div class="theiaStickySidebar">
+<div id="social-statistics-2" class="container-wrapper widget social-statistics-widget"><div class="widget-title the-global-title has-block-head-4"><h4>Follow Us</h4></div>
+<ul class="solid-social-icons solid-social-icons circle-three-cols circle-icons Arqam-Lite">
+<li class="social-icons-item">
+<a class="facebook-social-icon" href="https://www.facebook.com/tielabs" rel="nofollow" target="_blank">
+<span class="counter-icon fa fa-facebook"></span> <span class="followers">
+<span class="followers-num">13,627</span>
+<span class="followers-name">Fans</span>
+</span>
+</a>
+</li>
+<li class="social-icons-item">
+<a class="twitter-social-icon" href="https://twitter.com/tielabs" rel="nofollow" target="_blank">
+<span class="counter-icon fa fa-twitter"></span> <span class="followers">
+<span class="followers-num">886</span>
+<span class="followers-name">Followers</span>
+</span>
+</a>
+</li>
+<li class="social-icons-item">
+<a class="google-social-icon" href="https://plus.google.com/106192958286631454676" rel="nofollow" target="_blank">
+<span class="counter-icon fa fa-google-plus"></span> <span class="followers">
+<span class="followers-num">11,023</span>
+<span class="followers-name">Followers</span>
+</span>
+</a>
+</li>
+<li class="social-icons-item">
+<a class="youtube-social-icon" href="https://youtube.com/user/TEAMMESAI" rel="nofollow" target="_blank">
+<span class="counter-icon fa fa-youtube"></span> <span class="followers">
+<span class="followers-num">11,551</span>
+<span class="followers-name">Followers</span>
+</span>
+</a>
+</li>
+<li class="social-icons-item">
+<a class="vimeo-social-icon" href="https://vimeo.com/channels/kidproof" rel="nofollow" target="_blank">
+<span class="counter-icon fa fa-vimeo"></span> <span class="followers">
+<span class="followers-num">1,407</span>
+<span class="followers-name">Subscribers</span>
+</span>
+</a>
+</li>
+<li class="social-icons-item">
+<a class="dribbble-social-icon" href="https://dribbble.com/mo3aser" rel="nofollow" target="_blank">
+<span class="counter-icon fa fa-dribbble"></span> <span class="followers">
+<span class="followers-num">52</span>
+<span class="followers-name">Followers</span>
+</span>
+</a>
+</li>
+</ul>
+<div class="clearfix"></div></div><div id="posts-list-widget-3" class="container-wrapper widget posts-list"><div class="widget-title the-global-title has-block-head-4"><h4>Most Viewed</h4></div><div class="posts-list-big-first has-first-big-post"><ul class="posts-list-items">
+<li class="widget-post-list tie-standard">
+<div class="post-widget-thumbnail">
+<a href="https://jannah.tielabs.com/games/2017/04/14/overwatch-addressing-rising-tide-of-toxicity-in-the-game-heres-how-2/" title="Overwatch Addressing &#8220;Rising Tide Of Toxicity&#8221; In The Game, Here&#8217;s How" class="post-thumb">
+<div class="digital-rating">
+<div data-score="9" data-pct="90.333333333333" class="pie-wrap">
+<svg width="40" height="40" class="pie-svg">
+<circle r="19" cx="20" cy="20" fill="transparent" stroke-dasharray="119.38" stroke-dashoffset="0" class="circle_base"></circle>
+<circle r="19" cx="20" cy="20" fill="transparent" stroke-dasharray="119.38" stroke-dashoffset="0" class="circle_bar"></circle>
+</svg>
+</div>
+</div>
+<h5 class="post-cat-wrap"><span class="post-cat tie-cat-7">News</span></h5>
+<div class="post-thumb-overlay-wrap">
+<div class="post-thumb-overlay">
+<span class="icon"></span>
+</div>
+</div>
+<img width="390" height="220" src="https://jannah.tielabs.com/games/wp-content/themes/jannah/assets/images/tie-empty.png" class="attachment-jannah-image-large size-jannah-image-large lazy-img wp-post-image" alt="" data-src="https://jannah.tielabs.com/games/wp-content/uploads/sites/45/2017/09/machine-horizon_zero_dawn-game1186-390x220.jpg" /></a> </div>
+<div class="post-widget-body ">
+<h3 class="post-title"><a href="https://jannah.tielabs.com/games/2017/04/14/overwatch-addressing-rising-tide-of-toxicity-in-the-game-heres-how-2/" title="Overwatch Addressing &#8220;Rising Tide Of Toxicity&#8221; In The Game, Here&#8217;s How">Overwatch Addressing &#8220;Rising Tide Of Toxicity&#8221; In The Game, Here&#8217;s How</a></h3>
+<div class="post-meta">
+<span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>Apr 14, 2017</span></span> </div>
+</div>
+</li>
+<li class="widget-post-list tie-standard">
+<div class="post-widget-thumbnail">
+<a href="https://jannah.tielabs.com/games/2017/07/14/destiny-2s-first-raid-beaten-see-who-did-it-and-how/" title="Destiny 2&#8217;s First Raid Beaten, See Who Did It And How" class="post-thumb"><div class="digital-rating-static" data-rate-val="82.833333333333"><strong>8.3</strong></div>
+<div class="post-thumb-overlay-wrap">
+<div class="post-thumb-overlay">
+<span class="icon"></span>
+</div>
+</div>
+<img width="220" height="150" src="https://jannah.tielabs.com/games/wp-content/themes/jannah/assets/images/tie-empty-small.png" class="attachment-jannah-image-small size-jannah-image-small lazy-img tie-small-image wp-post-image" alt="" data-src="https://jannah.tielabs.com/games/wp-content/uploads/sites/45/2017/09/feng_mao-paragon-game-fantasy-f33-220x150.jpg" /></a> </div>
+<div class="post-widget-body ">
+<h3 class="post-title"><a href="https://jannah.tielabs.com/games/2017/07/14/destiny-2s-first-raid-beaten-see-who-did-it-and-how/" title="Destiny 2&#8217;s First Raid Beaten, See Who Did It And How">Destiny 2&#8217;s First Raid Beaten, See Who Did It And How</a></h3>
+<div class="post-meta">
+<span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>Jul 14, 2017</span></span> </div>
+</div>
+</li>
+<li class="widget-post-list tie-standard">
+<div class="post-widget-thumbnail">
+<a href="https://jannah.tielabs.com/games/2017/09/14/nintendo-direct-switch3ds-all-the-news-videos-and-more/" title="Nintendo Direct Switch/3DS: All The News, Videos, And More" class="post-thumb"><div class="digital-rating-static" data-rate-val="82.5"><strong>8.3</strong></div>
+<div class="post-thumb-overlay-wrap">
+<div class="post-thumb-overlay">
+<span class="icon"></span>
+</div>
+</div>
+<img width="220" height="150" src="https://jannah.tielabs.com/games/wp-content/themes/jannah/assets/images/tie-empty-small.png" class="attachment-jannah-image-small size-jannah-image-small lazy-img tie-small-image wp-post-image" alt="" data-src="https://jannah.tielabs.com/games/wp-content/uploads/sites/45/2017/09/gas_mask-soldiers-battlefield_1-13026-220x150.jpg" /></a> </div>
+<div class="post-widget-body ">
+<h3 class="post-title"><a href="https://jannah.tielabs.com/games/2017/09/14/nintendo-direct-switch3ds-all-the-news-videos-and-more/" title="Nintendo Direct Switch/3DS: All The News, Videos, And More">Nintendo Direct Switch/3DS: All The News, Videos, And More</a></h3>
+<div class="post-meta">
+<span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>Sep 14, 2017</span></span> </div>
+</div>
+</li>
+<li class="widget-post-list is-trending tie-standard">
+<div class="post-widget-thumbnail">
+<a href="https://jannah.tielabs.com/games/2017/08/14/wildlands-new-pvp-mode-in-action-how-to-build-a-gaming-pc/" title="Wildlands&#8217; New PvP Mode, In Action How To Build A Gaming PC" class="post-thumb"><div class="digital-rating-static" data-rate-val="89.666666666667"><strong>9</strong></div>
+<div class="post-thumb-overlay-wrap">
+<div class="post-thumb-overlay">
+<span class="icon"></span>
+</div>
+</div>
+<img width="220" height="150" src="https://jannah.tielabs.com/games/wp-content/themes/jannah/assets/images/tie-empty-small.png" class="attachment-jannah-image-small size-jannah-image-small lazy-img tie-small-image wp-post-image" alt="" data-src="https://jannah.tielabs.com/games/wp-content/uploads/sites/45/2017/09/omega_squad-tristana-skin-splash_art-2202-220x150.jpg" /></a> </div>
+<div class="post-widget-body ">
+<h3 class="post-title"><a href="https://jannah.tielabs.com/games/2017/08/14/wildlands-new-pvp-mode-in-action-how-to-build-a-gaming-pc/" title="Wildlands&#8217; New PvP Mode, In Action How To Build A Gaming PC">Wildlands&#8217; New PvP Mode, In Action How To Build A Gaming PC</a></h3>
+<div class="post-meta">
+<span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>Aug 14, 2017</span></span> </div>
+</div>
+</li>
+<li class="widget-post-list is-trending tie-video">
+<div class="post-widget-thumbnail">
+<a href="https://jannah.tielabs.com/games/2017/05/13/captain-cold-injustice-2-game-review/" title="Captain Cold Injustice 2 Game Review" class="post-thumb"><div class="digital-rating-static" data-rate-val="75.166666666667"><strong>7.5</strong></div>
+<div class="post-thumb-overlay-wrap">
+<div class="post-thumb-overlay">
+<span class="icon"></span>
+</div>
+</div>
+<img width="220" height="150" src="https://jannah.tielabs.com/games/wp-content/themes/jannah/assets/images/tie-empty-small.png" class="attachment-jannah-image-small size-jannah-image-small lazy-img tie-small-image wp-post-image" alt="" data-src="https://jannah.tielabs.com/games/wp-content/uploads/sites/45/2017/09/captain_cold-injustice_2-game-1625-220x150.jpg" /></a> </div>
+<div class="post-widget-body ">
+<h3 class="post-title"><a href="https://jannah.tielabs.com/games/2017/05/13/captain-cold-injustice-2-game-review/" title="Captain Cold Injustice 2 Game Review">Captain Cold Injustice 2 Game Review</a></h3>
+<div class="post-meta">
+<span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>May 13, 2017</span></span> </div>
+</div>
+</li>
+</ul></div><div class="clearfix"></div></div><div id="stream-item-widget-3" class="widget stream-item-widget widget-content-only"><div class="stream-item-widget-content"><span class="stream-title">Advertisement</span><a href="https://themeforest.net/item/i/19659555?ref=tielabs&#038;utm_source=demos&#038;utm_campaign=jannah&#038;utm_content=games&#038;utm_medium=ads" target="_blank" rel="nofollow"><img src="https://jannah.tielabs.com/games/wp-content/uploads/sites/45/2017/11/jannah-games-1.jpg" width="728" height="90" alt=""></a></div></div> </div>
+</aside>
+</div>
+</div>
+</div>
+</div>
+<div id="tiepost-8-section-8048" class="section-wrapper container-full has-background">
+<div class="section-item full-width tie-parallax" style="background-color: #191919; background-image: url( https://jannah.tielabs.com/games/wp-content/uploads/sites/45/2017/09/secion-bg.jpg);" data-type='scroll'>
+<div class="container">
+<div class="tie-row main-content-row">
+<div class="main-content tie-col-md-12">
+<section id="tie-block_786" class="slider-area mag-box tie-video-main-slider box-dark-skin dark-skin">
+<div class="videos-block">
+<div class="video-playlist-wrapper">
+<div class="loader-overlay"><div class="spinner-circle"></div></div>
+<div class="video-player-wrapper">
+<iframe class="video-frame" id="video-block_786-1" src="https://www.youtube.com/embed/vAbS21ngOXg?enablejsapi=1&amp;rel=0&amp;showinfo=0" width="771" height="434" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen async></iframe>
+</div>
+</div>
+<div class="video-playlist-nav-wrapper">
+<div class="playlist-title">
+<div class="playlist-title-icon"><span class="fa fa-play" aria-hidden="true"></span></div>
+<h2>From Youtube</h2>
+<span class="videos-number">
+<span class="video-playing-number">1</span> / <span class="video-totlal-number">13</span> Videos </span>
+</div> 
+<div data-height="window" class="video-playlist-nav has-custom-scroll playlist-has-title">
+<div data-name="video-block_786-1" data-src="https://www.youtube.com/embed/vAbS21ngOXg?enablejsapi=1&amp;rel=0&amp;showinfo=0" class="video-playlist-item">
+<div class="video-number">1</div>
+<div class="video-play-icon"><span class="fa fa-play" aria-hidden="true"></span></div>
+<div class="video-paused-icon"><span class="fa fa-pause" aria-hidden="true"></span></div>
+<div data-src="https://i.ytimg.com/vi/vAbS21ngOXg/default.jpg" class="lazy-img video-thumbnail"></div>
+<div class="video-info">
+<h2>LAWBREAKERS - Official Cinematic Trailer (New FPS Game 2017) PS4/PC</h2>
+<span class="video-duration">02:10</span>
+</div>
+</div>
+<div data-name="video-block_786-2" data-src="https://www.youtube.com/embed/uVcqKcaLO3A?enablejsapi=1&amp;rel=0&amp;showinfo=0" class="video-playlist-item">
+<div class="video-number">2</div>
+<div class="video-play-icon"><span class="fa fa-play" aria-hidden="true"></span></div>
+<div class="video-paused-icon"><span class="fa fa-pause" aria-hidden="true"></span></div>
+<div data-src="https://i.ytimg.com/vi/uVcqKcaLO3A/default.jpg" class="lazy-img video-thumbnail"></div>
+<div class="video-info">
+<h2>CALL OF DUTY WWII Official Trailer (2017) World War 2 Game HD</h2>
+<span class="video-duration">02:07</span>
+</div>
+</div>
+<div data-name="video-block_786-3" data-src="https://www.youtube.com/embed/5utBI9CzBBc?enablejsapi=1&amp;rel=0&amp;showinfo=0" class="video-playlist-item">
+<div class="video-number">3</div>
+<div class="video-play-icon"><span class="fa fa-play" aria-hidden="true"></span></div>
+<div class="video-paused-icon"><span class="fa fa-pause" aria-hidden="true"></span></div>
+<div data-src="https://i.ytimg.com/vi/5utBI9CzBBc/default.jpg" class="lazy-img video-thumbnail"></div>
+<div class="video-info">
+<h2>New Combat Flight Game 2017 : ACE COMBAT 7 ( Trailer )</h2>
+<span class="video-duration">02:43</span>
+</div>
+</div>
+<div data-name="video-block_786-4" data-src="https://www.youtube.com/embed/Va7Zmu1dd1E?enablejsapi=1&amp;rel=0&amp;showinfo=0" class="video-playlist-item">
+<div class="video-number">4</div>
+<div class="video-play-icon"><span class="fa fa-play" aria-hidden="true"></span></div>
+<div class="video-paused-icon"><span class="fa fa-pause" aria-hidden="true"></span></div>
+<div data-src="https://i.ytimg.com/vi/Va7Zmu1dd1E/default.jpg" class="lazy-img video-thumbnail"></div>
+<div class="video-info">
+<h2>Call of Cthulhu - PS4 Trailer | E3 2017</h2>
+<span class="video-duration">02:55</span>
+</div>
+</div>
+<div data-name="video-block_786-5" data-src="https://www.youtube.com/embed/WF2gbDr4lMI?enablejsapi=1&amp;rel=0&amp;showinfo=0" class="video-playlist-item">
+<div class="video-number">5</div>
+<div class="video-play-icon"><span class="fa fa-play" aria-hidden="true"></span></div>
+<div class="video-paused-icon"><span class="fa fa-pause" aria-hidden="true"></span></div>
+<div data-src="https://i.ytimg.com/vi/WF2gbDr4lMI/default.jpg" class="lazy-img video-thumbnail"></div>
+<div class="video-info">
+<h2>Call of Cthulhu: The Official Video Game - Winter Trailer | PS4</h2>
+<span class="video-duration">01:37</span>
+</div>
+</div>
+<div data-name="video-block_786-6" data-src="https://www.youtube.com/embed/ngd2d0wrCj0?enablejsapi=1&amp;rel=0&amp;showinfo=0" class="video-playlist-item">
+<div class="video-number">6</div>
+<div class="video-play-icon"><span class="fa fa-play" aria-hidden="true"></span></div>
+<div class="video-paused-icon"><span class="fa fa-pause" aria-hidden="true"></span></div>
+<div data-src="https://i.ytimg.com/vi/ngd2d0wrCj0/default.jpg" class="lazy-img video-thumbnail"></div>
+<div class="video-info">
+<h2>STAR WARS BATTLEFRONT 2 Reveal Trailer (Game 2017)</h2>
+<span class="video-duration">02:28</span>
+</div>
+</div>
+<div data-name="video-block_786-7" data-src="https://www.youtube.com/embed/OZ1XtRbBlbo?enablejsapi=1&amp;rel=0&amp;showinfo=0" class="video-playlist-item">
+<div class="video-number">7</div>
+<div class="video-play-icon"><span class="fa fa-play" aria-hidden="true"></span></div>
+<div class="video-paused-icon"><span class="fa fa-pause" aria-hidden="true"></span></div>
+<div data-src="https://i.ytimg.com/vi/OZ1XtRbBlbo/default.jpg" class="lazy-img video-thumbnail"></div>
+<div class="video-info">
+<h2>Upcoming Sports Video Games 2016 - 2017</h2>
+<span class="video-duration">03:54</span>
+</div>
+</div>
+<div data-name="video-block_786-8" data-src="https://www.youtube.com/embed/k_9fG8hPCi0?enablejsapi=1&amp;rel=0&amp;showinfo=0" class="video-playlist-item">
+<div class="video-number">8</div>
+<div class="video-play-icon"><span class="fa fa-play" aria-hidden="true"></span></div>
+<div class="video-paused-icon"><span class="fa fa-pause" aria-hidden="true"></span></div>
+<div data-src="https://i.ytimg.com/vi/k_9fG8hPCi0/default.jpg" class="lazy-img video-thumbnail"></div>
+<div class="video-info">
+<h2>Crackdown 3 – E3 2017 – Official 4K Trailer</h2>
+<span class="video-duration">02:49</span>
+</div>
+</div>
+<div data-name="video-block_786-9" data-src="https://www.youtube.com/embed/oAH9qthoJQM?enablejsapi=1&amp;rel=0&amp;showinfo=0" class="video-playlist-item">
+<div class="video-number">9</div>
+<div class="video-play-icon"><span class="fa fa-play" aria-hidden="true"></span></div>
+<div class="video-paused-icon"><span class="fa fa-pause" aria-hidden="true"></span></div>
+<div data-src="https://i.ytimg.com/vi/oAH9qthoJQM/default.jpg" class="lazy-img video-thumbnail"></div>
+<div class="video-info">
+<h2>DAYS OF WAR - Gameplay Trailer - World War 2 Game 2017 (PS4/XB1/PC) (FULL HD)</h2>
+<span class="video-duration">02:50</span>
+</div>
+</div>
+<div data-name="video-block_786-10" data-src="https://www.youtube.com/embed/Ukudmy9NjUY?enablejsapi=1&amp;rel=0&amp;showinfo=0" class="video-playlist-item">
+<div class="video-number">10</div>
+<div class="video-play-icon"><span class="fa fa-play" aria-hidden="true"></span></div>
+<div class="video-paused-icon"><span class="fa fa-pause" aria-hidden="true"></span></div>
+<div data-src="https://i.ytimg.com/vi/Ukudmy9NjUY/default.jpg" class="lazy-img video-thumbnail"></div>
+<div class="video-info">
+<h2>Friday the 13th: The Game - Release Date Trailer (2017)</h2>
+<span class="video-duration">03:00</span>
+</div>
+</div>
+<div data-name="video-block_786-11" data-src="https://www.youtube.com/embed/ahpC7Yl71W8?enablejsapi=1&amp;rel=0&amp;showinfo=0" class="video-playlist-item">
+<div class="video-number">11</div>
+<div class="video-play-icon"><span class="fa fa-play" aria-hidden="true"></span></div>
+<div class="video-paused-icon"><span class="fa fa-pause" aria-hidden="true"></span></div>
+<div data-src="https://i.ytimg.com/vi/ahpC7Yl71W8/default.jpg" class="lazy-img video-thumbnail"></div>
+<div class="video-info">
+<h2>Xbox One - E3 2017 Games Montage - 4K Trailer</h2>
+<span class="video-duration">03:05</span>
+</div>
+</div>
+<div data-name="video-block_786-12" data-src="https://www.youtube.com/embed/B6ulQjx8sNM?enablejsapi=1&amp;rel=0&amp;showinfo=0" class="video-playlist-item">
+<div class="video-number">12</div>
+<div class="video-play-icon"><span class="fa fa-play" aria-hidden="true"></span></div>
+<div class="video-paused-icon"><span class="fa fa-pause" aria-hidden="true"></span></div>
+<div data-src="https://i.ytimg.com/vi/B6ulQjx8sNM/default.jpg" class="lazy-img video-thumbnail"></div>
+<div class="video-info">
+<h2>Lana del Rey - Video Games (Kraków Live Festival 2017)</h2>
+<span class="video-duration">03:11</span>
+</div>
+</div>
+<div data-name="video-block_786-13" data-src="https://www.youtube.com/embed/Xg32SGu_jvo?enablejsapi=1&amp;rel=0&amp;showinfo=0" class="video-playlist-item">
+<div class="video-number">13</div>
+<div class="video-play-icon"><span class="fa fa-play" aria-hidden="true"></span></div>
+<div class="video-paused-icon"><span class="fa fa-pause" aria-hidden="true"></span></div>
+<div data-src="https://i.ytimg.com/vi/Xg32SGu_jvo/default.jpg" class="lazy-img video-thumbnail"></div>
+<div class="video-info">
+<h2>PlayStation Plus | Your PS4 Monthly Games for September 2017 | PS4</h2>
+<span class="video-duration">01:00</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<div id="tie-block_2356" class="mag-box big-posts-box">
+<div class="container-wrapper">
+<div class="mag-box-container clearfix">
+<ul class="posts-items posts-list-container">
+<li class="post-item  post-24 post type-post status-publish format-standard has-post-thumbnail category-reviews-2 tag-reviews tie-video">
+<a href="https://jannah.tielabs.com/games/2017/09/13/battlefield-2-soldier-rifle-flamethrower-review/" title="Battlefield 2 Soldier Rifle Flamethrower Review" class="post-thumb">
+<div class="digital-rating">
+<div data-score="9.5" data-pct="95" class="pie-wrap">
+<svg width="40" height="40" class="pie-svg">
+<circle r="19" cx="20" cy="20" fill="transparent" stroke-dasharray="119.38" stroke-dashoffset="0" class="circle_base"></circle>
+<circle r="19" cx="20" cy="20" fill="transparent" stroke-dasharray="119.38" stroke-dashoffset="0" class="circle_bar"></circle>
+</svg>
+</div>
+</div>
+<h5 class="post-cat-wrap"><span class="post-cat tie-cat-1">Reviews</span></h5>
+<div class="post-thumb-overlay-wrap">
+<div class="post-thumb-overlay">
+<span class="icon"></span>
+</div>
+</div>
+<img width="390" height="220" src="https://jannah.tielabs.com/games/wp-content/themes/jannah/assets/images/tie-empty.png" class="attachment-jannah-image-large size-jannah-image-large lazy-img wp-post-image" alt="" data-src="https://jannah.tielabs.com/games/wp-content/uploads/sites/45/2017/09/battlefield_1-soldier-rifle-flamethrower-11511-390x220.jpg" /></a><div class="post-meta">
+<span class="meta-author meta-item"><a href="https://jannah.tielabs.com/games/author/ashraf/" class="author-name" title="Ashraf Reda"><span class="fa fa-user" aria-hidden="true"></span> Ashraf Reda</a>
+</span>
+<span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>Sep 13, 2017</span></span><div class="tie-alignright"><span class="meta-comment meta-item"><a href="https://jannah.tielabs.com/games/2017/09/13/battlefield-2-soldier-rifle-flamethrower-review/#respond"><span class="fa fa-comments" aria-hidden="true"></span> 0</a></span><span class="meta-views meta-item "><span class="tie-icon-fire" aria-hidden="true"></span> 127 </span> </div><div class="clearfix"></div></div>
+<div class="post-details">
+<h3 class="post-title"><a href="https://jannah.tielabs.com/games/2017/09/13/battlefield-2-soldier-rifle-flamethrower-review/" title="Battlefield 2 Soldier Rifle Flamethrower Review">Battlefield 2 Soldier Rifle Flamethrower Review</a></h3>
+<p class="post-excerpt">Using those two types of movement together to stay one step ahead of the horde takes some getting used to,&hellip;</p>
+</div>
+</li>
+<li class="post-item  post-131 post type-post status-publish format-standard has-post-thumbnail category-ps4 category-universe tag-ps4 tag-universe is-trending tie-slider">
+<a href="https://jannah.tielabs.com/games/2017/08/14/pes-2018-legendary-edition-and-fidget-spinner-giveaway-ps4/" title="PES 2018 Legendary Edition And Fidget Spinner Giveaway (PS4)" class="post-thumb">
+<div class="digital-rating">
+<div data-score="9.1" data-pct="90.833333333333" class="pie-wrap">
+<svg width="40" height="40" class="pie-svg">
+<circle r="19" cx="20" cy="20" fill="transparent" stroke-dasharray="119.38" stroke-dashoffset="0" class="circle_base"></circle>
+<circle r="19" cx="20" cy="20" fill="transparent" stroke-dasharray="119.38" stroke-dashoffset="0" class="circle_bar"></circle>
+</svg>
+</div>
+</div>
+<span class="trending-post fa fa-bolt trending-lg" aria-hidden="true"></span><h5 class="post-cat-wrap"><span class="post-cat tie-cat-5">PS4</span></h5>
+<div class="post-thumb-overlay-wrap">
+<div class="post-thumb-overlay">
+<span class="icon"></span>
+</div>
+</div>
+<img width="390" height="220" src="https://jannah.tielabs.com/games/wp-content/themes/jannah/assets/images/tie-empty.png" class="attachment-jannah-image-large size-jannah-image-large lazy-img wp-post-image" alt="" data-src="https://jannah.tielabs.com/games/wp-content/uploads/sites/45/2017/09/south_park_phone_destroyer-game-2137-390x220.jpg" /></a><div class="post-meta">
+<span class="meta-author meta-item"><a href="https://jannah.tielabs.com/games/author/admin/" class="author-name" title="Fouad Badawy"><span class="fa fa-user" aria-hidden="true"></span> Fouad Badawy</a>
+</span>
+<span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>Aug 14, 2017</span></span><div class="tie-alignright"><span class="meta-comment meta-item"><a href="https://jannah.tielabs.com/games/2017/08/14/pes-2018-legendary-edition-and-fidget-spinner-giveaway-ps4/#respond"><span class="fa fa-comments" aria-hidden="true"></span> 0</a></span><span class="meta-views meta-item hot"><span class="tie-icon-fire" aria-hidden="true"></span> 2,984 </span> </div><div class="clearfix"></div></div>
+<div class="post-details">
+<h3 class="post-title"><a href="https://jannah.tielabs.com/games/2017/08/14/pes-2018-legendary-edition-and-fidget-spinner-giveaway-ps4/" title="PES 2018 Legendary Edition And Fidget Spinner Giveaway (PS4)">PES 2018 Legendary Edition And Fidget Spinner Giveaway (PS4)</a></h3>
+<p class="post-excerpt">Metroid is a Nintendo institution, one that dates almost as far back as the company&#8217;s console business. The series includes phenomenal&hellip;</p>
+</div>
+</li>
+<li class="post-item  post-108 post type-post status-publish format-standard has-post-thumbnail category-pc category-universe tag-pc tag-universe is-trending tie-standard">
+<a href="https://jannah.tielabs.com/games/2017/08/14/wildlands-new-pvp-mode-in-action-how-to-build-a-gaming-pc/" title="Wildlands&#8217; New PvP Mode, In Action How To Build A Gaming PC" class="post-thumb">
+<div class="digital-rating">
+<div data-score="9" data-pct="89.666666666667" class="pie-wrap">
+<svg width="40" height="40" class="pie-svg">
+<circle r="19" cx="20" cy="20" fill="transparent" stroke-dasharray="119.38" stroke-dashoffset="0" class="circle_base"></circle>
+<circle r="19" cx="20" cy="20" fill="transparent" stroke-dasharray="119.38" stroke-dashoffset="0" class="circle_bar"></circle>
+</svg>
+</div>
+</div>
+<span class="trending-post fa fa-bolt trending-lg" aria-hidden="true"></span><h5 class="post-cat-wrap"><span class="post-cat tie-cat-4">PC</span></h5>
+<div class="post-thumb-overlay-wrap">
+<div class="post-thumb-overlay">
+<span class="icon"></span>
+</div>
+</div>
+<img width="390" height="220" src="https://jannah.tielabs.com/games/wp-content/themes/jannah/assets/images/tie-empty.png" class="attachment-jannah-image-large size-jannah-image-large lazy-img wp-post-image" alt="" data-src="https://jannah.tielabs.com/games/wp-content/uploads/sites/45/2017/09/omega_squad-tristana-skin-splash_art-2202-390x220.jpg" /></a><div class="post-meta">
+<span class="meta-author meta-item"><a href="https://jannah.tielabs.com/games/author/yahia/" class="author-name" title="Yahia Ragae"><span class="fa fa-user" aria-hidden="true"></span> Yahia Ragae</a>
+</span>
+<span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>Aug 14, 2017</span></span><div class="tie-alignright"><span class="meta-comment meta-item"><a href="https://jannah.tielabs.com/games/2017/08/14/wildlands-new-pvp-mode-in-action-how-to-build-a-gaming-pc/#respond"><span class="fa fa-comments" aria-hidden="true"></span> 0</a></span><span class="meta-views meta-item hot"><span class="tie-icon-fire" aria-hidden="true"></span> 4,696 </span> </div><div class="clearfix"></div></div>
+<div class="post-details">
+<h3 class="post-title"><a href="https://jannah.tielabs.com/games/2017/08/14/wildlands-new-pvp-mode-in-action-how-to-build-a-gaming-pc/" title="Wildlands&#8217; New PvP Mode, In Action How To Build A Gaming PC">Wildlands&#8217; New PvP Mode, In Action How To Build A Gaming PC</a></h3>
+<p class="post-excerpt">Teleportation is also what VFR uses to replace the gory melee kills in Doom: once you stagger and enemy by&hellip;</p>
+</div>
+</li>
+</ul><div class="clearfix"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div> </div>
+</div>
+<div id="tiepost-8-section-1825" class="section-wrapper container-full has-background has-title">
+<div class="section-item full-width dark-skin" style="background-size: cover;">
+<div class="container"><h2 class="section-title section-title-big"><span class="the-section-title">Buy Now</span></h2></div>
+<div class="container">
+<div class="tie-row main-content-row">
+<div class="main-content tie-col-md-12">
+<div id="tie-block_2887" class="mag-box latest-poroducts-box latest-poroducts-normal-box woocommerce">
+<div class="container-wrapper">
+<div class="mag-box-container clearfix">
+<ul class="products"><li class="post-241 product type-product status-publish has-post-thumbnail product_cat-music product_cat-singles product_tag-xbox-one first instock sale shipping-taxable purchasable product-type-simple">
+<a href="https://jannah.tielabs.com/games/product/amazonbasics-dual-charging-station-for-xbox-one/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><div class="product-img">
+<span class="onsale">Sale!</span>
+<img width="300" height="300" src="//jannah.tielabs.com/games/wp-content/themes/jannah/assets/images/tie-empty.png" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail lazy-img wp-post-image" alt="" data-src="//jannah.tielabs.com/games/wp-content/uploads/sites/45/2013/06/81vvwFaLweL._SL1500_.jpg" /></div><h2 class="woocommerce-loop-product__title">AmazonBasics Dual Charging Station for Xbox One</h2><div class="star-rating"><span style="width:90%">Rated <strong class="rating">4.50</strong> out of 5</span></div>
+<span class="price"><del><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>49.00</span></del> <ins><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>39.00</span></ins></span>
+</a><a href="/games/?add-to-cart=241" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="241" data-product_sku="" aria-label="Add &ldquo;AmazonBasics Dual Charging Station for Xbox One&rdquo; to your cart" rel="nofollow">Add to cart</a></li>
+<li class="post-240 product type-product status-publish has-post-thumbnail product_cat-albums product_cat-music product_tag-games  instock downloadable shipping-taxable purchasable product-type-simple">
+<a href="https://jannah.tielabs.com/games/product/beexcellent-gaming-headset-with-mic-for-new-xbox-one/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><div class="product-img"><img width="300" height="300" src="//jannah.tielabs.com/games/wp-content/themes/jannah/assets/images/tie-empty.png" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail lazy-img wp-post-image" alt="" data-src="//jannah.tielabs.com/games/wp-content/uploads/sites/45/2013/06/deg-6.jpg" /></div><h2 class="woocommerce-loop-product__title">Beexcellent Gaming Headset with Mic for New Xbox One</h2><div class="star-rating"><span style="width:100%">Rated <strong class="rating">5.00</strong> out of 5</span></div>
+<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>36.00</span></span>
+</a><a href="/games/?add-to-cart=240" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="240" data-product_sku="" aria-label="Add &ldquo;Beexcellent Gaming Headset with Mic for New Xbox One&rdquo; to your cart" rel="nofollow">Add to cart</a></li>
+<li class="post-238 product type-product status-publish has-post-thumbnail product_cat-albums product_cat-music  instock downloadable shipping-taxable purchasable product-type-simple">
+<a href="https://jannah.tielabs.com/games/product/enigma-xbox-one-s-rapid-fire-custom-modded-controller/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><div class="product-img"><img width="300" height="300" src="//jannah.tielabs.com/games/wp-content/themes/jannah/assets/images/tie-empty.png" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail lazy-img wp-post-image" alt="" data-src="//jannah.tielabs.com/games/wp-content/uploads/sites/45/2013/06/51ZE8ztJSDL.jpg" /></div><h2 class="woocommerce-loop-product__title">Enigma&#8221; Xbox One S Rapid Fire Custom Modded Controller</h2><div class="star-rating"><span style="width:60%">Rated <strong class="rating">3.00</strong> out of 5</span></div>
+<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>33.00</span></span>
+</a><a href="/games/?add-to-cart=238" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="238" data-product_sku="" aria-label="Add &ldquo;Enigma&quot; Xbox One S Rapid Fire Custom Modded Controller&rdquo; to your cart" rel="nofollow">Add to cart</a></li>
+<li class="post-237 product type-product status-publish has-post-thumbnail product_cat-albums product_cat-music last instock downloadable shipping-taxable purchasable product-type-simple">
+<a href="https://jannah.tielabs.com/games/product/fosmon-xbox-one-one-x-one-s-controller-charger/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><div class="product-img"><img width="300" height="300" src="//jannah.tielabs.com/games/wp-content/themes/jannah/assets/images/tie-empty.png" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail lazy-img wp-post-image" alt="" data-src="//jannah.tielabs.com/games/wp-content/uploads/sites/45/2013/06/deg-2.jpg" /></div><h2 class="woocommerce-loop-product__title">Fosmon Xbox One / One X / One S Controller Charger</h2><div class="star-rating"><span style="width:80%">Rated <strong class="rating">4.00</strong> out of 5</span></div>
+<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>79.00</span></span>
+</a><a href="/games/?add-to-cart=237" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="237" data-product_sku="" aria-label="Add &ldquo;Fosmon Xbox One / One X / One S Controller Charger&rdquo; to your cart" rel="nofollow">Add to cart</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div> </div>
+</div>
+<div id="tiepost-8-section-2469" class="section-wrapper container normal-width without-background">
+<div class="section-item sidebar-right has-sidebar" style="">
+<div class="container-normal">
+<div class="tie-row main-content-row">
+<div class="main-content tie-col-md-8 tie-col-xs-12" role="main">
+<div id="tie-block_1045" class="mag-box full-width-img-news-box full-overlay-title center-overlay-title media-overlay" data-current="1">
+<div class="container-wrapper">
+<div class="mag-box-title the-global-title">
+<h3>
+Recent News </h3>
+</div>
+<div class="mag-box-container clearfix">
+<ul class="posts-items posts-list-container">
+<li class="post-item  tie-standard">
+<div class="block-post-overlay">
+<a href="https://jannah.tielabs.com/games/2017/09/14/nintendo-direct-switch3ds-all-the-news-videos-and-more/" title="Nintendo Direct Switch/3DS: All The News, Videos, And More" class="post-thumb">
+<div class="digital-rating">
+<div data-score="8.3" data-pct="82.5" class="pie-wrap">
+<svg width="40" height="40" class="pie-svg">
+<circle r="19" cx="20" cy="20" fill="transparent" stroke-dasharray="119.38" stroke-dashoffset="0" class="circle_base"></circle>
+<circle r="19" cx="20" cy="20" fill="transparent" stroke-dasharray="119.38" stroke-dashoffset="0" class="circle_bar"></circle>
+</svg>
+</div>
+</div>
+<div class="post-thumb-overlay-wrap">
+<div class="post-thumb-overlay">
+<span class="icon"></span>
+</div>
+</div>
+<img width="780" height="405" src="https://jannah.tielabs.com/games/wp-content/themes/jannah/assets/images/tie-empty.png" class="attachment-jannah-image-post size-jannah-image-post lazy-img wp-post-image" alt="" data-src="https://jannah.tielabs.com/games/wp-content/uploads/sites/45/2017/09/gas_mask-soldiers-battlefield_1-13026-780x405.jpg" /></a>
+<div class="block-title-overlay">
+<div class="post-meta">
+<span class="meta-author meta-item"><a href="https://jannah.tielabs.com/games/author/admin/" class="author-name" title="Fouad Badawy"><span class="fa fa-user" aria-hidden="true"></span> Fouad Badawy</a>
+</span>
+<span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>Sep 14, 2017</span></span><div class="tie-alignright"><span class="meta-comment meta-item"><a href="https://jannah.tielabs.com/games/2017/09/14/nintendo-direct-switch3ds-all-the-news-videos-and-more/#respond"><span class="fa fa-comments" aria-hidden="true"></span> 0</a></span><span class="meta-views meta-item very-hot"><span class="tie-icon-fire" aria-hidden="true"></span> 6,798 </span> </div><div class="clearfix"></div></div>
+<h3 class="post-title"><a href="https://jannah.tielabs.com/games/2017/09/14/nintendo-direct-switch3ds-all-the-news-videos-and-more/" title="Nintendo Direct Switch/3DS: All The News, Videos, And More">Nintendo Direct Switch/3DS: All The News, Videos, And More</a></h3>
+</div>
+</div>
+<p class="post-excerpt">Teleportation is also what VFR uses to replace the gory melee kills in Doom: once you stagger and enemy by dealing some damage, you telefrag them (teleport on top of their location) for fun and extra items. Watching gore shower around you as you explode a demon from the inside&hellip;</p>
+<a class="more-link button" href="https://jannah.tielabs.com/games/2017/09/14/nintendo-direct-switch3ds-all-the-news-videos-and-more/">Read More &raquo;</a>
+</li>
+<li class="post-item  tie-standard">
+<div class="block-post-overlay">
+<a href="https://jannah.tielabs.com/games/2017/07/14/destiny-2s-first-raid-beaten-see-who-did-it-and-how/" title="Destiny 2&#8217;s First Raid Beaten, See Who Did It And How" class="post-thumb">
+<div class="digital-rating">
+<div data-score="8.3" data-pct="82.833333333333" class="pie-wrap">
+<svg width="40" height="40" class="pie-svg">
+<circle r="19" cx="20" cy="20" fill="transparent" stroke-dasharray="119.38" stroke-dashoffset="0" class="circle_base"></circle>
+<circle r="19" cx="20" cy="20" fill="transparent" stroke-dasharray="119.38" stroke-dashoffset="0" class="circle_bar"></circle>
+</svg>
+</div>
+</div>
+<div class="post-thumb-overlay-wrap">
+<div class="post-thumb-overlay">
+<span class="icon"></span>
+</div>
+</div>
+<img width="780" height="405" src="https://jannah.tielabs.com/games/wp-content/themes/jannah/assets/images/tie-empty.png" class="attachment-jannah-image-post size-jannah-image-post lazy-img wp-post-image" alt="" data-src="https://jannah.tielabs.com/games/wp-content/uploads/sites/45/2017/09/feng_mao-paragon-game-fantasy-f33-780x405.jpg" /></a>
+<div class="block-title-overlay">
+<div class="post-meta">
+<span class="meta-author meta-item"><a href="https://jannah.tielabs.com/games/author/ashraf/" class="author-name" title="Ashraf Reda"><span class="fa fa-user" aria-hidden="true"></span> Ashraf Reda</a>
+</span>
+<span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>Jul 14, 2017</span></span><div class="tie-alignright"><span class="meta-comment meta-item"><a href="https://jannah.tielabs.com/games/2017/07/14/destiny-2s-first-raid-beaten-see-who-did-it-and-how/#respond"><span class="fa fa-comments" aria-hidden="true"></span> 0</a></span><span class="meta-views meta-item very-hot"><span class="tie-icon-fire" aria-hidden="true"></span> 7,922 </span> </div><div class="clearfix"></div></div>
+<h3 class="post-title"><a href="https://jannah.tielabs.com/games/2017/07/14/destiny-2s-first-raid-beaten-see-who-did-it-and-how/" title="Destiny 2&#8217;s First Raid Beaten, See Who Did It And How">Destiny 2&#8217;s First Raid Beaten, See Who Did It And How</a></h3>
+</div>
+</div>
+<p class="post-excerpt">Metroid is a Nintendo institution, one that dates almost as far back as the company&#8217;s console business. The series includes phenomenal games like Super Metroid and Metroid Prime, two games that frequently appear on &#8220;best of&#8221; lists. But Metroid has been in a funk for the past decade and losing favor along the way.&hellip;</p>
+<a class="more-link button" href="https://jannah.tielabs.com/games/2017/07/14/destiny-2s-first-raid-beaten-see-who-did-it-and-how/">Read More &raquo;</a>
+</li>
+<li class="post-item  tie-standard">
+<div class="block-post-overlay">
+<a href="https://jannah.tielabs.com/games/2017/06/14/fire-emblem-warriors-adds-fan-favorite-character/" title="Fire Emblem Warriors Adds Fan-Favorite Character" class="post-thumb">
+<div class="digital-rating">
+<div data-score="7.7" data-pct="77.166666666667" class="pie-wrap">
+<svg width="40" height="40" class="pie-svg">
+<circle r="19" cx="20" cy="20" fill="transparent" stroke-dasharray="119.38" stroke-dashoffset="0" class="circle_base"></circle>
+<circle r="19" cx="20" cy="20" fill="transparent" stroke-dasharray="119.38" stroke-dashoffset="0" class="circle_bar"></circle>
+</svg>
+</div>
+</div>
+<div class="post-thumb-overlay-wrap">
+<div class="post-thumb-overlay">
+<span class="icon"></span>
+</div>
+</div>
+<img width="780" height="405" src="https://jannah.tielabs.com/games/wp-content/themes/jannah/assets/images/tie-empty.png" class="attachment-jannah-image-post size-jannah-image-post lazy-img wp-post-image" alt="" data-src="https://jannah.tielabs.com/games/wp-content/uploads/sites/45/2017/09/nioh-game-demon-monster-battle-199-780x405.jpg" /></a>
+<div class="block-title-overlay">
+<div class="post-meta">
+<span class="meta-author meta-item"><a href="https://jannah.tielabs.com/games/author/yahia/" class="author-name" title="Yahia Ragae"><span class="fa fa-user" aria-hidden="true"></span> Yahia Ragae</a>
+</span>
+<span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>Jun 14, 2017</span></span><div class="tie-alignright"><span class="meta-comment meta-item"><a href="https://jannah.tielabs.com/games/2017/06/14/fire-emblem-warriors-adds-fan-favorite-character/#respond"><span class="fa fa-comments" aria-hidden="true"></span> 0</a></span><span class="meta-views meta-item "><span class="tie-icon-fire" aria-hidden="true"></span> 412 </span> </div><div class="clearfix"></div></div>
+<h3 class="post-title"><a href="https://jannah.tielabs.com/games/2017/06/14/fire-emblem-warriors-adds-fan-favorite-character/" title="Fire Emblem Warriors Adds Fan-Favorite Character">Fire Emblem Warriors Adds Fan-Favorite Character</a></h3>
+</div>
+</div>
+<p class="post-excerpt">Metroid is a Nintendo institution, one that dates almost as far back as the company&#8217;s console business. The series includes phenomenal games like Super Metroid and Metroid Prime, two games that frequently appear on &#8220;best of&#8221; lists. But Metroid has been in a funk for the past decade and losing favor along the way.&hellip;</p>
+<a class="more-link button" href="https://jannah.tielabs.com/games/2017/06/14/fire-emblem-warriors-adds-fan-favorite-character/">Read More &raquo;</a>
+</li>
+</ul><div class="clearfix"></div>
+</div>
+<a class="block-pagination next-posts show-more-button load-more-button" data-text="Load More">Load More</a>
+</div>
+</div>
+<script>var js_tie_block_1045 = {"order":"latest","id":["7"],"number":"3","pagi":"load-more","excerpt":"true","excerpt_length":"50","post_meta":"true","media_overlay":"true","read_more":"true","breaking_effect":"reveal","sub_style":"overlay-title-center","style":"overlay-title"};</script>
+</div>
+<aside class="sidebar tie-col-md-4 tie-col-xs-12 normal-side is-sticky" aria-label="Primary Sidebar">
+<div class="theiaStickySidebar">
+<div class="container-wrapper tabs-container-wrapper">
+<div class="widget tabs-widget">
+<div class="widget-container">
+<div class="tabs-widget">
+<div class="tabs-wrapper">
+<ul class="tabs">
+<li><a href="#widget_tabs-2-recent">Recent</a></li><li><a href="#widget_tabs-2-popular">Popular</a></li><li><a href="#widget_tabs-2-comments">Comments</a></li> </ul>
+<div id="widget_tabs-2-recent" class="tab-content tab-content-recent">
+<ul class="tab-content-elements">
+<li class="widget-post-list tie-slider">
+<div class="post-widget-thumbnail">
+<a href="https://jannah.tielabs.com/games/2017/09/14/watch-ghost-recon-wildlands-new-pvp-mode-ghost-war-in-action-destiny-2/" title="Watch Ghost Recon: Wildlands&#8217; New PvP Mode In Action Destiny 2" class="post-thumb"><div class="digital-rating-static" data-rate-val="69.833333333333"><strong>7</strong></div>
+<div class="post-thumb-overlay-wrap">
+<div class="post-thumb-overlay">
+<span class="icon"></span>
+</div>
+</div>
+<img width="220" height="150" src="https://jannah.tielabs.com/games/wp-content/themes/jannah/assets/images/tie-empty-small.png" class="attachment-jannah-image-small size-jannah-image-small lazy-img tie-small-image wp-post-image" alt="" data-src="https://jannah.tielabs.com/games/wp-content/uploads/sites/45/2017/09/warlock-destiny_2-game-21612-220x150.jpg" /></a> </div>
+<div class="post-widget-body ">
+<h3 class="post-title"><a href="https://jannah.tielabs.com/games/2017/09/14/watch-ghost-recon-wildlands-new-pvp-mode-ghost-war-in-action-destiny-2/" title="Watch Ghost Recon: Wildlands&#8217; New PvP Mode In Action Destiny 2">Watch Ghost Recon: Wildlands&#8217; New PvP Mode In Action Destiny 2</a></h3>
+<div class="post-meta">
+<span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>Sep 14, 2017</span></span> </div>
+</div>
+</li>
+<li class="widget-post-list is-trending tie-slider">
+<div class="post-widget-thumbnail">
+<a href="https://jannah.tielabs.com/games/2017/09/14/overwatch-addressing-rising-tide-of-toxicity-in-the-game-heres-how-3/" title="Overwatch Addressing &#8220;Rising Tide Of Toxicity&#8221; In The Game, Here&#8217;s How" class="post-thumb"><div class="digital-rating-static" data-rate-val="92.333333333333"><strong>9.2</strong></div>
+<div class="post-thumb-overlay-wrap">
+<div class="post-thumb-overlay">
+<span class="icon"></span>
+</div>
+</div>
+<img width="220" height="150" src="https://jannah.tielabs.com/games/wp-content/themes/jannah/assets/images/tie-empty-small.png" class="attachment-jannah-image-small size-jannah-image-small lazy-img tie-small-image wp-post-image" alt="" data-src="https://jannah.tielabs.com/games/wp-content/uploads/sites/45/2017/09/t_rex-super_mario_odyssey-game-2210-220x150.jpg" /></a> </div>
+<div class="post-widget-body ">
+<h3 class="post-title"><a href="https://jannah.tielabs.com/games/2017/09/14/overwatch-addressing-rising-tide-of-toxicity-in-the-game-heres-how-3/" title="Overwatch Addressing &#8220;Rising Tide Of Toxicity&#8221; In The Game, Here&#8217;s How">Overwatch Addressing &#8220;Rising Tide Of Toxicity&#8221; In The Game, Here&#8217;s How</a></h3>
+<div class="post-meta">
+<span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>Sep 14, 2017</span></span> </div>
+</div>
+</li>
+<li class="widget-post-list tie-standard">
+<div class="post-widget-thumbnail">
+<a href="https://jannah.tielabs.com/games/2017/09/14/nintendo-direct-switch3ds-all-the-news-videos-and-more/" title="Nintendo Direct Switch/3DS: All The News, Videos, And More" class="post-thumb"><div class="digital-rating-static" data-rate-val="82.5"><strong>8.3</strong></div>
+<div class="post-thumb-overlay-wrap">
+<div class="post-thumb-overlay">
+<span class="icon"></span>
+</div>
+</div>
+<img width="220" height="150" src="https://jannah.tielabs.com/games/wp-content/themes/jannah/assets/images/tie-empty-small.png" class="attachment-jannah-image-small size-jannah-image-small lazy-img tie-small-image wp-post-image" alt="" data-src="https://jannah.tielabs.com/games/wp-content/uploads/sites/45/2017/09/gas_mask-soldiers-battlefield_1-13026-220x150.jpg" /></a> </div>
+<div class="post-widget-body ">
+<h3 class="post-title"><a href="https://jannah.tielabs.com/games/2017/09/14/nintendo-direct-switch3ds-all-the-news-videos-and-more/" title="Nintendo Direct Switch/3DS: All The News, Videos, And More">Nintendo Direct Switch/3DS: All The News, Videos, And More</a></h3>
+<div class="post-meta">
+<span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>Sep 14, 2017</span></span> </div>
+</div>
+</li>
+<li class="widget-post-list tie-video">
+<div class="post-widget-thumbnail">
+<a href="https://jannah.tielabs.com/games/2017/09/13/far-cry-5-car-chase-review/" title="Far Cry 5 Car Chase Review" class="post-thumb"><div class="digital-rating-static" data-rate-val="91.666666666667"><strong>9.2</strong></div>
+<div class="post-thumb-overlay-wrap">
+<div class="post-thumb-overlay">
+<span class="icon"></span>
+</div>
+</div>
+<img width="220" height="150" src="https://jannah.tielabs.com/games/wp-content/themes/jannah/assets/images/tie-empty-small.png" class="attachment-jannah-image-small size-jannah-image-small lazy-img tie-small-image wp-post-image" alt="" data-src="https://jannah.tielabs.com/games/wp-content/uploads/sites/45/2017/09/far_cry_5-car-chase-2102-220x150.jpg" /></a> </div>
+<div class="post-widget-body ">
+<h3 class="post-title"><a href="https://jannah.tielabs.com/games/2017/09/13/far-cry-5-car-chase-review/" title="Far Cry 5 Car Chase Review">Far Cry 5 Car Chase Review</a></h3>
+<div class="post-meta">
+<span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>Sep 13, 2017</span></span> </div>
+</div>
+</li>
+<li class="widget-post-list tie-video">
+<div class="post-widget-thumbnail">
+<a href="https://jannah.tielabs.com/games/2017/09/13/battlefield-2-soldier-rifle-flamethrower-review/" title="Battlefield 2 Soldier Rifle Flamethrower Review" class="post-thumb"><div class="digital-rating-static" data-rate-val="95"><strong>9.5</strong></div>
+<div class="post-thumb-overlay-wrap">
+<div class="post-thumb-overlay">
+<span class="icon"></span>
+</div>
+</div>
+<img width="220" height="150" src="https://jannah.tielabs.com/games/wp-content/themes/jannah/assets/images/tie-empty-small.png" class="attachment-jannah-image-small size-jannah-image-small lazy-img tie-small-image wp-post-image" alt="" data-src="https://jannah.tielabs.com/games/wp-content/uploads/sites/45/2017/09/battlefield_1-soldier-rifle-flamethrower-11511-220x150.jpg" /></a> </div>
+<div class="post-widget-body ">
+<h3 class="post-title"><a href="https://jannah.tielabs.com/games/2017/09/13/battlefield-2-soldier-rifle-flamethrower-review/" title="Battlefield 2 Soldier Rifle Flamethrower Review">Battlefield 2 Soldier Rifle Flamethrower Review</a></h3>
+<div class="post-meta">
+<span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>Sep 13, 2017</span></span> </div>
+</div>
+</li>
+<li class="widget-post-list is-trending tie-slider">
+<div class="post-widget-thumbnail">
+<a href="https://jannah.tielabs.com/games/2017/08/14/pes-2018-legendary-edition-and-fidget-spinner-giveaway-ps4/" title="PES 2018 Legendary Edition And Fidget Spinner Giveaway (PS4)" class="post-thumb"><div class="digital-rating-static" data-rate-val="90.833333333333"><strong>9.1</strong></div>
+<div class="post-thumb-overlay-wrap">
+<div class="post-thumb-overlay">
+<span class="icon"></span>
+</div>
+</div>
+<img width="220" height="150" src="https://jannah.tielabs.com/games/wp-content/themes/jannah/assets/images/tie-empty-small.png" class="attachment-jannah-image-small size-jannah-image-small lazy-img tie-small-image wp-post-image" alt="" data-src="https://jannah.tielabs.com/games/wp-content/uploads/sites/45/2017/09/south_park_phone_destroyer-game-2137-220x150.jpg" /></a> </div>
+<div class="post-widget-body ">
+<h3 class="post-title"><a href="https://jannah.tielabs.com/games/2017/08/14/pes-2018-legendary-edition-and-fidget-spinner-giveaway-ps4/" title="PES 2018 Legendary Edition And Fidget Spinner Giveaway (PS4)">PES 2018 Legendary Edition And Fidget Spinner Giveaway (PS4)</a></h3>
+<div class="post-meta">
+<span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>Aug 14, 2017</span></span> </div>
+</div>
+</li>
+</ul>
+</div>
+<div id="widget_tabs-2-popular" class="tab-content tab-content-popular">
+<ul class="tab-content-elements">
+<li class="widget-post-list is-trending tie-slider">
+<div class="post-widget-thumbnail">
+<a href="https://jannah.tielabs.com/games/2017/09/14/overwatch-addressing-rising-tide-of-toxicity-in-the-game-heres-how-3/" title="Overwatch Addressing &#8220;Rising Tide Of Toxicity&#8221; In The Game, Here&#8217;s How" class="post-thumb"><div class="digital-rating-static" data-rate-val="92.333333333333"><strong>9.2</strong></div>
+<div class="post-thumb-overlay-wrap">
+<div class="post-thumb-overlay">
+<span class="icon"></span>
+</div>
+</div>
+<img width="220" height="150" src="https://jannah.tielabs.com/games/wp-content/themes/jannah/assets/images/tie-empty-small.png" class="attachment-jannah-image-small size-jannah-image-small lazy-img tie-small-image wp-post-image" alt="" data-src="https://jannah.tielabs.com/games/wp-content/uploads/sites/45/2017/09/t_rex-super_mario_odyssey-game-2210-220x150.jpg" /></a> </div>
+<div class="post-widget-body ">
+<h3 class="post-title"><a href="https://jannah.tielabs.com/games/2017/09/14/overwatch-addressing-rising-tide-of-toxicity-in-the-game-heres-how-3/" title="Overwatch Addressing &#8220;Rising Tide Of Toxicity&#8221; In The Game, Here&#8217;s How">Overwatch Addressing &#8220;Rising Tide Of Toxicity&#8221; In The Game, Here&#8217;s How</a></h3>
+<div class="post-meta">
+<span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>Sep 14, 2017</span></span> </div>
+</div>
+</li>
+<li class="widget-post-list tie-slider">
+<div class="post-widget-thumbnail">
+<a href="https://jannah.tielabs.com/games/2017/09/14/watch-ghost-recon-wildlands-new-pvp-mode-ghost-war-in-action-destiny-2/" title="Watch Ghost Recon: Wildlands&#8217; New PvP Mode In Action Destiny 2" class="post-thumb"><div class="digital-rating-static" data-rate-val="69.833333333333"><strong>7</strong></div>
+<div class="post-thumb-overlay-wrap">
+<div class="post-thumb-overlay">
+<span class="icon"></span>
+</div>
+</div>
+<img width="220" height="150" src="https://jannah.tielabs.com/games/wp-content/themes/jannah/assets/images/tie-empty-small.png" class="attachment-jannah-image-small size-jannah-image-small lazy-img tie-small-image wp-post-image" alt="" data-src="https://jannah.tielabs.com/games/wp-content/uploads/sites/45/2017/09/warlock-destiny_2-game-21612-220x150.jpg" /></a> </div>
+<div class="post-widget-body ">
+<h3 class="post-title"><a href="https://jannah.tielabs.com/games/2017/09/14/watch-ghost-recon-wildlands-new-pvp-mode-ghost-war-in-action-destiny-2/" title="Watch Ghost Recon: Wildlands&#8217; New PvP Mode In Action Destiny 2">Watch Ghost Recon: Wildlands&#8217; New PvP Mode In Action Destiny 2</a></h3>
+<div class="post-meta">
+<span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>Sep 14, 2017</span></span> </div>
+</div>
+</li>
+<li class="widget-post-list tie-slider">
+<div class="post-widget-thumbnail">
+<a href="https://jannah.tielabs.com/games/2016/03/14/watch-ghost-recon-wildlands-new-pvp-mode-ghost-war-in-action-2/" title="Watch Ghost Recon: Wildlands&#8217; New PvP Mode, Ghost War, In Action" class="post-thumb"><div class="digital-rating-static" data-rate-val="69"><strong>6.9</strong></div>
+<div class="post-thumb-overlay-wrap">
+<div class="post-thumb-overlay">
+ <span class="icon"></span>
+</div>
+</div>
+<img width="220" height="150" src="https://jannah.tielabs.com/games/wp-content/themes/jannah/assets/images/tie-empty-small.png" class="attachment-jannah-image-small size-jannah-image-small lazy-img tie-small-image wp-post-image" alt="" data-src="https://jannah.tielabs.com/games/wp-content/uploads/sites/45/2017/09/starlink_battle_for_atlas-spaceship-fighting-2124-220x150.jpg" /></a> </div>
+<div class="post-widget-body ">
+<h3 class="post-title"><a href="https://jannah.tielabs.com/games/2016/03/14/watch-ghost-recon-wildlands-new-pvp-mode-ghost-war-in-action-2/" title="Watch Ghost Recon: Wildlands&#8217; New PvP Mode, Ghost War, In Action">Watch Ghost Recon: Wildlands&#8217; New PvP Mode, Ghost War, In Action</a></h3>
+<div class="post-meta">
+<span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>Mar 14, 2016</span></span> </div>
+</div>
+</li>
+<li class="widget-post-list tie-standard">
+<div class="post-widget-thumbnail">
+<a href="https://jannah.tielabs.com/games/2016/05/14/destiny-2-outsells-everything-in-latest-australia-and-new-zealand-sales-charts/" title="Destiny 2 Outsells Everything In Latest Australia And New Zealand Sales Charts" class="post-thumb"><div class="digital-rating-static" data-rate-val="88.5"><strong>8.9</strong></div>
+<div class="post-thumb-overlay-wrap">
+<div class="post-thumb-overlay">
+<span class="icon"></span>
+</div>
+</div>
+<img width="220" height="150" src="https://jannah.tielabs.com/games/wp-content/themes/jannah/assets/images/tie-empty-small.png" class="attachment-jannah-image-small size-jannah-image-small lazy-img tie-small-image wp-post-image" alt="" data-src="https://jannah.tielabs.com/games/wp-content/uploads/sites/45/2017/09/sentai-genji-anniversary-skin-19535-220x150.jpg" /></a> </div>
+<div class="post-widget-body ">
+<h3 class="post-title"><a href="https://jannah.tielabs.com/games/2016/05/14/destiny-2-outsells-everything-in-latest-australia-and-new-zealand-sales-charts/" title="Destiny 2 Outsells Everything In Latest Australia And New Zealand Sales Charts">Destiny 2 Outsells Everything In Latest Australia And New Zealand Sales Charts</a></h3>
+<div class="post-meta">
+<span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>May 14, 2016</span></span> </div>
+</div>
+</li>
+<li class="widget-post-list tie-video">
+<div class="post-widget-thumbnail">
+<a href="https://jannah.tielabs.com/games/2016/10/13/battlefield-1-soldier-horse-review/" title="Battlefield 1 Soldier Horse Review" class="post-thumb"><div class="digital-rating-static" data-rate-val="62.833333333333"><strong>6.3</strong></div>
+<div class="post-thumb-overlay-wrap">
+<div class="post-thumb-overlay">
+<span class="icon"></span>
+</div>
+</div>
+<img width="220" height="150" src="https://jannah.tielabs.com/games/wp-content/themes/jannah/assets/images/tie-empty-small.png" class="attachment-jannah-image-small size-jannah-image-small lazy-img tie-small-image wp-post-image" alt="" data-src="https://jannah.tielabs.com/games/wp-content/uploads/sites/45/2017/09/battlefield_1-soldier-horse-786-220x150.jpg" /></a> </div>
+<div class="post-widget-body ">
+<h3 class="post-title"><a href="https://jannah.tielabs.com/games/2016/10/13/battlefield-1-soldier-horse-review/" title="Battlefield 1 Soldier Horse Review">Battlefield 1 Soldier Horse Review</a></h3>
+<div class="post-meta">
+<span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>Oct 13, 2016</span></span> </div>
+</div>
+</li>
+<li class="widget-post-list tie-video">
+<div class="post-widget-thumbnail">
+<a href="https://jannah.tielabs.com/games/2016/11/13/barbarian-sion-splash-art-skin-review/" title="Barbarian Sion Splash Art Skin Review" class="post-thumb"><div class="digital-rating-static" data-rate-val="82.5"><strong>8.3</strong></div>
+<div class="post-thumb-overlay-wrap">
+<div class="post-thumb-overlay">
+<span class="icon"></span>
+</div>
+</div>
+<img width="220" height="150" src="https://jannah.tielabs.com/games/wp-content/themes/jannah/assets/images/tie-empty-small.png" class="attachment-jannah-image-small size-jannah-image-small lazy-img tie-small-image wp-post-image" alt="" data-src="https://jannah.tielabs.com/games/wp-content/uploads/sites/45/2017/09/barbarian-sion-splash_art-skin-123-220x150.jpg" /></a> </div>
+<div class="post-widget-body ">
+<h3 class="post-title"><a href="https://jannah.tielabs.com/games/2016/11/13/barbarian-sion-splash-art-skin-review/" title="Barbarian Sion Splash Art Skin Review">Barbarian Sion Splash Art Skin Review</a></h3>
+<div class="post-meta">
+<span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>Nov 13, 2016</span></span> </div>
+</div>
+</li>
+</ul>
+</div>
+<div id="widget_tabs-2-comments" class="tab-content tab-content-comments">
+<ul class="tab-content-elements">
+<li>
+<div class="post-widget-thumbnail" style="width:70px">
+<a class="author-avatar" href="https://jannah.tielabs.com/games/2017/09/14/overwatch-addressing-rising-tide-of-toxicity-in-the-game-heres-how-3/#comment-3">
+<img alt='' src='https://jannah.tielabs.com/games/wp-content/themes/jannah/assets/images/tie-empty-square.png' data-src='https://secure.gravatar.com/avatar/8bf9b3cdb1c2635772e6aeb5e6dfe903?s=70&#038;d=mm&#038;r=g' data-2x='https://secure.gravatar.com/avatar/8bf9b3cdb1c2635772e6aeb5e6dfe903?s=140&#038;d=mm&#038;r=g 2x' class='lazy-img avatar avatar-70 photo' height='70' width='70' /> </a>
+</div>
+<div class="comment-body ">
+<a class="comment-author" href="https://jannah.tielabs.com/games/2017/09/14/overwatch-addressing-rising-tide-of-toxicity-in-the-game-heres-how-3/#comment-3">
+Ashraf Reda </a>
+<p>It's fantastic new game and it's great news :) I love it...</p>
+</div>
+</li>
+<li>
+<div class="post-widget-thumbnail" style="width:70px">
+<a class="author-avatar" href="https://jannah.tielabs.com/games/2017/09/14/watch-ghost-recon-wildlands-new-pvp-mode-ghost-war-in-action-destiny-2/#comment-2">
+<img alt='' src='https://jannah.tielabs.com/games/wp-content/themes/jannah/assets/images/tie-empty-square.png' data-src='https://secure.gravatar.com/avatar/8bf9b3cdb1c2635772e6aeb5e6dfe903?s=70&#038;d=mm&#038;r=g' data-2x='https://secure.gravatar.com/avatar/8bf9b3cdb1c2635772e6aeb5e6dfe903?s=140&#038;d=mm&#038;r=g 2x' class='lazy-img avatar avatar-70 photo' height='70' width='70' /> </a>
+</div>
+<div class="comment-body ">
+<a class="comment-author" href="https://jannah.tielabs.com/games/2017/09/14/watch-ghost-recon-wildlands-new-pvp-mode-ghost-war-in-action-destiny-2/#comment-2">
+Ashraf Reda </a>
+<p>Woo! That's Great Game.....</p>
+</div>
+</li>
+<li>
+<div class="post-widget-thumbnail" style="width:70px">
+<a class="author-avatar" href="https://jannah.tielabs.com/games/product/moko-xbox-one-mini-green-backlight-keyboard-2-4g/#comment-38">
+<img alt='' src='https://jannah.tielabs.com/games/wp-content/themes/jannah/assets/images/tie-empty-square.png' data-src='https://secure.gravatar.com/avatar/59c82b1d2c60537f900fb191b3cb611b?s=70&#038;d=mm&#038;r=g' data-2x='https://secure.gravatar.com/avatar/59c82b1d2c60537f900fb191b3cb611b?s=140&#038;d=mm&#038;r=g 2x' class='lazy-img avatar avatar-70 photo' height='70' width='70' /> </a>
+</div>
+<div class="comment-body ">
+<a class="comment-author" href="https://jannah.tielabs.com/games/product/moko-xbox-one-mini-green-backlight-keyboard-2-4g/#comment-38">
+Maria </a>
+<p>He really is the cutest little man. Swoooon!...</p>
+</div>
+</li>
+<li>
+<div class="post-widget-thumbnail" style="width:70px">
+<a class="author-avatar" href="https://jannah.tielabs.com/games/product/pdp-afterglow-prismatic-wired-controller-for-xbox-one/#comment-37">
+<img alt='' src='https://jannah.tielabs.com/games/wp-content/themes/jannah/assets/images/tie-empty-square.png' data-src='https://secure.gravatar.com/avatar/59c82b1d2c60537f900fb191b3cb611b?s=70&#038;d=mm&#038;r=g' data-2x='https://secure.gravatar.com/avatar/59c82b1d2c60537f900fb191b3cb611b?s=140&#038;d=mm&#038;r=g 2x' class='lazy-img avatar avatar-70 photo' height='70' width='70' /> </a>
+</div>
+<div class="comment-body ">
+<a class="comment-author" href="https://jannah.tielabs.com/games/product/pdp-afterglow-prismatic-wired-controller-for-xbox-one/#comment-37">
+Maria </a>
+<p>I didn't expect this poster to arrive folded. Now there are...</p>
+</div>
+</li>
+<li>
+<div class="post-widget-thumbnail" style="width:70px">
+<a class="author-avatar" href="https://jannah.tielabs.com/games/product/usb-wired-xbox-one-gamepad-joystick-wired-controller/#comment-31">
+<img alt='' src='https://jannah.tielabs.com/games/wp-content/themes/jannah/assets/images/tie-empty-square.png' data-src='https://secure.gravatar.com/avatar/59c82b1d2c60537f900fb191b3cb611b?s=70&#038;d=mm&#038;r=g' data-2x='https://secure.gravatar.com/avatar/59c82b1d2c60537f900fb191b3cb611b?s=140&#038;d=mm&#038;r=g 2x' class='lazy-img avatar avatar-70 photo' height='70' width='70' /> </a>
+</div>
+<div class="comment-body ">
+<a class="comment-author" href="https://jannah.tielabs.com/games/product/usb-wired-xbox-one-gamepad-joystick-wired-controller/#comment-31">
+Maria </a>
+<p>Three letters, one word: WOO!...</p>
+</div>
+</li>
+<li>
+<div class="post-widget-thumbnail" style="width:70px">
+<a class="author-avatar" href="https://jannah.tielabs.com/games/product/versiontech-stereo-gaming-headset-for-ps4-xbox-one/#comment-28">
+<img alt='' src='https://jannah.tielabs.com/games/wp-content/themes/jannah/assets/images/tie-empty-square.png' data-src='https://secure.gravatar.com/avatar/59c82b1d2c60537f900fb191b3cb611b?s=70&#038;d=mm&#038;r=g' data-2x='https://secure.gravatar.com/avatar/59c82b1d2c60537f900fb191b3cb611b?s=140&#038;d=mm&#038;r=g 2x' class='lazy-img avatar avatar-70 photo' height='70' width='70' /> </a>
+</div>
+<div class="comment-body ">
+<a class="comment-author" href="https://jannah.tielabs.com/games/product/versiontech-stereo-gaming-headset-for-ps4-xbox-one/#comment-28">
+Maria </a>
+<p>This only gets 1 star because I don't have this yet. I want...</p>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="bbp_forums_widget-2" class="container-wrapper widget widget_display_forums"><div class="widget-title the-global-title has-block-head-4"><h4>Forums</h4></div>
+<ul>
+<li><a class="bbp-forum-title" href="https://jannah.tielabs.com/games/forums/forum/test-forum-forum-with-nested-forums/">Games Discussion</a></li>
+<li><a class="bbp-forum-title" href="https://jannah.tielabs.com/games/forums/forum/faq/">Off-Topic Discussion</a></li>
+<li><a class="bbp-forum-title" href="https://jannah.tielabs.com/games/forums/forum/test-forum-forum-with-one-topic-with-loads-of-replies-for-reply-pagination/">PlayStation Nation</a></li>
+<li><a class="bbp-forum-title" href="https://jannah.tielabs.com/games/forums/forum/off-topic/">System Wars</a></li>
+<li><a class="bbp-forum-title" href="https://jannah.tielabs.com/games/forums/forum/test-forum-loads-of-topics-for-topic-pagination/">Test Forum: Topics Pagination</a></li>
+<li><a class="bbp-forum-title" href="https://jannah.tielabs.com/games/forums/forum/general/">Xbox Association</a></li>
+<li><a class="bbp-forum-title" href="https://jannah.tielabs.com/games/forums/forum/bbpress-forums-category/">Test Forum: bbPress Forums Category</a></li>
+<li><a class="bbp-forum-title" href="https://jannah.tielabs.com/games/forums/forum/clothing/">Test Forum: Clothing</a></li>
+</ul>
+<div class="clearfix"></div></div> </div>
+</aside>
+</div>
+</div>
+</div>
+</div>
+<div id="tiepost-8-section-8279" class="section-wrapper container-full has-background">
+<div class="section-item full-width dark-skin" style="background-size: cover;">
+<div class="container">
+<div class="tie-row main-content-row">
+<div class="main-content tie-col-md-12">
+<section id="tie-block_2368" class="slider-area mag-box">
+<div id="tie-main-slider-5-block_2368" class="tie-main-slider main-slider boxed-slider-three-slides-wrapper boxed-slider tie-slick-slider-wrapper" data-slider-id="5" data-speed="3000">
+<div class="loader-overlay"><div class="spinner-circle"></div></div>
+<div class="main-slider-inner">
+<ul class="tie-slider-nav"></ul>
+<div class="containerblock_2368">
+<div class="tie-slick-slider">
+<div class="slide lazy-bg slide-id-108 tie-slide-1 is-trending tie-standard"><img data-lazy="https://jannah.tielabs.com/games/wp-content/uploads/sites/45/2017/09/omega_squad-tristana-skin-splash_art-2202-780x500.jpg" src="https://jannah.tielabs.com/games/wp-content/themes/jannah/assets/images/tie-empty.png" width="2000" height="2000" alt=""><div class="slide-bg"></div>
+<a href="https://jannah.tielabs.com/games/2017/08/14/wildlands-new-pvp-mode-in-action-how-to-build-a-gaming-pc/" class="all-over-thumb-link"></a>
+<div class="thumb-overlay"><div class="thumb-content"><div class="thumb-meta"><span class="trending-post fa fa-bolt " aria-hidden="true"></span><span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>Aug 14, 2017</span></span></div>
+<h2 class="thumb-title"><a href="https://jannah.tielabs.com/games/2017/08/14/wildlands-new-pvp-mode-in-action-how-to-build-a-gaming-pc/" title="Wildlands&#8217; New PvP Mode, In Action How To Build A Gaming PC">Wildlands&#8217; New PvP Mode, In Action How To Build A Gaming PC</a></h2>
+<div class="thumb-desc">Teleportation is also what VFR uses to replace the gory melee kills in Doom: once you stagger and enemy by&hellip;</div></div> 
+</div>
+</div>
+<div class="slide lazy-bg slide-id-37 tie-slide-2 tie-video"><img data-lazy="https://jannah.tielabs.com/games/wp-content/uploads/sites/45/2017/09/dirt_4-racing-game-car-2055-780x500.jpg" src="https://jannah.tielabs.com/games/wp-content/themes/jannah/assets/images/tie-empty.png" width="2000" height="2000" alt=""><div class="slide-bg"></div>
+<a href="https://jannah.tielabs.com/games/2017/08/13/dirt-4-racing-game-car-review/" class="all-over-thumb-link"></a>
+<div class="thumb-overlay"><div class="thumb-content"><div class="thumb-meta"><span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>Aug 13, 2017</span></span></div>
+<h2 class="thumb-title"><a href="https://jannah.tielabs.com/games/2017/08/13/dirt-4-racing-game-car-review/" title="Dirt 4 Racing Game Car Review">Dirt 4 Racing Game Car Review</a></h2>
+<div class="thumb-desc">Metroid is a Nintendo institution, one that dates almost as far back as the company&#8217;s console business. The series includes phenomenal&hellip;</div></div> 
+</div>
+</div>
+<div class="slide lazy-bg slide-id-26 tie-slide-3 tie-video"><img data-lazy="https://jannah.tielabs.com/games/wp-content/uploads/sites/45/2017/09/battlefield_1-war-game-soldiers-351-780x500.jpg" src="https://jannah.tielabs.com/games/wp-content/themes/jannah/assets/images/tie-empty.png" width="2000" height="2000" alt=""><div class="slide-bg"></div>
+<a href="https://jannah.tielabs.com/games/2017/08/13/battlefield-3-war-game-soldiers-review/" class="all-over-thumb-link"></a>
+<div class="thumb-overlay"><div class="thumb-content"><div class="thumb-meta"><span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>Aug 13, 2017</span></span></div>
+<h2 class="thumb-title"><a href="https://jannah.tielabs.com/games/2017/08/13/battlefield-3-war-game-soldiers-review/" title="Battlefield 3 War Game Soldiers Review">Battlefield 3 War Game Soldiers Review</a></h2>
+<div class="thumb-desc">Using those two types of movement together to stay one step ahead of the horde takes some getting used to,&hellip;</div></div> 
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+</div> </div>
+</div>
+<footer id="footer" class="site-footer dark-skin dark-widgetized-area">
+<div id="footer-widgets-container">
+<div class="container">
+<div class="footer-widget-area ">
+<div class="tie-row">
+<div class="fullwidth-area tie-col-sm-12">
+<div id="tag_cloud-2" class="container-wrapper widget widget_tag_cloud"><div class="widget-title the-global-title has-block-head-4"><h4>Hot Topics</h4></div><div class="tagcloud"><a href="https://jannah.tielabs.com/games/tag/android-games/" class="tag-cloud-link tag-link-20 tag-link-position-1" style="font-size: 17.479166666667pt;" aria-label="Android Games (8 items)">Android Games</a>
+<a href="https://jannah.tielabs.com/games/tag/desktop-games/" class="tag-cloud-link tag-link-22 tag-link-position-2" style="font-size: 17.479166666667pt;" aria-label="Desktop Games (8 items)">Desktop Games</a>
+<a href="https://jannah.tielabs.com/games/tag/ios-games/" class="tag-cloud-link tag-link-21 tag-link-position-3" style="font-size: 17.479166666667pt;" aria-label="IOS Games (8 items)">IOS Games</a>
+<a href="https://jannah.tielabs.com/games/tag/mainslide/" class="tag-cloud-link tag-link-2 tag-link-position-4" style="font-size: 8pt;" aria-label="mainslide (1 item)">mainslide</a>
+<a href="https://jannah.tielabs.com/games/tag/news/" class="tag-cloud-link tag-link-12 tag-link-position-5" style="font-size: 22pt;" aria-label="News (17 items)">News</a>
+<a href="https://jannah.tielabs.com/games/tag/online-games/" class="tag-cloud-link tag-link-26 tag-link-position-6" style="font-size: 16.75pt;" aria-label="Online Games (7 items)">Online Games</a>
+<a href="https://jannah.tielabs.com/games/tag/pc/" class="tag-cloud-link tag-link-13 tag-link-position-7" style="font-size: 17.479166666667pt;" aria-label="PC (8 items)">PC</a>
+<a href="https://jannah.tielabs.com/games/tag/play-station/" class="tag-cloud-link tag-link-23 tag-link-position-8" style="font-size: 16.75pt;" aria-label="Play Station (7 items)">Play Station</a>
+<a href="https://jannah.tielabs.com/games/tag/ps4/" class="tag-cloud-link tag-link-14 tag-link-position-9" style="font-size: 16.75pt;" aria-label="PS4 (7 items)">PS4</a>
+<a href="https://jannah.tielabs.com/games/tag/reviews/" class="tag-cloud-link tag-link-16 tag-link-position-10" style="font-size: 21.5625pt;" aria-label="Reviews (16 items)">Reviews</a>
+<a href="https://jannah.tielabs.com/games/tag/sp2/" class="tag-cloud-link tag-link-25 tag-link-position-11" style="font-size: 16.75pt;" aria-label="SP2 (7 items)">SP2</a>
+<a href="https://jannah.tielabs.com/games/tag/sp3/" class="tag-cloud-link tag-link-24 tag-link-position-12" style="font-size: 16.75pt;" aria-label="SP3 (7 items)">SP3</a>
+<a href="https://jannah.tielabs.com/games/tag/technology/" class="tag-cloud-link tag-link-19 tag-link-position-13" style="font-size: 15pt;" aria-label="Technology (5 items)">Technology</a>
+<a href="https://jannah.tielabs.com/games/tag/universe/" class="tag-cloud-link tag-link-17 tag-link-position-14" style="font-size: 19.375pt;" aria-label="Universe (11 items)">Universe</a>
+<a href="https://jannah.tielabs.com/games/tag/videos/" class="tag-cloud-link tag-link-18 tag-link-position-15" style="font-size: 18.208333333333pt;" aria-label="Videos (9 items)">Videos</a>
+<a href="https://jannah.tielabs.com/games/tag/xbox-one/" class="tag-cloud-link tag-link-15 tag-link-position-16" style="font-size: 17.479166666667pt;" aria-label="Xbox One (8 items)">Xbox One</a></div>
+<div class="clearfix"></div></div> </div>
+</div>
+</div>
+<div class="footer-widget-area ">
+<div class="tie-row">
+<div class="tie-col-sm-3 normal-side">
+<div id="posts-list-widget-5" class="container-wrapper widget posts-list"><div class="widget-title the-global-title has-block-head-4"><h4>Hot Games</h4></div><div class="media-overlay posts-list-counter"><ul class="posts-list-items">
+<li class="widget-post-list tie-slider">
+<div class="post-widget-thumbnail">
+<a href="https://jannah.tielabs.com/games/2017/09/14/watch-ghost-recon-wildlands-new-pvp-mode-ghost-war-in-action-destiny-2/" title="Watch Ghost Recon: Wildlands&#8217; New PvP Mode In Action Destiny 2" class="post-thumb"><div class="digital-rating-static" data-rate-val="69.833333333333"><strong>7</strong></div>
+<div class="post-thumb-overlay-wrap">
+<div class="post-thumb-overlay">
+<span class="icon"></span>
+</div>
+</div>
+<img width="220" height="150" src="https://jannah.tielabs.com/games/wp-content/themes/jannah/assets/images/tie-empty-small.png" class="attachment-jannah-image-small size-jannah-image-small lazy-img tie-small-image wp-post-image" alt="" data-src="https://jannah.tielabs.com/games/wp-content/uploads/sites/45/2017/09/warlock-destiny_2-game-21612-220x150.jpg" /></a> </div>
+<div class="post-widget-body ">
+<h3 class="post-title"><a href="https://jannah.tielabs.com/games/2017/09/14/watch-ghost-recon-wildlands-new-pvp-mode-ghost-war-in-action-destiny-2/" title="Watch Ghost Recon: Wildlands&#8217; New PvP Mode In Action Destiny 2">Watch Ghost Recon: Wildlands&#8217; New PvP Mode In Action Destiny 2</a></h3>
+<div class="post-meta">
+<span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>Sep 14, 2017</span></span> </div>
+</div>
+</li>
+<li class="widget-post-list is-trending tie-slider">
+<div class="post-widget-thumbnail">
+<a href="https://jannah.tielabs.com/games/2017/09/14/overwatch-addressing-rising-tide-of-toxicity-in-the-game-heres-how-3/" title="Overwatch Addressing &#8220;Rising Tide Of Toxicity&#8221; In The Game, Here&#8217;s How" class="post-thumb"><div class="digital-rating-static" data-rate-val="92.333333333333"><strong>9.2</strong></div>
+<div class="post-thumb-overlay-wrap">
+<div class="post-thumb-overlay">
+<span class="icon"></span>
+</div>
+</div>
+<img width="220" height="150" src="https://jannah.tielabs.com/games/wp-content/themes/jannah/assets/images/tie-empty-small.png" class="attachment-jannah-image-small size-jannah-image-small lazy-img tie-small-image wp-post-image" alt="" data-src="https://jannah.tielabs.com/games/wp-content/uploads/sites/45/2017/09/t_rex-super_mario_odyssey-game-2210-220x150.jpg" /></a> </div>
+<div class="post-widget-body ">
+<h3 class="post-title"><a href="https://jannah.tielabs.com/games/2017/09/14/overwatch-addressing-rising-tide-of-toxicity-in-the-game-heres-how-3/" title="Overwatch Addressing &#8220;Rising Tide Of Toxicity&#8221; In The Game, Here&#8217;s How">Overwatch Addressing &#8220;Rising Tide Of Toxicity&#8221; In The Game, Here&#8217;s How</a></h3>
+<div class="post-meta">
+<span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>Sep 14, 2017</span></span> </div>
+</div>
+</li>
+<li class="widget-post-list tie-standard">
+<div class="post-widget-thumbnail">
+<a href="https://jannah.tielabs.com/games/2017/09/14/nintendo-direct-switch3ds-all-the-news-videos-and-more/" title="Nintendo Direct Switch/3DS: All The News, Videos, And More" class="post-thumb"><div class="digital-rating-static" data-rate-val="82.5"><strong>8.3</strong></div>
+<div class="post-thumb-overlay-wrap">
+<div class="post-thumb-overlay">
+<span class="icon"></span>
+</div>
+</div>
+<img width="220" height="150" src="https://jannah.tielabs.com/games/wp-content/themes/jannah/assets/images/tie-empty-small.png" class="attachment-jannah-image-small size-jannah-image-small lazy-img tie-small-image wp-post-image" alt="" data-src="https://jannah.tielabs.com/games/wp-content/uploads/sites/45/2017/09/gas_mask-soldiers-battlefield_1-13026-220x150.jpg" /></a> </div>
+<div class="post-widget-body ">
+<h3 class="post-title"><a href="https://jannah.tielabs.com/games/2017/09/14/nintendo-direct-switch3ds-all-the-news-videos-and-more/" title="Nintendo Direct Switch/3DS: All The News, Videos, And More">Nintendo Direct Switch/3DS: All The News, Videos, And More</a></h3>
+<div class="post-meta">
+<span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>Sep 14, 2017</span></span> </div>
+</div>
+</li>
+</ul></div><div class="clearfix"></div></div> </div>
+<div class="tie-col-sm-3 normal-side">
+<div id="latest_tweets_widget-2" class="container-wrapper widget latest-tweets-widget"><div class="widget-title the-global-title has-block-head-4"><h4><a href="https://twitter.com/tielabs" target="_blank">On Twitter</a></h4></div>
+<ul>
+<li class="slide">
+<div class="twitter-icon-wrap">
+<span class="fa fa-twitter" aria-hidden="true"></span>
+</div>
+<div class="tweetaya-body">
+<p><a href="https://twitter.com/kamalbadawy" target="_blank">@kamalbadawy</a> If you have any further questions or need assistance, renew you support, and open a ticket… <a href="https://t.co/ZI9HyF3mQZ" target="_blank">https://t.co/ZI9HyF3mQZ</a></p>
+<span class="tweetaya-meta"><a href="https://twitter.com/#!/tielabs/status/970523177733541888" title="2018/03/05 04:55:31" target="_blank" rel="nofollow">2018/03/05</a></span>
+</div>
+</li>
+<li class="slide">
+<div class="twitter-icon-wrap">
+<span class="fa fa-twitter" aria-hidden="true"></span>
+</div>
+<div class="tweetaya-body">
+<p><a href="https://twitter.com/kamalbadawy" target="_blank">@kamalbadawy</a> In the theme options page &gt; Ads tab &gt; header Ad &gt; custom code section</p>
+<span class="tweetaya-meta"><a href="https://twitter.com/#!/tielabs/status/970519637850017793" title="2018/03/05 04:41:27" target="_blank" rel="nofollow">2018/03/05</a></span>
+</div>
+</li>
+<li class="slide">
+<div class="twitter-icon-wrap">
+<span class="fa fa-twitter" aria-hidden="true"></span>
+</div>
+<div class="tweetaya-body">
+<p><a href="https://twitter.com/kamalbadawy" target="_blank">@kamalbadawy</a> Hi,
+Please provide us with the Ticket ID.</p>
+<span class="tweetaya-meta"><a href="https://twitter.com/#!/tielabs/status/970156798694035456" title="2018/03/04 04:39:40" target="_blank" rel="nofollow">2018/03/04</a></span>
+</div>
+</li>
+</ul>
+<a href="https://twitter.com/tielabs" target="_blank" rel="nofollow" class="button dark-btn fullwidth">Follow us on Twitter</a>
+<div class="clearfix"></div></div> </div>
+<div class="tie-col-sm-6 normal-side">
+<div id="tie-newsletter-2" class="container-wrapper widget subscribe-widget">
+<div class="widget-inner-wrap">
+<span class="fa fa-envelope newsletter-icon" aria-hidden="true"></span>
+<div class="subscribe-widget-content">
+<h4>With Product You Purchase</h4>
+<h3>Subscribe to our mailing list to get the new updates!</h3>
+<p>Lorem ipsum dolor sit amet, consectetur.</p> </div>
+<div id="mc_embed_signup-tie-newsletter-2">
+<form action="mo3aser" method="post" id="mc-embedded-subscribe-form-tie-newsletter-2" name="mc-embedded-subscribe-form" class="subscribe-form validate" target="_blank" novalidate>
+<div class="mc-field-group">
+<label class="screen-reader-text" for="mce-EMAIL-tie-newsletter-2">Enter your Email address</label>
+<input type="email" value="" id="mce-EMAIL-tie-newsletter-2" placeholder="Enter your Email address" name="EMAIL" class="subscribe-input required email">
+</div>
+<input type="submit" value="Subscribe" name="subscribe" class="button subscribe-submit">
+</form>
+</div>
+</div>
+<div class="clearfix"></div></div><div class="widget social-icons-widget widget-content-only"><ul class="solid-social-icons is-centered"><li class="social-icons-item"><a class="social-link  facebook-social-icon" title="Facebook" rel="nofollow" target="_blank" href="#!"><span class="fa fa-facebook"></span></a></li><li class="social-icons-item"><a class="social-link  twitter-social-icon" title="Twitter" rel="nofollow" target="_blank" href="#!"><span class="fa fa-twitter"></span></a></li><li class="social-icons-item"><a class="social-link  youtube-social-icon" title="YouTube" rel="nofollow" target="_blank" href="#!"><span class="fa fa-youtube"></span></a></li><li class="social-icons-item"><a class="social-link  instagram-social-icon" title="Instagram" rel="nofollow" target="_blank" href="#!"><span class="fa fa-instagram"></span></a></li><li class="social-icons-item"><a class="social-link  twitch-social-icon" title="Twitch" rel="nofollow" target="_blank" href="#"><span class="fa fa-twitch"></span></a></li></ul>
+<div class="clearfix"></div></div> </div>
+</div>
+</div>
+</div>
+</div>
+<div id="site-info" class="site-info-layout-2">
+<div class="container">
+<div class="tie-row">
+<div class="tie-col-md-12">
+<div class="copyright-text copyright-text-first">&copy; Copyright 2018, All Rights Reserved</div><ul class="social-icons"><li class="social-icons-item"><a class="social-link  facebook-social-icon" title="Facebook" rel="nofollow" target="_blank" href="#!"><span class="fa fa-facebook"></span></a></li><li class="social-icons-item"><a class="social-link  twitter-social-icon" title="Twitter" rel="nofollow" target="_blank" href="#!"><span class="fa fa-twitter"></span></a></li><li class="social-icons-item"><a class="social-link  youtube-social-icon" title="YouTube" rel="nofollow" target="_blank" href="#!"><span class="fa fa-youtube"></span></a></li><li class="social-icons-item"><a class="social-link  instagram-social-icon" title="Instagram" rel="nofollow" target="_blank" href="#!"><span class="fa fa-instagram"></span></a></li><li class="social-icons-item"><a class="social-link  twitch-social-icon" title="Twitch" rel="nofollow" target="_blank" href="#"><span class="fa fa-twitch"></span></a></li></ul>
+</div>
+</div>
+</div>
+</div>
+</footer>
+<a id="go-to-top" class="go-to-top-button" href="#go-to-tie-body"><span class="fa fa-angle-up"></span></a><div class="clear"></div>
+</div>
+<aside class="side-aside normal-side tie-aside-effect dark-skin dark-widgetized-area is-fullwidth" aria-label="Secondary Sidebar">
+<div data-height="100%" class="side-aside-wrapper has-custom-scroll">
+<a href="#" class="close-side-aside remove big-btn light-btn">
+<span class="screen-reader-text">Close</span>
+</a>
+<div id="mobile-container">
+<div id="mobile-menu" class="hide-menu-icons"></div>
+<div class="mobile-social-search">
+<div id="mobile-social-icons" class="social-icons-widget solid-social-icons">
+<ul><li class="social-icons-item"><a class="social-link  facebook-social-icon" title="Facebook" rel="nofollow" target="_blank" href="#!"><span class="fa fa-facebook"></span></a></li><li class="social-icons-item"><a class="social-link  twitter-social-icon" title="Twitter" rel="nofollow" target="_blank" href="#!"><span class="fa fa-twitter"></span></a></li><li class="social-icons-item"><a class="social-link  youtube-social-icon" title="YouTube" rel="nofollow" target="_blank" href="#!"><span class="fa fa-youtube"></span></a></li><li class="social-icons-item"><a class="social-link  instagram-social-icon" title="Instagram" rel="nofollow" target="_blank" href="#!"><span class="fa fa-instagram"></span></a></li><li class="social-icons-item"><a class="social-link  twitch-social-icon" title="Twitch" rel="nofollow" target="_blank" href="#"><span class="fa fa-twitch"></span></a></li></ul>
+</div>
+<div id="mobile-search">
+<form role="search" method="get" class="search-form" action="https://jannah.tielabs.com/games/">
+<label>
+<span class="screen-reader-text">Search for:</span>
+<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" />
+</label>
+<input type="submit" class="search-submit" value="Search" />
+</form> </div>
+</div>
+</div>
+</div>
+</aside>
+</div>
+</div>
+<div class="demos-panel-btns">
+<a href="#" id="demos-aside-open" class="panel-btn button">
+<span>25+</span>
+<p>Demos</p>
+</a>
+<a target="_blank" href="https://themeforest.net/item/i/19659555?ref=tielabs&utm_source=demos&utm_campaign=jannah&utm_content=games&utm_medium=buy-button" id="demos-buynow-btn" class="panel-btn">
+<span class="fa fa-shopping-basket"></span>
+<p>Buy Now!</p>
+</a>
+</div>
+<div id="tie-popup-demos">
+<div id="panel-bottom-gradient"></div>
+<a href="#" class="panel-btn-close">
+<span class="tie-icon-cross" aria-hidden="true"></span>
+<span class="screen-reader-text">Close</span>
+</a>
+<div class="popup-content">
+<div class="container-wrapper">
+<div class="demo-panel-header">
+<h4 class="demos-panel-head brand-title">Jannah</h4>
+<p class="amazing-title">Amazing Installable Demos</p>
+<p class="theme-desc">
+Jannah is a Clean Responsive WordPress Newspaper, Magazine, News and Blog theme. Packed with options that allow you to completely customize your website to your needs. </p>
+</div>
+<ul class="demos-list">
+<li class="demodemo-item">
+<a href="https://jannah.tielabs.com/demo" target="_blank">
+<img class="demo-lazy-img" width="870" height="731" src="https://jannah.tielabs.com/games/wp-content/themes/jannah/assets/images/tie-empty.png" data-src="https://s3-us-west-2.amazonaws.com/tielabs/jannah/images/demos-screenshots/demo.jpg" alt="Main Demo">
+<span>Main Demo</span>
+</a>
+</li>
+<li class="techdemo-item">
+<a href="https://jannah.tielabs.com/tech" target="_blank">
+<img class="demo-lazy-img" width="870" height="731" src="https://jannah.tielabs.com/games/wp-content/themes/jannah/assets/images/tie-empty.png" data-src="https://s3-us-west-2.amazonaws.com/tielabs/jannah/images/demos-screenshots/tech.jpg" alt="Tech">
+<span>Tech</span>
+</a>
+</li>
+<li class="videos-2demo-item">
+<a href="https://jannah.tielabs.com/videos-2" target="_blank">
+<img class="demo-lazy-img" width="870" height="731" src="https://jannah.tielabs.com/games/wp-content/themes/jannah/assets/images/tie-empty.png" data-src="https://s3-us-west-2.amazonaws.com/tielabs/jannah/images/demos-screenshots/videos-2.jpg" alt="Videos 2">
+<span>Videos 2</span>
+</a>
+</li>
+<li class="geodemo-item">
+<a href="https://jannah.tielabs.com/geo" target="_blank">
+<img class="demo-lazy-img" width="870" height="731" src="https://jannah.tielabs.com/games/wp-content/themes/jannah/assets/images/tie-empty.png" data-src="https://s3-us-west-2.amazonaws.com/tielabs/jannah/images/demos-screenshots/geo.jpg" alt="Geo">
+<span>Geo</span>
+<small class="demo-badge new">new<span class="inner-arrow"></span></small>
+</a>
+</li>
+<li class="cryptocurrencydemo-item">
+<a href="https://jannah.tielabs.com/cryptocurrency" target="_blank">
+<img class="demo-lazy-img" width="870" height="731" src="https://jannah.tielabs.com/games/wp-content/themes/jannah/assets/images/tie-empty.png" data-src="https://s3-us-west-2.amazonaws.com/tielabs/jannah/images/demos-screenshots/cryptocurrency.jpg" alt="Cryptocurrency">
+<span>Cryptocurrency</span>
+<small class="demo-badge new">new<span class="inner-arrow"></span></small>
+</a>
+</li>
+<li class="gamesdemo-item">
+<a href="https://jannah.tielabs.com/games" target="_blank">
+<img class="demo-lazy-img" width="870" height="731" src="https://jannah.tielabs.com/games/wp-content/themes/jannah/assets/images/tie-empty.png" data-src="https://s3-us-west-2.amazonaws.com/tielabs/jannah/images/demos-screenshots/games.jpg" alt="Games">
+<span>Games</span>
+<small class="demo-badge new">new<span class="inner-arrow"></span></small>
+</a>
+</li>
+<li class="foodsdemo-item">
+<a href="https://jannah.tielabs.com/foods" target="_blank">
+<img class="demo-lazy-img" width="870" height="731" src="https://jannah.tielabs.com/games/wp-content/themes/jannah/assets/images/tie-empty.png" data-src="https://s3-us-west-2.amazonaws.com/tielabs/jannah/images/demos-screenshots/foods.jpg" alt="Recipes &amp; Tips">
+<span>Recipes &amp; Tips</span>
+</a>
+</li>
+<li class="creativedemo-item">
+<a href="https://jannah.tielabs.com/creative" target="_blank">
+<img class="demo-lazy-img" width="870" height="731" src="https://jannah.tielabs.com/games/wp-content/themes/jannah/assets/images/tie-empty.png" data-src="https://s3-us-west-2.amazonaws.com/tielabs/jannah/images/demos-screenshots/creative.jpg" alt="Creative">
+<span>Creative</span>
+<small class="demo-badge Hot">Hot<span class="inner-arrow"></span></small>
+</a>
+</li>
+<li class="photographydemo-item">
+<a href="https://jannah.tielabs.com/photography" target="_blank">
+<img class="demo-lazy-img" width="870" height="731" src="https://jannah.tielabs.com/games/wp-content/themes/jannah/assets/images/tie-empty.png" data-src="https://s3-us-west-2.amazonaws.com/tielabs/jannah/images/demos-screenshots/photography.jpg" alt="Photography">
+<span>Photography</span>
+</a>
+</li>
+<li class="hotelsdemo-item">
+<a href="https://jannah.tielabs.com/hotels" target="_blank">
+<img class="demo-lazy-img" width="870" height="731" src="https://jannah.tielabs.com/games/wp-content/themes/jannah/assets/images/tie-empty.png" data-src="https://s3-us-west-2.amazonaws.com/tielabs/jannah/images/demos-screenshots/hotels.jpg" alt="Hotels">
+<span>Hotels</span>
+<small class="demo-badge Hot">Hot<span class="inner-arrow"></span></small>
+</a>
+</li>
+<li class="housedemo-item">
+<a href="https://jannah.tielabs.com/house" target="_blank">
+<img class="demo-lazy-img" width="870" height="731" src="https://jannah.tielabs.com/games/wp-content/themes/jannah/assets/images/tie-empty.png" data-src="https://s3-us-west-2.amazonaws.com/tielabs/jannah/images/demos-screenshots/house.jpg" alt="House">
+<span>House</span>
+</a>
+</li>
+<li class="sportdemo-item">
+<a href="https://jannah.tielabs.com/sport" target="_blank">
+<img class="demo-lazy-img" width="870" height="731" src="https://jannah.tielabs.com/games/wp-content/themes/jannah/assets/images/tie-empty.png" data-src="https://s3-us-west-2.amazonaws.com/tielabs/jannah/images/demos-screenshots/sport.jpg" alt="Sports">
+<span>Sports</span>
+<small class="demo-badge Hot">Hot<span class="inner-arrow"></span></small>
+</a>
+</li>
+<li class="traveldemo-item">
+<a href="https://jannah.tielabs.com/travel" target="_blank">
+<img class="demo-lazy-img" width="870" height="731" src="https://jannah.tielabs.com/games/wp-content/themes/jannah/assets/images/tie-empty.png" data-src="https://s3-us-west-2.amazonaws.com/tielabs/jannah/images/demos-screenshots/travel.jpg" alt="Travel">
+<span>Travel</span>
+</a>
+</li>
+<li class="autodemo-item">
+<a href="https://jannah.tielabs.com/auto" target="_blank">
+<img class="demo-lazy-img" width="870" height="731" src="https://jannah.tielabs.com/games/wp-content/themes/jannah/assets/images/tie-empty.png" data-src="https://s3-us-west-2.amazonaws.com/tielabs/jannah/images/demos-screenshots/auto.jpg" alt="Auto">
+<span>Auto</span>
+</a>
+</li>
+<li class="petsdemo-item">
+<a href="https://jannah.tielabs.com/pets" target="_blank">
+<img class="demo-lazy-img" width="870" height="731" src="https://jannah.tielabs.com/games/wp-content/themes/jannah/assets/images/tie-empty.png" data-src="https://s3-us-west-2.amazonaws.com/tielabs/jannah/images/demos-screenshots/pets.jpg" alt="Pets">
+<span>Pets</span>
+</a>
+</li>
+<li class="schooldemo-item">
+<a href="https://jannah.tielabs.com/school" target="_blank">
+<img class="demo-lazy-img" width="870" height="731" src="https://jannah.tielabs.com/games/wp-content/themes/jannah/assets/images/tie-empty.png" data-src="https://s3-us-west-2.amazonaws.com/tielabs/jannah/images/demos-screenshots/school.jpg" alt="School">
+<span>School</span>
+</a>
+</li>
+<li class="travelingdemo-item">
+<a href="https://jannah.tielabs.com/traveling" target="_blank">
+<img class="demo-lazy-img" width="870" height="731" src="https://jannah.tielabs.com/games/wp-content/themes/jannah/assets/images/tie-empty.png" data-src="https://s3-us-west-2.amazonaws.com/tielabs/jannah/images/demos-screenshots/traveling.jpg" alt="Traveling">
+<span>Traveling</span>
+</a>
+</li>
+<li class="sciencedemo-item">
+<a href="https://jannah.tielabs.com/science" target="_blank">
+<img class="demo-lazy-img" width="870" height="731" src="https://jannah.tielabs.com/games/wp-content/themes/jannah/assets/images/tie-empty.png" data-src="https://s3-us-west-2.amazonaws.com/tielabs/jannah/images/demos-screenshots/science.jpg" alt="Science">
+<span>Science</span>
+</a>
+</li>
+<li class="healthdemo-item">
+<a href="https://jannah.tielabs.com/health" target="_blank">
+<img class="demo-lazy-img" width="870" height="731" src="https://jannah.tielabs.com/games/wp-content/themes/jannah/assets/images/tie-empty.png" data-src="https://s3-us-west-2.amazonaws.com/tielabs/jannah/images/demos-screenshots/health.jpg" alt="Health">
+<span>Health</span>
+</a>
+</li>
+<li class="videosdemo-item">
+<a href="https://jannah.tielabs.com/videos" target="_blank">
+<img class="demo-lazy-img" width="870" height="731" src="https://jannah.tielabs.com/games/wp-content/themes/jannah/assets/images/tie-empty.png" data-src="https://s3-us-west-2.amazonaws.com/tielabs/jannah/images/demos-screenshots/videos.jpg" alt="Videos">
+<span>Videos</span>
+<small class="demo-badge Hot">Hot<span class="inner-arrow"></span></small>
+</a>
+</li>
+<li class="timesdemo-item">
+<a href="https://jannah.tielabs.com/times" target="_blank">
+<img class="demo-lazy-img" width="870" height="731" src="https://jannah.tielabs.com/games/wp-content/themes/jannah/assets/images/tie-empty.png" data-src="https://s3-us-west-2.amazonaws.com/tielabs/jannah/images/demos-screenshots/times.jpg" alt="Times">
+<span>Times</span>
+<small class="demo-badge Hot">Hot<span class="inner-arrow"></span></small>
+</a>
+</li>
+<li class="minimal-blogdemo-item">
+<a href="https://jannah.tielabs.com/minimal-blog" target="_blank">
+<img class="demo-lazy-img" width="870" height="731" src="https://jannah.tielabs.com/games/wp-content/themes/jannah/assets/images/tie-empty.png" data-src="https://s3-us-west-2.amazonaws.com/tielabs/jannah/images/demos-screenshots/minimal-blog.jpg" alt="Minimal Blog">
+<span>Minimal Blog</span>
+</a>
+</li>
+<li class="blogdemo-item">
+<a href="https://jannah.tielabs.com/blog" target="_blank">
+<img class="demo-lazy-img" width="870" height="731" src="https://jannah.tielabs.com/games/wp-content/themes/jannah/assets/images/tie-empty.png" data-src="https://s3-us-west-2.amazonaws.com/tielabs/jannah/images/demos-screenshots/blog.jpg" alt="Personal Blog">
+<span>Personal Blog</span>
+</a>
+</li>
+<li class="citydemo-item">
+<a href="https://jannah.tielabs.com/city" target="_blank">
+<img class="demo-lazy-img" width="870" height="731" src="https://jannah.tielabs.com/games/wp-content/themes/jannah/assets/images/tie-empty.png" data-src="https://s3-us-west-2.amazonaws.com/tielabs/jannah/images/demos-screenshots/city.jpg" alt="City Magazine">
+<span>City Magazine</span>
+</a>
+</li>
+<li class="rtldemo-item">
+<a href="https://jannah.tielabs.com/rtl" target="_blank">
+<img class="demo-lazy-img" width="870" height="731" src="https://jannah.tielabs.com/games/wp-content/themes/jannah/assets/images/tie-empty.png" data-src="https://s3-us-west-2.amazonaws.com/tielabs/jannah/images/demos-screenshots/rtl.jpg" alt="RTL Demo">
+<span>RTL Demo</span>
+</a>
+</li>
+<li class="demos-soondemo-item">
+<img class="demo-lazy-img" width="870" height="731" src="https://jannah.tielabs.com/games/wp-content/themes/jannah/assets/images/tie-empty.png" data-src="https://s3-us-west-2.amazonaws.com/tielabs/jannah/images/demos-screenshots/demos-soon.jpg" alt="Coming Soon">
+<span>Coming Soon</span>
+</li>
+<li class="demos-soondemo-item">
+<img class="demo-lazy-img" width="870" height="731" src="https://jannah.tielabs.com/games/wp-content/themes/jannah/assets/images/tie-empty.png" data-src="https://s3-us-west-2.amazonaws.com/tielabs/jannah/images/demos-screenshots/demos-soon.jpg" alt="Coming Soon">
+<span>Coming Soon</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div id="fb-root"></div> <div id="tie-popup-search-wrap" class="tie-popup">
+<a href="#" class="tie-btn-close remove big-btn light-btn">
+<span class="screen-reader-text">Close</span>
+</a>
+<div class="container">
+<div class="popup-search-wrap-inner">
+<div class="tie-row">
+<div id="pop-up-live-search" class="tie-col-md-12 live-search-parent" data-skin="live-search-popup" aria-label="Search">
+<form method="get" id="tie-popup-search-form" action="https://jannah.tielabs.com/games//">
+<input id="tie-popup-search-input" class="is-ajax-search" type="text" name="s" title="Search for" autocomplete="off" placeholder="Type and hit Enter" />
+<button id="tie-popup-search-submit" type="submit"><span class="fa fa-search" aria-hidden="true"></span></button>
+</form>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="tie-popup-login" class="tie-popup">
+<a href="#" class="tie-btn-close remove big-btn light-btn">
+<span class="screen-reader-text">Close</span>
+</a>
+<div class="tie-popup-container">
+<div class="container-wrapper">
+<div class="widget login-widget">
+<div class="widget-title the-global-title has-block-head-4">
+<h4>Log In <span class="widget-title-icon fa "></span>
+</h4>
+</div>
+<div class="widget-container">
+<div class="login-form">
+<form name="registerform" action="https://jannah.tielabs.com/games/wp-login.php" method="post">
+<input type="text" name="log" title="Username" placeholder="Username">
+<div class="pass-container">
+<input type="password" name="pwd" title="Password" placeholder="Password">
+<a class="forget-text" href="https://jannah.tielabs.com/games/my-account/lost-password/">Forget?</a>
+</div>
+<input type="hidden" name="redirect_to" value="/games/" />
+<label for="rememberme" class="rememberme">
+<input id="rememberme" name="rememberme" type="checkbox" checked="checked" value="forever" /> Remember me </label>
+<button type="submit" class="button fullwidth login-submit">Log In</button>
+</form>
+<p class="register-link"><a href="https://jannah.tielabs.com/games/wp-login.php?action=register">Don&#039;t have an account?</a></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script type='text/javascript' src='https://jannah.tielabs.com/games/wp-content/plugins/jannah-demos/assets/js/scripts.js'></script>
+<script type='text/javascript' src='https://jannah.tielabs.com/games/wp-content/plugins/bbpress/templates/default/js/editor.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/games\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/games\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View cart","cart_url":"https:\/\/jannah.tielabs.com\/games\/cart\/","is_cart":"","cart_redirect_after_add":"no"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://jannah.tielabs.com/games/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js'></script>
+<script type='text/javascript' src='https://jannah.tielabs.com/games/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js'></script>
+<script type='text/javascript' src='https://jannah.tielabs.com/games/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/games\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/games\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://jannah.tielabs.com/games/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/games\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/games\/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_5768e12d20de16017fa7a5cb6fa2a531","fragment_name":"wc_fragments_5768e12d20de16017fa7a5cb6fa2a531"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://jannah.tielabs.com/games/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js'></script>
+<script type='text/javascript' src='https://jannah.tielabs.com/games/wp-content/themes/jannah/assets/js/scripts.js'></script>
+<script type='text/javascript' src='https://jannah.tielabs.com/games/wp-includes/js/imagesloaded.min.js'></script>
+<script type='text/javascript' src='https://jannah.tielabs.com/games/wp-includes/js/wp-embed.min.js'></script>
+<script type='text/javascript' src='https://jannah.tielabs.com/games/wp-content/themes/jannah/assets/js/sliders.js'></script>
+<script type='text/javascript' src='https://jannah.tielabs.com/games/wp-content/themes/jannah/assets/js/parallax.js'></script>
+<script type="text/javascript">
+
+					var _foxpush = _foxpush || [];
+					_foxpush.push(['_setDomain', 'tielabscom']);
+
+					(function(){
+						var foxscript = document.createElement('script');
+						foxscript.src = '//cdn.foxpush.net/sdk/foxpush_SDK_min.js';
+						foxscript.type = 'text/javascript';
+						foxscript.async = 'true';
+						var fox_s = document.getElementsByTagName('script')[0];
+						fox_s.parentNode.insertBefore(foxscript, fox_s);
+					})();
+				</script>
+</body>
+</html>

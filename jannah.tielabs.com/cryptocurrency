@@ -1,0 +1,2071 @@
+<!DOCTYPE html>
+<html lang="en-US" prefix="og: http://ogp.me/ns#">
+<head>
+<meta charset="UTF-8" />
+<script src="/cdn-cgi/apps/head/svZxNnjSmGCwZH9Ca1C6yPS3ec8.js"></script><link rel="profile" href="https://gmpg.org/xfn/11" />
+<link rel="pingback" href="https://jannah.tielabs.com/cryptocurrency/xmlrpc.php" />
+<title>Cryptocurrency &#8211; Just another TieLabs Themes Sites site</title>
+<script type="text/javascript">
+		var ajaxurl = 'https://jannah.tielabs.com/cryptocurrency/wp-admin/admin-ajax.php';
+		</script>
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Cryptocurrency &raquo; Feed" href="https://jannah.tielabs.com/cryptocurrency/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Cryptocurrency &raquo; Comments Feed" href="https://jannah.tielabs.com/cryptocurrency/comments/feed/" />
+<meta property="og:title" content="Cryptocurrency" />
+<meta property="og:type" content="website" />
+<meta property="og:description" content="Just another TieLabs Themes Sites site" />
+<meta property="og:url" content="https://jannah.tielabs.com/cryptocurrency/" />
+<meta property="og:site_name" content="Cryptocurrency" />
+<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/jannah.tielabs.com\/cryptocurrency\/wp-includes\/js\/wp-emoji-release.min.js"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56692,8205,9792,65039],[55357,56692,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='jannah-demos-css-css' href='https://jannah.tielabs.com/cryptocurrency/wp-content/plugins/jannah-demos/assets/css/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='tie-css-woocommerce-css' href='https://jannah.tielabs.com/cryptocurrency/wp-content/themes/jannah/assets/css/woocommerce.css' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-ultimate-crypto-css' href='https://jannah.tielabs.com/cryptocurrency/wp-content/plugins/wp-ultimate-crypto/public/css/public.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='tie-css-crypto-css' href='https://jannah.tielabs.com/cryptocurrency/wp-content/themes/jannah/assets/css/crypto.css' type='text/css' media='all' />
+<link rel='stylesheet' id='tie-css-styles-css' href='https://jannah.tielabs.com/cryptocurrency/wp-content/themes/jannah/assets/css/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='tie-css-ilightbox-css' href='https://jannah.tielabs.com/cryptocurrency/wp-content/themes/jannah/assets/css/ilightbox/dark-skin/skin.css' type='text/css' media='all' />
+<style id='tie-css-ilightbox-inline-css' type='text/css'>
+#main-nav .main-menu > ul > li > a{text-transform: uppercase;}.brand-title,a:hover,#tie-popup-search-submit,.components button#search-submit:hover,#logo.text-logo a,#tie-wrapper #top-nav a:hover,#tie-wrapper #top-nav .breaking a:hover,#tie-wrapper #main-nav .components a:hover,#theme-header #top-nav .components > li > a:hover,#theme-header #top-nav .components > li:hover > a,#theme-header #main-nav .components > li > a:hover,#theme-header #main-nav .components > li:hover > a,#top-nav .top-menu .menu > li.tie-current-menu > a,#tie-wrapper #top-nav .top-menu .menu li:hover > a,#tie-wrapper #top-nav .top-menu .menu a:hover,#tie-wrapper #main-nav .main-menu .mega-menu .post-box-title a:hover,#tie-wrapper #main-nav .main-menu .menu .mega-cat-sub-categories.cats-vertical li:hover a,#tie-wrapper #main-nav .main-menu .menu .mega-cat-sub-categories.cats-vertical li a.is-active,div.mag-box .mag-box-options .mag-box-filter-links a.active,.mag-box-filter-links .flexMenu-viewMore:hover > a,.stars-rating-active,body .tabs.tabs .active > a,.video-play-icon,.spinner-circle:after,#go-to-content:hover,.comment-list .comment-author .fn,.commentlist .comment-author .fn,blockquote::before,blockquote cite,blockquote.quote-simple p,.multiple-post-pages a:hover,#story-index li .is-current,.latest-tweets-widget .twitter-icon-wrap span,.wide-next-prev-slider-wrapper .tie-slider-nav li:hover span,#instagram-link:hover,.review-final-score h3,#mobile-menu-icon:hover .menu-text,.entry a,.entry .post-bottom-meta a[href]:hover,#footer-widgets-container a:hover,#footer-widgets-container .stars-rating-active,#footer-widgets-container .latest-tweets-widget .twitter-icon-wrap span,#site-info a:hover,.widget.tie-weather-widget .icon-basecloud-bg:after,.wide-slider-nav-wrapper .slide{color: #f4bb00;}.button,#tie-wrapper #theme-header .comp-sub-menu .button:hover,#tie-wrapper #theme-header .comp-sub-menu .button.guest-btn:hover,#tie-wrapper #theme-header .comp-sub-menu .button.checkout-button,#tie-wrapper #theme-header #main-nav .comp-sub-menu .button:hover,input[type='submit'],.post-cat,.tie-slider-nav li > span:hover,.pages-nav .next-prev li.current span,.pages-nav .pages-numbers li.current span,#tie-wrapper .mejs-container .mejs-controls,.spinner > div,#mobile-menu-icon:hover .nav-icon,#mobile-menu-icon:hover .nav-icon:before,#mobile-menu-icon:hover .nav-icon:after,#theme-header #main-nav .main-menu .menu > li.tie-current-menu > a,#theme-header #main-nav .main-menu .menu > li:hover > a,#theme-header #main-nav .main-menu .menu > li > a:hover,#tie-wrapper #main-nav .main-menu ul li .mega-links-head:after,#theme-header #main-nav .menu .mega-cat-sub-categories.cats-horizontal li a.is-active,#theme-header #main-nav .menu .mega-cat-sub-categories.cats-horizontal li a:hover,.main-nav-dark .main-menu .menu > li > a:hover,#mobile-menu-icon:hover .nav-icon,#mobile-menu-icon:hover .nav-icon:before,#mobile-menu-icon:hover .nav-icon:after,.mag-box-filter-links a:hover,.slider-arrow-nav a:not(.pagination-disabled):hover,.comment-list .reply a:hover,.commentlist .reply a:hover,#reading-position-indicator,.multiple-post-pages > span,#story-index-icon,.posts-list-counter .posts-list-items li:before,.cat-counter span,.digital-rating-static strong,#wp-calendar #today,.basecloud-bg,.basecloud-bg::before,.basecloud-bg::after,.timeline-widget ul li a:hover .date:before,.cat-counter a + span,.videos-block .playlist-title,.review-percentage .review-item span span,.tie-slick-dots li.slick-active button,.tie-slick-dots li button:hover,#tie-body.magazine2:not(.block-head-4) .dark-widgetized-area .tabs a:hover,#tie-body.magazine2:not(.block-head-4) .dark-widgetized-area .tabs .active a,#tie-body.magazine1 .dark-widgetized-area .tabs a:hover,#tie-body.magazine1 .dark-widgetized-area .tabs .active a,#footer-widgets-container .digital-rating-static strong,#footer-widgets-container .timeline-widget li:hover .date:before,#footer-widgets-container #wp-calendar #today,#footer-widgets-container .basecloud-bg::before,#footer-widgets-container .posts-list-counter .posts-list-items li:before,#footer-widgets-container .cat-counter span,#footer-widgets-container .widget-title:after,#footer-widgets-container .button,#footer-widgets-container input[type='submit'],#footer-widgets-container .tie-slider-nav li > span:hover,#footer-widgets-container .fullwidth-area .widget_tag_cloud .tagcloud a:hover,.demo_store,.demo #logo:after,.widget.tie-weather-widget,span.video-close-btn:hover,#go-to-top{background-color: #f4bb00;color: #FFFFFF;}pre,code,.pages-nav .next-prev li.current span,.pages-nav .pages-numbers li.current span,#tie-wrapper #theme-header .comp-sub-menu .button:hover,#tie-wrapper #theme-header .comp-sub-menu .button.guest-btn:hover,.multiple-post-pages > span,.post-content-slideshow .tie-slider-nav li span:hover,.latest-tweets-widget .slider-links .tie-slider-nav li span:hover,.dark-skin .latest-tweets-widget .slider-links .tie-slider-nav span:hover,#instagram-link:before,#instagram-link:after,.slider-arrow-nav a:not(.pagination-disabled):hover,#theme-header #main-nav .menu .mega-cat-sub-categories.cats-horizontal li a.is-active,#theme-header #main-nav .menu .mega-cat-sub-categories.cats-horizontal li a:hover,#footer.dark-skin #instagram-link:before,#footer.dark-skin #instagram-link:after,#footer-widgets-container .tie-slider-nav li > span:hover,#theme-header #main-nav .main-menu .menu > li > .sub-menu,#theme-header #main-nav .main-menu .menu > li > .menu-sub-content{border-color: #f4bb00;}#tie-wrapper #top-nav .top-menu .menu li.menu-item-has-children:hover > a:before{border-top-color: #f4bb00;}#theme-header .main-menu .menu > li.tie-current-menu > a:before,#theme-header #main-nav .main-menu .menu > li > a:hover:before,#theme-header #main-nav .main-menu .menu > li:hover > a:before{border-top-color: #FFFFFF;}#tie-wrapper #top-nav .top-menu .menu li li.menu-item-has-children:hover > a:before{border-left-color: #f4bb00;border-top-color: transparent;}.rtl #tie-wrapper #top-nav .top-menu .menu li li.menu-item-has-children:hover > a:before{border-right-color: #f4bb00;border-top-color: transparent;}#tie-wrapper #main-nav .main-menu .menu > li.tie-current-menu{border-bottom-color: #f4bb00;}::-moz-selection{background-color: #f4bb00;color: #FFFFFF;}::selection{background-color: #f4bb00;color: #FFFFFF;}circle.circle_bar,#footer-widgets-container circle.circle_bar{stroke: #f4bb00;}#reading-position-indicator{box-shadow: 0 0 10px rgba( 244,187,0,0.7);}#tie-popup-search-submit:hover,#logo.text-logo a:hover,.entry a:hover{color: #c28900;}.button:hover,input[type='submit']:hover,a.post-cat:hover,#footer-widgets-container .button:hover,#footer-widgets-container input[type='submit']:hover{background-color: #c28900;color: #FFFFFF;}.search-in-main-nav.autocomplete-suggestions a.button:hover,#tie-wrapper #theme-header #top-nav .comp-sub-menu .button.checkout-button:hover,#tie-wrapper #theme-header #main-nav .comp-sub-menu .button.checkout-button:hover{background-color: #c28900;color: #FFFFFF;}#theme-header #main-nav .comp-sub-menu a.checkout-button:not(:hover),#theme-header #top-nav .comp-sub-menu a.checkout-button:not(:hover),.entry a.button{color: #FFFFFF;}#footer-widgets-container .tie-slider-nav li > span:hover{color: #FFFFFF !important;}@media (max-width: 1600px){#story-index ul{background-color: #f4bb00;}#story-index ul li a,#story-index ul li .is-current{color: #FFFFFF;}}.woocommerce div.product span.price,.woocommerce div.product p.price,.woocommerce div.product div.summary .product_meta > span,.woocommerce div.product div.summary .product_meta > span a:hover,.woocommerce ul.products li.product .price ins,.woocommerce .woocommerce-pagination .page-numbers li a.current,.woocommerce .woocommerce-pagination .page-numbers li a:hover,.woocommerce .woocommerce-pagination .page-numbers li span.current,.woocommerce .woocommerce-pagination .page-numbers li span:hover,.woocommerce .widget_rating_filter ul li.chosen a,.woocommerce-MyAccount-navigation ul li.is-active a{color: #f4bb00;}.woocommerce span.new,.woocommerce a.button.alt,.woocommerce button.button.alt,.woocommerce input.button.alt,.woocommerce a.button.alt.disabled,.woocommerce a.button.alt:disabled,.woocommerce a.button.alt:disabled[disabled],.woocommerce a.button.alt.disabled:hover,.woocommerce a.button.alt:disabled:hover,.woocommerce a.button.alt:disabled[disabled]:hover,.woocommerce button.button.alt.disabled,.woocommerce button.button.alt:disabled,.woocommerce button.button.alt:disabled[disabled],.woocommerce button.button.alt.disabled:hover,.woocommerce button.button.alt:disabled:hover,.woocommerce button.button.alt:disabled[disabled]:hover,.woocommerce input.button.alt.disabled,.woocommerce input.button.alt:disabled,.woocommerce input.button.alt:disabled[disabled],.woocommerce input.button.alt.disabled:hover,.woocommerce input.button.alt:disabled:hover,.woocommerce input.button.alt:disabled[disabled]:hover,.woocommerce .widget_price_filter .ui-slider .ui-slider-range{background-color: #f4bb00;color: #FFFFFF;}.woocommerce div.product #product-images-slider-nav .tie-slick-slider .slide.slick-current img{border-color: #f4bb00;}.woocommerce a.button:hover,.woocommerce button.button:hover,.woocommerce input.button:hover,.woocommerce a.button.alt:hover,.woocommerce button.button.alt:hover,.woocommerce input.button.alt:hover{background-color: #c28900;}#tie-body .has-block-head-4,#tie-body .mag-box-title h3,#tie-body .comment-reply-title,#tie-body .related.products > h2,#tie-body .up-sells > h2,#tie-body .cross-sells > h2,#tie-body .cart_totals > h2,#tie-body .bbp-form legend,#tie-body .mag-box-title h3 a,#tie-body .section-title-default a,#tie-body #cancel-comment-reply-link {color: #FFFFFF;}#tie-body .has-block-head-4:before,#tie-body .mag-box-title h3:before,#tie-body .comment-reply-title:before,#tie-body .related.products > h2:before,#tie-body .up-sells > h2:before,#tie-body .cross-sells > h2:before,#tie-body .cart_totals > h2:before,#tie-body .bbp-form legend:before {background-color: #f4bb00;}#tie-body .block-more-button{color: #f4bb00;}#tie-body .block-more-button:hover{color: #c28900;}#tie-body .tabs,#tie-body .tabs .flexMenu-popup{border-color: #f4bb00;}#tie-body .tabs li a{color: #f4bb00;}#tie-body .tabs li a:hover{color: #c28900;}#tie-body .tabs li.active a{color: #FFFFFF;background-color: #f4bb00;} #tie-wrapper #top-nav{ border-width: 0; }#tie-wrapper #top-nav,#tie-wrapper #top-nav .top-menu ul,#tie-wrapper #top-nav .comp-sub-menu,#tie-wrapper #top-nav .ticker-content,#tie-wrapper #top-nav .ticker-swipe,.top-nav-boxed #top-nav .topbar-wrapper,.top-nav-dark.top-nav-boxed #top-nav .topbar-wrapper,.search-in-top-nav.autocomplete-suggestions{background-color : #f4bb00;}#tie-wrapper #top-nav *,#tie-wrapper #top-nav .components > li,#tie-wrapper #top-nav .comp-sub-menu,#tie-wrapper #top-nav .comp-sub-menu li{border-color: rgba( 255,255,255,0.1);}#tie-wrapper #top-nav .comp-sub-menu .button,#tie-wrapper #top-nav .comp-sub-menu .button.guest-btn{background-color: #d69d00;}#tie-wrapper #top-nav .comp-sub-menu .button,#tie-wrapper #top-nav .comp-sub-menu .button.guest-btn,.search-in-top-nav.autocomplete-suggestions{border-color: #d69d00;}#top-nav .weather-menu-item .icon-basecloud-bg:after{color: #f4bb00;}#tie-wrapper #top-nav a,#tie-wrapper #top-nav .breaking .ticker a,#tie-wrapper #top-nav input,#tie-wrapper #top-nav .components button#search-submit,#tie-wrapper #top-nav .components button#search-submit .fa-spinner,#tie-wrapper #top-nav .top-menu li a,#tie-wrapper #top-nav .dropdown-social-icons li a span,#tie-wrapper #top-nav .components a.button:hover,#tie-wrapper #top-nav .components > li > a,#tie-wrapper #top-nav .components > li.social-icons-item .social-link:not(:hover) span,#tie-wrapper #top-nav .comp-sub-menu .button:hover,#tie-wrapper #top-nav .comp-sub-menu .button.guest-btn:hover,#tie-body .search-in-top-nav.autocomplete-suggestions a:not(.button){color: #ffffff;}#tie-wrapper #top-nav input::-moz-placeholder{color: #ffffff;}#tie-wrapper #top-nav input:-moz-placeholder{color: #ffffff;}#tie-wrapper #top-nav input:-ms-input-placeholder{color: #ffffff;}#tie-wrapper #top-nav input::-webkit-input-placeholder{color: #ffffff;}#tie-wrapper #top-nav .top-menu .menu li.menu-item-has-children > a:before{border-top-color: #ffffff;}#tie-wrapper #top-nav .top-menu .menu li li.menu-item-has-children > a:before{border-top-color: transparent;border-left-color: #ffffff;}.rtl #tie-wrapper #top-nav .top-menu .menu li li.menu-item-has-children > a:before{border-left-color: transparent;border-right-color: #ffffff;}#tie-wrapper #top-nav .comp-sub-menu .button:hover,#tie-wrapper #top-nav .comp-sub-menu .button.guest-btn:hover,#tie-wrapper #top-nav .comp-sub-menu .button.checkout-button,.search-in-top-nav.autocomplete-suggestions a.button{background-color: #efefef;}#tie-wrapper #top-nav a:hover,#tie-wrapper #top-nav .top-menu .menu a:hover,#tie-wrapper #top-nav .top-menu .menu li:hover > a,#tie-wrapper #top-nav .top-menu .menu > li.tie-current-menu > a,#tie-wrapper #top-nav .breaking .ticker a:hover,#tie-wrapper #top-nav .components > li > a:hover,#tie-wrapper #top-nav .components > li:hover > a,#tie-wrapper #top-nav .components button#search-submit:hover,.search-in-top-nav.autocomplete-suggestions a:not(.button):hover{color: #efefef;}#tie-wrapper #top-nav .comp-sub-menu .button:hover,#tie-wrapper #top-nav .comp-sub-menu .button.guest-btn:hover{border-color: #efefef;}#tie-wrapper #top-nav .top-menu .menu li.menu-item-has-children:hover > a:before{border-top-color: #efefef;}#tie-wrapper #top-nav .top-menu .menu li li.menu-item-has-children:hover > a:before{border-top-color: transparent;border-left-color: #efefef;}.rtl #tie-wrapper #top-nav .top-menu .menu li li.menu-item-has-children:hover > a:before{border-left-color: transparent;border-right-color: #efefef;}#tie-wrapper #top-nav .comp-sub-menu .button:hover,#tie-wrapper #top-nav .comp-sub-menu .button.guest-btn:hover,#tie-wrapper #top-nav .comp-sub-menu .button.checkout-button:hover,#tie-wrapper #top-nav .components a.button:hover,#tie-wrapper #top-nav .components a.button.guest-btn:hover,#tie-wrapper #top-nav .comp-sub-menu a.button.checkout-button,.search-in-top-nav.autocomplete-suggestions .widget-post-list a.button{color: #000000;}#tie-wrapper #theme-header #top-nav .comp-sub-menu .button.checkout-button:hover,#tie-body .search-in-top-nav.autocomplete-suggestions a.button:hover{background-color: #d1d1d1;}#tie-wrapper #top-nav,#tie-wrapper #top-nav .top-menu ul,#tie-wrapper #top-nav .comp-sub-menu,.search-in-top-nav.autocomplete-suggestions,#top-nav .weather-menu-item .tie-weather-widget{color: #ffffff;}.search-in-top-nav.autocomplete-suggestions .post-meta,.search-in-top-nav.autocomplete-suggestions .post-meta a:not(:hover){color: rgba( 255,255,255,0.7);}#tie-wrapper #theme-header:not(.main-nav-boxed) #main-nav,#tie-wrapper .main-nav-boxed .main-menu-wrapper{border-top-color:#f4bb00 !important;border-top-width:1px !important;border-bottom-color:#f4bb00 !important;border-right: 0 none;border-left : 0 none;}#tie-wrapper .main-nav-boxed #main-nav.fixed-nav{box-shadow: none;}#tie-wrapper #theme-header{background-color: #111111;background-image: url(https://jannah.tielabs.com/cryptocurrency/wp-content/uploads/sites/51/2018/02/bg-main-section-5.jpg);}#logo.text-logo a,#logo.text-logo a:hover{color: #FFFFFF;}@media (max-width: 991px){#tie-wrapper #theme-header .logo-container.fixed-nav{background-color: rgba(17,17,17,0.95);}}@media (max-width: 991px){#tie-wrapper #theme-header .logo-container{background-color: #111111;background-image: url(https://jannah.tielabs.com/cryptocurrency/wp-content/uploads/sites/51/2018/02/bg-main-section-5.jpg);}}@media (max-width: 991px){.side-aside #mobile-menu .menu > li{border-color: rgba(255,255,255,0.05);}.side-aside #mobile-search .search-field{background-color: rgba(255,255,255,0.05);}}@media (max-width: 991px){.side-aside.dark-skin{background-color: #000000;}}#mobile-menu-icon .menu-text{color: #ffffff!important;}#mobile-menu-icon .nav-icon,#mobile-menu-icon .nav-icon:before,#mobile-menu-icon .nav-icon:after{background-color: #ffffff!important;}#mobile-search .search-submit{background-color: #f4bb00;color: #FFFFFF;}#mobile-search .search-submit:hover{background-color: #d69d00;}#tiepost-149-section-8191 .full-overlay-title li:not(.no-post-thumb) .block-title-overlay{background-color: #0a0404;}#tiepost-149-section-8191 .full-overlay-title li:not(.no-post-thumb) .block-title-overlay .post-meta,#tiepost-149-section-8191 .full-overlay-title li:not(.no-post-thumb) .block-title-overlay a:not(:hover){color: #FFFFFF;}#tiepost-149-section-8191 .full-overlay-title li:not(.no-post-thumb) .block-title-overlay .post-meta{opacity: 0.80;}#tiepost-149-section-3916 .full-overlay-title li:not(.no-post-thumb) .block-title-overlay{background-color: #03080c;}#tiepost-149-section-3916 .full-overlay-title li:not(.no-post-thumb) .block-title-overlay .post-meta,#tiepost-149-section-3916 .full-overlay-title li:not(.no-post-thumb) .block-title-overlay a:not(:hover){color: #FFFFFF;}#tiepost-149-section-3916 .full-overlay-title li:not(.no-post-thumb) .block-title-overlay .post-meta{opacity: 0.80;}#tiepost-149-section-7345 .full-overlay-title li:not(.no-post-thumb) .block-title-overlay{background-color: #c9d8df;}#tiepost-149-section-7345 .full-overlay-title li:not(.no-post-thumb) .block-title-overlay .post-meta,#tiepost-149-section-7345 .full-overlay-title li:not(.no-post-thumb) .block-title-overlay a:not(:hover){color: #000000;}#tiepost-149-section-7345 .full-overlay-title li:not(.no-post-thumb) .block-title-overlay .post-meta{opacity: 0.80;}#tiepost-149-section-8012 .section-title,#tiepost-149-section-8012 .section-title a{color: rgba(0,0,0,0.08);}#tiepost-149-section-8012 .section-title a:hover{color: #000000;}#tiepost-149-section-8012 .full-overlay-title li:not(.no-post-thumb) .block-title-overlay{background-color: #f9f9f9;}#tiepost-149-section-8012 .full-overlay-title li:not(.no-post-thumb) .block-title-overlay .post-meta,#tiepost-149-section-8012 .full-overlay-title li:not(.no-post-thumb) .block-title-overlay a:not(:hover){color: #000000;}#tiepost-149-section-8012 .full-overlay-title li:not(.no-post-thumb) .block-title-overlay .post-meta{opacity: 0.80;}#tiepost-149-section-8957 .section-title,#tiepost-149-section-8957 .section-title a{color: rgba(10,10,10,0.04);}#tiepost-149-section-8957 .section-title a:hover{color: #000000;}#tiepost-149-section-1322 .section-title,#tiepost-149-section-1322 .section-title a{color: rgba(10,10,10,0.04);}#tiepost-149-section-1322 .section-title a:hover{color: #000000;}#tiepost-149-section-1322 .full-overlay-title li:not(.no-post-thumb) .block-title-overlay{background-color: #f7f7f7;}#tiepost-149-section-1322 .full-overlay-title li:not(.no-post-thumb) .block-title-overlay .post-meta,#tiepost-149-section-1322 .full-overlay-title li:not(.no-post-thumb) .block-title-overlay a:not(:hover){color: #000000;}#tiepost-149-section-1322 .full-overlay-title li:not(.no-post-thumb) .block-title-overlay .post-meta{opacity: 0.80;}
+</style>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var tie = {"is_rtl":"","ajaxurl":"https:\/\/jannah.tielabs.com\/cryptocurrency\/wp-admin\/admin-ajax.php","mobile_menu_active":"true","mobile_menu_top":"","mobile_menu_parent":"","lightbox_all":"true","lightbox_gallery":"true","lightbox_skin":"dark","lightbox_thumb":"horizontal","lightbox_arrows":"","is_singular":"1","is_sticky_video":"","reading_indicator":"true","lazyload":"true","select_share":"true","select_share_twitter":"true","select_share_facebook":"true","select_share_linkedin":"true","select_share_email":"","facebook_app_id":"1050426888323267","twitter_username":"tielabs","responsive_tables":"true","ad_blocker_detector":"","sticky_behavior":"default","sticky_desktop":"","sticky_mobile":"","ajax_loader":"<div class=\"loader-overlay\"><div class=\"spinner-circle\"><\/div><\/div>","type_to_search":"","lang_no_results":"Nothing Found"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://jannah.tielabs.com/cryptocurrency/wp-includes/js/jquery/jquery.js'></script>
+<script type='text/javascript' src='https://jannah.tielabs.com/cryptocurrency/wp-includes/js/jquery/jquery-migrate.min.js'></script>
+<link rel='https://api.w.org/' href='https://jannah.tielabs.com/cryptocurrency/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://jannah.tielabs.com/cryptocurrency/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://jannah.tielabs.com/cryptocurrency/wp-includes/wlwmanifest.xml" />
+<meta name="generator" content="WordPress 4.9.7" />
+<meta name="generator" content="WooCommerce 3.3.5" />
+<link rel="canonical" href="https://jannah.tielabs.com/cryptocurrency/" />
+<link rel='shortlink' href='https://jannah.tielabs.com/cryptocurrency/' />
+<link rel="alternate" type="application/json+oembed" href="https://jannah.tielabs.com/cryptocurrency/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fjannah.tielabs.com%2Fcryptocurrency%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://jannah.tielabs.com/cryptocurrency/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fjannah.tielabs.com%2Fcryptocurrency%2F&#038;format=xml" />
+<meta name="generator" content="Jannah 2.1.4" />
+<meta name="theme-color" content="#f4bb00" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /> <noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+</head>
+<body id="tie-body" class="home page-template-default page page-id-149 wrapper-has-shadow block-head-4 magazine2 is-lazyload is-thumb-overlay-disabled is-desktop is-header-layout-2 has-builder is-header-bg-extended hide_share_post_top hide_share_post_bottom">
+<div class="background-overlay">
+<div id="tie-container" class="site tie-container">
+<div id="tie-wrapper">
+<header id="theme-header" class="header-layout-2 main-nav-light main-nav-below main-nav-boxed top-nav-active top-nav-dark top-nav-boxed top-nav-below top-nav-below-main-nav has-custom-sticky-logo mobile-header-default">
+<div class="container">
+<div class="tie-row logo-row">
+<div class="logo-wrapper">
+<div class="tie-col-md-4 logo-container">
+<a href="#" id="mobile-menu-icon"><span class="nav-icon"></span></a>
+<div id="logo" class="image-logo" style="margin-top: 25px; margin-bottom: 25px;">
+<a title="Jannah" href="https://jannah.tielabs.com/cryptocurrency/">
+<img src="https://jannah.tielabs.com/cryptocurrency/wp-content/uploads/sites/51/2018/02/cryptologo.png" alt="Jannah" class="logo_normal" width="297" height="60" style="max-height:60px; width: auto;">
+<img src="https://jannah.tielabs.com/cryptocurrency/wp-content/uploads/sites/51/2018/02/cryptologo@2x.png" alt="Jannah" class="logo_2x" width="297" height="60" style="max-height:60px; width: auto;">
+<h1 class="h1-off">Jannah</h1> </a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="main-nav-wrapper">
+<nav id="main-nav" data-skin="search-in-main-nav live-search-light" class=" live-search-parent" aria-label="Primary Navigation">
+<div class="container">
+<div class="main-menu-wrapper">
+<div id="menu-components-wrap">
+<div id="sticky-logo" class="image-logo">
+<a title="Jannah" href="https://jannah.tielabs.com/cryptocurrency/">
+<img src="https://jannah.tielabs.com/cryptocurrency/wp-content/themes/jannah/assets/images/logo.png" alt="Jannah" class="logo_normal" style="max-height:49px; width: auto;">
+<img src="https://jannah.tielabs.com/cryptocurrency/wp-content/themes/jannah/assets/images/logo@2x.png" alt="Jannah" class="logo_2x" style="max-height:49px; width: auto;">
+</a>
+</div>
+<div class="flex-placeholder"></div>
+<div class="main-menu main-menu-wrap tie-alignleft">
+<div id="main-nav-menu" class="main-menu"><ul id="menu-main" class="menu" role="menubar"><li id="menu-item-157" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-157"><a href="https://jannah.tielabs.com/cryptocurrency/category/buying-guides/">Buying Guides</a></li>
+<li id="menu-item-155" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-155"><a href="https://jannah.tielabs.com/cryptocurrency/category/mining-guides/">Mining Guides</a></li>
+<li id="menu-item-150" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-150"><a href="https://jannah.tielabs.com/cryptocurrency/category/millennial-money/">Millennial Money</a></li>
+<li id="menu-item-308" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-308"><a href="https://jannah.tielabs.com/cryptocurrency/category/news/">News</a></li>
+<li id="menu-item-310" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-310"><a href="https://jannah.tielabs.com/cryptocurrency/shop/">Shop</a></li>
+<li id="menu-item-309" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-309"><a href="#">Need a Help?</a></li>
+</ul></div> </div>
+<ul class="components"> <li class="search-compact-icon menu-item custom-menu-link">
+<a href="#" data-type="modal-trigger" class="tie-search-trigger">
+<span class="fa fa-search" aria-hidden="true"></span>
+<span class="screen-reader-text">Search for</span>
+</a>
+<span class="cd-modal-bg"></span>
+</li>
+<li class="shopping-cart-icon menu-item custom-menu-link">
+<a href="https://jannah.tielabs.com/cryptocurrency/cart/" title="View your shopping cart">
+<span class="shooping-cart-counter menu-counter-bubble-outer">
+</span>
+<span class="fa fa-shopping-bag" aria-hidden="true"></span>
+<span class="screen-reader-text">View your shopping cart</span>
+</a>
+<div class="components-sub-menu comp-sub-menu">
+<div class="shopping-cart-details">
+<div class="shopping-cart-details">
+<div class="cart-empty-message">
+Your cart is currently empty. </div>
+<a href="https://jannah.tielabs.com/cryptocurrency/shop/" class="checkout-button button">Go to the shop</a>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</nav>
+</div>
+<nav id="top-nav" class="has-breaking-menu has-breaking-news" aria-label="Secondary Navigation">
+<div class="container">
+<div class="topbar-wrapper">
+<div class="tie-alignleft">
+<div class="breaking controls-is-active">
+<span class="breaking-title">
+<span class="fa fa-bolt" aria-hidden="true"></span>
+<span class="breaking-title-text">Trending</span>
+</span>
+<ul id="breaking-news-in-header" class="breaking-news" data-type="reveal" data-arrows="true">
+<li class="news-item">
+<a href="https://jannah.tielabs.com/cryptocurrency/2018/01/20/what-is-tron-cryptocurrency-aims-to-change-internet/" title="What Is Tron? Cryptocurrency Aims To Change Internet">What Is Tron? Cryptocurrency Aims To Change Internet</a>
+</li>
+<li class="news-item">
+<a href="https://jannah.tielabs.com/cryptocurrency/2018/01/20/new-research-laundering-of-illicit-funds-less-than-1-of-bitcoin-transactions/" title="New Research: Laundering of Illicit Funds Less than 1% of Bitcoin Transactions">New Research: Laundering of Illicit Funds Less than 1% of Bitcoin Transactions</a>
+</li>
+<li class="news-item">
+<a href="https://jannah.tielabs.com/cryptocurrency/2018/01/20/the-fundamental-conflict-at-the-heart-of-bitcoin/" title="The Fundamental Conflict At The Heart Of Bitcoin">The Fundamental Conflict At The Heart Of Bitcoin</a>
+</li>
+<li class="news-item">
+<a href="https://jannah.tielabs.com/cryptocurrency/2018/01/20/venezuela-to-issue-petro-cryptocurrency-through-token-sale-plans-tax-deals-to-bolster-adoption/" title="Venezuela to Issue Petro Cryptocurrency through Token Sale, Plans Tax Deals to Bolster Adoption">Venezuela to Issue Petro Cryptocurrency through Token Sale, Plans Tax Deals to Bolster Adoption</a>
+</li>
+<li class="news-item">
+<a href="https://jannah.tielabs.com/cryptocurrency/2018/01/20/bitcoin-ethereum-and-other-cryptocurrencies-gain-momentum-after-wednesdays-debacle/" title="Bitcoin, Ethereum and Other Cryptocurrencies Gain Momentum after Wednesday’s Debacle">Bitcoin, Ethereum and Other Cryptocurrencies Gain Momentum after Wednesday’s Debacle</a>
+</li>
+<li class="news-item">
+<a href="https://jannah.tielabs.com/cryptocurrency/2018/01/20/consumers-beware-not-all-cryptocurrencies-are-the-same/" title="Consumers beware – not all cryptocurrencies are the same">Consumers beware – not all cryptocurrencies are the same</a>
+</li>
+<li class="news-item">
+<a href="https://jannah.tielabs.com/cryptocurrency/2018/01/20/lots-of-optimism-at-the-miami-bitcoin-conference-this-week/" title="Lots of Optimism at the Miami Bitcoin Conference This Week">Lots of Optimism at the Miami Bitcoin Conference This Week</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="tie-alignright">
+<div class="top-menu"><ul id="menu-copyright" class="menu"><li id="menu-item-240" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-240"><a href="#">Privacy Policy</a></li>
+<li id="menu-item-241" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-241"><a href="#">Terms of Services</a></li>
+<li id="menu-item-242" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-242"><a href="#">Contact Us</a></li>
+</ul></div> </div>
+</div>
+</div>
+</nav>
+</header>
+<div id="tiepost-149-section-8191" class="section-wrapper container-full has-background">
+<div class="section-item is-first-section full-width dark-skin tie-parallax" style="background-color: #0a0404; background-image: url( https://jannah.tielabs.com/cryptocurrency/wp-content/uploads/sites/51/2018/02/bg-main-section-5.jpg);" data-type='scroll'>
+<div class="container">
+<div class="tie-row main-content-row">
+<div class="main-content tie-col-md-12">
+<section id="tie-block_3401" class="slider-area mag-box media-overlay">
+<div id="tie-main-slider-13-block_3401" class="tie-main-slider main-slider grid-5-big-centerd grid-5-slider boxed-slider grid-slider-wrapper tie-slick-slider-wrapper" data-slider-id="13" data-speed="3000">
+<div class="main-slider-inner">
+<div class="containerblock_3401">
+<div class="tie-slick-slider">
+<ul class="tie-slider-nav"></ul><div class="slide"><div class="grid-item lazy-bg slide-id-364 tie-slide-1 tie-video"><img data-lazy="https://jannah.tielabs.com/cryptocurrency/wp-content/uploads/sites/51/2018/01/888104-780x500.jpg" src="https://jannah.tielabs.com/cryptocurrency/wp-content/themes/jannah/assets/images/tie-empty.png" width="2000" height="2000" alt=""><div class="slide-bg"></div>
+<a href="https://jannah.tielabs.com/cryptocurrency/2018/01/20/new-research-laundering-of-illicit-funds-less-than-1-of-bitcoin-transactions/" class="all-over-thumb-link"></a>
+<div class="thumb-overlay">
+<span class="icon"></span>
+<h5 class="post-cat-wrap"><a class="post-cat tie-cat-8" href="https://jannah.tielabs.com/cryptocurrency/category/buying-guides/">Buying Guides</a></h5><div class="thumb-content"><div class="thumb-meta"><span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>January 20, 2018</span></span></div>
+<h2 class="thumb-title"><a href="https://jannah.tielabs.com/cryptocurrency/2018/01/20/new-research-laundering-of-illicit-funds-less-than-1-of-bitcoin-transactions/" title="New Research: Laundering of Illicit Funds Less than 1% of Bitcoin Transactions">New Research: Laundering of Illicit Funds Less than 1% of Bitcoin Transactions</a></h2>
+</div> 
+</div>
+</div>
+<div class="grid-item lazy-bg slide-id-363 tie-slide-2 tie-standard"><img data-lazy="https://jannah.tielabs.com/cryptocurrency/wp-content/uploads/sites/51/2018/01/main-nav-settings-3-780x500.jpg" src="https://jannah.tielabs.com/cryptocurrency/wp-content/themes/jannah/assets/images/tie-empty.png" width="2000" height="2000" alt=""><div class="slide-bg"></div>
+<a href="https://jannah.tielabs.com/cryptocurrency/2018/01/20/the-fundamental-conflict-at-the-heart-of-bitcoin/" class="all-over-thumb-link"></a>
+<div class="thumb-overlay">
+<span class="icon"></span>
+<h5 class="post-cat-wrap"><a class="post-cat tie-cat-2" href="https://jannah.tielabs.com/cryptocurrency/category/mining-guides/">Mining Guides</a></h5><div class="thumb-content"><div class="thumb-meta"><span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>January 20, 2018</span></span></div>
+<h2 class="thumb-title"><a href="https://jannah.tielabs.com/cryptocurrency/2018/01/20/the-fundamental-conflict-at-the-heart-of-bitcoin/" title="The Fundamental Conflict At The Heart Of Bitcoin">The Fundamental Conflict At The Heart Of Bitcoin</a></h2>
+</div> 
+</div>
+</div>
+<div class="grid-item lazy-bg slide-id-362 tie-slide-3 tie-standard"><img data-lazy="https://jannah.tielabs.com/cryptocurrency/wp-content/uploads/sites/51/2018/01/william-bout-264826-1-780x500.jpg" src="https://jannah.tielabs.com/cryptocurrency/wp-content/themes/jannah/assets/images/tie-empty.png" width="2000" height="2000" alt=""><div class="slide-bg"></div>
+<a href="https://jannah.tielabs.com/cryptocurrency/2018/01/20/venezuela-to-issue-petro-cryptocurrency-through-token-sale-plans-tax-deals-to-bolster-adoption/" class="all-over-thumb-link"></a>
+<div class="thumb-overlay">
+<span class="icon"></span>
+<h5 class="post-cat-wrap"><a class="post-cat tie-cat-52" href="https://jannah.tielabs.com/cryptocurrency/category/news/">News</a></h5><div class="thumb-content"><div class="thumb-meta"><span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>January 20, 2018</span></span></div>
+<h2 class="thumb-title"><a href="https://jannah.tielabs.com/cryptocurrency/2018/01/20/venezuela-to-issue-petro-cryptocurrency-through-token-sale-plans-tax-deals-to-bolster-adoption/" title="Venezuela to Issue Petro Cryptocurrency through Token Sale, Plans Tax Deals to Bolster Adoption">Venezuela to Issue Petro Cryptocurrency through Token Sale, Plans Tax Deals to Bolster Adoption</a></h2>
+</div> 
+</div>
+</div>
+<div class="grid-item lazy-bg slide-id-361 tie-slide-4 tie-video"><img data-lazy="https://jannah.tielabs.com/cryptocurrency/wp-content/uploads/sites/51/2018/01/wear-3080558_1280-780x500.jpg" src="https://jannah.tielabs.com/cryptocurrency/wp-content/themes/jannah/assets/images/tie-empty.png" width="2000" height="2000" alt=""><div class="slide-bg"></div>
+<a href="https://jannah.tielabs.com/cryptocurrency/2018/01/20/bitcoin-ethereum-and-other-cryptocurrencies-gain-momentum-after-wednesdays-debacle/" class="all-over-thumb-link"></a>
+<div class="thumb-overlay">
+<span class="icon"></span>
+<h5 class="post-cat-wrap"><a class="post-cat tie-cat-8" href="https://jannah.tielabs.com/cryptocurrency/category/buying-guides/">Buying Guides</a></h5><div class="thumb-content"><div class="thumb-meta"><span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>January 20, 2018</span></span></div>
+<h2 class="thumb-title"><a href="https://jannah.tielabs.com/cryptocurrency/2018/01/20/bitcoin-ethereum-and-other-cryptocurrencies-gain-momentum-after-wednesdays-debacle/" title="Bitcoin, Ethereum and Other Cryptocurrencies Gain Momentum after Wednesday’s Debacle">Bitcoin, Ethereum and Other Cryptocurrencies Gain Momentum after Wednesday’s Debacle</a></h2>
+</div> 
+</div>
+</div>
+<div class="grid-item lazy-bg slide-id-360 tie-slide-5 is-trending tie-standard"><img data-lazy="https://jannah.tielabs.com/cryptocurrency/wp-content/uploads/sites/51/2018/01/olga-delawrence-386839-780x500.jpg" src="https://jannah.tielabs.com/cryptocurrency/wp-content/themes/jannah/assets/images/tie-empty.png" width="2000" height="2000" alt=""><div class="slide-bg"></div>
+<a href="https://jannah.tielabs.com/cryptocurrency/2018/01/20/consumers-beware-not-all-cryptocurrencies-are-the-same/" class="all-over-thumb-link"></a>
+<div class="thumb-overlay">
+<span class="icon"></span>
+<h5 class="post-cat-wrap"><a class="post-cat tie-cat-8" href="https://jannah.tielabs.com/cryptocurrency/category/buying-guides/">Buying Guides</a></h5><div class="thumb-content"><div class="thumb-meta"><span class="trending-post fa fa-bolt " aria-hidden="true"></span><span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>January 20, 2018</span></span></div>
+<h2 class="thumb-title"><a href="https://jannah.tielabs.com/cryptocurrency/2018/01/20/consumers-beware-not-all-cryptocurrencies-are-the-same/" title="Consumers beware – not all cryptocurrencies are the same">Consumers beware – not all cryptocurrencies are the same</a></h2>
+</div> 
+</div>
+</div>
+</div> 
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+</div> </div>
+</div>
+<div id="tiepost-149-section-3916" class="section-wrapper container-full has-background has-title">
+<div class="section-item full-width dark-skin" style="background-color: #03080c; background-size: cover;">
+<div class="container"><h2 class="section-title section-title-big"><span class="the-section-title">Trending Now</span></h2></div>
+<div class="container">
+<div class="tie-row main-content-row">
+<div class="main-content tie-col-md-12">
+<div id="tie-block_2342" class="mag-box big-posts-box content-only">
+<div class="container-wrapper">
+<div class="mag-box-title the-global-title">
+<h3>
+Don't Miss </h3>
+</div>
+<div class="mag-box-container clearfix">
+<ul class="posts-items posts-list-container">
+<li class="post-item  post-360 post type-post status-publish format-standard has-post-thumbnail category-buying-guides category-news is-trending tie-standard">
+<a href="https://jannah.tielabs.com/cryptocurrency/2018/01/20/consumers-beware-not-all-cryptocurrencies-are-the-same/" title="Consumers beware – not all cryptocurrencies are the same" class="post-thumb"><span class="trending-post fa fa-bolt trending-lg" aria-hidden="true"></span><h5 class="post-cat-wrap"><span class="post-cat tie-cat-8">Buying Guides</span></h5>
+<div class="post-thumb-overlay-wrap">
+<div class="post-thumb-overlay">
+<span class="icon"></span>
+</div>
+</div>
+<img width="390" height="220" src="https://jannah.tielabs.com/cryptocurrency/wp-content/themes/jannah/assets/images/tie-empty.png" class="attachment-jannah-image-large size-jannah-image-large lazy-img wp-post-image" alt="" data-src="https://jannah.tielabs.com/cryptocurrency/wp-content/uploads/sites/51/2018/01/olga-delawrence-386839-390x220.jpg" /></a><div class="post-meta">
+<span class="meta-author meta-item"><a href="https://jannah.tielabs.com/cryptocurrency/author/yahia/" class="author-name" title="Yahia Ragae"><span class="fa fa-user" aria-hidden="true"></span> Yahia Ragae</a>
+</span>
+<span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>January 20, 2018</span></span><div class="tie-alignright"><span class="meta-comment meta-item"><a href="https://jannah.tielabs.com/cryptocurrency/2018/01/20/consumers-beware-not-all-cryptocurrencies-are-the-same/#respond"><span class="fa fa-comments" aria-hidden="true"></span> 0</a></span><span class="meta-views meta-item "><span class="tie-icon-fire" aria-hidden="true"></span> 136 </span> </div><div class="clearfix"></div></div>
+<div class="post-details">
+<h3 class="post-title"><a href="https://jannah.tielabs.com/cryptocurrency/2018/01/20/consumers-beware-not-all-cryptocurrencies-are-the-same/" title="Consumers beware – not all cryptocurrencies are the same">Consumers beware – not all cryptocurrencies are the same</a></h3>
+</div>
+</li>
+<li class="post-item  post-359 post type-post status-publish format-standard has-post-thumbnail category-millennial-money category-news is-trending tie-standard">
+<a href="https://jannah.tielabs.com/cryptocurrency/2018/01/20/lots-of-optimism-at-the-miami-bitcoin-conference-this-week/" title="Lots of Optimism at the Miami Bitcoin Conference This Week" class="post-thumb"><span class="trending-post fa fa-bolt trending-lg" aria-hidden="true"></span><h5 class="post-cat-wrap"><span class="post-cat tie-cat-6">Millennial Money</span></h5>
+<div class="post-thumb-overlay-wrap">
+<div class="post-thumb-overlay">
+<span class="icon"></span>
+</div>
+</div>
+<img width="390" height="220" src="https://jannah.tielabs.com/cryptocurrency/wp-content/themes/jannah/assets/images/tie-empty.png" class="attachment-jannah-image-large size-jannah-image-large lazy-img wp-post-image" alt="" data-src="https://jannah.tielabs.com/cryptocurrency/wp-content/uploads/sites/51/2018/01/nikita-andreev-409108-390x220.jpg" /></a><div class="post-meta">
+<span class="meta-author meta-item"><a href="https://jannah.tielabs.com/cryptocurrency/author/ashraf/" class="author-name" title="Ashraf Reda"><span class="fa fa-user" aria-hidden="true"></span> Ashraf Reda</a>
+</span>
+<span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>January 20, 2018</span></span><div class="tie-alignright"><span class="meta-comment meta-item"><a href="https://jannah.tielabs.com/cryptocurrency/2018/01/20/lots-of-optimism-at-the-miami-bitcoin-conference-this-week/#respond"><span class="fa fa-comments" aria-hidden="true"></span> 0</a></span><span class="meta-views meta-item warm"><span class="tie-icon-fire" aria-hidden="true"></span> 1,022 </span> </div><div class="clearfix"></div></div>
+<div class="post-details">
+<h3 class="post-title"><a href="https://jannah.tielabs.com/cryptocurrency/2018/01/20/lots-of-optimism-at-the-miami-bitcoin-conference-this-week/" title="Lots of Optimism at the Miami Bitcoin Conference This Week">Lots of Optimism at the Miami Bitcoin Conference This Week</a></h3>
+</div>
+</li>
+<li class="post-item  post-358 post type-post status-publish format-standard has-post-thumbnail category-buying-guides category-mining-guides is-trending tie-standard">
+<a href="https://jannah.tielabs.com/cryptocurrency/2018/01/20/gdax-will-launch-bch-eur-trading-on-january-24/" title="GDAX Will Launch BCH-EUR Trading on January 24" class="post-thumb"><span class="trending-post fa fa-bolt trending-lg" aria-hidden="true"></span><h5 class="post-cat-wrap"><span class="post-cat tie-cat-8">Buying Guides</span></h5>
+<div class="post-thumb-overlay-wrap">
+<div class="post-thumb-overlay">
+<span class="icon"></span>
+</div>
+</div>
+<img width="390" height="220" src="https://jannah.tielabs.com/cryptocurrency/wp-content/themes/jannah/assets/images/tie-empty.png" class="attachment-jannah-image-large size-jannah-image-large lazy-img wp-post-image" alt="" data-src="https://jannah.tielabs.com/cryptocurrency/wp-content/uploads/sites/51/2018/01/mining-2648005_1280-390x220.jpg" /></a><div class="post-meta">
+<span class="meta-author meta-item"><a href="https://jannah.tielabs.com/cryptocurrency/author/ashraf/" class="author-name" title="Ashraf Reda"><span class="fa fa-user" aria-hidden="true"></span> Ashraf Reda</a>
+</span>
+<span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>January 20, 2018</span></span><div class="tie-alignright"><span class="meta-comment meta-item"><a href="https://jannah.tielabs.com/cryptocurrency/2018/01/20/gdax-will-launch-bch-eur-trading-on-january-24/#respond"><span class="fa fa-comments" aria-hidden="true"></span> 0</a></span><span class="meta-views meta-item very-hot"><span class="tie-icon-fire" aria-hidden="true"></span> 8,867 </span> </div><div class="clearfix"></div></div>
+<div class="post-details">
+<h3 class="post-title"><a href="https://jannah.tielabs.com/cryptocurrency/2018/01/20/gdax-will-launch-bch-eur-trading-on-january-24/" title="GDAX Will Launch BCH-EUR Trading on January 24">GDAX Will Launch BCH-EUR Trading on January 24</a></h3>
+</div>
+</li>
+</ul><div class="clearfix"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div> </div>
+</div>
+<div id="tiepost-149-section-7345" class="section-wrapper container-full has-background">
+<div class="section-item full-width tie-parallax" style="background-color: #c9d8df; background-image: url( https://jannah.tielabs.com/cryptocurrency/wp-content/uploads/sites/51/2018/01/calculator-bg-7.jpg);" data-type='scroll'>
+<div class="container">
+<div class="tie-row main-content-row">
+<div class="main-content tie-col-md-12">
+<div id="tie-block_266" class="mag-box block-custom-content-50 tie-col-sm-6 half-box content-only first-half-box">
+<div class="container-wrapper">
+<div class="mag-box-container clearfix">
+<div class="entry">
+<div class="tie-padding  has-padding-top has-padding-bottom has-padding-right" style="padding-left:0; padding-right:5%; padding-top:5%; padding-bottom:5%;">
+<p>
+<h2 class="section_header">What is Bitcoin?</h2>
+<p class="maindesc">Bitcoin uses peer-to-peer technology to operate with no central authority or banks; managing transactions and the issuing of bitcoins is carried out collectively by the network.</p>
+<h2 class="section_header">Bitcoin Calculator</h2>
+<p>The Bitcoin Calculator tool allows you to convert any amount to and from bitcoin (up to six decimal places) and your preferred world currencies.</p>
+<div class="btc-calculator"><div class="btc-calculator">
+<form id="btc_calc" class="cp-form">
+<input type="text" class="currency1value" value="1" /><span class="bct-currency-1"> BTC
+</span><span class="bct-equal-sign">=</span>
+<input type="text" class="currency2value" value="?" />
+<select class="currency_switcher"><option value="8215.18">usd</option><option value="7006.36">eur</option><option value="94.48">ltc</option><option value="16.47">eth</option><option value="950133.11">jpy</option><option value="6212.84">gbp</option><option value="8183.64">chf</option><option value="11030">aud</option><option value="10860.72">cad</option><option value="18360.25">bgn</option></select></form>
+<script type="text/javascript">
+            function setCalculatorValuebtc_calc(){
+              var currency1valueold = jQuery("#btc_calc .currency1value").val();
+              var currency2valueunit = jQuery("#btc_calc .currency_switcher").val();
+              jQuery("#btc_calc .currency2value").val(currency1valueold*currency2valueunit);
+            }
+            function setCalculatorValue2btc_calc(){
+              var currency2valueold = jQuery("#btc_calc .currency2value").val();
+              var currency2valueunit = jQuery("#btc_calc .currency_switcher").val();
+              jQuery("#btc_calc .currency1value").val(currency2valueold/currency2valueunit);
+            }
+            setCalculatorValuebtc_calc(); //call at start
+            jQuery("#btc_calc .currency1value").keyup(setCalculatorValuebtc_calc);
+            jQuery("#btc_calc .currency_switcher").change(setCalculatorValuebtc_calc);
+            jQuery("#btc_calc .currency2value").keyup(setCalculatorValue2btc_calc);
+          </script>
+<a href="https://www.cryptocompare.com/api/" style="font-size:small">Data by CryptoCompare API</a></div></div>
+</p>
+</div>
+</div>
+<div class="clearfix"></div>
+</div>
+</div>
+</div>
+<div id="tie-block_929" class="mag-box block-custom-content-50 tie-col-sm-6 half-box content-only second-half-box">
+<div class="container-wrapper">
+<div class="mag-box-container clearfix">
+<div class="entry">
+<div class="tie-padding  has-padding-top" style="padding-left:0; padding-right:0; padding-top:3%; padding-bottom:0;">
+<p>
+<div class="wpuc-coin-grid">
+<div class="wpuc-coin-grid-item" style="width:50%;">
+<div class="wpuc-grid-item-inner">
+<div class="wpuc-grid-item-coin">
+<img src="https://jannah.tielabs.com/cryptocurrency/wp-content/plugins/wp-ultimate-crypto/public/img/coins/bitcoin.svg" alt="Bitcoin" />
+</div>
+<div class="wpuc-grid-item-details">
+<div class="wpuc-grid-item-name">
+<span>Bitcoin</span>
+</div>
+<div class="wpuc-grid-item-price">
+<span class="wpuc-grid-item-currency">&dollar;</span><span class="wpuc-grid-item-amount">8,215.61</span>
+</div>
+<div class="wpuc-grid-item-info">
+<span>BTC</span>
+<span class="wpuc-grid-item-percentage wpuc-grid-item-down">
+-1.04%
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wpuc-coin-grid-item" style="width:50%;">
+<div class="wpuc-grid-item-inner">
+<div class="wpuc-grid-item-coin">
+<img src="https://jannah.tielabs.com/cryptocurrency/wp-content/plugins/wp-ultimate-crypto/public/img/coins/ethereum.svg" alt="Ethereum" />
+</div>
+<div class="wpuc-grid-item-details">
+<div class="wpuc-grid-item-name">
+<span>Ethereum</span>
+</div>
+<div class="wpuc-grid-item-price">
+<span class="wpuc-grid-item-currency">&dollar;</span><span class="wpuc-grid-item-amount">477.75</span>
+</div>
+<div class="wpuc-grid-item-info">
+<span>ETH</span>
+<span class="wpuc-grid-item-percentage wpuc-grid-item-down">
+-0.05%
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wpuc-coin-grid-item" style="width:50%;">
+<div class="wpuc-grid-item-inner">
+<div class="wpuc-grid-item-coin">
+<img src="https://jannah.tielabs.com/cryptocurrency/wp-content/plugins/wp-ultimate-crypto/public/img/coins/bitcoin-cash.svg" alt="Bitcoin Cash" />
+</div>
+<div class="wpuc-grid-item-details">
+<div class="wpuc-grid-item-name">
+<span>Bitcoin Cash</span>
+</div>
+<div class="wpuc-grid-item-price">
+<span class="wpuc-grid-item-currency">&dollar;</span><span class="wpuc-grid-item-amount">838.46</span>
+</div>
+<div class="wpuc-grid-item-info">
+<span>BCH</span>
+<span class="wpuc-grid-item-percentage wpuc-grid-item-down">
+-1.86%
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wpuc-coin-grid-item" style="width:50%;">
+<div class="wpuc-grid-item-inner">
+<div class="wpuc-grid-item-coin">
+<img src="https://jannah.tielabs.com/cryptocurrency/wp-content/plugins/wp-ultimate-crypto/public/img/coins/ripple.svg" alt="XRP" />
+</div>
+<div class="wpuc-grid-item-details">
+<div class="wpuc-grid-item-name">
+<span>XRP</span>
+</div>
+<div class="wpuc-grid-item-price">
+<span class="wpuc-grid-item-currency">&dollar;</span><span class="wpuc-grid-item-amount">0.4636</span>
+</div>
+<div class="wpuc-grid-item-info">
+<span>XRP</span>
+<span class="wpuc-grid-item-percentage wpuc-grid-item-up">
+1.08%
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wpuc-coin-grid-item" style="width:50%;">
+<div class="wpuc-grid-item-inner">
+<div class="wpuc-grid-item-coin">
+<img src="https://jannah.tielabs.com/cryptocurrency/wp-content/plugins/wp-ultimate-crypto/public/img/coins/cardano.svg" alt="Cardano" />
+</div>
+<div class="wpuc-grid-item-details">
+<div class="wpuc-grid-item-name">
+<span>Cardano</span>
+</div>
+<div class="wpuc-grid-item-price">
+<span class="wpuc-grid-item-currency">&dollar;</span><span class="wpuc-grid-item-amount">0.1731</span>
+</div>
+<div class="wpuc-grid-item-info">
+<span>ADA</span>
+<span class="wpuc-grid-item-percentage wpuc-grid-item-up">
+0.36%
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wpuc-coin-grid-item" style="width:50%;">
+<div class="wpuc-grid-item-inner">
+<div class="wpuc-grid-item-coin">
+<img src="https://jannah.tielabs.com/cryptocurrency/wp-content/plugins/wp-ultimate-crypto/public/img/coins/litecoin.svg" alt="Litecoin" />
+</div>
+<div class="wpuc-grid-item-details">
+<div class="wpuc-grid-item-name">
+<span>Litecoin</span>
+</div>
+<div class="wpuc-grid-item-price">
+<span class="wpuc-grid-item-currency">&dollar;</span><span class="wpuc-grid-item-amount">86.778</span>
+</div>
+<div class="wpuc-grid-item-info">
+<span>LTC</span>
+<span class="wpuc-grid-item-percentage wpuc-grid-item-down">
+-0.72%
+</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+</p>
+</div>
+</div>
+<div class="clearfix"></div>
+</div>
+</div>
+</div>
+<div class="clearfix half-box-clearfix"></div>
+</div>
+</div>
+</div> </div>
+</div>
+<div id="tiepost-149-section-8012" class="section-wrapper container-full has-background has-title">
+<div class="section-item full-width" style="background-color: #f9f9f9; background-image: url( https://jannah.tielabs.com/cryptocurrency/wp-content/uploads/sites/51/2018/01/section-pattern-2.jpg); background-size: cover;">
+<div class="container"><h2 class="section-title section-title-big"><span class="the-section-title">Getting Started</span></h2></div>
+<div class="container">
+<div class="tie-row main-content-row">
+<div class="main-content tie-col-md-12">
+<section id="tie-block_1092" class="slider-area mag-box">
+<div id="tie-main-slider-5-block_1092" class="tie-main-slider main-slider boxed-slider-three-slides-wrapper boxed-slider tie-slick-slider-wrapper" data-slider-id="5" data-speed="3000">
+<div class="loader-overlay"><div class="spinner-circle"></div></div>
+<div class="main-slider-inner">
+<ul class="tie-slider-nav"></ul>
+<div class="containerblock_1092">
+<div class="tie-slick-slider">
+<div class="slide lazy-bg slide-id-359 tie-slide-1 is-trending tie-standard"><img data-lazy="https://jannah.tielabs.com/cryptocurrency/wp-content/uploads/sites/51/2018/01/nikita-andreev-409108-780x500.jpg" src="https://jannah.tielabs.com/cryptocurrency/wp-content/themes/jannah/assets/images/tie-empty.png" width="2000" height="2000" alt=""><div class="slide-bg"></div>
+<a href="https://jannah.tielabs.com/cryptocurrency/2018/01/20/lots-of-optimism-at-the-miami-bitcoin-conference-this-week/" class="all-over-thumb-link"></a>
+<div class="thumb-overlay"><div class="thumb-content"><div class="thumb-meta"><span class="trending-post fa fa-bolt " aria-hidden="true"></span><span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>January 20, 2018</span></span></div>
+<h2 class="thumb-title"><a href="https://jannah.tielabs.com/cryptocurrency/2018/01/20/lots-of-optimism-at-the-miami-bitcoin-conference-this-week/" title="Lots of Optimism at the Miami Bitcoin Conference This Week">Lots of Optimism at the Miami Bitcoin Conference This Week</a></h2>
+<div class="thumb-desc">Not because I missed the great run-up (though I did) and not because I fear that the bitcoin bubble will&hellip;</div></div> 
+</div>
+</div>
+<div class="slide lazy-bg slide-id-358 tie-slide-2 is-trending tie-standard"><img data-lazy="https://jannah.tielabs.com/cryptocurrency/wp-content/uploads/sites/51/2018/01/mining-2648005_1280-780x500.jpg" src="https://jannah.tielabs.com/cryptocurrency/wp-content/themes/jannah/assets/images/tie-empty.png" width="2000" height="2000" alt=""><div class="slide-bg"></div>
+<a href="https://jannah.tielabs.com/cryptocurrency/2018/01/20/gdax-will-launch-bch-eur-trading-on-january-24/" class="all-over-thumb-link"></a>
+<div class="thumb-overlay"><div class="thumb-content"><div class="thumb-meta"><span class="trending-post fa fa-bolt " aria-hidden="true"></span><span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>January 20, 2018</span></span></div>
+<h2 class="thumb-title"><a href="https://jannah.tielabs.com/cryptocurrency/2018/01/20/gdax-will-launch-bch-eur-trading-on-january-24/" title="GDAX Will Launch BCH-EUR Trading on January 24">GDAX Will Launch BCH-EUR Trading on January 24</a></h2>
+<div class="thumb-desc">Not because I missed the great run-up (though I did) and not because I fear that the bitcoin bubble will&hellip;</div></div> 
+</div>
+</div>
+<div class="slide lazy-bg slide-id-357 tie-slide-3 tie-video"><img data-lazy="https://jannah.tielabs.com/cryptocurrency/wp-content/uploads/sites/51/2018/01/joshua-sortino-215039-780x500.jpg" src="https://jannah.tielabs.com/cryptocurrency/wp-content/themes/jannah/assets/images/tie-empty.png" width="2000" height="2000" alt=""><div class="slide-bg"></div>
+<a href="https://jannah.tielabs.com/cryptocurrency/2018/01/20/balances-malfunction-at-poloniex-cryptocurrency-exchange/" class="all-over-thumb-link"></a>
+<div class="thumb-overlay"><div class="thumb-content"><div class="thumb-meta"><span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>January 20, 2018</span></span></div>
+<h2 class="thumb-title"><a href="https://jannah.tielabs.com/cryptocurrency/2018/01/20/balances-malfunction-at-poloniex-cryptocurrency-exchange/" title="Balances Malfunction At Poloniex Cryptocurrency Exchange">Balances Malfunction At Poloniex Cryptocurrency Exchange</a></h2>
+<div class="thumb-desc">Not because I missed the great run-up (though I did) and not because I fear that the bitcoin bubble will&hellip;</div></div> 
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+</div> </div>
+</div>
+<div id="tiepost-149-section-8957" class="section-wrapper container-full without-background has-title">
+<div class="section-item sidebar-right has-sidebar" style="">
+<div class="container"><h2 class="section-title section-title-big"><span class="the-section-title">Recent Stories</span></h2></div>
+<div class="container">
+<div class="tie-row main-content-row">
+<div class="main-content tie-col-md-8 tie-col-xs-12" role="main">
+<div id="tie-block_1164" class="mag-box wide-post-box top-news-box content-only" data-current="1">
+<div class="container-wrapper">
+<div class="mag-box-title the-global-title">
+<h3>
+Stay up to date </h3>
+</div>
+<div class="mag-box-container clearfix">
+<ul class="posts-items posts-list-container">
+<li class="post-item  post-347 post type-post status-publish format-standard has-post-thumbnail category-buying-guides tie-standard">
+<a href="https://jannah.tielabs.com/cryptocurrency/2018/01/20/what-is-tron-cryptocurrency-aims-to-change-internet/" title="What Is Tron? Cryptocurrency Aims To Change Internet" class="post-thumb"><h5 class="post-cat-wrap"><span class="post-cat tie-cat-8">Buying Guides</span></h5>
+<div class="post-thumb-overlay-wrap">
+<div class="post-thumb-overlay">
+<span class="icon"></span>
+</div>
+</div>
+<img width="390" height="220" src="https://jannah.tielabs.com/cryptocurrency/wp-content/themes/jannah/assets/images/tie-empty.png" class="attachment-jannah-image-large size-jannah-image-large lazy-img wp-post-image" alt="" data-src="https://jannah.tielabs.com/cryptocurrency/wp-content/uploads/sites/51/2018/01/johannes-plenio-377226-390x220.jpg" /></a><div class="post-meta">
+<span class="meta-author meta-item"><a href="https://jannah.tielabs.com/cryptocurrency/author/ashraf/" class="author-name" title="Ashraf Reda"><span class="fa fa-user" aria-hidden="true"></span> Ashraf Reda</a>
+</span>
+<span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>January 20, 2018</span></span><div class="tie-alignright"><span class="meta-comment meta-item"><a href="https://jannah.tielabs.com/cryptocurrency/2018/01/20/what-is-tron-cryptocurrency-aims-to-change-internet/#respond"><span class="fa fa-comments" aria-hidden="true"></span> 0</a></span><span class="meta-views meta-item "><span class="tie-icon-fire" aria-hidden="true"></span> 187 </span> </div><div class="clearfix"></div></div>
+<div class="post-details">
+<h3 class="post-title"><a href="https://jannah.tielabs.com/cryptocurrency/2018/01/20/what-is-tron-cryptocurrency-aims-to-change-internet/" title="What Is Tron? Cryptocurrency Aims To Change Internet">What Is Tron? Cryptocurrency Aims To Change Internet</a></h3>
+<p class="post-excerpt">Not because I missed the great run-up (though I did) and not because I fear that the bitcoin bubble will&hellip;</p>
+<a class="more-link button" href="https://jannah.tielabs.com/cryptocurrency/2018/01/20/what-is-tron-cryptocurrency-aims-to-change-internet/">Read More &raquo;</a>
+</div>
+</li>
+<li class="post-item  post-364 post type-post status-publish format-standard has-post-thumbnail category-buying-guides category-news tie-video">
+<a href="https://jannah.tielabs.com/cryptocurrency/2018/01/20/new-research-laundering-of-illicit-funds-less-than-1-of-bitcoin-transactions/" title="New Research: Laundering of Illicit Funds Less than 1% of Bitcoin Transactions" class="post-thumb"><h5 class="post-cat-wrap"><span class="post-cat tie-cat-8">Buying Guides</span></h5>
+<div class="post-thumb-overlay-wrap">
+<div class="post-thumb-overlay">
+<span class="icon"></span>
+</div>
+</div>
+<img width="390" height="220" src="https://jannah.tielabs.com/cryptocurrency/wp-content/themes/jannah/assets/images/tie-empty.png" class="attachment-jannah-image-large size-jannah-image-large lazy-img wp-post-image" alt="" data-src="https://jannah.tielabs.com/cryptocurrency/wp-content/uploads/sites/51/2018/01/888104-390x220.jpg" /></a><div class="post-meta">
+<span class="meta-author meta-item"><a href="https://jannah.tielabs.com/cryptocurrency/author/admin/" class="author-name" title="Fouad Badawy"><span class="fa fa-user" aria-hidden="true"></span> Fouad Badawy</a>
+</span>
+<span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>January 20, 2018</span></span><div class="tie-alignright"><span class="meta-comment meta-item"><a href="https://jannah.tielabs.com/cryptocurrency/2018/01/20/new-research-laundering-of-illicit-funds-less-than-1-of-bitcoin-transactions/#respond"><span class="fa fa-comments" aria-hidden="true"></span> 0</a></span><span class="meta-views meta-item "><span class="tie-icon-fire" aria-hidden="true"></span> 477 </span> </div><div class="clearfix"></div></div>
+<div class="post-details">
+<h3 class="post-title"><a href="https://jannah.tielabs.com/cryptocurrency/2018/01/20/new-research-laundering-of-illicit-funds-less-than-1-of-bitcoin-transactions/" title="New Research: Laundering of Illicit Funds Less than 1% of Bitcoin Transactions">New Research: Laundering of Illicit Funds Less than 1% of Bitcoin Transactions</a></h3>
+<p class="post-excerpt">Not because I missed the great run-up (though I did) and not because I fear that the bitcoin bubble will&hellip;</p>
+<a class="more-link button" href="https://jannah.tielabs.com/cryptocurrency/2018/01/20/new-research-laundering-of-illicit-funds-less-than-1-of-bitcoin-transactions/">Read More &raquo;</a>
+</div>
+</li>
+<li class="post-item  post-363 post type-post status-publish format-standard has-post-thumbnail category-mining-guides category-news tie-standard">
+<a href="https://jannah.tielabs.com/cryptocurrency/2018/01/20/the-fundamental-conflict-at-the-heart-of-bitcoin/" title="The Fundamental Conflict At The Heart Of Bitcoin" class="post-thumb"><h5 class="post-cat-wrap"><span class="post-cat tie-cat-2">Mining Guides</span></h5>
+<div class="post-thumb-overlay-wrap">
+<div class="post-thumb-overlay">
+<span class="icon"></span>
+</div>
+</div>
+<img width="390" height="220" src="https://jannah.tielabs.com/cryptocurrency/wp-content/themes/jannah/assets/images/tie-empty.png" class="attachment-jannah-image-large size-jannah-image-large lazy-img wp-post-image" alt="" data-src="https://jannah.tielabs.com/cryptocurrency/wp-content/uploads/sites/51/2018/01/main-nav-settings-3-390x220.jpg" /></a><div class="post-meta">
+<span class="meta-author meta-item"><a href="https://jannah.tielabs.com/cryptocurrency/author/yahia/" class="author-name" title="Yahia Ragae"><span class="fa fa-user" aria-hidden="true"></span> Yahia Ragae</a>
+</span>
+<span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>January 20, 2018</span></span><div class="tie-alignright"><span class="meta-comment meta-item"><a href="https://jannah.tielabs.com/cryptocurrency/2018/01/20/the-fundamental-conflict-at-the-heart-of-bitcoin/#respond"><span class="fa fa-comments" aria-hidden="true"></span> 0</a></span><span class="meta-views meta-item "><span class="tie-icon-fire" aria-hidden="true"></span> 221 </span> </div><div class="clearfix"></div></div>
+<div class="post-details">
+<h3 class="post-title"><a href="https://jannah.tielabs.com/cryptocurrency/2018/01/20/the-fundamental-conflict-at-the-heart-of-bitcoin/" title="The Fundamental Conflict At The Heart Of Bitcoin">The Fundamental Conflict At The Heart Of Bitcoin</a></h3>
+<p class="post-excerpt">Not because I missed the great run-up (though I did) and not because I fear that the bitcoin bubble will&hellip;</p>
+<a class="more-link button" href="https://jannah.tielabs.com/cryptocurrency/2018/01/20/the-fundamental-conflict-at-the-heart-of-bitcoin/">Read More &raquo;</a>
+</div>
+</li>
+<li class="post-item  post-362 post type-post status-publish format-standard has-post-thumbnail category-news category-wallet-reviews tie-standard">
+<a href="https://jannah.tielabs.com/cryptocurrency/2018/01/20/venezuela-to-issue-petro-cryptocurrency-through-token-sale-plans-tax-deals-to-bolster-adoption/" title="Venezuela to Issue Petro Cryptocurrency through Token Sale, Plans Tax Deals to Bolster Adoption" class="post-thumb"><h5 class="post-cat-wrap"><span class="post-cat tie-cat-52">News</span></h5>
+<div class="post-thumb-overlay-wrap">
+<div class="post-thumb-overlay">
+<span class="icon"></span>
+</div>
+</div>
+<img width="390" height="220" src="https://jannah.tielabs.com/cryptocurrency/wp-content/themes/jannah/assets/images/tie-empty.png" class="attachment-jannah-image-large size-jannah-image-large lazy-img wp-post-image" alt="" data-src="https://jannah.tielabs.com/cryptocurrency/wp-content/uploads/sites/51/2018/01/william-bout-264826-1-390x220.jpg" /></a><div class="post-meta">
+<span class="meta-author meta-item"><a href="https://jannah.tielabs.com/cryptocurrency/author/ashraf/" class="author-name" title="Ashraf Reda"><span class="fa fa-user" aria-hidden="true"></span> Ashraf Reda</a>
+</span>
+<span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>January 20, 2018</span></span><div class="tie-alignright"><span class="meta-comment meta-item"><a href="https://jannah.tielabs.com/cryptocurrency/2018/01/20/venezuela-to-issue-petro-cryptocurrency-through-token-sale-plans-tax-deals-to-bolster-adoption/#respond"><span class="fa fa-comments" aria-hidden="true"></span> 0</a></span><span class="meta-views meta-item "><span class="tie-icon-fire" aria-hidden="true"></span> 93 </span> </div><div class="clearfix"></div></div>
+<div class="post-details">
+<h3 class="post-title"><a href="https://jannah.tielabs.com/cryptocurrency/2018/01/20/venezuela-to-issue-petro-cryptocurrency-through-token-sale-plans-tax-deals-to-bolster-adoption/" title="Venezuela to Issue Petro Cryptocurrency through Token Sale, Plans Tax Deals to Bolster Adoption">Venezuela to Issue Petro Cryptocurrency through Token Sale, Plans Tax Deals to Bolster Adoption</a></h3>
+<p class="post-excerpt">Not because I missed the great run-up (though I did) and not because I fear that the bitcoin bubble will&hellip;</p>
+<a class="more-link button" href="https://jannah.tielabs.com/cryptocurrency/2018/01/20/venezuela-to-issue-petro-cryptocurrency-through-token-sale-plans-tax-deals-to-bolster-adoption/">Read More &raquo;</a>
+</div>
+</li>
+<li class="post-item  post-361 post type-post status-publish format-standard has-post-thumbnail category-buying-guides category-mining-guides tie-video">
+<a href="https://jannah.tielabs.com/cryptocurrency/2018/01/20/bitcoin-ethereum-and-other-cryptocurrencies-gain-momentum-after-wednesdays-debacle/" title="Bitcoin, Ethereum and Other Cryptocurrencies Gain Momentum after Wednesday’s Debacle" class="post-thumb"><h5 class="post-cat-wrap"><span class="post-cat tie-cat-8">Buying Guides</span></h5>
+<div class="post-thumb-overlay-wrap">
+<div class="post-thumb-overlay">
+<span class="icon"></span>
+</div>
+</div>
+<img width="390" height="220" src="https://jannah.tielabs.com/cryptocurrency/wp-content/themes/jannah/assets/images/tie-empty.png" class="attachment-jannah-image-large size-jannah-image-large lazy-img wp-post-image" alt="" data-src="https://jannah.tielabs.com/cryptocurrency/wp-content/uploads/sites/51/2018/01/wear-3080558_1280-390x220.jpg" /></a><div class="post-meta">
+<span class="meta-author meta-item"><a href="https://jannah.tielabs.com/cryptocurrency/author/admin/" class="author-name" title="Fouad Badawy"><span class="fa fa-user" aria-hidden="true"></span> Fouad Badawy</a>
+</span>
+<span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>January 20, 2018</span></span><div class="tie-alignright"><span class="meta-comment meta-item"><a href="https://jannah.tielabs.com/cryptocurrency/2018/01/20/bitcoin-ethereum-and-other-cryptocurrencies-gain-momentum-after-wednesdays-debacle/#respond"><span class="fa fa-comments" aria-hidden="true"></span> 0</a></span><span class="meta-views meta-item "><span class="tie-icon-fire" aria-hidden="true"></span> 164 </span> </div><div class="clearfix"></div></div>
+<div class="post-details">
+<h3 class="post-title"><a href="https://jannah.tielabs.com/cryptocurrency/2018/01/20/bitcoin-ethereum-and-other-cryptocurrencies-gain-momentum-after-wednesdays-debacle/" title="Bitcoin, Ethereum and Other Cryptocurrencies Gain Momentum after Wednesday’s Debacle">Bitcoin, Ethereum and Other Cryptocurrencies Gain Momentum after Wednesday’s Debacle</a></h3>
+<p class="post-excerpt">Not because I missed the great run-up (though I did) and not because I fear that the bitcoin bubble will&hellip;</p>
+<a class="more-link button" href="https://jannah.tielabs.com/cryptocurrency/2018/01/20/bitcoin-ethereum-and-other-cryptocurrencies-gain-momentum-after-wednesdays-debacle/">Read More &raquo;</a>
+</div>
+</li>
+<li class="post-item  post-360 post type-post status-publish format-standard has-post-thumbnail category-buying-guides category-news is-trending tie-standard">
+<a href="https://jannah.tielabs.com/cryptocurrency/2018/01/20/consumers-beware-not-all-cryptocurrencies-are-the-same/" title="Consumers beware – not all cryptocurrencies are the same" class="post-thumb"><span class="trending-post fa fa-bolt trending-lg" aria-hidden="true"></span><h5 class="post-cat-wrap"><span class="post-cat tie-cat-8">Buying Guides</span></h5>
+<div class="post-thumb-overlay-wrap">
+<div class="post-thumb-overlay">
+<span class="icon"></span>
+</div>
+</div>
+<img width="390" height="220" src="https://jannah.tielabs.com/cryptocurrency/wp-content/themes/jannah/assets/images/tie-empty.png" class="attachment-jannah-image-large size-jannah-image-large lazy-img wp-post-image" alt="" data-src="https://jannah.tielabs.com/cryptocurrency/wp-content/uploads/sites/51/2018/01/olga-delawrence-386839-390x220.jpg" /></a><div class="post-meta">
+<span class="meta-author meta-item"><a href="https://jannah.tielabs.com/cryptocurrency/author/yahia/" class="author-name" title="Yahia Ragae"><span class="fa fa-user" aria-hidden="true"></span> Yahia Ragae</a>
+</span>
+<span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>January 20, 2018</span></span><div class="tie-alignright"><span class="meta-comment meta-item"><a href="https://jannah.tielabs.com/cryptocurrency/2018/01/20/consumers-beware-not-all-cryptocurrencies-are-the-same/#respond"><span class="fa fa-comments" aria-hidden="true"></span> 0</a></span><span class="meta-views meta-item "><span class="tie-icon-fire" aria-hidden="true"></span> 136 </span> </div><div class="clearfix"></div></div>
+<div class="post-details">
+<h3 class="post-title"><a href="https://jannah.tielabs.com/cryptocurrency/2018/01/20/consumers-beware-not-all-cryptocurrencies-are-the-same/" title="Consumers beware – not all cryptocurrencies are the same">Consumers beware – not all cryptocurrencies are the same</a></h3>
+<p class="post-excerpt">Not because I missed the great run-up (though I did) and not because I fear that the bitcoin bubble will&hellip;</p>
+<a class="more-link button" href="https://jannah.tielabs.com/cryptocurrency/2018/01/20/consumers-beware-not-all-cryptocurrencies-are-the-same/">Read More &raquo;</a>
+</div>
+</li>
+</ul><div class="clearfix"></div>
+</div>
+<a class="block-pagination next-posts show-more-button load-more-button" data-text="Load More">Load More</a>
+</div>
+</div>
+<script>var js_tie_block_1164 = {"order":"latest","number":"6","pagi":"load-more","excerpt":"true","post_meta":"true","read_more":"true","breaking_effect":"reveal","content_only":"true","sub_style":"default","style":"default"};</script>
+</div>
+<aside class="sidebar tie-col-md-4 tie-col-xs-12 normal-side is-sticky" aria-label="Primary Sidebar">
+ <div class="theiaStickySidebar">
+<div id="text-html-widget-4" class="widget text-html-box">
+<iframe frameBorder="0" scrolling="no" allowtransparency="0" src="https://bitcoinaverage.com/en/widgets?widgetType=price&bgcolor=#FFFFFF&bwidth=1&bcolor=#CCCCCC&cstyle=round&fsize=16px&ffamily=arial&fcolor=#000000&bgTransparent=solid&chartStyle=block&lastUpdateTime=block&currency0=USD&total=1" style="width:100%; height:275px; overflow:hidden; background-color:transparent !important;"></iframe> </div>
+<div id="text-html-widget-8" class="container-wrapper widget text-html"><div class="widget-title the-global-title has-block-head-4"><h4>Currencies</h4></div><div><div class="wpuc-coin-list">
+<div class="wpuc-coin-list-row">
+<div class="wpuc-coin-list-ranking">
+1 </div>
+<div class="wpuc-coin-list-icon">
+<img src="https://jannah.tielabs.com/cryptocurrency/wp-content/plugins/wp-ultimate-crypto/public/img/coins/bitcoin.svg" width="28" height="28" alt="Bitcoin" />
+</div>
+<div class="wpuc-coin-list-name">
+<span>Bitcoin</span>
+</div>
+<div class="wpuc-coin-list-price">
+<span class="wpuc-coin-list-currency">&dollar;</span><span class="wpuc-coin-list-amount">8,215.61</span>
+</div>
+<div class="wpuc-coin-list-change">
+<span class="wpuc-coin-list-percentage wpuc-coin-list-down">
+-1.04%
+</span>
+</div>
+</div>
+<div class="wpuc-coin-list-row">
+<div class="wpuc-coin-list-ranking">
+2 </div>
+<div class="wpuc-coin-list-icon">
+<img src="https://jannah.tielabs.com/cryptocurrency/wp-content/plugins/wp-ultimate-crypto/public/img/coins/ethereum.svg" width="28" height="28" alt="Ethereum" />
+</div>
+<div class="wpuc-coin-list-name">
+<span>Ethereum</span>
+</div>
+<div class="wpuc-coin-list-price">
+<span class="wpuc-coin-list-currency">&dollar;</span><span class="wpuc-coin-list-amount">477.75</span>
+</div>
+<div class="wpuc-coin-list-change">
+<span class="wpuc-coin-list-percentage wpuc-coin-list-down">
+-0.05%
+</span>
+</div>
+</div>
+<div class="wpuc-coin-list-row">
+<div class="wpuc-coin-list-ranking">
+3 </div>
+<div class="wpuc-coin-list-icon">
+<img src="https://jannah.tielabs.com/cryptocurrency/wp-content/plugins/wp-ultimate-crypto/public/img/coins/ripple.svg" width="28" height="28" alt="XRP" />
+</div>
+<div class="wpuc-coin-list-name">
+<span>XRP</span>
+</div>
+<div class="wpuc-coin-list-price">
+<span class="wpuc-coin-list-currency">&dollar;</span><span class="wpuc-coin-list-amount">0.4636</span>
+</div>
+<div class="wpuc-coin-list-change">
+<span class="wpuc-coin-list-percentage wpuc-coin-list-up">
+1.08%
+</span>
+</div>
+</div>
+<div class="wpuc-coin-list-row">
+<div class="wpuc-coin-list-ranking">
+4 </div>
+<div class="wpuc-coin-list-icon">
+<img src="https://jannah.tielabs.com/cryptocurrency/wp-content/plugins/wp-ultimate-crypto/public/img/coins/bitcoin-cash.svg" width="28" height="28" alt="Bitcoin Cash" />
+</div>
+<div class="wpuc-coin-list-name">
+<span>Bitcoin Cash</span>
+</div>
+<div class="wpuc-coin-list-price">
+<span class="wpuc-coin-list-currency">&dollar;</span><span class="wpuc-coin-list-amount">838.46</span>
+</div>
+<div class="wpuc-coin-list-change">
+<span class="wpuc-coin-list-percentage wpuc-coin-list-down">
+-1.86%
+</span>
+</div>
+</div>
+<div class="wpuc-coin-list-row">
+<div class="wpuc-coin-list-ranking">
+5 </div>
+<div class="wpuc-coin-list-icon">
+<img src="https://jannah.tielabs.com/cryptocurrency/wp-content/plugins/wp-ultimate-crypto/public/img/coins/eos.svg" width="28" height="28" alt="EOS" />
+</div>
+<div class="wpuc-coin-list-name">
+<span>EOS</span>
+</div>
+<div class="wpuc-coin-list-price">
+<span class="wpuc-coin-list-currency">&dollar;</span><span class="wpuc-coin-list-amount">8.554</span>
+</div>
+<div class="wpuc-coin-list-change">
+<span class="wpuc-coin-list-percentage wpuc-coin-list-down">
+-2.05%
+</span>
+</div>
+</div>
+<div class="wpuc-coin-list-row">
+<div class="wpuc-coin-list-ranking">
+6 </div>
+<div class="wpuc-coin-list-icon">
+<img src="https://jannah.tielabs.com/cryptocurrency/wp-content/plugins/wp-ultimate-crypto/public/img/coins/stellar.svg" width="28" height="28" alt="Stellar" />
+</div>
+<div class="wpuc-coin-list-name">
+<span>Stellar</span>
+</div>
+<div class="wpuc-coin-list-price">
+<span class="wpuc-coin-list-currency">&dollar;</span><span class="wpuc-coin-list-amount">0.3375</span>
+</div>
+<div class="wpuc-coin-list-change">
+<span class="wpuc-coin-list-percentage wpuc-coin-list-up">
+12.36%
+</span>
+</div>
+</div>
+<div class="wpuc-coin-list-row">
+<div class="wpuc-coin-list-ranking">
+7 </div>
+<div class="wpuc-coin-list-icon">
+<img src="https://jannah.tielabs.com/cryptocurrency/wp-content/plugins/wp-ultimate-crypto/public/img/coins/litecoin.svg" width="28" height="28" alt="Litecoin" />
+</div>
+<div class="wpuc-coin-list-name">
+<span>Litecoin</span>
+</div>
+<div class="wpuc-coin-list-price">
+<span class="wpuc-coin-list-currency">&dollar;</span><span class="wpuc-coin-list-amount">86.778</span>
+</div>
+<div class="wpuc-coin-list-change">
+<span class="wpuc-coin-list-percentage wpuc-coin-list-down">
+-0.72%
+</span>
+</div>
+</div>
+<div class="wpuc-coin-list-row">
+<div class="wpuc-coin-list-ranking">
+8 </div>
+<div class="wpuc-coin-list-icon">
+<img src="https://jannah.tielabs.com/cryptocurrency/wp-content/plugins/wp-ultimate-crypto/public/img/coins/cardano.svg" width="28" height="28" alt="Cardano" />
+</div>
+<div class="wpuc-coin-list-name">
+<span>Cardano</span>
+</div>
+<div class="wpuc-coin-list-price">
+<span class="wpuc-coin-list-currency">&dollar;</span><span class="wpuc-coin-list-amount">0.1731</span>
+</div>
+<div class="wpuc-coin-list-change">
+<span class="wpuc-coin-list-percentage wpuc-coin-list-up">
+0.36%
+</span>
+</div>
+</div>
+<div class="wpuc-coin-list-row">
+<div class="wpuc-coin-list-ranking">
+9 </div>
+<div class="wpuc-coin-list-icon">
+<img src="https://jannah.tielabs.com/cryptocurrency/wp-content/plugins/wp-ultimate-crypto/public/img/coins/iota.svg" width="28" height="28" alt="IOTA" />
+</div>
+<div class="wpuc-coin-list-name">
+<span>IOTA</span>
+</div>
+<div class="wpuc-coin-list-price">
+<span class="wpuc-coin-list-currency">&dollar;</span><span class="wpuc-coin-list-amount">1.0000</span>
+</div>
+<div class="wpuc-coin-list-change">
+<span class="wpuc-coin-list-percentage wpuc-coin-list-up">
+0.15%
+</span>
+</div>
+</div>
+<div class="wpuc-coin-list-row">
+<div class="wpuc-coin-list-ranking">
+10 </div>
+<div class="wpuc-coin-list-icon">
+<img src="https://jannah.tielabs.com/cryptocurrency/wp-content/plugins/wp-ultimate-crypto/public/img/coins/tether.svg" width="28" height="28" alt="Tether" />
+</div>
+<div class="wpuc-coin-list-name">
+<span>Tether</span>
+</div>
+<div class="wpuc-coin-list-price">
+<span class="wpuc-coin-list-currency">&dollar;</span><span class="wpuc-coin-list-amount">0.9967</span>
+</div>
+<div class="wpuc-coin-list-change">
+<span class="wpuc-coin-list-percentage wpuc-coin-list-up">
+0.76%
+</span>
+</div>
+</div>
+<div class="wpuc-coin-list-row">
+<div class="wpuc-coin-list-ranking">
+11 </div>
+<div class="wpuc-coin-list-icon">
+<img src="https://jannah.tielabs.com/cryptocurrency/wp-content/plugins/wp-ultimate-crypto/public/img/coins/tron.svg" width="28" height="28" alt="TRON" />
+</div>
+<div class="wpuc-coin-list-name">
+<span>TRON</span>
+</div>
+<div class="wpuc-coin-list-price">
+<span class="wpuc-coin-list-currency">&dollar;</span><span class="wpuc-coin-list-amount">0.0375</span>
+</div>
+<div class="wpuc-coin-list-change">
+<span class="wpuc-coin-list-percentage wpuc-coin-list-down">
+-0.54%
+</span>
+</div>
+</div>
+<div class="wpuc-coin-list-row">
+<div class="wpuc-coin-list-ranking">
+12 </div>
+<div class="wpuc-coin-list-icon">
+<img src="https://jannah.tielabs.com/cryptocurrency/wp-content/plugins/wp-ultimate-crypto/public/img/coins/monero.svg" width="28" height="28" alt="Monero" />
+</div>
+<div class="wpuc-coin-list-name">
+<span>Monero</span>
+</div>
+<div class="wpuc-coin-list-price">
+<span class="wpuc-coin-list-currency">&dollar;</span><span class="wpuc-coin-list-amount">142.37</span>
+</div>
+<div class="wpuc-coin-list-change">
+<span class="wpuc-coin-list-percentage wpuc-coin-list-down">
+-0.34%
+</span>
+</div>
+</div>
+<div class="wpuc-coin-list-row">
+<div class="wpuc-coin-list-ranking">
+13 </div>
+<div class="wpuc-coin-list-icon">
+<img src="https://jannah.tielabs.com/cryptocurrency/wp-content/plugins/wp-ultimate-crypto/public/img/coins/neo.svg" width="28" height="28" alt="NEO" />
+</div>
+<div class="wpuc-coin-list-name">
+<span>NEO</span>
+</div>
+<div class="wpuc-coin-list-price">
+<span class="wpuc-coin-list-currency">&dollar;</span><span class="wpuc-coin-list-amount">35.133</span>
+</div>
+<div class="wpuc-coin-list-change">
+<span class="wpuc-coin-list-percentage wpuc-coin-list-up">
+1.41%
+</span>
+</div>
+</div>
+<div class="wpuc-coin-list-row">
+<div class="wpuc-coin-list-ranking">
+14 </div>
+<div class="wpuc-coin-list-icon">
+<img src="https://jannah.tielabs.com/cryptocurrency/wp-content/plugins/wp-ultimate-crypto/public/img/coins/dash.svg" width="28" height="28" alt="Dash" />
+</div>
+<div class="wpuc-coin-list-name">
+<span>Dash</span>
+</div>
+<div class="wpuc-coin-list-price">
+<span class="wpuc-coin-list-currency">&dollar;</span><span class="wpuc-coin-list-amount">246.69</span>
+</div>
+<div class="wpuc-coin-list-change">
+<span class="wpuc-coin-list-percentage wpuc-coin-list-down">
+-1.24%
+</span>
+</div>
+</div>
+<div class="wpuc-coin-list-row">
+<div class="wpuc-coin-list-ranking">
+15 </div>
+<div class="wpuc-coin-list-icon">
+<img src="https://jannah.tielabs.com/cryptocurrency/wp-content/plugins/wp-ultimate-crypto/public/img/coins/ethereum-classic.svg" width="28" height="28" alt="Ethereum Classic" />
+</div>
+<div class="wpuc-coin-list-name">
+<span>Ethereum Classic</span>
+</div>
+<div class="wpuc-coin-list-price">
+<span class="wpuc-coin-list-currency">&dollar;</span><span class="wpuc-coin-list-amount">16.662</span>
+</div>
+<div class="wpuc-coin-list-change">
+<span class="wpuc-coin-list-percentage wpuc-coin-list-up">
+0.34%
+</span>
+</div>
+</div>
+<div class="wpuc-coin-list-row">
+<div class="wpuc-coin-list-ranking">
+16 </div>
+<div class="wpuc-coin-list-icon">
+<img src="https://jannah.tielabs.com/cryptocurrency/wp-content/plugins/wp-ultimate-crypto/public/img/coins/nem.svg" width="28" height="28" alt="NEM" />
+</div>
+<div class="wpuc-coin-list-name">
+<span>NEM</span>
+</div>
+<div class="wpuc-coin-list-price">
+<span class="wpuc-coin-list-currency">&dollar;</span><span class="wpuc-coin-list-amount">0.1828</span>
+</div>
+<div class="wpuc-coin-list-change">
+<span class="wpuc-coin-list-percentage wpuc-coin-list-up">
+0.53%
+</span>
+</div>
+</div>
+<div class="wpuc-coin-list-row">
+<div class="wpuc-coin-list-ranking">
+18 </div>
+<div class="wpuc-coin-list-icon">
+<img src="https://jannah.tielabs.com/cryptocurrency/wp-content/plugins/wp-ultimate-crypto/public/img/coins/binance-coin.svg" width="28" height="28" alt="Binance Coin" />
+</div>
+<div class="wpuc-coin-list-name">
+<span>Binance Coin</span>
+</div>
+<div class="wpuc-coin-list-price">
+<span class="wpuc-coin-list-currency">&dollar;</span><span class="wpuc-coin-list-amount">12.971</span>
+</div>
+<div class="wpuc-coin-list-change">
+<span class="wpuc-coin-list-percentage wpuc-coin-list-up">
+0.82%
+</span>
+</div>
+</div>
+<div class="wpuc-coin-list-row">
+<div class="wpuc-coin-list-ranking">
+19 </div>
+<div class="wpuc-coin-list-icon">
+<img src="https://jannah.tielabs.com/cryptocurrency/wp-content/plugins/wp-ultimate-crypto/public/img/coins/vechain.svg" width="28" height="28" alt="VeChain" />
+</div>
+<div class="wpuc-coin-list-name">
+<span>VeChain</span>
+</div>
+<div class="wpuc-coin-list-price">
+<span class="wpuc-coin-list-currency">&dollar;</span><span class="wpuc-coin-list-amount">1.9908</span>
+</div>
+<div class="wpuc-coin-list-change">
+<span class="wpuc-coin-list-percentage wpuc-coin-list-down">
+-1.83%
+</span>
+</div>
+</div>
+<div class="wpuc-coin-list-row">
+<div class="wpuc-coin-list-ranking">
+20 </div>
+<div class="wpuc-coin-list-icon">
+<img src="https://jannah.tielabs.com/cryptocurrency/wp-content/plugins/wp-ultimate-crypto/public/img/coins/omisego.svg" width="28" height="28" alt="OmiseGO" />
+</div>
+<div class="wpuc-coin-list-name">
+<span>OmiseGO</span>
+</div>
+<div class="wpuc-coin-list-price">
+<span class="wpuc-coin-list-currency">&dollar;</span><span class="wpuc-coin-list-amount">7.183</span>
+</div>
+<div class="wpuc-coin-list-change">
+<span class="wpuc-coin-list-percentage wpuc-coin-list-up">
+0.96%
+</span>
+</div>
+</div>
+<div class="wpuc-coin-list-row">
+<div class="wpuc-coin-list-ranking">
+21 </div>
+<div class="wpuc-coin-list-icon">
+<img src="https://jannah.tielabs.com/cryptocurrency/wp-content/plugins/wp-ultimate-crypto/public/img/coins/zcash.svg" width="28" height="28" alt="Zcash" />
+</div>
+<div class="wpuc-coin-list-name">
+<span>Zcash</span>
+</div>
+<div class="wpuc-coin-list-price">
+<span class="wpuc-coin-list-currency">&dollar;</span><span class="wpuc-coin-list-amount">225.99</span>
+</div>
+<div class="wpuc-coin-list-change">
+<span class="wpuc-coin-list-percentage wpuc-coin-list-up">
+5.15%
+</span>
+</div>
+</div>
+<div class="wpuc-coin-list-row">
+<div class="wpuc-coin-list-ranking">
+22 </div>
+<div class="wpuc-coin-list-icon">
+<img src="https://jannah.tielabs.com/cryptocurrency/wp-content/plugins/wp-ultimate-crypto/public/img/coins/qtum.svg" width="28" height="28" alt="Qtum" />
+</div>
+<div class="wpuc-coin-list-name">
+<span>Qtum</span>
+</div>
+<div class="wpuc-coin-list-price">
+<span class="wpuc-coin-list-currency">&dollar;</span><span class="wpuc-coin-list-amount">8.143</span>
+</div>
+<div class="wpuc-coin-list-change">
+<span class="wpuc-coin-list-percentage wpuc-coin-list-up">
+0.66%
+</span>
+</div>
+</div>
+<div class="wpuc-coin-list-row">
+<div class="wpuc-coin-list-ranking">
+23 </div>
+<div class="wpuc-coin-list-icon">
+<img src="https://jannah.tielabs.com/cryptocurrency/wp-content/plugins/wp-ultimate-crypto/public/img/coins/0x.svg" width="28" height="28" alt="0x" />
+</div>
+<div class="wpuc-coin-list-name">
+<span>0x</span>
+</div>
+<div class="wpuc-coin-list-price">
+<span class="wpuc-coin-list-currency">&dollar;</span><span class="wpuc-coin-list-amount">1.1753</span>
+</div>
+<div class="wpuc-coin-list-change">
+<span class="wpuc-coin-list-percentage wpuc-coin-list-up">
+2.58%
+</span>
+</div>
+</div>
+<div class="wpuc-coin-list-row">
+<div class="wpuc-coin-list-ranking">
+25 </div>
+<div class="wpuc-coin-list-icon">
+<img src="https://jannah.tielabs.com/cryptocurrency/wp-content/plugins/wp-ultimate-crypto/public/img/coins/bytecoin-bcn.svg" width="28" height="28" alt="Bytecoin" />
+</div>
+<div class="wpuc-coin-list-name">
+<span>Bytecoin</span>
+</div>
+<div class="wpuc-coin-list-price">
+<span class="wpuc-coin-list-currency">&dollar;</span><span class="wpuc-coin-list-amount">0.0031</span>
+</div>
+<div class="wpuc-coin-list-change">
+<span class="wpuc-coin-list-percentage wpuc-coin-list-up">
+1.76%
+</span>
+</div>
+</div>
+<div class="wpuc-coin-list-row">
+<div class="wpuc-coin-list-ranking">
+26 </div>
+<div class="wpuc-coin-list-icon">
+<img src="https://jannah.tielabs.com/cryptocurrency/wp-content/plugins/wp-ultimate-crypto/public/img/coins/lisk.svg" width="28" height="28" alt="Lisk" />
+</div>
+<div class="wpuc-coin-list-name">
+<span>Lisk</span>
+</div>
+<div class="wpuc-coin-list-price">
+<span class="wpuc-coin-list-currency">&dollar;</span><span class="wpuc-coin-list-amount">5.098</span>
+</div>
+<div class="wpuc-coin-list-change">
+<span class="wpuc-coin-list-percentage wpuc-coin-list-up">
+0.38%
+</span>
+</div>
+</div>
+<div class="wpuc-coin-list-row">
+<div class="wpuc-coin-list-ranking">
+27 </div>
+<div class="wpuc-coin-list-icon">
+<img src="https://jannah.tielabs.com/cryptocurrency/wp-content/plugins/wp-ultimate-crypto/public/img/coins/bitshares.svg" width="28" height="28" alt="BitShares" />
+</div>
+<div class="wpuc-coin-list-name">
+<span>BitShares</span>
+</div>
+<div class="wpuc-coin-list-price">
+<span class="wpuc-coin-list-currency">&dollar;</span><span class="wpuc-coin-list-amount">0.2084</span>
+</div>
+<div class="wpuc-coin-list-change">
+<span class="wpuc-coin-list-percentage wpuc-coin-list-down">
+-0.67%
+</span>
+</div>
+</div>
+<div class="wpuc-coin-list-row">
+<div class="wpuc-coin-list-ranking">
+29 </div>
+<div class="wpuc-coin-list-icon">
+<img src="https://jannah.tielabs.com/cryptocurrency/wp-content/plugins/wp-ultimate-crypto/public/img/coins/bitcoin-gold.svg" width="28" height="28" alt="Bitcoin Gold" />
+</div>
+<div class="wpuc-coin-list-name">
+<span>Bitcoin Gold</span>
+</div>
+<div class="wpuc-coin-list-price">
+<span class="wpuc-coin-list-currency">&dollar;</span><span class="wpuc-coin-list-amount">30.930</span>
+</div>
+<div class="wpuc-coin-list-change">
+<span class="wpuc-coin-list-percentage wpuc-coin-list-up">
+0.21%
+</span>
+</div>
+</div>
+<div class="wpuc-coin-list-row">
+<div class="wpuc-coin-list-ranking">
+31 </div>
+<div class="wpuc-coin-list-icon">
+<img src="https://jannah.tielabs.com/cryptocurrency/wp-content/plugins/wp-ultimate-crypto/public/img/coins/icon.svg" width="28" height="28" alt="ICON" />
+</div>
+<div class="wpuc-coin-list-name">
+<span>ICON</span>
+</div>
+<div class="wpuc-coin-list-price">
+<span class="wpuc-coin-list-currency">&dollar;</span><span class="wpuc-coin-list-amount">1.3604</span>
+</div>
+<div class="wpuc-coin-list-change">
+<span class="wpuc-coin-list-percentage wpuc-coin-list-up">
+1.22%
+</span>
+</div>
+</div>
+<div class="wpuc-coin-list-row">
+<div class="wpuc-coin-list-ranking">
+32 </div>
+<div class="wpuc-coin-list-icon">
+ <img src="https://jannah.tielabs.com/cryptocurrency/wp-content/plugins/wp-ultimate-crypto/public/img/coins/digibyte.svg" width="28" height="28" alt="DigiByte" />
+</div>
+<div class="wpuc-coin-list-name">
+<span>DigiByte</span>
+</div>
+<div class="wpuc-coin-list-price">
+<span class="wpuc-coin-list-currency">&dollar;</span><span class="wpuc-coin-list-amount">0.0437</span>
+</div>
+<div class="wpuc-coin-list-change">
+<span class="wpuc-coin-list-percentage wpuc-coin-list-down">
+-4.14%
+</span>
+</div>
+</div>
+<div class="wpuc-coin-list-row">
+<div class="wpuc-coin-list-ranking">
+35 </div>
+<div class="wpuc-coin-list-icon">
+<img src="https://jannah.tielabs.com/cryptocurrency/wp-content/plugins/wp-ultimate-crypto/public/img/coins/dogecoin.svg" width="28" height="28" alt="Dogecoin" />
+</div>
+<div class="wpuc-coin-list-name">
+<span>Dogecoin</span>
+</div>
+<div class="wpuc-coin-list-price">
+<span class="wpuc-coin-list-currency">&dollar;</span><span class="wpuc-coin-list-amount">0.0036</span>
+</div>
+<div class="wpuc-coin-list-change">
+<span class="wpuc-coin-list-percentage wpuc-coin-list-up">
+3.67%
+</span>
+</div>
+</div>
+<div class="wpuc-coin-list-row">
+<div class="wpuc-coin-list-ranking">
+36 </div>
+<div class="wpuc-coin-list-icon">
+<img src="https://jannah.tielabs.com/cryptocurrency/wp-content/plugins/wp-ultimate-crypto/public/img/coins/steem.svg" width="28" height="28" alt="Steem" />
+</div>
+<div class="wpuc-coin-list-name">
+<span>Steem</span>
+</div>
+<div class="wpuc-coin-list-price">
+<span class="wpuc-coin-list-currency">&dollar;</span><span class="wpuc-coin-list-amount">1.5149</span>
+</div>
+<div class="wpuc-coin-list-change">
+<span class="wpuc-coin-list-percentage wpuc-coin-list-up">
+5.53%
+</span>
+</div>
+</div>
+<div class="wpuc-coin-list-row">
+<div class="wpuc-coin-list-ranking">
+37 </div>
+<div class="wpuc-coin-list-icon">
+<img src="https://jannah.tielabs.com/cryptocurrency/wp-content/plugins/wp-ultimate-crypto/public/img/coins/siacoin.svg" width="28" height="28" alt="Siacoin" />
+</div>
+<div class="wpuc-coin-list-name">
+<span>Siacoin</span>
+</div>
+<div class="wpuc-coin-list-price">
+<span class="wpuc-coin-list-currency">&dollar;</span><span class="wpuc-coin-list-amount">0.0107</span>
+</div>
+<div class="wpuc-coin-list-change">
+<span class="wpuc-coin-list-percentage wpuc-coin-list-up">
+0.13%
+</span>
+</div>
+</div>
+<div class="wpuc-coin-list-row">
+<div class="wpuc-coin-list-ranking">
+38 </div>
+<div class="wpuc-coin-list-icon">
+<img src="https://jannah.tielabs.com/cryptocurrency/wp-content/plugins/wp-ultimate-crypto/public/img/coins/verge.svg" width="28" height="28" alt="Verge" />
+</div>
+<div class="wpuc-coin-list-name">
+<span>Verge</span>
+</div>
+<div class="wpuc-coin-list-price">
+<span class="wpuc-coin-list-currency">&dollar;</span><span class="wpuc-coin-list-amount">0.0251</span>
+</div>
+<div class="wpuc-coin-list-change">
+<span class="wpuc-coin-list-percentage wpuc-coin-list-up">
+0.54%
+</span>
+</div>
+</div>
+<div class="wpuc-coin-list-row">
+<div class="wpuc-coin-list-ranking">
+40 </div>
+<div class="wpuc-coin-list-icon">
+<img src="https://jannah.tielabs.com/cryptocurrency/wp-content/plugins/wp-ultimate-crypto/public/img/coins/augur.svg" width="28" height="28" alt="Augur" />
+</div>
+<div class="wpuc-coin-list-name">
+<span>Augur</span>
+</div>
+<div class="wpuc-coin-list-price">
+<span class="wpuc-coin-list-currency">&dollar;</span><span class="wpuc-coin-list-amount">30.526</span>
+</div>
+<div class="wpuc-coin-list-change">
+<span class="wpuc-coin-list-percentage wpuc-coin-list-up">
+2.57%
+</span>
+</div>
+</div>
+<div class="wpuc-coin-list-row">
+<div class="wpuc-coin-list-ranking">
+46 </div>
+<div class="wpuc-coin-list-icon">
+<img src="https://jannah.tielabs.com/cryptocurrency/wp-content/plugins/wp-ultimate-crypto/public/img/coins/stratis.svg" width="28" height="28" alt="Stratis" />
+</div>
+<div class="wpuc-coin-list-name">
+<span>Stratis</span>
+</div>
+<div class="wpuc-coin-list-price">
+<span class="wpuc-coin-list-currency">&dollar;</span><span class="wpuc-coin-list-amount">3.014</span>
+</div>
+<div class="wpuc-coin-list-change">
+<span class="wpuc-coin-list-percentage wpuc-coin-list-up">
+10.21%
+</span>
+</div>
+</div>
+<div class="wpuc-coin-list-row">
+<div class="wpuc-coin-list-ranking">
+48 </div>
+<div class="wpuc-coin-list-icon">
+<img src="https://jannah.tielabs.com/cryptocurrency/wp-content/plugins/wp-ultimate-crypto/public/img/coins/waves.svg" width="28" height="28" alt="Waves" />
+</div>
+<div class="wpuc-coin-list-name">
+<span>Waves</span>
+</div>
+<div class="wpuc-coin-list-price">
+<span class="wpuc-coin-list-currency">&dollar;</span><span class="wpuc-coin-list-amount">2.763</span>
+</div>
+<div class="wpuc-coin-list-change">
+<span class="wpuc-coin-list-percentage wpuc-coin-list-up">
+2.19%
+</span>
+</div>
+</div>
+<div class="wpuc-coin-list-row">
+<div class="wpuc-coin-list-ranking">
+50 </div>
+<div class="wpuc-coin-list-icon">
+<img src="https://jannah.tielabs.com/cryptocurrency/wp-content/plugins/wp-ultimate-crypto/public/img/coins/status.svg" width="28" height="28" alt="Status" />
+</div>
+<div class="wpuc-coin-list-name">
+<span>Status</span>
+</div>
+<div class="wpuc-coin-list-price">
+<span class="wpuc-coin-list-currency">&dollar;</span><span class="wpuc-coin-list-amount">0.0731</span>
+</div>
+<div class="wpuc-coin-list-change">
+<span class="wpuc-coin-list-percentage wpuc-coin-list-up">
+2.01%
+</span>
+</div>
+</div>
+<div class="wpuc-coin-list-row">
+<div class="wpuc-coin-list-ranking">
+52 </div>
+<div class="wpuc-coin-list-icon">
+<img src="https://jannah.tielabs.com/cryptocurrency/wp-content/plugins/wp-ultimate-crypto/public/img/coins/kucoin-shares.svg" width="28" height="28" alt="KuCoin Shares" />
+</div>
+<div class="wpuc-coin-list-name">
+<span>KuCoin Shares</span>
+</div>
+<div class="wpuc-coin-list-price">
+<span class="wpuc-coin-list-currency">&dollar;</span><span class="wpuc-coin-list-amount">2.765</span>
+</div>
+<div class="wpuc-coin-list-change">
+<span class="wpuc-coin-list-percentage wpuc-coin-list-down">
+-0.23%
+</span>
+</div>
+</div>
+<div class="wpuc-coin-list-row">
+<div class="wpuc-coin-list-ranking">
+56 </div>
+<div class="wpuc-coin-list-icon">
+<img src="https://jannah.tielabs.com/cryptocurrency/wp-content/plugins/wp-ultimate-crypto/public/img/coins/populous.svg" width="28" height="28" alt="Populous" />
+</div>
+<div class="wpuc-coin-list-name">
+<span>Populous</span>
+</div>
+<div class="wpuc-coin-list-price">
+<span class="wpuc-coin-list-currency">&dollar;</span><span class="wpuc-coin-list-amount">5.966</span>
+</div>
+<div class="wpuc-coin-list-change">
+<span class="wpuc-coin-list-percentage wpuc-coin-list-up">
+0.17%
+</span>
+</div>
+</div>
+<div class="wpuc-coin-list-row">
+<div class="wpuc-coin-list-ranking">
+60 </div>
+<div class="wpuc-coin-list-icon">
+<img src="https://jannah.tielabs.com/cryptocurrency/wp-content/plugins/wp-ultimate-crypto/public/img/coins/ardor.svg" width="28" height="28" alt="Ardor" />
+</div>
+<div class="wpuc-coin-list-name">
+<span>Ardor</span>
+</div>
+<div class="wpuc-coin-list-price">
+<span class="wpuc-coin-list-currency">&dollar;</span><span class="wpuc-coin-list-amount">0.1925</span>
+</div>
+<div class="wpuc-coin-list-change">
+<span class="wpuc-coin-list-percentage wpuc-coin-list-down">
+-4.11%
+</span>
+</div>
+</div>
+<div class="wpuc-coin-list-row">
+<div class="wpuc-coin-list-ranking">
+62 </div>
+<div class="wpuc-coin-list-icon">
+<img src="https://jannah.tielabs.com/cryptocurrency/wp-content/plugins/wp-ultimate-crypto/public/img/coins/komodo.svg" width="28" height="28" alt="Komodo" />
+</div>
+<div class="wpuc-coin-list-name">
+<span>Komodo</span>
+</div>
+<div class="wpuc-coin-list-price">
+<span class="wpuc-coin-list-currency">&dollar;</span><span class="wpuc-coin-list-amount">1.7090</span>
+</div>
+<div class="wpuc-coin-list-change">
+<span class="wpuc-coin-list-percentage wpuc-coin-list-up">
+7.17%
+</span>
+</div>
+</div>
+<div class="wpuc-coin-list-row">
+<div class="wpuc-coin-list-ranking">
+71 </div>
+<div class="wpuc-coin-list-icon">
+<img src="https://jannah.tielabs.com/cryptocurrency/wp-content/plugins/wp-ultimate-crypto/public/img/coins/ark.svg" width="28" height="28" alt="Ark" />
+</div>
+<div class="wpuc-coin-list-name">
+<span>Ark</span>
+</div>
+<div class="wpuc-coin-list-price">
+<span class="wpuc-coin-list-currency">&dollar;</span><span class="wpuc-coin-list-amount">1.3744</span>
+</div>
+<div class="wpuc-coin-list-change">
+<span class="wpuc-coin-list-percentage wpuc-coin-list-up">
+5.50%
+</span>
+</div>
+</div>
+<div class="wpuc-coin-list-row">
+<div class="wpuc-coin-list-ranking">
+82 </div>
+<div class="wpuc-coin-list-icon">
+<img src="https://jannah.tielabs.com/cryptocurrency/wp-content/plugins/wp-ultimate-crypto/public/img/coins/dentacoin.svg" width="28" height="28" alt="Dentacoin" />
+</div>
+<div class="wpuc-coin-list-name">
+<span>Dentacoin</span>
+</div>
+<div class="wpuc-coin-list-price">
+<span class="wpuc-coin-list-currency">&dollar;</span><span class="wpuc-coin-list-amount">0.0004</span>
+</div>
+<div class="wpuc-coin-list-change">
+<span class="wpuc-coin-list-percentage wpuc-coin-list-up">
+0.01%
+</span>
+</div>
+</div>
+<div class="wpuc-coin-list-row">
+<div class="wpuc-coin-list-ranking">
+96 </div>
+<div class="wpuc-coin-list-icon">
+<img src="https://jannah.tielabs.com/cryptocurrency/wp-content/plugins/wp-ultimate-crypto/public/img/coins/electroneum.svg" width="28" height="28" alt="Electroneum" />
+</div>
+<div class="wpuc-coin-list-name">
+<span>Electroneum</span>
+</div>
+<div class="wpuc-coin-list-price">
+<span class="wpuc-coin-list-currency">&dollar;</span><span class="wpuc-coin-list-amount">0.0132</span>
+</div>
+<div class="wpuc-coin-list-change">
+<span class="wpuc-coin-list-percentage wpuc-coin-list-up">
+3.52%
+</span>
+</div>
+</div>
+<div class="wpuc-coin-list-row">
+<div class="wpuc-coin-list-ranking">
+102 </div>
+<div class="wpuc-coin-list-icon">
+<img src="https://jannah.tielabs.com/cryptocurrency/wp-content/plugins/wp-ultimate-crypto/public/img/coins/qash.svg" width="28" height="28" alt="QASH" />
+</div>
+<div class="wpuc-coin-list-name">
+<span>QASH</span>
+</div>
+<div class="wpuc-coin-list-price">
+<span class="wpuc-coin-list-currency">&dollar;</span><span class="wpuc-coin-list-amount">0.2599</span>
+</div>
+<div class="wpuc-coin-list-change">
+<span class="wpuc-coin-list-percentage wpuc-coin-list-down">
+-1.25%
+</span>
+</div>
+</div>
+<div class="wpuc-coin-list-row">
+<div class="wpuc-coin-list-ranking">
+107 </div>
+<div class="wpuc-coin-list-icon">
+<img src="https://jannah.tielabs.com/cryptocurrency/wp-content/plugins/wp-ultimate-crypto/public/img/coins/veritaseum.svg" width="28" height="28" alt="Veritaseum" />
+</div>
+<div class="wpuc-coin-list-name">
+<span>Veritaseum</span>
+</div>
+<div class="wpuc-coin-list-price">
+<span class="wpuc-coin-list-currency">&dollar;</span><span class="wpuc-coin-list-amount">43.291</span>
+</div>
+<div class="wpuc-coin-list-change">
+<span class="wpuc-coin-list-percentage wpuc-coin-list-down">
+-6.80%
+</span>
+</div>
+</div>
+<div class="wpuc-coin-list-row">
+<div class="wpuc-coin-list-ranking">
+112 </div>
+<div class="wpuc-coin-list-icon">
+<img src="https://jannah.tielabs.com/cryptocurrency/wp-content/plugins/wp-ultimate-crypto/public/img/coins/smartcash.svg" width="28" height="28" alt="SmartCash" />
+</div>
+<div class="wpuc-coin-list-name">
+<span>SmartCash</span>
+</div>
+<div class="wpuc-coin-list-price">
+<span class="wpuc-coin-list-currency">&dollar;</span><span class="wpuc-coin-list-amount">0.0798</span>
+</div>
+<div class="wpuc-coin-list-change">
+<span class="wpuc-coin-list-percentage wpuc-coin-list-down">
+-4.54%
+</span>
+</div>
+</div>
+<div class="wpuc-coin-list-row">
+<div class="wpuc-coin-list-ranking">
+123 </div>
+<div class="wpuc-coin-list-icon">
+<img src="https://jannah.tielabs.com/cryptocurrency/wp-content/plugins/wp-ultimate-crypto/public/img/coins/dragonchain.svg" width="28" height="28" alt="Dragonchain" />
+</div>
+<div class="wpuc-coin-list-name">
+<span>Dragonchain</span>
+</div>
+<div class="wpuc-coin-list-price">
+<span class="wpuc-coin-list-currency">&dollar;</span><span class="wpuc-coin-list-amount">0.2909</span>
+</div>
+<div class="wpuc-coin-list-change">
+<span class="wpuc-coin-list-percentage wpuc-coin-list-down">
+-0.01%
+</span>
+</div>
+</div>
+<div class="wpuc-coin-list-row">
+<div class="wpuc-coin-list-ranking">
+624 </div>
+<div class="wpuc-coin-list-icon">
+<img src="https://jannah.tielabs.com/cryptocurrency/wp-content/plugins/wp-ultimate-crypto/public/img/coins/bitconnect.svg" width="28" height="28" alt="BitConnect" />
+</div>
+<div class="wpuc-coin-list-name">
+<span>BitConnect</span>
+</div>
+<div class="wpuc-coin-list-price">
+<span class="wpuc-coin-list-currency">&dollar;</span><span class="wpuc-coin-list-amount">0.4330</span>
+</div>
+<div class="wpuc-coin-list-change">
+<span class="wpuc-coin-list-percentage wpuc-coin-list-up">
+27.17%
+</span>
+</div>
+</div>
+</div></div><div class="clearfix"></div></div><div id="social-statistics-4" class="container-wrapper widget social-statistics-widget"><div class="widget-title the-global-title has-block-head-4"><h4>Follow Us</h4></div>
+<ul class="solid-social-icons solid-social-icons white-bg squared-four-cols Arqam-Lite">
+<li class="social-icons-item">
+<a class="facebook-social-icon" href="https://www.facebook.com/tielabs" rel="nofollow" target="_blank">
+<span class="counter-icon fa fa-facebook"></span> <span class="followers">
+<span class="followers-num">13,627</span>
+<span class="followers-name">Fans</span>
+</span>
+</a>
+</li>
+<li class="social-icons-item">
+<a class="twitter-social-icon" href="https://twitter.com/tielabs" rel="nofollow" target="_blank">
+<span class="counter-icon fa fa-twitter"></span> <span class="followers">
+<span class="followers-num">886</span>
+<span class="followers-name">Followers</span>
+</span>
+</a>
+</li>
+<li class="social-icons-item">
+<a class="google-social-icon" href="https://plus.google.com/106192958286631454676" rel="nofollow" target="_blank">
+<span class="counter-icon fa fa-google-plus"></span> <span class="followers">
+<span class="followers-num">11,023</span>
+<span class="followers-name">Followers</span>
+</span>
+</a>
+</li>
+<li class="social-icons-item">
+<a class="youtube-social-icon" href="https://youtube.com/user/TEAMMESAI" rel="nofollow" target="_blank">
+<span class="counter-icon fa fa-youtube"></span> <span class="followers">
+<span class="followers-num">11,551</span>
+<span class="followers-name">Followers</span>
+</span>
+</a>
+</li>
+</ul>
+<div class="clearfix"></div></div><div id="posts-list-widget-3" class="container-wrapper widget posts-list"><div class="widget-title the-global-title has-block-head-4"><h4>Most Viewed</h4></div><div class=""><ul class="posts-list-items">
+<li class="widget-post-list tie-standard">
+<div class="post-widget-thumbnail">
+<a href="https://jannah.tielabs.com/cryptocurrency/2018/01/20/the-fundamental-conflict-at-the-heart-of-bitcoin/" title="The Fundamental Conflict At The Heart Of Bitcoin" class="post-thumb">
+<div class="post-thumb-overlay-wrap">
+<div class="post-thumb-overlay">
+<span class="icon"></span>
+</div>
+</div>
+<img width="220" height="150" src="https://jannah.tielabs.com/cryptocurrency/wp-content/themes/jannah/assets/images/tie-empty-small.png" class="attachment-jannah-image-small size-jannah-image-small lazy-img tie-small-image wp-post-image" alt="" data-src="https://jannah.tielabs.com/cryptocurrency/wp-content/uploads/sites/51/2018/01/main-nav-settings-3-220x150.jpg" /></a> </div>
+<div class="post-widget-body ">
+<h3 class="post-title"><a href="https://jannah.tielabs.com/cryptocurrency/2018/01/20/the-fundamental-conflict-at-the-heart-of-bitcoin/" title="The Fundamental Conflict At The Heart Of Bitcoin">The Fundamental Conflict At The Heart Of Bitcoin</a></h3>
+<div class="post-meta">
+<span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>January 20, 2018</span></span> </div>
+</div>
+</li>
+<li class="widget-post-list tie-standard">
+<div class="post-widget-thumbnail">
+<a href="https://jannah.tielabs.com/cryptocurrency/2018/01/20/what-is-tron-cryptocurrency-aims-to-change-internet/" title="What Is Tron? Cryptocurrency Aims To Change Internet" class="post-thumb">
+<div class="post-thumb-overlay-wrap">
+<div class="post-thumb-overlay">
+<span class="icon"></span>
+</div>
+</div>
+<img width="220" height="150" src="https://jannah.tielabs.com/cryptocurrency/wp-content/themes/jannah/assets/images/tie-empty-small.png" class="attachment-jannah-image-small size-jannah-image-small lazy-img tie-small-image wp-post-image" alt="" data-src="https://jannah.tielabs.com/cryptocurrency/wp-content/uploads/sites/51/2018/01/johannes-plenio-377226-220x150.jpg" /></a> </div>
+<div class="post-widget-body ">
+<h3 class="post-title"><a href="https://jannah.tielabs.com/cryptocurrency/2018/01/20/what-is-tron-cryptocurrency-aims-to-change-internet/" title="What Is Tron? Cryptocurrency Aims To Change Internet">What Is Tron? Cryptocurrency Aims To Change Internet</a></h3>
+<div class="post-meta">
+<span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>January 20, 2018</span></span> </div>
+</div>
+</li>
+<li class="widget-post-list tie-video">
+<div class="post-widget-thumbnail">
+<a href="https://jannah.tielabs.com/cryptocurrency/2018/01/20/bitcoin-ethereum-and-other-cryptocurrencies-gain-momentum-after-wednesdays-debacle/" title="Bitcoin, Ethereum and Other Cryptocurrencies Gain Momentum after Wednesday’s Debacle" class="post-thumb">
+<div class="post-thumb-overlay-wrap">
+<div class="post-thumb-overlay">
+<span class="icon"></span>
+</div>
+</div>
+<img width="220" height="150" src="https://jannah.tielabs.com/cryptocurrency/wp-content/themes/jannah/assets/images/tie-empty-small.png" class="attachment-jannah-image-small size-jannah-image-small lazy-img tie-small-image wp-post-image" alt="" data-src="https://jannah.tielabs.com/cryptocurrency/wp-content/uploads/sites/51/2018/01/wear-3080558_1280-220x150.jpg" /></a> </div>
+<div class="post-widget-body ">
+<h3 class="post-title"><a href="https://jannah.tielabs.com/cryptocurrency/2018/01/20/bitcoin-ethereum-and-other-cryptocurrencies-gain-momentum-after-wednesdays-debacle/" title="Bitcoin, Ethereum and Other Cryptocurrencies Gain Momentum after Wednesday’s Debacle">Bitcoin, Ethereum and Other Cryptocurrencies Gain Momentum after Wednesday’s Debacle</a></h3>
+<div class="post-meta">
+<span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>January 20, 2018</span></span> </div>
+</div>
+</li>
+<li class="widget-post-list is-trending tie-standard">
+<div class="post-widget-thumbnail">
+<a href="https://jannah.tielabs.com/cryptocurrency/2018/01/20/consumers-beware-not-all-cryptocurrencies-are-the-same/" title="Consumers beware – not all cryptocurrencies are the same" class="post-thumb">
+<div class="post-thumb-overlay-wrap">
+<div class="post-thumb-overlay">
+<span class="icon"></span>
+</div>
+</div>
+<img width="220" height="150" src="https://jannah.tielabs.com/cryptocurrency/wp-content/themes/jannah/assets/images/tie-empty-small.png" class="attachment-jannah-image-small size-jannah-image-small lazy-img tie-small-image wp-post-image" alt="" data-src="https://jannah.tielabs.com/cryptocurrency/wp-content/uploads/sites/51/2018/01/olga-delawrence-386839-220x150.jpg" /></a> </div>
+<div class="post-widget-body ">
+<h3 class="post-title"><a href="https://jannah.tielabs.com/cryptocurrency/2018/01/20/consumers-beware-not-all-cryptocurrencies-are-the-same/" title="Consumers beware – not all cryptocurrencies are the same">Consumers beware – not all cryptocurrencies are the same</a></h3>
+<div class="post-meta">
+<span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>January 20, 2018</span></span> </div>
+</div>
+</li>
+</ul></div><div class="clearfix"></div></div> </div>
+</aside>
+</div>
+</div>
+</div>
+</div>
+<div id="tiepost-149-section-1322" class="section-wrapper container-full has-background has-title">
+<div class="section-item full-width" style="background-color: #f7f7f7; background-size: cover;">
+<div class="container"><h2 class="section-title section-title-big"><span class="the-section-title">Crypto Mining Store</span></h2></div>
+<div class="container">
+<div class="tie-row main-content-row">
+<div class="main-content tie-col-md-12">
+<div id="tie-block_2361" class="mag-box latest-poroducts-box latest-poroducts-normal-box woocommerce content-only" data-current="1">
+<div class="container-wrapper">
+<div class="mag-box-title the-global-title">
+<h3>
+Order your Miner today </h3>
+</div>
+<div class="mag-box-container clearfix">
+<ul class="products"><li class="post-302 product type-product status-publish has-post-thumbnail product_cat-asic-miniers first instock sale shipping-taxable purchasable product-type-simple">
+<a href="https://jannah.tielabs.com/cryptocurrency/product/pny-120gb-cs900-2-5/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><div class="product-img">
+<span class="onsale">Sale!</span>
+<img width="300" height="300" src="//jannah.tielabs.com/cryptocurrency/wp-content/themes/jannah/assets/images/tie-empty.png" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail lazy-img wp-post-image" alt="" data-src="//jannah.tielabs.com/cryptocurrency/wp-content/uploads/sites/51/2018/01/p-10-300x300.jpg" /></div><h2 class="woocommerce-loop-product__title">PNY 120GB CS900 2.5</h2>
+<span class="price"><del><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#36;</span>76.00</span></del> <ins><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#36;</span>66.00</span></ins></span>
+</a><a href="/cryptocurrency/?add-to-cart=302" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="302" data-product_sku="" aria-label="Add &ldquo;PNY 120GB CS900 2.5&rdquo; to your cart" rel="nofollow">Add to cart</a></li>
+<li class="post-300 product type-product status-publish has-post-thumbnail product_cat-graphic-card-gpu product_cat-software  instock shipping-taxable purchasable product-type-simple">
+<a href="https://jannah.tielabs.com/cryptocurrency/product/ethereum-mining-rig-230mh-s/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><div class="product-img"><img width="300" height="300" src="//jannah.tielabs.com/cryptocurrency/wp-content/themes/jannah/assets/images/tie-empty.png" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail lazy-img wp-post-image" alt="" data-src="//jannah.tielabs.com/cryptocurrency/wp-content/uploads/sites/51/2018/01/p-12-300x300.jpg" /></div><h2 class="woocommerce-loop-product__title">Ethereum mining rig 230mh/s</h2>
+<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#36;</span>342.00</span></span>
+</a><a href="/cryptocurrency/?add-to-cart=300" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="300" data-product_sku="" aria-label="Add &ldquo;Ethereum mining rig 230mh/s&rdquo; to your cart" rel="nofollow">Add to cart</a></li>
+<li class="post-301 product type-product status-publish has-post-thumbnail product_cat-graphic-card-gpu  instock sale shipping-taxable purchasable product-type-simple">
+<a href="https://jannah.tielabs.com/cryptocurrency/product/tb250-btc/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><div class="product-img">
+<span class="onsale">Sale!</span>
+<img width="300" height="300" src="//jannah.tielabs.com/cryptocurrency/wp-content/themes/jannah/assets/images/tie-empty.png" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail lazy-img wp-post-image" alt="" data-src="//jannah.tielabs.com/cryptocurrency/wp-content/uploads/sites/51/2018/01/p-11-300x300.jpg" /></div><h2 class="woocommerce-loop-product__title">TB250-BTC+</h2>
+<span class="price"><del><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#36;</span>543.00</span></del> <ins><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#36;</span>444.00</span></ins></span>
+</a><a href="/cryptocurrency/?add-to-cart=301" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="301" data-product_sku="" aria-label="Add &ldquo;TB250-BTC+&rdquo; to your cart" rel="nofollow">Add to cart</a></li>
+<li class="post-298 product type-product status-publish has-post-thumbnail product_cat-graphic-card-gpu last instock shipping-taxable purchasable product-type-simple">
+<a href="https://jannah.tielabs.com/cryptocurrency/product/gigabyte-ga-h110-d3a-atx-intel-motherboard-2/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><div class="product-img"><img width="300" height="300" src="//jannah.tielabs.com/cryptocurrency/wp-content/themes/jannah/assets/images/tie-empty.png" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail lazy-img wp-post-image" alt="" data-src="//jannah.tielabs.com/cryptocurrency/wp-content/uploads/sites/51/2018/01/p-4-300x300.jpg" /></div><h2 class="woocommerce-loop-product__title">GIGABYTE GA-H110-D3A ATX Intel Motherboard 2</h2>
+<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#36;</span>435.00</span></span>
+</a><a href="/cryptocurrency/?add-to-cart=298" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="298" data-product_sku="" aria-label="Add &ldquo;GIGABYTE GA-H110-D3A ATX Intel Motherboard 2&rdquo; to your cart" rel="nofollow">Add to cart</a></li>
+</ul>
+</div>
+<a class="block-pagination next-posts show-more-button load-more-button" data-text="Load More">Load More</a>
+</div>
+</div>
+<script>var js_tie_block_2361 = {"order":"latest","number":"4","pagi":"load-more","excerpt":"true","post_meta":"true","read_more":"true","breaking_effect":"reveal","content_only":"true","sub_style":"woocommerce","is_full":"true","ajax_class":"products","style":"woocommerce"};</script>
+</div>
+</div>
+</div> </div>
+</div>
+<footer id="footer" class="site-footer dark-skin dark-widgetized-area">
+<div id="footer-widgets-container">
+<div class="container">
+<div class="footer-widget-area ">
+<div class="tie-row">
+<div class="fullwidth-area tie-col-sm-12">
+<div id="latest_tweets_widget-2" class="container-wrapper widget latest-tweets-widget">
+<ul class="tie-slick-slider">
+<li class="slide">
+<div class="twitter-icon-wrap">
+<span class="fa fa-twitter" aria-hidden="true"></span>
+</div>
+<div class="tweetaya-body">
+<p><a href="https://twitter.com/kamalbadawy" target="_blank">@kamalbadawy</a> If you have any further questions or need assistance, renew you support, and open a ticket… <a href="https://t.co/ZI9HyF3mQZ" target="_blank">https://t.co/ZI9HyF3mQZ</a></p>
+<span class="tweetaya-meta"><a href="https://twitter.com/#!/tielabs/status/970523177733541888" title="2018/03/05 04:55:31" target="_blank" rel="nofollow">2018/03/05</a></span>
+</div>
+</li>
+<li class="slide">
+<div class="twitter-icon-wrap">
+<span class="fa fa-twitter" aria-hidden="true"></span>
+</div>
+<div class="tweetaya-body">
+<p><a href="https://twitter.com/kamalbadawy" target="_blank">@kamalbadawy</a> In the theme options page &gt; Ads tab &gt; header Ad &gt; custom code section</p>
+<span class="tweetaya-meta"><a href="https://twitter.com/#!/tielabs/status/970519637850017793" title="2018/03/05 04:41:27" target="_blank" rel="nofollow">2018/03/05</a></span>
+</div>
+</li>
+<li class="slide">
+<div class="twitter-icon-wrap">
+<span class="fa fa-twitter" aria-hidden="true"></span>
+</div>
+<div class="tweetaya-body">
+<p><a href="https://twitter.com/kamalbadawy" target="_blank">@kamalbadawy</a> Hi,
+Please provide us with the Ticket ID.</p>
+<span class="tweetaya-meta"><a href="https://twitter.com/#!/tielabs/status/970156798694035456" title="2018/03/04 04:39:40" target="_blank" rel="nofollow">2018/03/04</a></span>
+</div>
+</li>
+</ul>
+<div class="slider-links">
+<ul class="tie-slider-nav"></ul><a href="https://twitter.com/tielabs" target="_blank" rel="nofollow" class="button">Follow Us</a>
+</div>
+<div class="clearfix"></div>
+<div class="clearfix"></div></div> </div>
+<div class="">
+</div>
+<div class="">
+</div>
+</div>
+</div>
+<div class="footer-widget-area ">
+<div class="tie-row">
+<div class="tie-col-md-3 normal-side">
+<div id="author-bio-widget-2" class="container-wrapper widget aboutme-widget">
+<div class="about-author about-content-wrapper"><img alt="" src="https://jannah.tielabs.com/cryptocurrency/wp-content/themes/jannah/assets/images/tie-empty-wide.png" data-src="https://jannah.tielabs.com/cryptocurrency/wp-content/uploads/sites/51/2018/02/cryptologo.png" style="width: 170px; " class="about-author-img lazy-img" width="280" height="47">
+<div class="aboutme-widget-content">Jannah is a Clean Responsive WordPress Newspaper, Magazine, News and Blog theme. Packed with options that allow you to completely customize your website to your needs.
+</div>
+<div class="clearfix"></div>
+<ul class="social-icons"><li class="social-icons-item"><a class="social-link  facebook-social-icon" title="Facebook" rel="nofollow" target="_blank" href="#"><span class="fa fa-facebook"></span></a></li><li class="social-icons-item"><a class="social-link  twitter-social-icon" title="Twitter" rel="nofollow" target="_blank" href="#"><span class="fa fa-twitter"></span></a></li><li class="social-icons-item"><a class="social-link  dribbble-social-icon" title="Dribbble" rel="nofollow" target="_blank" href="#"><span class="fa fa-dribbble"></span></a></li><li class="social-icons-item"><a class="social-link  youtube-social-icon" title="YouTube" rel="nofollow" target="_blank" href="#"><span class="fa fa-youtube"></span></a></li><li class="social-icons-item"><a class="social-link  instagram-social-icon" title="Instagram" rel="nofollow" target="_blank" href="https://www.instagram.com/tielabs/"><span class="fa fa-instagram"></span></a></li></ul>
+</div>
+<div class="clearfix"></div></div> </div>
+<div class="tie-col-md-3 normal-side">
+<div id="nav_menu-4" class="container-wrapper widget widget_nav_menu"><div class="widget-title the-global-title has-block-head-4"><h4>Economy</h4></div><div class="menu-economy-container"><ul id="menu-economy" class="menu"><li id="menu-item-279" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-279"><a href="#">Charts</a></li>
+<li id="menu-item-280" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-280"><a href="#">Price Converter</a></li>
+<li id="menu-item-281" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-281"><a href="#">Issue Voting</a></li>
+<li id="menu-item-282" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-282"><a href="#">Derivatives Exchanges</a></li>
+<li id="menu-item-283" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-283"><a href="#">Bitcoin Mining Pool</a></li>
+<li id="menu-item-284" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-284"><a href="#">This Week</a></li>
+</ul></div><div class="clearfix"></div></div> </div>
+<div class="tie-col-md-3 normal-side">
+<div id="nav_menu-5" class="container-wrapper widget widget_nav_menu"><div class="widget-title the-global-title has-block-head-4"><h4>Events</h4></div><div class="menu-events-container"><ul id="menu-events" class="menu"><li id="menu-item-285" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-285"><a href="#">The North American Bitcoin Conference</a></li>
+<li id="menu-item-286" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-286"><a href="#">Latin American Bitcoin Conference</a></li>
+<li id="menu-item-287" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-287"><a href="#">AMA &#8211; Ask Me Anything</a></li>
+<li id="menu-item-288" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-288"><a href="#">Submit Press Release</a></li>
+<li id="menu-item-289" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-289"><a href="#">Cryptocurrency Activities Will Be Legal</a></li>
+</ul></div><div class="clearfix"></div></div> </div>
+<div class="tie-col-md-3 normal-side">
+<div id="tie-newsletter-2" class="container-wrapper widget subscribe-widget"><div class="widget-title the-global-title has-block-head-4"><h4>Newsletter</h4></div>
+<div class="widget-inner-wrap">
+<div class="subscribe-widget-content">
+Subscribe to our mailing list to receive new updates and special offers </div>
+<div id="mc_embed_signup-tie-newsletter-2">
+<form action="//mo3aser.us5.list-manage.com/subscribe/post?u=147e71cd86cb2e17820db601a&amp;id=7bfc095aea" method="post" id="mc-embedded-subscribe-form-tie-newsletter-2" name="mc-embedded-subscribe-form" class="subscribe-form validate" target="_blank" novalidate>
+<div class="mc-field-group">
+<label class="screen-reader-text" for="mce-EMAIL-tie-newsletter-2">Enter your Email address</label>
+<input type="email" value="" id="mce-EMAIL-tie-newsletter-2" placeholder="Enter your Email address" name="EMAIL" class="subscribe-input required email">
+</div>
+<input type="submit" value="Subscribe" name="subscribe" class="button subscribe-submit">
+</form>
+</div>
+</div>
+<div class="clearfix"></div></div> </div>
+</div>
+</div>
+</div>
+</div>
+<div id="site-info" class="site-info-layout-2">
+<div class="container">
+<div class="tie-row">
+<div class="tie-col-md-12">
+<div class="copyright-text copyright-text-first">&copy; Copyright 2018, All Rights Reserved</div><div class="footer-menu"><ul id="menu-copyright-1" class="menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-240"><a href="#">Privacy Policy</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-241"><a href="#">Terms of Services</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-242"><a href="#">Contact Us</a></li>
+</ul></div>
+</div>
+</div>
+</div>
+</div>
+</footer>
+<a id="go-to-top" class="go-to-top-button" href="#go-to-tie-body"><span class="fa fa-angle-up"></span></a><div class="clear"></div>
+</div>
+<aside class="side-aside normal-side tie-aside-effect dark-skin dark-widgetized-area is-fullwidth" aria-label="Secondary Sidebar">
+<div data-height="100%" class="side-aside-wrapper has-custom-scroll">
+<a href="#" class="close-side-aside remove big-btn light-btn">
+<span class="screen-reader-text">Close</span>
+</a>
+<div id="mobile-container">
+<div id="mobile-menu" class=""></div>
+<div class="mobile-social-search">
+<div id="mobile-social-icons" class="social-icons-widget solid-social-icons">
+<ul><li class="social-icons-item"><a class="social-link  facebook-social-icon" title="Facebook" rel="nofollow" target="_blank" href="#"><span class="fa fa-facebook"></span></a></li><li class="social-icons-item"><a class="social-link  twitter-social-icon" title="Twitter" rel="nofollow" target="_blank" href="#"><span class="fa fa-twitter"></span></a></li><li class="social-icons-item"><a class="social-link  dribbble-social-icon" title="Dribbble" rel="nofollow" target="_blank" href="#"><span class="fa fa-dribbble"></span></a></li><li class="social-icons-item"><a class="social-link  youtube-social-icon" title="YouTube" rel="nofollow" target="_blank" href="#"><span class="fa fa-youtube"></span></a></li><li class="social-icons-item"><a class="social-link  instagram-social-icon" title="Instagram" rel="nofollow" target="_blank" href="https://www.instagram.com/tielabs/"><span class="fa fa-instagram"></span></a></li></ul>
+</div>
+<div id="mobile-search">
+<form role="search" method="get" class="search-form" action="https://jannah.tielabs.com/cryptocurrency/">
+<label>
+<span class="screen-reader-text">Search for:</span>
+<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" />
+</label>
+<input type="submit" class="search-submit" value="Search" />
+</form> </div>
+</div>
+</div>
+<div id="slide-sidebar-widgets">
+</div>
+</div>
+</aside>
+</div>
+</div>
+<div class="demos-panel-btns">
+<a href="#" id="demos-aside-open" class="panel-btn button">
+<span>25+</span>
+<p>Demos</p>
+</a>
+<a target="_blank" href="https://themeforest.net/item/i/19659555?ref=tielabs&utm_source=demos&utm_campaign=jannah&utm_content=cryptocurrency&utm_medium=buy-button" id="demos-buynow-btn" class="panel-btn">
+<span class="fa fa-shopping-basket"></span>
+<p>Buy Now!</p>
+</a>
+</div>
+<div id="tie-popup-demos">
+<div id="panel-bottom-gradient"></div>
+<a href="#" class="panel-btn-close">
+<span class="tie-icon-cross" aria-hidden="true"></span>
+<span class="screen-reader-text">Close</span>
+</a>
+<div class="popup-content">
+<div class="container-wrapper">
+<div class="demo-panel-header">
+<h4 class="demos-panel-head brand-title">Jannah</h4>
+<p class="amazing-title">Amazing Installable Demos</p>
+<p class="theme-desc">
+Jannah is a Clean Responsive WordPress Newspaper, Magazine, News and Blog theme. Packed with options that allow you to completely customize your website to your needs. </p>
+</div>
+<ul class="demos-list">
+<li class="demodemo-item">
+<a href="https://jannah.tielabs.com/demo" target="_blank">
+<img class="demo-lazy-img" width="870" height="731" src="https://jannah.tielabs.com/cryptocurrency/wp-content/themes/jannah/assets/images/tie-empty.png" data-src="https://s3-us-west-2.amazonaws.com/tielabs/jannah/images/demos-screenshots/demo.jpg" alt="Main Demo">
+<span>Main Demo</span>
+</a>
+</li>
+<li class="techdemo-item">
+<a href="https://jannah.tielabs.com/tech" target="_blank">
+<img class="demo-lazy-img" width="870" height="731" src="https://jannah.tielabs.com/cryptocurrency/wp-content/themes/jannah/assets/images/tie-empty.png" data-src="https://s3-us-west-2.amazonaws.com/tielabs/jannah/images/demos-screenshots/tech.jpg" alt="Tech">
+<span>Tech</span>
+</a>
+</li>
+<li class="videos-2demo-item">
+<a href="https://jannah.tielabs.com/videos-2" target="_blank">
+<img class="demo-lazy-img" width="870" height="731" src="https://jannah.tielabs.com/cryptocurrency/wp-content/themes/jannah/assets/images/tie-empty.png" data-src="https://s3-us-west-2.amazonaws.com/tielabs/jannah/images/demos-screenshots/videos-2.jpg" alt="Videos 2">
+<span>Videos 2</span>
+</a>
+</li>
+<li class="geodemo-item">
+<a href="https://jannah.tielabs.com/geo" target="_blank">
+<img class="demo-lazy-img" width="870" height="731" src="https://jannah.tielabs.com/cryptocurrency/wp-content/themes/jannah/assets/images/tie-empty.png" data-src="https://s3-us-west-2.amazonaws.com/tielabs/jannah/images/demos-screenshots/geo.jpg" alt="Geo">
+<span>Geo</span>
+<small class="demo-badge new">new<span class="inner-arrow"></span></small>
+</a>
+</li>
+<li class="cryptocurrencydemo-item">
+<a href="https://jannah.tielabs.com/cryptocurrency" target="_blank">
+<img class="demo-lazy-img" width="870" height="731" src="https://jannah.tielabs.com/cryptocurrency/wp-content/themes/jannah/assets/images/tie-empty.png" data-src="https://s3-us-west-2.amazonaws.com/tielabs/jannah/images/demos-screenshots/cryptocurrency.jpg" alt="Cryptocurrency">
+<span>Cryptocurrency</span>
+<small class="demo-badge new">new<span class="inner-arrow"></span></small>
+</a>
+</li>
+<li class="gamesdemo-item">
+<a href="https://jannah.tielabs.com/games" target="_blank">
+<img class="demo-lazy-img" width="870" height="731" src="https://jannah.tielabs.com/cryptocurrency/wp-content/themes/jannah/assets/images/tie-empty.png" data-src="https://s3-us-west-2.amazonaws.com/tielabs/jannah/images/demos-screenshots/games.jpg" alt="Games">
+<span>Games</span>
+<small class="demo-badge new">new<span class="inner-arrow"></span></small>
+</a>
+</li>
+<li class="foodsdemo-item">
+<a href="https://jannah.tielabs.com/foods" target="_blank">
+<img class="demo-lazy-img" width="870" height="731" src="https://jannah.tielabs.com/cryptocurrency/wp-content/themes/jannah/assets/images/tie-empty.png" data-src="https://s3-us-west-2.amazonaws.com/tielabs/jannah/images/demos-screenshots/foods.jpg" alt="Recipes &amp; Tips">
+<span>Recipes &amp; Tips</span>
+
+</a>
+</li>
+<li class="creativedemo-item">
+<a href="https://jannah.tielabs.com/creative" target="_blank">
+<img class="demo-lazy-img" width="870" height="731" src="https://jannah.tielabs.com/cryptocurrency/wp-content/themes/jannah/assets/images/tie-empty.png" data-src="https://s3-us-west-2.amazonaws.com/tielabs/jannah/images/demos-screenshots/creative.jpg" alt="Creative">
+<span>Creative</span>
+<small class="demo-badge Hot">Hot<span class="inner-arrow"></span></small>
+</a>
+</li>
+<li class="photographydemo-item">
+<a href="https://jannah.tielabs.com/photography" target="_blank">
+<img class="demo-lazy-img" width="870" height="731" src="https://jannah.tielabs.com/cryptocurrency/wp-content/themes/jannah/assets/images/tie-empty.png" data-src="https://s3-us-west-2.amazonaws.com/tielabs/jannah/images/demos-screenshots/photography.jpg" alt="Photography">
+<span>Photography</span>
+</a>
+</li>
+<li class="hotelsdemo-item">
+<a href="https://jannah.tielabs.com/hotels" target="_blank">
+<img class="demo-lazy-img" width="870" height="731" src="https://jannah.tielabs.com/cryptocurrency/wp-content/themes/jannah/assets/images/tie-empty.png" data-src="https://s3-us-west-2.amazonaws.com/tielabs/jannah/images/demos-screenshots/hotels.jpg" alt="Hotels">
+<span>Hotels</span>
+<small class="demo-badge Hot">Hot<span class="inner-arrow"></span></small>
+</a>
+</li>
+<li class="housedemo-item">
+<a href="https://jannah.tielabs.com/house" target="_blank">
+<img class="demo-lazy-img" width="870" height="731" src="https://jannah.tielabs.com/cryptocurrency/wp-content/themes/jannah/assets/images/tie-empty.png" data-src="https://s3-us-west-2.amazonaws.com/tielabs/jannah/images/demos-screenshots/house.jpg" alt="House">
+<span>House</span>
+</a>
+</li>
+<li class="sportdemo-item">
+<a href="https://jannah.tielabs.com/sport" target="_blank">
+<img class="demo-lazy-img" width="870" height="731" src="https://jannah.tielabs.com/cryptocurrency/wp-content/themes/jannah/assets/images/tie-empty.png" data-src="https://s3-us-west-2.amazonaws.com/tielabs/jannah/images/demos-screenshots/sport.jpg" alt="Sports">
+<span>Sports</span>
+<small class="demo-badge Hot">Hot<span class="inner-arrow"></span></small>
+</a>
+</li>
+<li class="traveldemo-item">
+<a href="https://jannah.tielabs.com/travel" target="_blank">
+<img class="demo-lazy-img" width="870" height="731" src="https://jannah.tielabs.com/cryptocurrency/wp-content/themes/jannah/assets/images/tie-empty.png" data-src="https://s3-us-west-2.amazonaws.com/tielabs/jannah/images/demos-screenshots/travel.jpg" alt="Travel">
+<span>Travel</span>
+</a>
+</li>
+<li class="autodemo-item">
+<a href="https://jannah.tielabs.com/auto" target="_blank">
+<img class="demo-lazy-img" width="870" height="731" src="https://jannah.tielabs.com/cryptocurrency/wp-content/themes/jannah/assets/images/tie-empty.png" data-src="https://s3-us-west-2.amazonaws.com/tielabs/jannah/images/demos-screenshots/auto.jpg" alt="Auto">
+<span>Auto</span>
+</a>
+</li>
+<li class="petsdemo-item">
+<a href="https://jannah.tielabs.com/pets" target="_blank">
+<img class="demo-lazy-img" width="870" height="731" src="https://jannah.tielabs.com/cryptocurrency/wp-content/themes/jannah/assets/images/tie-empty.png" data-src="https://s3-us-west-2.amazonaws.com/tielabs/jannah/images/demos-screenshots/pets.jpg" alt="Pets">
+<span>Pets</span>
+</a>
+</li>
+<li class="schooldemo-item">
+<a href="https://jannah.tielabs.com/school" target="_blank">
+<img class="demo-lazy-img" width="870" height="731" src="https://jannah.tielabs.com/cryptocurrency/wp-content/themes/jannah/assets/images/tie-empty.png" data-src="https://s3-us-west-2.amazonaws.com/tielabs/jannah/images/demos-screenshots/school.jpg" alt="School">
+<span>School</span>
+</a>
+</li>
+<li class="travelingdemo-item">
+<a href="https://jannah.tielabs.com/traveling" target="_blank">
+<img class="demo-lazy-img" width="870" height="731" src="https://jannah.tielabs.com/cryptocurrency/wp-content/themes/jannah/assets/images/tie-empty.png" data-src="https://s3-us-west-2.amazonaws.com/tielabs/jannah/images/demos-screenshots/traveling.jpg" alt="Traveling">
+<span>Traveling</span>
+</a>
+</li>
+<li class="sciencedemo-item">
+<a href="https://jannah.tielabs.com/science" target="_blank">
+<img class="demo-lazy-img" width="870" height="731" src="https://jannah.tielabs.com/cryptocurrency/wp-content/themes/jannah/assets/images/tie-empty.png" data-src="https://s3-us-west-2.amazonaws.com/tielabs/jannah/images/demos-screenshots/science.jpg" alt="Science">
+<span>Science</span>
+</a>
+</li>
+<li class="healthdemo-item">
+<a href="https://jannah.tielabs.com/health" target="_blank">
+<img class="demo-lazy-img" width="870" height="731" src="https://jannah.tielabs.com/cryptocurrency/wp-content/themes/jannah/assets/images/tie-empty.png" data-src="https://s3-us-west-2.amazonaws.com/tielabs/jannah/images/demos-screenshots/health.jpg" alt="Health">
+<span>Health</span>
+</a>
+</li>
+<li class="videosdemo-item">
+<a href="https://jannah.tielabs.com/videos" target="_blank">
+<img class="demo-lazy-img" width="870" height="731" src="https://jannah.tielabs.com/cryptocurrency/wp-content/themes/jannah/assets/images/tie-empty.png" data-src="https://s3-us-west-2.amazonaws.com/tielabs/jannah/images/demos-screenshots/videos.jpg" alt="Videos">
+<span>Videos</span>
+<small class="demo-badge Hot">Hot<span class="inner-arrow"></span></small>
+</a>
+</li>
+<li class="timesdemo-item">
+<a href="https://jannah.tielabs.com/times" target="_blank">
+<img class="demo-lazy-img" width="870" height="731" src="https://jannah.tielabs.com/cryptocurrency/wp-content/themes/jannah/assets/images/tie-empty.png" data-src="https://s3-us-west-2.amazonaws.com/tielabs/jannah/images/demos-screenshots/times.jpg" alt="Times">
+<span>Times</span>
+<small class="demo-badge Hot">Hot<span class="inner-arrow"></span></small>
+</a>
+</li>
+<li class="minimal-blogdemo-item">
+<a href="https://jannah.tielabs.com/minimal-blog" target="_blank">
+<img class="demo-lazy-img" width="870" height="731" src="https://jannah.tielabs.com/cryptocurrency/wp-content/themes/jannah/assets/images/tie-empty.png" data-src="https://s3-us-west-2.amazonaws.com/tielabs/jannah/images/demos-screenshots/minimal-blog.jpg" alt="Minimal Blog">
+<span>Minimal Blog</span>
+</a>
+</li>
+<li class="blogdemo-item">
+<a href="https://jannah.tielabs.com/blog" target="_blank">
+<img class="demo-lazy-img" width="870" height="731" src="https://jannah.tielabs.com/cryptocurrency/wp-content/themes/jannah/assets/images/tie-empty.png" data-src="https://s3-us-west-2.amazonaws.com/tielabs/jannah/images/demos-screenshots/blog.jpg" alt="Personal Blog">
+<span>Personal Blog</span>
+</a>
+</li>
+<li class="citydemo-item">
+<a href="https://jannah.tielabs.com/city" target="_blank">
+<img class="demo-lazy-img" width="870" height="731" src="https://jannah.tielabs.com/cryptocurrency/wp-content/themes/jannah/assets/images/tie-empty.png" data-src="https://s3-us-west-2.amazonaws.com/tielabs/jannah/images/demos-screenshots/city.jpg" alt="City Magazine">
+<span>City Magazine</span>
+</a>
+</li>
+<li class="rtldemo-item">
+<a href="https://jannah.tielabs.com/rtl" target="_blank">
+<img class="demo-lazy-img" width="870" height="731" src="https://jannah.tielabs.com/cryptocurrency/wp-content/themes/jannah/assets/images/tie-empty.png" data-src="https://s3-us-west-2.amazonaws.com/tielabs/jannah/images/demos-screenshots/rtl.jpg" alt="RTL Demo">
+<span>RTL Demo</span>
+</a>
+</li>
+<li class="demos-soondemo-item">
+<img class="demo-lazy-img" width="870" height="731" src="https://jannah.tielabs.com/cryptocurrency/wp-content/themes/jannah/assets/images/tie-empty.png" data-src="https://s3-us-west-2.amazonaws.com/tielabs/jannah/images/demos-screenshots/demos-soon.jpg" alt="Coming Soon">
+<span>Coming Soon</span>
+</li>
+<li class="demos-soondemo-item">
+<img class="demo-lazy-img" width="870" height="731" src="https://jannah.tielabs.com/cryptocurrency/wp-content/themes/jannah/assets/images/tie-empty.png" data-src="https://s3-us-west-2.amazonaws.com/tielabs/jannah/images/demos-screenshots/demos-soon.jpg" alt="Coming Soon">
+<span>Coming Soon</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div id="fb-root"></div> <div id="tie-popup-search-wrap" class="tie-popup">
+<a href="#" class="tie-btn-close remove big-btn light-btn">
+<span class="screen-reader-text">Close</span>
+</a>
+<div class="container">
+<div class="popup-search-wrap-inner">
+<div class="tie-row">
+<div id="pop-up-live-search" class="tie-col-md-12 live-search-parent" data-skin="live-search-popup" aria-label="Search">
+<form method="get" id="tie-popup-search-form" action="https://jannah.tielabs.com/cryptocurrency//">
+<input id="tie-popup-search-input" class="is-ajax-search" type="text" name="s" title="Search for" autocomplete="off" placeholder="Type and hit Enter" />
+<button id="tie-popup-search-submit" type="submit"><span class="fa fa-search" aria-hidden="true"></span></button>
+</form>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script type='text/javascript' src='https://jannah.tielabs.com/cryptocurrency/wp-content/plugins/jannah-demos/assets/js/scripts.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/cryptocurrency\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/cryptocurrency\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View cart","cart_url":"https:\/\/jannah.tielabs.com\/cryptocurrency\/cart\/","is_cart":"","cart_redirect_after_add":"no"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://jannah.tielabs.com/cryptocurrency/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js'></script>
+<script type='text/javascript' src='https://jannah.tielabs.com/cryptocurrency/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js'></script>
+<script type='text/javascript' src='https://jannah.tielabs.com/cryptocurrency/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/cryptocurrency\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/cryptocurrency\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://jannah.tielabs.com/cryptocurrency/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/cryptocurrency\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/cryptocurrency\/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_8dccb69106e3cecc21195fb1c1bc0a05","fragment_name":"wc_fragments_8dccb69106e3cecc21195fb1c1bc0a05"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://jannah.tielabs.com/cryptocurrency/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js'></script>
+<script type='text/javascript' src='https://jannah.tielabs.com/cryptocurrency/wp-content/themes/jannah/assets/js/scripts.js'></script>
+<script type='text/javascript' src='https://jannah.tielabs.com/cryptocurrency/wp-includes/js/imagesloaded.min.js'></script>
+<script type='text/javascript' src='https://jannah.tielabs.com/cryptocurrency/wp-includes/js/wp-embed.min.js'></script>
+<script type='text/javascript' src='https://jannah.tielabs.com/cryptocurrency/wp-content/themes/jannah/assets/js/sliders.js'></script>
+<script type='text/javascript' src='https://jannah.tielabs.com/cryptocurrency/wp-content/themes/jannah/assets/js/parallax.js'></script>
+<script type="text/javascript">
+
+					var _foxpush = _foxpush || [];
+					_foxpush.push(['_setDomain', 'tielabscom']);
+
+					(function(){
+						var foxscript = document.createElement('script');
+						foxscript.src = '//cdn.foxpush.net/sdk/foxpush_SDK_min.js';
+						foxscript.type = 'text/javascript';
+						foxscript.async = 'true';
+						var fox_s = document.getElementsByTagName('script')[0];
+						fox_s.parentNode.insertBefore(foxscript, fox_s);
+					})();
+				</script>
+</body>
+</html>

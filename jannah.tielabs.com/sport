@@ -1,0 +1,1770 @@
+<!DOCTYPE html>
+<html lang="en-US" prefix="og: http://ogp.me/ns#">
+<head>
+<meta charset="UTF-8" />
+<script src="/cdn-cgi/apps/head/svZxNnjSmGCwZH9Ca1C6yPS3ec8.js"></script><link rel="profile" href="https://gmpg.org/xfn/11" />
+<link rel="pingback" href="https://jannah.tielabs.com/sport/xmlrpc.php" />
+<title>Jannah Sport &#8211; Just another TieLabs Themes Sites site</title>
+<script type="text/javascript">
+		var ajaxurl = 'https://jannah.tielabs.com/sport/wp-admin/admin-ajax.php';
+		</script>
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Jannah Sport &raquo; Feed" href="https://jannah.tielabs.com/sport/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Jannah Sport &raquo; Comments Feed" href="https://jannah.tielabs.com/sport/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Jannah Sport &raquo; Home Comments Feed" href="https://jannah.tielabs.com/sport/sample-page/feed/" />
+<meta property="og:title" content="Jannah Sport" />
+<meta property="og:type" content="website" />
+<meta property="og:description" content="Just another TieLabs Themes Sites site" />
+<meta property="og:url" content="https://jannah.tielabs.com/sport/" />
+<meta property="og:site_name" content="Jannah Sport" />
+<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/jannah.tielabs.com\/sport\/wp-includes\/js\/wp-emoji-release.min.js"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56692,8205,9792,65039],[55357,56692,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='jannah-demos-css-css' href='https://jannah.tielabs.com/sport/wp-content/plugins/jannah-demos/assets/css/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css' href='https://jannah.tielabs.com/sport/wp-includes/css/dashicons.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='sportspress-general-css' href='//jannah.tielabs.com/sport/wp-content/plugins/sportspress/assets/css/sportspress.css' type='text/css' media='all' />
+<link rel='stylesheet' id='sportspress-icons-css' href='//jannah.tielabs.com/sport/wp-content/plugins/sportspress/assets/css/icons.css' type='text/css' media='all' />
+<link rel='stylesheet' id='sportspress-roboto-css' href='//fonts.googleapis.com/css?family=Roboto%3A400%2C500&#038;subset=cyrillic%2Ccyrillic-ext%2Cgreek%2Cgreek-ext%2Clatin-ext%2Cvietnamese' type='text/css' media='all' />
+<link rel='stylesheet' id='sportspress-style-css' href='//jannah.tielabs.com/sport/wp-content/plugins/sportspress/assets/css/sportspress-style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='sportspress-style-ltr-css' href='//jannah.tielabs.com/sport/wp-content/plugins/sportspress/assets/css/sportspress-style-ltr.css' type='text/css' media='all' />
+<link rel='stylesheet' id='taqyeem-buttons-style-css' href='https://jannah.tielabs.com/sport/wp-content/plugins/taqyeem-buttons/assets/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='tie-css-woocommerce-css' href='https://jannah.tielabs.com/sport/wp-content/themes/jannah/assets/css/woocommerce.css' type='text/css' media='all' />
+<link rel='stylesheet' id='taqyeem-styles-css' href='https://jannah.tielabs.com/sport/wp-content/themes/jannah/assets/css/taqyeem.css' type='text/css' media='all' />
+<link rel='stylesheet' id='tie-css-styles-css' href='https://jannah.tielabs.com/sport/wp-content/themes/jannah/assets/css/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='tie-css-ilightbox-css' href='https://jannah.tielabs.com/sport/wp-content/themes/jannah/assets/css/ilightbox/dark-skin/skin.css' type='text/css' media='all' />
+<link rel='stylesheet' id='tie-css-style-custom-css' href='https://jannah.tielabs.com/sport/wp-content/uploads/sites/19/style-custom-19.css' type='text/css' media='all' />
+<style id='tie-css-style-custom-inline-css' type='text/css'>
+.brand-title,a:hover,#tie-popup-search-submit,.components button#search-submit:hover,#logo.text-logo a,#tie-wrapper #top-nav a:hover,#tie-wrapper #top-nav .breaking a:hover,#tie-wrapper #main-nav .components a:hover,#theme-header #top-nav .components > li > a:hover,#theme-header #top-nav .components > li:hover > a,#theme-header #main-nav .components > li > a:hover,#theme-header #main-nav .components > li:hover > a,#top-nav .top-menu .menu > li.tie-current-menu > a,#tie-wrapper #top-nav .top-menu .menu li:hover > a,#tie-wrapper #top-nav .top-menu .menu a:hover,#tie-wrapper #main-nav .main-menu .mega-menu .post-box-title a:hover,#tie-wrapper #main-nav .main-menu .menu .mega-cat-sub-categories.cats-vertical li:hover a,#tie-wrapper #main-nav .main-menu .menu .mega-cat-sub-categories.cats-vertical li a.is-active,div.mag-box .mag-box-options .mag-box-filter-links a.active,.mag-box-filter-links .flexMenu-viewMore:hover > a,.stars-rating-active,body .tabs.tabs .active > a,.video-play-icon,.spinner-circle:after,#go-to-content:hover,.comment-list .comment-author .fn,.commentlist .comment-author .fn,blockquote::before,blockquote cite,blockquote.quote-simple p,.multiple-post-pages a:hover,#story-index li .is-current,.latest-tweets-widget .twitter-icon-wrap span,.wide-next-prev-slider-wrapper .tie-slider-nav li:hover span,#instagram-link:hover,.review-final-score h3,#mobile-menu-icon:hover .menu-text,.entry a,.entry .post-bottom-meta a[href]:hover,#footer-widgets-container a:hover,#footer-widgets-container .stars-rating-active,#footer-widgets-container .latest-tweets-widget .twitter-icon-wrap span,#site-info a:hover,.widget.tie-weather-widget .icon-basecloud-bg:after,.wide-slider-nav-wrapper .slide{color: #7eae22;}.button,#tie-wrapper #theme-header .comp-sub-menu .button:hover,#tie-wrapper #theme-header .comp-sub-menu .button.guest-btn:hover,#tie-wrapper #theme-header .comp-sub-menu .button.checkout-button,#tie-wrapper #theme-header #main-nav .comp-sub-menu .button:hover,input[type='submit'],.post-cat,.tie-slider-nav li > span:hover,.pages-nav .next-prev li.current span,.pages-nav .pages-numbers li.current span,#tie-wrapper .mejs-container .mejs-controls,.spinner > div,#mobile-menu-icon:hover .nav-icon,#mobile-menu-icon:hover .nav-icon:before,#mobile-menu-icon:hover .nav-icon:after,#theme-header #main-nav .main-menu .menu > li.tie-current-menu > a,#theme-header #main-nav .main-menu .menu > li:hover > a,#theme-header #main-nav .main-menu .menu > li > a:hover,#tie-wrapper #main-nav .main-menu ul li .mega-links-head:after,#theme-header #main-nav .menu .mega-cat-sub-categories.cats-horizontal li a.is-active,#theme-header #main-nav .menu .mega-cat-sub-categories.cats-horizontal li a:hover,.main-nav-dark .main-menu .menu > li > a:hover,#mobile-menu-icon:hover .nav-icon,#mobile-menu-icon:hover .nav-icon:before,#mobile-menu-icon:hover .nav-icon:after,.mag-box-filter-links a:hover,.slider-arrow-nav a:not(.pagination-disabled):hover,.comment-list .reply a:hover,.commentlist .reply a:hover,#reading-position-indicator,.multiple-post-pages > span,#story-index-icon,.posts-list-counter .posts-list-items li:before,.cat-counter span,.digital-rating-static strong,#wp-calendar #today,.basecloud-bg,.basecloud-bg::before,.basecloud-bg::after,.timeline-widget ul li a:hover .date:before,.cat-counter a + span,.videos-block .playlist-title,.review-percentage .review-item span span,.tie-slick-dots li.slick-active button,.tie-slick-dots li button:hover,#tie-body.magazine2:not(.block-head-4) .dark-widgetized-area .tabs a:hover,#tie-body.magazine2:not(.block-head-4) .dark-widgetized-area .tabs .active a,#tie-body.magazine1 .dark-widgetized-area .tabs a:hover,#tie-body.magazine1 .dark-widgetized-area .tabs .active a,#footer-widgets-container .digital-rating-static strong,#footer-widgets-container .timeline-widget li:hover .date:before,#footer-widgets-container #wp-calendar #today,#footer-widgets-container .basecloud-bg::before,#footer-widgets-container .posts-list-counter .posts-list-items li:before,#footer-widgets-container .cat-counter span,#footer-widgets-container .widget-title:after,#footer-widgets-container .button,#footer-widgets-container input[type='submit'],#footer-widgets-container .tie-slider-nav li > span:hover,#footer-widgets-container .fullwidth-area .widget_tag_cloud .tagcloud a:hover,.demo_store,.demo #logo:after,.widget.tie-weather-widget,span.video-close-btn:hover,#go-to-top{background-color: #7eae22;color: #FFFFFF;}pre,code,.pages-nav .next-prev li.current span,.pages-nav .pages-numbers li.current span,#tie-wrapper #theme-header .comp-sub-menu .button:hover,#tie-wrapper #theme-header .comp-sub-menu .button.guest-btn:hover,.multiple-post-pages > span,.post-content-slideshow .tie-slider-nav li span:hover,.latest-tweets-widget .slider-links .tie-slider-nav li span:hover,.dark-skin .latest-tweets-widget .slider-links .tie-slider-nav span:hover,#instagram-link:before,#instagram-link:after,.slider-arrow-nav a:not(.pagination-disabled):hover,#theme-header #main-nav .menu .mega-cat-sub-categories.cats-horizontal li a.is-active,#theme-header #main-nav .menu .mega-cat-sub-categories.cats-horizontal li a:hover,#footer.dark-skin #instagram-link:before,#footer.dark-skin #instagram-link:after,#footer-widgets-container .tie-slider-nav li > span:hover,#theme-header #main-nav .main-menu .menu > li > .sub-menu,#theme-header #main-nav .main-menu .menu > li > .menu-sub-content{border-color: #7eae22;}#tie-wrapper #top-nav .top-menu .menu li.menu-item-has-children:hover > a:before{border-top-color: #7eae22;}#theme-header .main-menu .menu > li.tie-current-menu > a:before,#theme-header #main-nav .main-menu .menu > li > a:hover:before,#theme-header #main-nav .main-menu .menu > li:hover > a:before{border-top-color: #FFFFFF;}#tie-wrapper #top-nav .top-menu .menu li li.menu-item-has-children:hover > a:before{border-left-color: #7eae22;border-top-color: transparent;}.rtl #tie-wrapper #top-nav .top-menu .menu li li.menu-item-has-children:hover > a:before{border-right-color: #7eae22;border-top-color: transparent;}#tie-wrapper #main-nav .main-menu .menu > li.tie-current-menu{border-bottom-color: #7eae22;}::-moz-selection{background-color: #7eae22;color: #FFFFFF;}::selection{background-color: #7eae22;color: #FFFFFF;}circle.circle_bar,#footer-widgets-container circle.circle_bar{stroke: #7eae22;}#reading-position-indicator{box-shadow: 0 0 10px rgba( 126,174,34,0.7);}#tie-popup-search-submit:hover,#logo.text-logo a:hover,.entry a:hover{color: #4c7c00;}.button:hover,input[type='submit']:hover,a.post-cat:hover,#footer-widgets-container .button:hover,#footer-widgets-container input[type='submit']:hover{background-color: #4c7c00;color: #FFFFFF;}.search-in-main-nav.autocomplete-suggestions a.button:hover,#tie-wrapper #theme-header #top-nav .comp-sub-menu .button.checkout-button:hover,#tie-wrapper #theme-header #main-nav .comp-sub-menu .button.checkout-button:hover{background-color: #4c7c00;color: #FFFFFF;}#theme-header #main-nav .comp-sub-menu a.checkout-button:not(:hover),#theme-header #top-nav .comp-sub-menu a.checkout-button:not(:hover),.entry a.button{color: #FFFFFF;}#footer-widgets-container .tie-slider-nav li > span:hover{color: #FFFFFF !important;}@media (max-width: 1600px){#story-index ul{background-color: #7eae22;}#story-index ul li a,#story-index ul li .is-current{color: #FFFFFF;}}.woocommerce div.product span.price,.woocommerce div.product p.price,.woocommerce div.product div.summary .product_meta > span,.woocommerce div.product div.summary .product_meta > span a:hover,.woocommerce ul.products li.product .price ins,.woocommerce .woocommerce-pagination .page-numbers li a.current,.woocommerce .woocommerce-pagination .page-numbers li a:hover,.woocommerce .woocommerce-pagination .page-numbers li span.current,.woocommerce .woocommerce-pagination .page-numbers li span:hover,.woocommerce .widget_rating_filter ul li.chosen a,.woocommerce-MyAccount-navigation ul li.is-active a{color: #7eae22;}.woocommerce span.new,.woocommerce a.button.alt,.woocommerce button.button.alt,.woocommerce input.button.alt,.woocommerce a.button.alt.disabled,.woocommerce a.button.alt:disabled,.woocommerce a.button.alt:disabled[disabled],.woocommerce a.button.alt.disabled:hover,.woocommerce a.button.alt:disabled:hover,.woocommerce a.button.alt:disabled[disabled]:hover,.woocommerce button.button.alt.disabled,.woocommerce button.button.alt:disabled,.woocommerce button.button.alt:disabled[disabled],.woocommerce button.button.alt.disabled:hover,.woocommerce button.button.alt:disabled:hover,.woocommerce button.button.alt:disabled[disabled]:hover,.woocommerce input.button.alt.disabled,.woocommerce input.button.alt:disabled,.woocommerce input.button.alt:disabled[disabled],.woocommerce input.button.alt.disabled:hover,.woocommerce input.button.alt:disabled:hover,.woocommerce input.button.alt:disabled[disabled]:hover,.woocommerce .widget_price_filter .ui-slider .ui-slider-range{background-color: #7eae22;color: #FFFFFF;}.woocommerce div.product #product-images-slider-nav .tie-slick-slider .slide.slick-current img{border-color: #7eae22;}.woocommerce a.button:hover,.woocommerce button.button:hover,.woocommerce input.button:hover,.woocommerce a.button.alt:hover,.woocommerce button.button.alt:hover,.woocommerce input.button.alt:hover{background-color: #4c7c00;}#tie-body .has-block-head-4,#tie-body .mag-box-title h3,#tie-body .comment-reply-title,#tie-body .related.products > h2,#tie-body .up-sells > h2,#tie-body .cross-sells > h2,#tie-body .cart_totals > h2,#tie-body .bbp-form legend,#tie-body .mag-box-title h3 a,#tie-body .section-title-default a,#tie-body #cancel-comment-reply-link {color: #FFFFFF;}#tie-body .has-block-head-4:before,#tie-body .mag-box-title h3:before,#tie-body .comment-reply-title:before,#tie-body .related.products > h2:before,#tie-body .up-sells > h2:before,#tie-body .cross-sells > h2:before,#tie-body .cart_totals > h2:before,#tie-body .bbp-form legend:before {background-color: #7eae22;}#tie-body .block-more-button{color: #7eae22;}#tie-body .block-more-button:hover{color: #4c7c00;}#tie-body .tabs,#tie-body .tabs .flexMenu-popup{border-color: #7eae22;}#tie-body .tabs li a{color: #7eae22;}#tie-body .tabs li a:hover{color: #4c7c00;}#tie-body .tabs li.active a{color: #FFFFFF;background-color: #7eae22;}#tiepost-2-section-491 .full-overlay-title li:not(.no-post-thumb) .block-title-overlay{background-color: #7eae22;}#tiepost-2-section-491 .full-overlay-title li:not(.no-post-thumb) .block-title-overlay .post-meta,#tiepost-2-section-491 .full-overlay-title li:not(.no-post-thumb) .block-title-overlay a:not(:hover){color: #FFFFFF;}#tiepost-2-section-491 .full-overlay-title li:not(.no-post-thumb) .block-title-overlay .post-meta{opacity: 0.80;}
+</style>
+<style type="text/css"></style><script type='text/javascript'>
+/* <![CDATA[ */
+var tie = {"is_rtl":"","ajaxurl":"https:\/\/jannah.tielabs.com\/sport\/wp-admin\/admin-ajax.php","mobile_menu_active":"true","mobile_menu_top":"","mobile_menu_parent":"","lightbox_all":"true","lightbox_gallery":"true","lightbox_skin":"dark","lightbox_thumb":"horizontal","lightbox_arrows":"true","is_singular":"1","is_sticky_video":"","reading_indicator":"true","lazyload":"true","select_share":"true","select_share_twitter":"","select_share_facebook":"","select_share_linkedin":"","select_share_email":"","facebook_app_id":"","twitter_username":"","responsive_tables":"true","ad_blocker_detector":"","sticky_behavior":"upwards","sticky_desktop":"true","sticky_mobile":"true","ajax_loader":"<div class=\"loader-overlay\">\n\t\t\t\t<div class=\"spinner\">\n\t\t\t\t\t<div class=\"bounce1\"><\/div>\n\t\t\t\t\t<div class=\"bounce2\"><\/div>\n\t\t\t\t\t<div class=\"bounce3\"> <\/div>\n\t\t\t\t<\/div>\n\t\t\t<\/div>","type_to_search":"1","lang_no_results":"Nothing Found"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://jannah.tielabs.com/sport/wp-includes/js/jquery/jquery.js'></script>
+<script type='text/javascript' src='https://jannah.tielabs.com/sport/wp-includes/js/jquery/jquery-migrate.min.js'></script>
+<link rel='https://api.w.org/' href='https://jannah.tielabs.com/sport/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://jannah.tielabs.com/sport/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://jannah.tielabs.com/sport/wp-includes/wlwmanifest.xml" />
+<meta name="generator" content="WordPress 4.9.7" />
+<meta name="generator" content="SportsPress 2.5.10" />
+<meta name="generator" content="WooCommerce 3.3.5" />
+<link rel="canonical" href="https://jannah.tielabs.com/sport/" />
+<link rel='shortlink' href='https://jannah.tielabs.com/sport/' />
+<link rel="alternate" type="application/json+oembed" href="https://jannah.tielabs.com/sport/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fjannah.tielabs.com%2Fsport%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://jannah.tielabs.com/sport/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fjannah.tielabs.com%2Fsport%2F&#038;format=xml" />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var taqyeem = {"ajaxurl":"https://jannah.tielabs.com/sport/wp-admin/admin-ajax.php" , "your_rating":"Your Rating:"};
+/* ]]> */
+</script>
+<style type="text/css" media="screen">
+
+</style>
+<meta name="generator" content="Jannah 2.1.4" />
+<meta name="theme-color" content="#7eae22" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /> <noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+<script>
+						WebFontConfig ={
+							google:{
+								families: ['Cabin::latin']
+							}
+						};
+						(function(){
+							var wf   = document.createElement('script');
+							wf.src   = '//ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+							wf.type  = 'text/javascript';
+							wf.async = 'true';
+							var s = document.getElementsByTagName('script')[0];
+							s.parentNode.insertBefore(wf, s);
+						})();
+					</script>
+<link rel="icon" href="https://jannah.tielabs.com/sport/wp-content/uploads/sites/19/2017/04/sports-fav-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://jannah.tielabs.com/sport/wp-content/uploads/sites/19/2017/04/sports-fav.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://jannah.tielabs.com/sport/wp-content/uploads/sites/19/2017/04/sports-fav.png" />
+<meta name="msapplication-TileImage" content="https://jannah.tielabs.com/sport/wp-content/uploads/sites/19/2017/04/sports-fav.png" />
+</head>
+<body id="tie-body" class="home page-template-default page page-id-2 wrapper-has-shadow block-head-4 magazine2 is-lazyload is-thumb-overlay-disabled is-desktop is-header-layout-3 has-header-ad has-builder is-header-bg-extended">
+<div class="background-overlay">
+<div id="tie-container" class="site tie-container">
+<div id="tie-wrapper">
+<header id="theme-header" class="header-layout-3 main-nav-dark main-nav-below main-nav-boxed top-nav-active top-nav-dark top-nav-boxed top-nav-below top-nav-below-main-nav has-shadow mobile-header-default">
+<div class="container">
+<div class="tie-row logo-row">
+<div class="logo-wrapper">
+<div class="tie-col-md-4 logo-container">
+<a href="#" id="mobile-menu-icon"><span class="nav-icon"></span></a>
+<div id="logo" class="image-logo" style="margin-top: 45px;">
+<a title="Jannah WordPress Theme" href="https://jannah.tielabs.com/sport/">
+<img src="https://jannah.tielabs.com/jannah-sport/wp-content/uploads/sites/19/2017/04/jnh-sports.png" alt="Jannah WordPress Theme" class="logo_normal" width="275" height="46" style="max-height:46px; width: auto;">
+<img src="https://jannah.tielabs.com/jannah-sport/wp-content/uploads/sites/19/2017/04/jnh-sports@2x.png" alt="Jannah WordPress Theme" class="logo_2x" width="275" height="46" style="max-height:46px; width: auto;">
+<h1 class="h1-off">Jannah WordPress Theme</h1> </a>
+</div>
+</div>
+</div>
+<div class="tie-col-md-8 stream-item stream-item-top-wrapper"><div class="stream-item-top">
+<a href="https://themeforest.net/item/i/19659555?ref=tielabs&#038;utm_source=demos&#038;utm_campaign=jannah&#038;utm_content=sport&#038;utm_medium=ads" title="" target="_blank" rel="nofollow">
+<img src="https://jannah.tielabs.com/jannah-sport/wp-content/uploads/sites/19/2017/05/sports-1.jpg" alt="" width="728" height="90" />
+</a>
+</div></div>
+</div>
+</div>
+<div class="main-nav-wrapper">
+<nav id="main-nav" data-skin="search-in-main-nav live-search-dark" class=" live-search-parent" aria-label="Primary Navigation">
+<div class="container">
+<div class="main-menu-wrapper">
+<div id="menu-components-wrap">
+<div class="main-menu main-menu-wrap tie-alignleft">
+<div id="main-nav-menu" class="main-menu"><ul id="menu-main-menu" class="menu" role="menubar"><li id="menu-item-43" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-2 current_page_item menu-item-43 tie-current-menu"><a href="https://jannah.tielabs.com/sport/">Home</a></li>
+<li id="menu-item-44" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-44 mega-menu mega-cat " data-id="1"><a href="https://jannah.tielabs.com/sport/category/fantasy/">Fantasy</a>
+<div class="mega-menu-block menu-sub-content">
+<div class="mega-menu-content">
+<div class="mega-cat-wrapper">
+<ul class="mega-cat-sub-categories cats-vertical">
+<li><a href="#" class="is-active is-loaded mega-sub-cat" data-id="1">All</a></li>
+<li><a href="https://jannah.tielabs.com/sport/category/fantasy/baseball/" class="mega-sub-cat" data-id="5">Baseball</a></li>
+<li><a href="https://jannah.tielabs.com/sport/category/fantasy/basketball/" class="mega-sub-cat" data-id="7">Basketball</a></li>
+<li><a href="https://jannah.tielabs.com/sport/category/fantasy/hockey/" class="mega-sub-cat" data-id="3">Hockey</a></li>
+</ul>
+<div class="mega-cat-content mega-cat-sub-exists vertical-posts">
+<div class="mega-ajax-content mega-cat-posts-container clearfix">
+</div>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li id="menu-item-53" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-53 mega-menu mega-cat " data-id="10"><a href="https://jannah.tielabs.com/sport/category/olympics/">Olympics</a>
+<div class="mega-menu-block menu-sub-content">
+<div class="mega-menu-content">
+<div class="mega-cat-wrapper">
+<div class="mega-cat-content vertical-posts">
+<div class="mega-ajax-content mega-cat-posts-container clearfix">
+</div>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li id="menu-item-638" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-638 mega-menu mega-cat " data-id="6"><a href="https://jannah.tielabs.com/sport/category/football/">Football</a>
+<div class="mega-menu-block menu-sub-content">
+<div class="mega-menu-content">
+<div class="mega-cat-wrapper">
+<div class="mega-cat-content vertical-posts">
+<div class="mega-ajax-content mega-cat-posts-container clearfix">
+</div>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li id="menu-item-48" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-48 mega-menu mega-cat " data-id="2"><a href="https://jannah.tielabs.com/sport/category/racing/">Racing</a>
+<div class="mega-menu-block menu-sub-content">
+<div class="mega-menu-content">
+<div class="mega-cat-wrapper">
+<div class="mega-cat-content vertical-posts">
+<div class="mega-ajax-content mega-cat-posts-container clearfix">
+</div>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li id="menu-item-52" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-52 mega-menu mega-cat " data-id="9"><a href="https://jannah.tielabs.com/sport/category/be-active/">Be active</a>
+<div class="mega-menu-block menu-sub-content">
+<div class="mega-menu-content">
+<div class="mega-cat-wrapper">
+<div class="mega-cat-content vertical-posts">
+<div class="mega-ajax-content mega-cat-posts-container clearfix">
+</div>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li id="menu-item-589" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-589"><a href="https://jannah.tielabs.com/sport/shop/">Shop</a></li>
+<li id="menu-item-652" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-652 menu-item-has-icon is-icon-only mega-menu mega-cat " data-id="8"><a href="https://jannah.tielabs.com/sport/category/watch/"> <span aria-hidden="true" class="fa fa-youtube-play"></span> <span class="screen-reader-text">Watch</span></a>
+<div class="mega-menu-block menu-sub-content">
+<div class="mega-menu-content media-overlay">
+<div class="mega-cat-wrapper">
+<div class="mega-cat-content vertical-posts">
+<div class="mega-ajax-content mega-cat-posts-container clearfix">
+</div>
+</div>
+</div>
+</div>
+</div>
+</li>
+</ul></div> </div>
+<ul class="components"> <li class="search-bar menu-item custom-menu-link" aria-label="Search">
+<form method="get" id="search" action="https://jannah.tielabs.com/sport//">
+<input id="search-input" class="is-ajax-search" type="text" name="s" title="Search for" placeholder="Search for" />
+<button id="search-submit" type="submit"><span class="fa fa-search" aria-hidden="true"></span></button>
+</form>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</nav>
+</div>
+<nav id="top-nav" class="has-breaking-components has-breaking-news" aria-label="Secondary Navigation">
+<div class="container">
+<div class="topbar-wrapper">
+<div class="tie-alignleft">
+<div class="breaking up-down-controls">
+<span class="breaking-title">
+<span class="fa fa-bolt" aria-hidden="true"></span>
+<span class="breaking-title-text">Trending</span>
+</span>
+<ul id="breaking-news-in-header" class="breaking-news" data-type="slideUp">
+<li class="news-item">
+<a href="https://jannah.tielabs.com/sport/2017/02/15/dc-shoes-ac92-250f-awesome/" title="Broncos coach Gary Kubiak had to break up">Broncos coach Gary Kubiak had to break up</a>
+</li>
+<li class="news-item">
+<a href="https://jannah.tielabs.com/sport/2017/02/04/paralympian-falls-gets-back-up-3/" title="Paralympian falls, gets back up">Paralympian falls, gets back up</a>
+</li>
+<li class="news-item">
+<a href="https://jannah.tielabs.com/sport/2017/02/03/the-best-of-extreme-sport-2016-4k-2/" title="Best of eXtreme Sport">Best of eXtreme Sport</a>
+</li>
+<li class="news-item">
+<a href="https://jannah.tielabs.com/sport/2016/12/19/nfl-playoff-picture-patriots-raiders-punch-their-tickets/" title="NFL playoff picture: Patriots, Raiders punch their tickets">NFL playoff picture: Patriots, Raiders punch their tickets</a>
+</li>
+<li class="news-item">
+<a href="https://jannah.tielabs.com/sport/2016/12/19/week-15s-best-fantasy-football-free-agent-finds/" title="Week 15&#8217;s best fantasy football free-agent finds">Week 15&#8217;s best fantasy football free-agent finds</a>
+</li>
+<li class="news-item">
+<a href="https://jannah.tielabs.com/sport/2016/12/19/meet-the-rare-white-foal-at-rockridge-stud/" title="Meet the Rare White Foal at Rockridge Stud">Meet the Rare White Foal at Rockridge Stud</a>
+</li>
+<li class="news-item">
+<a href="https://jannah.tielabs.com/sport/2016/12/19/phelps-fiancee-says-he-might-be-back/" title="Phelps&#8217; fiancee says he might be back">Phelps&#8217; fiancee says he might be back</a>
+</li>
+<li class="news-item">
+<a href="https://jannah.tielabs.com/sport/2016/12/19/paralympian-falls-gets-back-up-2/" title="Paralympics in &#8216;worst situation ever&#8217;">Paralympics in &#8216;worst situation ever&#8217;</a>
+</li>
+<li class="news-item">
+<a href="https://jannah.tielabs.com/sport/2016/12/19/paralympian-falls-gets-back-up/" title="The Dallas Cowboys running back celebrated">The Dallas Cowboys running back celebrated</a>
+</li>
+<li class="news-item">
+<a href="https://jannah.tielabs.com/sport/2016/12/19/to-live-in-new-orleans-is-to-die-in-new-orleans/" title="To live in New Orleans is to die in New Orleans">To live in New Orleans is to die in New Orleans</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="tie-alignright">
+<ul class="components"> <li class="list-social-icons menu-item custom-menu-link">
+<a href="#" class="follow-btn">
+<span class="fa fa-plus" aria-hidden="true"></span>
+<span class="follow-text">Follow</span>
+</a>
+<ul class="dropdown-social-icons comp-sub-menu"><li class="social-icons-item"><a class="social-link  google-social-icon" title="Google+" rel="nofollow" target="_blank" href="https://google.com/"><span class="fa fa-google-plus"></span><span class="social-text">Google+</span></a></li><li class="social-icons-item"><a class="social-link  facebook-social-icon" title="Facebook" rel="nofollow" target="_blank" href="https://facebook.com/"><span class="fa fa-facebook"></span><span class="social-text">Facebook</span></a></li><li class="social-icons-item"><a class="social-link  twitter-social-icon" title="Twitter" rel="nofollow" target="_blank" href="https://twitter.com/"><span class="fa fa-twitter"></span><span class="social-text">Twitter</span></a></li><li class="social-icons-item"><a class="social-link  dribbble-social-icon" title="Dribbble" rel="nofollow" target="_blank" href="https://dribbble.com"><span class="fa fa-dribbble"></span><span class="social-text">Dribbble</span></a></li><li class="social-icons-item"><a class="social-link  linkedin-social-icon" title="LinkedIn" rel="nofollow" target="_blank" href="https://linkedin.com/"><span class="fa fa-linkedin"></span><span class="social-text">LinkedIn</span></a></li><li class="social-icons-item"><a class="social-link  youtube-social-icon" title="YouTube" rel="nofollow" target="_blank" href="https://youtube.com"><span class="fa fa-youtube"></span><span class="social-text">YouTube</span></a></li></ul> </li>
+</ul> </div>
+</div>
+</div>
+</nav>
+</header>
+<div id="tiepost-2-section-491" class="section-wrapper container-full has-background">
+<div class="section-item is-first-section full-width tie-parallax" style="background-color: #7eae22; background-image: url( https://jannah.tielabs.com/jannah-sport/wp-content/uploads/sites/19/2016/10/pexels-photo-89699.jpeg);" data-type='scroll'>
+<div class="container">
+<div class="tie-row main-content-row">
+<div class="main-content tie-col-md-12">
+<section id="tie-block_781" class="slider-area mag-box media-overlay">
+<div id="tie-main-slider-13-block_781" class="tie-main-slider main-slider grid-5-big-centerd grid-5-slider boxed-slider grid-slider-wrapper tie-slick-slider-wrapper" data-slider-id="13" data-speed="3000">
+<div class="main-slider-inner">
+<div class="containerblock_781">
+<div class="tie-slick-slider">
+<ul class="tie-slider-nav"></ul><div class="slide"><div class="grid-item lazy-bg slide-id-655 tie-slide-1 tie-video"><img data-lazy="https://jannah.tielabs.com/sport/wp-content/uploads/sites/19/2016/12/pexels-photo-236958-780x500.jpeg" src="https://jannah.tielabs.com/sport/wp-content/themes/jannah/assets/images/tie-empty.png" width="2000" height="2000" alt=""><div class="slide-bg"></div>
+<a href="https://jannah.tielabs.com/sport/2017/02/15/dc-shoes-ac92-250f-awesome/" class="all-over-thumb-link"></a>
+<div class="thumb-overlay">
+<span class="icon"></span>
+<h5 class="post-cat-wrap"><a class="post-cat tie-cat-8" href="https://jannah.tielabs.com/sport/category/watch/">Watch</a></h5><div class="thumb-content"><div class="thumb-meta"><span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>February 15, 2017</span></span></div>
+<h2 class="thumb-title"><a href="https://jannah.tielabs.com/sport/2017/02/15/dc-shoes-ac92-250f-awesome/" title="Broncos coach Gary Kubiak had to break up">Broncos coach Gary Kubiak had to break up</a></h2>
+</div> 
+</div>
+</div>
+<div class="grid-item lazy-bg slide-id-565 tie-slide-2 tie-standard"><img data-lazy="https://jannah.tielabs.com/sport/wp-content/uploads/sites/19/2016/12/pexels-photo-1-780x500.jpg" src="https://jannah.tielabs.com/sport/wp-content/themes/jannah/assets/images/tie-empty.png" width="2000" height="2000" alt=""><div class="slide-bg"></div>
+<a href="https://jannah.tielabs.com/sport/2017/02/04/paralympian-falls-gets-back-up-3/" class="all-over-thumb-link"></a>
+<div class="thumb-overlay">
+<span class="icon"></span>
+<h5 class="post-cat-wrap"><a class="post-cat tie-cat-10" href="https://jannah.tielabs.com/sport/category/olympics/">Olympics</a></h5><div class="thumb-content"><div class="thumb-meta"><span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>February 4, 2017</span></span></div>
+<h2 class="thumb-title"><a href="https://jannah.tielabs.com/sport/2017/02/04/paralympian-falls-gets-back-up-3/" title="Paralympian falls, gets back up">Paralympian falls, gets back up</a></h2>
+</div> 
+</div>
+</div>
+<div class="grid-item lazy-bg slide-id-657 tie-slide-3 tie-video"><img data-lazy="https://jannah.tielabs.com/sport/wp-content/uploads/sites/19/2017/02/pexels-photo-101604-780x500.jpg" src="https://jannah.tielabs.com/sport/wp-content/themes/jannah/assets/images/tie-empty.png" width="2000" height="2000" alt=""><div class="slide-bg"></div>
+<a href="https://jannah.tielabs.com/sport/2017/02/03/the-best-of-extreme-sport-2016-4k-2/" class="all-over-thumb-link"></a>
+<div class="thumb-overlay">
+<span class="icon"></span>
+<h5 class="post-cat-wrap"><a class="post-cat tie-cat-8" href="https://jannah.tielabs.com/sport/category/watch/">Watch</a></h5><div class="thumb-content"><div class="thumb-meta"><span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>February 3, 2017</span></span></div>
+<h2 class="thumb-title"><a href="https://jannah.tielabs.com/sport/2017/02/03/the-best-of-extreme-sport-2016-4k-2/" title="Best of eXtreme Sport">Best of eXtreme Sport</a></h2>
+</div> 
+</div>
+</div>
+<div class="grid-item lazy-bg slide-id-506 tie-slide-4 tie-slider"><img data-lazy="https://jannah.tielabs.com/sport/wp-content/uploads/sites/19/2016/12/photo-1462181606837-023a46b2d355-1-780x500.jpeg" src="https://jannah.tielabs.com/sport/wp-content/themes/jannah/assets/images/tie-empty.png" width="2000" height="2000" alt=""><div class="slide-bg"></div>
+<a href="https://jannah.tielabs.com/sport/2016/12/19/nfl-playoff-picture-patriots-raiders-punch-their-tickets/" class="all-over-thumb-link"></a>
+<div class="thumb-overlay">
+<span class="icon"></span>
+<h5 class="post-cat-wrap"><a class="post-cat tie-cat-9" href="https://jannah.tielabs.com/sport/category/be-active/">Be active</a></h5><div class="thumb-content"><div class="thumb-meta"><span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>December 19, 2016</span></span></div>
+<h2 class="thumb-title"><a href="https://jannah.tielabs.com/sport/2016/12/19/nfl-playoff-picture-patriots-raiders-punch-their-tickets/" title="NFL playoff picture: Patriots, Raiders punch their tickets">NFL playoff picture: Patriots, Raiders punch their tickets</a></h2>
+</div> 
+</div>
+</div>
+<div class="grid-item lazy-bg slide-id-465 tie-slide-5 tie-standard"><img data-lazy="https://jannah.tielabs.com/sport/wp-content/uploads/sites/19/2016/12/slide22-780x500.jpg" src="https://jannah.tielabs.com/sport/wp-content/themes/jannah/assets/images/tie-empty.png" width="2000" height="2000" alt=""><div class="slide-bg"></div>
+<a href="https://jannah.tielabs.com/sport/2016/12/19/week-15s-best-fantasy-football-free-agent-finds/" class="all-over-thumb-link"></a>
+<div class="thumb-overlay">
+<span class="icon"></span>
+<h5 class="post-cat-wrap"><a class="post-cat tie-cat-6" href="https://jannah.tielabs.com/sport/category/football/">Football</a></h5><div class="thumb-content"><div class="thumb-meta"><span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>December 19, 2016</span></span></div>
+<h2 class="thumb-title"><a href="https://jannah.tielabs.com/sport/2016/12/19/week-15s-best-fantasy-football-free-agent-finds/" title="Week 15&#8217;s best fantasy football free-agent finds">Week 15&#8217;s best fantasy football free-agent finds</a></h2>
+</div> 
+</div>
+</div>
+</div> <div class="slide"><div class="grid-item lazy-bg slide-id-583 tie-slide-6 tie-standard"><img data-lazy="https://jannah.tielabs.com/sport/wp-content/uploads/sites/19/2016/12/slide2-780x500.jpg" src="https://jannah.tielabs.com/sport/wp-content/themes/jannah/assets/images/tie-empty.png" width="2000" height="2000" alt=""><div class="slide-bg"></div>
+<a href="https://jannah.tielabs.com/sport/2016/12/19/meet-the-rare-white-foal-at-rockridge-stud/" class="all-over-thumb-link"></a>
+<div class="thumb-overlay">
+<span class="icon"></span>
+<h5 class="post-cat-wrap"><a class="post-cat tie-cat-2" href="https://jannah.tielabs.com/sport/category/racing/">Racing</a></h5><div class="thumb-content"><div class="thumb-meta"><span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>December 19, 2016</span></span></div>
+<h2 class="thumb-title"><a href="https://jannah.tielabs.com/sport/2016/12/19/meet-the-rare-white-foal-at-rockridge-stud/" title="Meet the Rare White Foal at Rockridge Stud">Meet the Rare White Foal at Rockridge Stud</a></h2>
+</div> 
+</div>
+</div>
+<div class="grid-item lazy-bg slide-id-562 tie-slide-1 tie-slider"><img data-lazy="https://jannah.tielabs.com/sport/wp-content/uploads/sites/19/2016/12/pexels-photo-89641-1-780x500.jpg" src="https://jannah.tielabs.com/sport/wp-content/themes/jannah/assets/images/tie-empty.png" width="2000" height="2000" alt=""><div class="slide-bg"></div>
+<a href="https://jannah.tielabs.com/sport/2016/12/19/phelps-fiancee-says-he-might-be-back/" class="all-over-thumb-link"></a>
+<div class="thumb-overlay">
+<span class="icon"></span>
+<h5 class="post-cat-wrap"><a class="post-cat tie-cat-10" href="https://jannah.tielabs.com/sport/category/olympics/">Olympics</a></h5><div class="thumb-content"><div class="thumb-meta"><span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>December 19, 2016</span></span></div>
+<h2 class="thumb-title"><a href="https://jannah.tielabs.com/sport/2016/12/19/phelps-fiancee-says-he-might-be-back/" title="Phelps&#8217; fiancee says he might be back">Phelps&#8217; fiancee says he might be back</a></h2>
+</div> 
+</div>
+</div>
+<div class="grid-item lazy-bg slide-id-566 tie-slide-2 tie-standard"><img data-lazy="https://jannah.tielabs.com/sport/wp-content/uploads/sites/19/2016/12/pexels-photo-29011-780x500.jpg" src="https://jannah.tielabs.com/sport/wp-content/themes/jannah/assets/images/tie-empty.png" width="2000" height="2000" alt=""><div class="slide-bg"></div>
+<a href="https://jannah.tielabs.com/sport/2016/12/19/paralympian-falls-gets-back-up-2/" class="all-over-thumb-link"></a>
+<div class="thumb-overlay">
+<span class="icon"></span>
+<h5 class="post-cat-wrap"><a class="post-cat tie-cat-10" href="https://jannah.tielabs.com/sport/category/olympics/">Olympics</a></h5><div class="thumb-content"><div class="thumb-meta"><span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>December 19, 2016</span></span></div>
+<h2 class="thumb-title"><a href="https://jannah.tielabs.com/sport/2016/12/19/paralympian-falls-gets-back-up-2/" title="Paralympics in &#8216;worst situation ever&#8217;">Paralympics in &#8216;worst situation ever&#8217;</a></h2>
+</div> 
+</div>
+</div>
+<div class="grid-item lazy-bg slide-id-556 tie-slide-3 tie-standard"><img data-lazy="https://jannah.tielabs.com/sport/wp-content/uploads/sites/19/2016/12/pexels-photo-168768-780x500.jpeg" src="https://jannah.tielabs.com/sport/wp-content/themes/jannah/assets/images/tie-empty.png" width="2000" height="2000" alt=""><div class="slide-bg"></div>
+<a href="https://jannah.tielabs.com/sport/2016/12/19/paralympian-falls-gets-back-up/" class="all-over-thumb-link"></a>
+<div class="thumb-overlay">
+<span class="icon"></span>
+<h5 class="post-cat-wrap"><a class="post-cat tie-cat-10" href="https://jannah.tielabs.com/sport/category/olympics/">Olympics</a></h5><div class="thumb-content"><div class="thumb-meta"><span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>December 19, 2016</span></span></div>
+<h2 class="thumb-title"><a href="https://jannah.tielabs.com/sport/2016/12/19/paralympian-falls-gets-back-up/" title="The Dallas Cowboys running back celebrated">The Dallas Cowboys running back celebrated</a></h2>
+</div> 
+</div>
+</div>
+<div class="grid-item lazy-bg slide-id-549 tie-slide-4 tie-slider"><img data-lazy="https://jannah.tielabs.com/sport/wp-content/uploads/sites/19/2016/12/pexels-photo-63897-780x500.jpeg" src="https://jannah.tielabs.com/sport/wp-content/themes/jannah/assets/images/tie-empty.png" width="2000" height="2000" alt=""><div class="slide-bg"></div>
+<a href="https://jannah.tielabs.com/sport/2016/12/19/to-live-in-new-orleans-is-to-die-in-new-orleans/" class="all-over-thumb-link"></a>
+<div class="thumb-overlay">
+<span class="icon"></span>
+<h5 class="post-cat-wrap"><a class="post-cat tie-cat-3" href="https://jannah.tielabs.com/sport/category/fantasy/hockey/">Hockey</a></h5><div class="thumb-content"><div class="thumb-meta"><span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>December 19, 2016</span></span></div>
+<h2 class="thumb-title"><a href="https://jannah.tielabs.com/sport/2016/12/19/to-live-in-new-orleans-is-to-die-in-new-orleans/" title="To live in New Orleans is to die in New Orleans">To live in New Orleans is to die in New Orleans</a></h2>
+</div> 
+</div>
+</div>
+</div> 
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+</div> </div>
+</div>
+<div id="tiepost-2-section-3043" class="section-wrapper container-full without-background">
+<div class="section-item sidebar-right has-sidebar" style="">
+<div class="container">
+<div class="tie-row main-content-row">
+<div class="main-content tie-col-md-8 tie-col-xs-12" role="main">
+<div id="tie-block_826" class="mag-box miscellaneous-box first-post-gradient has-first-big-post" data-current="1">
+<div class="container-wrapper">
+<div class="mag-box-title the-global-title">
+<h3>
+The Best of 2017 </h3>
+<div class="tie-alignright">
+<div class="mag-box-options">
+<ul class="slider-arrow-nav">
+<li><a class="block-pagination prev-posts pagination-disabled" href="#"><span class="fa fa-angle-left" aria-hidden="true"></span></a></li>
+<li><a class="block-pagination next-posts" href="#"><span class="fa fa-angle-right" aria-hidden="true"></span></a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="mag-box-container clearfix">
+<ul class="posts-items posts-list-container">
+<li class="post-item tie-slider">
+<a href="https://jannah.tielabs.com/sport/2016/12/19/nfl-playoff-picture-patriots-raiders-punch-their-tickets/" title="NFL playoff picture: Patriots, Raiders punch their tickets" class="post-thumb">
+<div class="post-thumb-overlay-wrap">
+<div class="post-thumb-overlay">
+<span class="icon"></span>
+</div>
+</div>
+<img width="780" height="405" src="https://jannah.tielabs.com/sport/wp-content/themes/jannah/assets/images/tie-empty.png" class="attachment-jannah-image-post size-jannah-image-post lazy-img wp-post-image" alt="" data-src="https://jannah.tielabs.com/sport/wp-content/uploads/sites/19/2016/12/photo-1462181606837-023a46b2d355-1-780x405.jpeg" /></a>
+<div class="clearfix"></div>
+<div class="post-overlay">
+<div class="post-content">
+<h5 class="post-cat-wrap"><a class="post-cat tie-cat-9" href="https://jannah.tielabs.com/sport/category/be-active/">Be active</a></h5>
+<h3 class="post-title"><a href="https://jannah.tielabs.com/sport/2016/12/19/nfl-playoff-picture-patriots-raiders-punch-their-tickets/" title="NFL playoff picture: Patriots, Raiders punch their tickets">NFL playoff picture: Patriots, Raiders punch their tickets</a></h3>
+<div class="thumb-meta"><div class="post-meta">
+<span class="meta-author meta-item"><a href="https://jannah.tielabs.com/sport/author/admin/" class="author-name" title="Fouad Badawy"><span class="fa fa-user" aria-hidden="true"></span> Fouad Badawy</a>
+</span>
+<span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>December 19, 2016</span></span><div class="tie-alignright"><span class="meta-comment meta-item"><a href="https://jannah.tielabs.com/sport/2016/12/19/nfl-playoff-picture-patriots-raiders-punch-their-tickets/#comments"><span class="fa fa-comments" aria-hidden="true"></span> 1</a></span><span class="meta-views meta-item warm"><span class="tie-icon-fire" aria-hidden="true"></span> 587 </span> </div><div class="clearfix"></div></div></div>
+</div>
+</div>
+</li>
+<li class="post-item tie-standard">
+<a href="https://jannah.tielabs.com/sport/2016/12/19/week-15s-best-fantasy-football-free-agent-finds/" title="Week 15&#8217;s best fantasy football free-agent finds" class="post-thumb">
+<div class="post-thumb-overlay-wrap">
+<div class="post-thumb-overlay">
+<span class="icon"></span>
+</div>
+</div>
+<img width="390" height="220" src="https://jannah.tielabs.com/sport/wp-content/themes/jannah/assets/images/tie-empty.png" class="attachment-jannah-image-large size-jannah-image-large lazy-img wp-post-image" alt="" data-src="https://jannah.tielabs.com/sport/wp-content/uploads/sites/19/2016/12/slide22-390x220.jpg" /></a>
+<div class="clearfix"></div>
+<div class="post-overlay">
+<div class="post-content">
+<div class="post-meta"><span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>December 19, 2016</span></span><div class="tie-alignright"><span class="meta-comment meta-item"><a href="https://jannah.tielabs.com/sport/2016/12/19/week-15s-best-fantasy-football-free-agent-finds/#comments"><span class="fa fa-comments" aria-hidden="true"></span> 1</a></span></div><div class="clearfix"></div></div>
+<h3 class="post-title"><a href="https://jannah.tielabs.com/sport/2016/12/19/week-15s-best-fantasy-football-free-agent-finds/" title="Week 15&#8217;s best fantasy football free-agent finds">Week 15&#8217;s best fantasy football free-agent finds</a></h3>
+<div class="post-meta"></div>
+</div>
+</div>
+</li>
+<li class="post-item tie-standard">
+<a href="https://jannah.tielabs.com/sport/2016/12/19/meet-the-rare-white-foal-at-rockridge-stud/" title="Meet the Rare White Foal at Rockridge Stud" class="post-thumb">
+<div class="post-thumb-overlay-wrap">
+<div class="post-thumb-overlay">
+<span class="icon"></span>
+</div>
+</div>
+<img width="390" height="220" src="https://jannah.tielabs.com/sport/wp-content/themes/jannah/assets/images/tie-empty.png" class="attachment-jannah-image-large size-jannah-image-large lazy-img wp-post-image" alt="" data-src="https://jannah.tielabs.com/sport/wp-content/uploads/sites/19/2016/12/slide2-390x220.jpg" /></a>
+<div class="clearfix"></div>
+<div class="post-overlay">
+<div class="post-content">
+<div class="post-meta"><span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>December 19, 2016</span></span><div class="tie-alignright"><span class="meta-comment meta-item"><a href="https://jannah.tielabs.com/sport/2016/12/19/meet-the-rare-white-foal-at-rockridge-stud/#respond"><span class="fa fa-comments" aria-hidden="true"></span> 0</a></span></div><div class="clearfix"></div></div>
+<h3 class="post-title"><a href="https://jannah.tielabs.com/sport/2016/12/19/meet-the-rare-white-foal-at-rockridge-stud/" title="Meet the Rare White Foal at Rockridge Stud">Meet the Rare White Foal at Rockridge Stud</a></h3>
+<div class="post-meta"></div>
+</div>
+</div>
+</li>
+<li class="post-item tie-slider">
+<a href="https://jannah.tielabs.com/sport/2016/12/19/phelps-fiancee-says-he-might-be-back/" title="Phelps&#8217; fiancee says he might be back" class="post-thumb">
+<div class="post-thumb-overlay-wrap">
+<div class="post-thumb-overlay">
+<span class="icon"></span>
+</div>
+</div>
+<img width="390" height="220" src="https://jannah.tielabs.com/sport/wp-content/themes/jannah/assets/images/tie-empty.png" class="attachment-jannah-image-large size-jannah-image-large lazy-img wp-post-image" alt="" data-src="https://jannah.tielabs.com/sport/wp-content/uploads/sites/19/2016/12/pexels-photo-89641-1-390x220.jpg" /></a>
+<div class="clearfix"></div>
+<div class="post-overlay">
+<div class="post-content">
+<div class="post-meta"><span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>December 19, 2016</span></span><div class="tie-alignright"><span class="meta-comment meta-item"><a href="https://jannah.tielabs.com/sport/2016/12/19/phelps-fiancee-says-he-might-be-back/#respond"><span class="fa fa-comments" aria-hidden="true"></span> 0</a></span></div><div class="clearfix"></div></div>
+<h3 class="post-title"><a href="https://jannah.tielabs.com/sport/2016/12/19/phelps-fiancee-says-he-might-be-back/" title="Phelps&#8217; fiancee says he might be back">Phelps&#8217; fiancee says he might be back</a></h3>
+<div class="post-meta"></div>
+</div>
+</div>
+</li>
+<li class="post-item tie-standard">
+<a href="https://jannah.tielabs.com/sport/2016/12/19/paralympian-falls-gets-back-up-2/" title="Paralympics in &#8216;worst situation ever&#8217;" class="post-thumb">
+<div class="post-thumb-overlay-wrap">
+<div class="post-thumb-overlay">
+<span class="icon"></span>
+</div>
+</div>
+<img width="390" height="220" src="https://jannah.tielabs.com/sport/wp-content/themes/jannah/assets/images/tie-empty.png" class="attachment-jannah-image-large size-jannah-image-large lazy-img wp-post-image" alt="" data-src="https://jannah.tielabs.com/sport/wp-content/uploads/sites/19/2016/12/pexels-photo-29011-390x220.jpg" /></a>
+<div class="clearfix"></div>
+<div class="post-overlay">
+<div class="post-content">
+<div class="post-meta"><span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>December 19, 2016</span></span><div class="tie-alignright"><span class="meta-comment meta-item"><a href="https://jannah.tielabs.com/sport/2016/12/19/paralympian-falls-gets-back-up-2/#respond"><span class="fa fa-comments" aria-hidden="true"></span> 0</a></span></div><div class="clearfix"></div></div>
+<h3 class="post-title"><a href="https://jannah.tielabs.com/sport/2016/12/19/paralympian-falls-gets-back-up-2/" title="Paralympics in &#8216;worst situation ever&#8217;">Paralympics in &#8216;worst situation ever&#8217;</a></h3>
+<div class="post-meta"></div>
+</div>
+</div>
+</li>
+<li class="post-item tie-standard">
+<a href="https://jannah.tielabs.com/sport/2016/12/19/paralympian-falls-gets-back-up/" title="The Dallas Cowboys running back celebrated" class="post-thumb">
+<div class="post-thumb-overlay-wrap">
+<div class="post-thumb-overlay">
+<span class="icon"></span>
+</div>
+</div>
+<img width="390" height="220" src="https://jannah.tielabs.com/sport/wp-content/themes/jannah/assets/images/tie-empty.png" class="attachment-jannah-image-large size-jannah-image-large lazy-img wp-post-image" alt="" data-src="https://jannah.tielabs.com/sport/wp-content/uploads/sites/19/2016/12/pexels-photo-168768-390x220.jpeg" /></a>
+<div class="clearfix"></div>
+<div class="post-overlay">
+<div class="post-content">
+<div class="post-meta"><span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>December 19, 2016</span></span><div class="tie-alignright"><span class="meta-comment meta-item"><a href="https://jannah.tielabs.com/sport/2016/12/19/paralympian-falls-gets-back-up/#respond"><span class="fa fa-comments" aria-hidden="true"></span> 0</a></span></div><div class="clearfix"></div></div>
+<h3 class="post-title"><a href="https://jannah.tielabs.com/sport/2016/12/19/paralympian-falls-gets-back-up/" title="The Dallas Cowboys running back celebrated">The Dallas Cowboys running back celebrated</a></h3>
+<div class="post-meta"></div>
+</div>
+</div>
+</li>
+<li class="post-item tie-slider">
+<a href="https://jannah.tielabs.com/sport/2016/12/19/to-live-in-new-orleans-is-to-die-in-new-orleans/" title="To live in New Orleans is to die in New Orleans" class="post-thumb">
+<div class="post-thumb-overlay-wrap">
+<div class="post-thumb-overlay">
+<span class="icon"></span>
+</div>
+</div>
+<img width="390" height="220" src="https://jannah.tielabs.com/sport/wp-content/themes/jannah/assets/images/tie-empty.png" class="attachment-jannah-image-large size-jannah-image-large lazy-img wp-post-image" alt="" data-src="https://jannah.tielabs.com/sport/wp-content/uploads/sites/19/2016/12/pexels-photo-63897-390x220.jpeg" /></a>
+<div class="clearfix"></div>
+<div class="post-overlay">
+<div class="post-content">
+<div class="post-meta"><span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>December 19, 2016</span></span><div class="tie-alignright"><span class="meta-comment meta-item"><a href="https://jannah.tielabs.com/sport/2016/12/19/to-live-in-new-orleans-is-to-die-in-new-orleans/#respond"><span class="fa fa-comments" aria-hidden="true"></span> 0</a></span></div><div class="clearfix"></div></div>
+<h3 class="post-title"><a href="https://jannah.tielabs.com/sport/2016/12/19/to-live-in-new-orleans-is-to-die-in-new-orleans/" title="To live in New Orleans is to die in New Orleans">To live in New Orleans is to die in New Orleans</a></h3>
+<div class="post-meta"></div>
+</div>
+</div>
+</li>
+<li class="post-item tie-standard">
+<a href="https://jannah.tielabs.com/sport/2016/12/19/the-10-best-things-we-heard-in-nfl-week-15/" title="The 10 best things we heard in NFL Week 15" class="post-thumb">
+<div class="post-thumb-overlay-wrap">
+<div class="post-thumb-overlay">
+<span class="icon"></span>
+</div>
+</div>
+<img width="390" height="220" src="https://jannah.tielabs.com/sport/wp-content/themes/jannah/assets/images/tie-empty.png" class="attachment-jannah-image-large size-jannah-image-large lazy-img wp-post-image" alt="" data-src="https://jannah.tielabs.com/sport/wp-content/uploads/sites/19/2016/12/ice-hockey-goal-sport-team-38551-390x220.jpeg" /></a>
+<div class="clearfix"></div>
+<div class="post-overlay">
+<div class="post-content">
+<div class="post-meta"><span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>December 19, 2016</span></span><div class="tie-alignright"><span class="meta-comment meta-item"><a href="https://jannah.tielabs.com/sport/2016/12/19/the-10-best-things-we-heard-in-nfl-week-15/#respond"><span class="fa fa-comments" aria-hidden="true"></span> 0</a></span></div><div class="clearfix"></div></div>
+<h3 class="post-title"><a href="https://jannah.tielabs.com/sport/2016/12/19/the-10-best-things-we-heard-in-nfl-week-15/" title="The 10 best things we heard in NFL Week 15">The 10 best things we heard in NFL Week 15</a></h3>
+<div class="post-meta"></div>
+</div>
+</div>
+</li>
+<li class="post-item tie-standard">
+<a href="https://jannah.tielabs.com/sport/2016/12/19/the-nfl-is-botching-kickoff-returns-2/" title="The NFL is botching kickoff returns" class="post-thumb">
+<div class="post-thumb-overlay-wrap">
+<div class="post-thumb-overlay">
+<span class="icon"></span>
+</div>
+</div>
+<img width="390" height="220" src="https://jannah.tielabs.com/sport/wp-content/themes/jannah/assets/images/tie-empty.png" class="attachment-jannah-image-large size-jannah-image-large lazy-img wp-post-image" alt="" data-src="https://jannah.tielabs.com/sport/wp-content/uploads/sites/19/2016/12/sports-baseball-pitcher-throw-163506-390x220.jpeg" /></a>
+<div class="clearfix"></div>
+<div class="post-overlay">
+<div class="post-content">
+<div class="post-meta"><span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>December 19, 2016</span></span><div class="tie-alignright"><span class="meta-comment meta-item"><a href="https://jannah.tielabs.com/sport/2016/12/19/the-nfl-is-botching-kickoff-returns-2/#respond"><span class="fa fa-comments" aria-hidden="true"></span> 0</a></span></div><div class="clearfix"></div></div>
+<h3 class="post-title"><a href="https://jannah.tielabs.com/sport/2016/12/19/the-nfl-is-botching-kickoff-returns-2/" title="The NFL is botching kickoff returns">The NFL is botching kickoff returns</a></h3>
+<div class="post-meta"></div>
+</div>
+</div>
+</li>
+<li class="post-item tie-standard">
+<a href="https://jannah.tielabs.com/sport/2016/12/19/eaton-trade-helps-giolito-lopez-turner/" title="Eaton trade helps Giolito, Lopez, Turner" class="post-thumb">
+<div class="post-thumb-overlay-wrap">
+<div class="post-thumb-overlay">
+<span class="icon"></span>
+</div>
+</div>
+<img width="390" height="220" src="https://jannah.tielabs.com/sport/wp-content/themes/jannah/assets/images/tie-empty.png" class="attachment-jannah-image-large size-jannah-image-large lazy-img wp-post-image" alt="" data-src="https://jannah.tielabs.com/sport/wp-content/uploads/sites/19/2016/12/slide11-390x220.jpg" /></a>
+<div class="clearfix"></div>
+<div class="post-overlay">
+<div class="post-content">
+<div class="post-meta"><span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>December 19, 2016</span></span><div class="tie-alignright"><span class="meta-comment meta-item"><a href="https://jannah.tielabs.com/sport/2016/12/19/eaton-trade-helps-giolito-lopez-turner/#respond"><span class="fa fa-comments" aria-hidden="true"></span> 0</a></span></div><div class="clearfix"></div></div>
+<h3 class="post-title"><a href="https://jannah.tielabs.com/sport/2016/12/19/eaton-trade-helps-giolito-lopez-turner/" title="Eaton trade helps Giolito, Lopez, Turner">Eaton trade helps Giolito, Lopez, Turner</a></h3>
+<div class="post-meta"></div>
+</div>
+</div>
+</li>
+</ul><div class="clearfix"></div>
+</div>
+</div>
+</div>
+<script>var js_tie_block_826 = {"order":"latest","number":"10","offset":"3","pagi":"next-prev","excerpt":"true","post_meta":"true","read_more":"true","breaking_effect":"reveal","sub_style":"first-big","style":"large-above"};</script>
+</div>
+<aside class="sidebar tie-col-md-4 tie-col-xs-12 normal-side is-sticky" aria-label="Primary Sidebar">
+<div class="theiaStickySidebar">
+<div id="tie-widget-categories-6" class="container-wrapper widget widget_categories tie-widget-categories"><div class="widget-title the-global-title has-block-head-4"><h4>Topics</h4></div><ul> <li class="cat-item cat-counter tie-cat-item-2"><a href="https://jannah.tielabs.com/sport/category/racing/" title="An activity involving physical exertion and skill in which an individual or team competes against another or others for entertainment, team sports such as soccer and rugby.">Racing</a> <span>11</span>
+</li>
+<li class="cat-item cat-counter tie-cat-item-9"><a href="https://jannah.tielabs.com/sport/category/be-active/" title="the branch of knowledge that deals with the creation and use of technical means and their interrelation with life, society, and the environment, drawing upon such subjects as industrial arts, engineering, applied science, and pure science.">Be active</a> <span>11</span>
+</li>
+<li class="cat-item cat-counter tie-cat-item-6"><a href="https://jannah.tielabs.com/sport/category/football/" title="the branch of knowledge that deals with the creation and use of technical means and their interrelation with life, society, and the environment, drawing upon such subjects as industrial arts, engineering, applied science, and pure science.">Football</a> <span>7</span>
+</li>
+<li class="cat-item cat-counter tie-cat-item-10"><a href="https://jannah.tielabs.com/sport/category/olympics/" title="An activity involving physical exertion and skill in which an individual or team competes against another or others for entertainment, team sports such as soccer and rugby.">Olympics</a> <span>7</span>
+</li>
+<li class="cat-item cat-counter tie-cat-item-8"><a href="https://jannah.tielabs.com/sport/category/watch/" title="An activity involving physical exertion and skill in which an individual or team competes against another or others for entertainment, team sports such as soccer and rugby.">Watch</a> <span>6</span>
+</li>
+<li class="cat-item cat-counter tie-cat-item-1"><a href="https://jannah.tielabs.com/sport/category/fantasy/" title="An activity involving physical exertion and skill in which an individual or team competes against another or others for entertainment, team sports such as soccer and rugby.">Fantasy</a> <span>16</span>
+</li>
+</ul><div class="clearfix"></div></div><div id="posts-list-widget-18" class="container-wrapper widget posts-list"><div class="widget-title the-global-title has-block-head-4"><h4>Popular Posts</h4></div><div class="timeline-widget"><ul class="posts-list-items"> <li>
+<a href="https://jannah.tielabs.com/sport/2016/12/19/the-nfl-is-botching-kickoff-returns-2/">
+<span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>December 19, 2016</span></span> <h3>The NFL is botching kickoff returns</h3>
+</a>
+ </li>
+<li>
+<a href="https://jannah.tielabs.com/sport/2016/12/11/feces-could-be-the-fuel-of-the-future-scientists-say/">
+<span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>December 11, 2016</span></span> <h3>Drew Brees in fantasy playoffs</h3>
+</a>
+</li>
+<li>
+<a href="https://jannah.tielabs.com/sport/2016/12/19/phelps-fiancee-says-he-might-be-back/">
+<span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>December 19, 2016</span></span> <h3>Phelps&#8217; fiancee says he might be back</h3>
+</a>
+</li>
+<li>
+<a href="https://jannah.tielabs.com/sport/2016/12/19/broncos-squabble-erupts-in-locker-room/">
+<span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>December 19, 2016</span></span> <h3>Broncos squabble erupts in locker room</h3>
+</a>
+</li>
+</ul></div><div class="clearfix"></div></div><div id="stream-item-widget-3" class="widget stream-item-widget widget-content-only"><div class="stream-item-widget-content"><a href="https://themeforest.net/item/i/19659555?ref=tielabs&#038;utm_source=demos&#038;utm_campaign=jannah&#038;utm_content=sport&#038;utm_medium=ads" target="_blank"><img src="https://jannah.tielabs.com/jannah-sport/wp-content/uploads/sites/19/2017/05/sports-2.jpg" width="728" height="90" alt=""></a></div></div> </div>
+</aside>
+</div>
+</div>
+</div>
+</div>
+<div id="tiepost-2-section-1580" class="section-wrapper container-full has-background">
+<div class="section-item full-width dark-skin tie-parallax" style="background-image: url( https://jannah.tielabs.com/jannah-sport/wp-content/uploads/sites/19/2016/10/pexels-photo-185386.jpeg);" data-type='scroll'>
+<div class="container">
+<div class="tie-row main-content-row">
+<div class="main-content tie-col-md-12">
+<section id="tie-block_1153" class="slider-area mag-box tie-video-main-slider">
+<div class="videos-block">
+<div class="video-playlist-wrapper">
+<div class="loader-overlay">
+<div class="spinner">
+<div class="bounce1"></div>
+<div class="bounce2"></div>
+<div class="bounce3"> </div>
+</div>
+</div>
+<div class="video-player-wrapper">
+<iframe class="video-frame" id="video-block_1153-1" src="https://www.youtube.com/embed/c_2M91Dlsuk?enablejsapi=1&amp;rel=0&amp;showinfo=0" width="771" height="434" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen async></iframe>
+</div>
+</div>
+<div class="video-playlist-nav-wrapper">
+<div class="playlist-title">
+<div class="playlist-title-icon"><span class="fa fa-play" aria-hidden="true"></span></div>
+<h2>Trending Videos</h2>
+<span class="videos-number">
+<span class="video-playing-number">1</span> / <span class="video-totlal-number">7</span> Videos </span>
+</div> 
+<div data-height="window" class="video-playlist-nav has-custom-scroll playlist-has-title">
+<div data-name="video-block_1153-1" data-src="https://www.youtube.com/embed/c_2M91Dlsuk?enablejsapi=1&amp;rel=0&amp;showinfo=0" class="video-playlist-item">
+<div class="video-number">1</div>
+<div class="video-play-icon"><span class="fa fa-play" aria-hidden="true"></span></div>
+<div class="video-paused-icon"><span class="fa fa-pause" aria-hidden="true"></span></div>
+<div data-src="https://i.ytimg.com/vi/c_2M91Dlsuk/default.jpg" class="lazy-img video-thumbnail"></div>
+<div class="video-info">
+<h2>#Messi500 Las felicitaciones más emotivas de sus amigos</h2>
+<span class="video-duration">03:20</span>
+</div>
+</div>
+<div data-name="video-block_1153-2" data-src="https://www.youtube.com/embed/lrGPXX8TYZU?enablejsapi=1&amp;rel=0&amp;showinfo=0" class="video-playlist-item">
+<div class="video-number">2</div>
+<div class="video-play-icon"><span class="fa fa-play" aria-hidden="true"></span></div>
+<div class="video-paused-icon"><span class="fa fa-pause" aria-hidden="true"></span></div>
+<div data-src="https://i.ytimg.com/vi/lrGPXX8TYZU/default.jpg" class="lazy-img video-thumbnail"></div>
+<div class="video-info">
+<h2>Lionel Messi vs Luis Suarez. Which goal do you like the most?</h2>
+<span class="video-duration">00:26</span>
+</div>
+</div>
+<div data-name="video-block_1153-3" data-src="https://www.youtube.com/embed/eNCB8RYDCNU?enablejsapi=1&amp;rel=0&amp;showinfo=0" class="video-playlist-item">
+<div class="video-number">3</div>
+<div class="video-play-icon"><span class="fa fa-play" aria-hidden="true"></span></div>
+<div class="video-paused-icon"><span class="fa fa-pause" aria-hidden="true"></span></div>
+<div data-src="https://i.ytimg.com/vi/eNCB8RYDCNU/default.jpg" class="lazy-img video-thumbnail"></div>
+<div class="video-info">
+<h2>1v1 Attacking | How To &amp; Tips</h2>
+<span class="video-duration">02:59</span>
+</div>
+</div>
+<div data-name="video-block_1153-4" data-src="https://www.youtube.com/embed/cdeFNX9K2TQ?enablejsapi=1&amp;rel=0&amp;showinfo=0" class="video-playlist-item">
+<div class="video-number">4</div>
+<div class="video-play-icon"><span class="fa fa-play" aria-hidden="true"></span></div>
+<div class="video-paused-icon"><span class="fa fa-pause" aria-hidden="true"></span></div>
+<div data-src="https://i.ytimg.com/vi/cdeFNX9K2TQ/default.jpg" class="lazy-img video-thumbnail"></div>
+<div class="video-info">
+<h2>Leo Messi vs Ronald Koeman: free-kick goals comparison</h2>
+<span class="video-duration">01:31</span>
+</div>
+</div>
+<div data-name="video-block_1153-5" data-src="https://www.youtube.com/embed/A0f106oGwKY?enablejsapi=1&amp;rel=0&amp;showinfo=0" class="video-playlist-item">
+<div class="video-number">5</div>
+<div class="video-play-icon"><span class="fa fa-play" aria-hidden="true"></span></div>
+<div class="video-paused-icon"><span class="fa fa-pause" aria-hidden="true"></span></div>
+<div data-src="https://i.ytimg.com/vi/A0f106oGwKY/default.jpg" class="lazy-img video-thumbnail"></div>
+<div class="video-info">
+<h2>Los mejores goles del Real Madrid al Levante</h2>
+<span class="video-duration">01:25</span>
+</div>
+</div>
+<div data-name="video-block_1153-6" data-src="https://www.youtube.com/embed/c_2M91Dlsuk?enablejsapi=1&amp;rel=0&amp;showinfo=0" class="video-playlist-item">
+<div class="video-number">6</div>
+<div class="video-play-icon"><span class="fa fa-play" aria-hidden="true"></span></div>
+<div class="video-paused-icon"><span class="fa fa-pause" aria-hidden="true"></span></div>
+<div data-src="https://i.ytimg.com/vi/c_2M91Dlsuk/default.jpg" class="lazy-img video-thumbnail"></div>
+<div class="video-info">
+<h2>#Messi500 Las felicitaciones más emotivas de sus amigos</h2>
+<span class="video-duration">03:20</span>
+</div>
+</div>
+<div data-name="video-block_1153-7" data-src="https://www.youtube.com/embed/lrGPXX8TYZU?enablejsapi=1&amp;rel=0&amp;showinfo=0" class="video-playlist-item">
+<div class="video-number">7</div>
+<div class="video-play-icon"><span class="fa fa-play" aria-hidden="true"></span></div>
+<div class="video-paused-icon"><span class="fa fa-pause" aria-hidden="true"></span></div>
+<div data-src="https://i.ytimg.com/vi/lrGPXX8TYZU/default.jpg" class="lazy-img video-thumbnail"></div>
+<div class="video-info">
+<h2>Lionel Messi vs Luis Suarez. Which goal do you like the most?</h2>
+<span class="video-duration">00:26</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+</div> </div>
+</div>
+<div id="tiepost-2-section-3018" class="section-wrapper container-full has-background">
+<div class="section-item sidebar-right has-sidebar dark-skin" style="background-size: cover;">
+<div class="container">
+<div class="tie-row main-content-row">
+<div class="main-content tie-col-md-8 tie-col-xs-12" role="main">
+<div id="tie-block_2740" class="mag-box big-post-left-box big-thumb-left-box first-post-gradient" data-current="1">
+<div class="container-wrapper">
+<div class="mag-box-title the-global-title">
+<h3>
+Must Read </h3>
+<div class="tie-alignright">
+<div class="mag-box-options">
+<ul class="mag-box-filter-links">
+<li><a href="#" class="block-ajax-term active">All</a></li><li><a href="#" data-id="5" class="block-ajax-term">Baseball</a></li><li><a href="#" data-id="7" class="block-ajax-term">Basketball</a></li><li><a href="#" data-id="6" class="block-ajax-term">Football</a></li><li><a href="#" data-id="3" class="block-ajax-term">Hockey</a></li><li><a href="#" data-id="2" class="block-ajax-term">Racing</a></li></ul>
+<ul class="slider-arrow-nav">
+<li><a class="block-pagination prev-posts pagination-disabled" href="#"><span class="fa fa-angle-left" aria-hidden="true"></span></a></li>
+<li><a class="block-pagination next-posts" href="#"><span class="fa fa-angle-right" aria-hidden="true"></span></a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="mag-box-container clearfix">
+<ul class="posts-items posts-list-container">
+<li class="post-item tie-standard">
+<div class="big-thumb-left-box-inner" data-src="https://jannah.tielabs.com/sport/wp-content/uploads/sites/19/2016/12/slide22-780x500.jpg">
+<a href="https://jannah.tielabs.com/sport/2016/12/19/week-15s-best-fantasy-football-free-agent-finds/" title="Week 15&#8217;s best fantasy football free-agent finds" class="post-thumb">
+<div class="post-thumb-overlay-wrap">
+<div class="post-thumb-overlay">
+<span class="icon"></span>
+</div>
+</div>
+</a>
+<div class="post-overlay">
+<div class="post-content">
+<h5 class="post-cat-wrap"><a class="post-cat tie-cat-6" href="https://jannah.tielabs.com/sport/category/football/">Football</a></h5>
+<h3 class="post-title"><a href="https://jannah.tielabs.com/sport/2016/12/19/week-15s-best-fantasy-football-free-agent-finds/" title="Week 15&#8217;s best fantasy football free-agent finds">Week 15&#8217;s best fantasy football free-agent finds</a></h3>
+<div class="thumb-meta"><div class="post-meta">
+<span class="meta-author meta-item"><a href="https://jannah.tielabs.com/sport/author/ashraf/" class="author-name" title="Ashraf Reda"><span class="fa fa-user" aria-hidden="true"></span> Ashraf Reda</a>
+</span>
+<span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>December 19, 2016</span></span><div class="tie-alignright"><span class="meta-comment meta-item"><a href="https://jannah.tielabs.com/sport/2016/12/19/week-15s-best-fantasy-football-free-agent-finds/#comments"><span class="fa fa-comments" aria-hidden="true"></span> 1</a></span><span class="meta-views meta-item "><span class="tie-icon-fire" aria-hidden="true"></span> 428 </span> </div><div class="clearfix"></div></div></div>
+</div>
+</div>
+</div>
+</li>
+<li class="post-item  tie-standard">
+<a href="https://jannah.tielabs.com/sport/2016/12/19/meet-the-rare-white-foal-at-rockridge-stud/" title="Meet the Rare White Foal at Rockridge Stud" class="post-thumb">
+<div class="post-thumb-overlay-wrap">
+<div class="post-thumb-overlay">
+<span class="icon"></span>
+</div>
+</div>
+<img width="220" height="150" src="https://jannah.tielabs.com/sport/wp-content/themes/jannah/assets/images/tie-empty-small.png" class="attachment-jannah-image-small size-jannah-image-small lazy-img tie-small-image wp-post-image" alt="" data-src="https://jannah.tielabs.com/sport/wp-content/uploads/sites/19/2016/12/slide2-220x150.jpg" /></a>
+<div class="post-details">
+<div class="post-meta"><span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>December 19, 2016</span></span><div class="clearfix"></div></div>
+<h3 class="post-title"><a href="https://jannah.tielabs.com/sport/2016/12/19/meet-the-rare-white-foal-at-rockridge-stud/" title="Meet the Rare White Foal at Rockridge Stud">Meet the Rare White Foal at Rockridge Stud</a></h3>
+</div>
+</li>
+<li class="post-item  tie-slider">
+<a href="https://jannah.tielabs.com/sport/2016/12/19/phelps-fiancee-says-he-might-be-back/" title="Phelps&#8217; fiancee says he might be back" class="post-thumb">
+<div class="post-thumb-overlay-wrap">
+<div class="post-thumb-overlay">
+<span class="icon"></span>
+</div>
+</div>
+<img width="220" height="150" src="https://jannah.tielabs.com/sport/wp-content/themes/jannah/assets/images/tie-empty-small.png" class="attachment-jannah-image-small size-jannah-image-small lazy-img tie-small-image wp-post-image" alt="" data-src="https://jannah.tielabs.com/sport/wp-content/uploads/sites/19/2016/12/pexels-photo-89641-1-220x150.jpg" /></a>
+<div class="post-details">
+<div class="post-meta"><span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>December 19, 2016</span></span><div class="clearfix"></div></div>
+<h3 class="post-title"><a href="https://jannah.tielabs.com/sport/2016/12/19/phelps-fiancee-says-he-might-be-back/" title="Phelps&#8217; fiancee says he might be back">Phelps&#8217; fiancee says he might be back</a></h3>
+</div>
+</li>
+<li class="post-item  tie-standard">
+<a href="https://jannah.tielabs.com/sport/2016/12/19/the-nfl-is-botching-kickoff-returns-2/" title="The NFL is botching kickoff returns" class="post-thumb">
+<div class="post-thumb-overlay-wrap">
+<div class="post-thumb-overlay">
+<span class="icon"></span>
+</div>
+</div>
+<img width="220" height="150" src="https://jannah.tielabs.com/sport/wp-content/themes/jannah/assets/images/tie-empty-small.png" class="attachment-jannah-image-small size-jannah-image-small lazy-img tie-small-image wp-post-image" alt="" data-src="https://jannah.tielabs.com/sport/wp-content/uploads/sites/19/2016/12/sports-baseball-pitcher-throw-163506-220x150.jpeg" /></a>
+<div class="post-details">
+<div class="post-meta"><span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>December 19, 2016</span></span><div class="clearfix"></div></div>
+<h3 class="post-title"><a href="https://jannah.tielabs.com/sport/2016/12/19/the-nfl-is-botching-kickoff-returns-2/" title="The NFL is botching kickoff returns">The NFL is botching kickoff returns</a></h3>
+</div>
+</li>
+<li class="post-item  tie-slider">
+<a href="https://jannah.tielabs.com/sport/2016/12/19/to-live-in-new-orleans-is-to-die-in-new-orleans/" title="To live in New Orleans is to die in New Orleans" class="post-thumb">
+<div class="post-thumb-overlay-wrap">
+<div class="post-thumb-overlay">
+<span class="icon"></span>
+</div>
+</div>
+<img width="220" height="150" src="https://jannah.tielabs.com/sport/wp-content/themes/jannah/assets/images/tie-empty-small.png" class="attachment-jannah-image-small size-jannah-image-small lazy-img tie-small-image wp-post-image" alt="" data-src="https://jannah.tielabs.com/sport/wp-content/uploads/sites/19/2016/12/pexels-photo-63897-220x150.jpeg" /></a>
+<div class="post-details">
+<div class="post-meta"><span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>December 19, 2016</span></span><div class="clearfix"></div></div>
+<h3 class="post-title"><a href="https://jannah.tielabs.com/sport/2016/12/19/to-live-in-new-orleans-is-to-die-in-new-orleans/" title="To live in New Orleans is to die in New Orleans">To live in New Orleans is to die in New Orleans</a></h3>
+</div>
+</li>
+<li class="post-item  tie-standard">
+<a href="https://jannah.tielabs.com/sport/2015/11/19/for-a-limited-time-take-25-off-fan-gear-with-promo/" title="For a limited time take 25% off fan gear with promo" class="post-thumb">
+<div class="post-thumb-overlay-wrap">
+<div class="post-thumb-overlay">
+<span class="icon"></span>
+</div>
+</div>
+<img width="220" height="150" src="https://jannah.tielabs.com/sport/wp-content/themes/jannah/assets/images/tie-empty-small.png" class="attachment-jannah-image-small size-jannah-image-small lazy-img tie-small-image wp-post-image" alt="" data-src="https://jannah.tielabs.com/sport/wp-content/uploads/sites/19/2016/12/slide4-220x150.jpg" /></a>
+<div class="post-details">
+<div class="post-meta"><span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>November 19, 2015</span></span><div class="clearfix"></div></div>
+<h3 class="post-title"><a href="https://jannah.tielabs.com/sport/2015/11/19/for-a-limited-time-take-25-off-fan-gear-with-promo/" title="For a limited time take 25% off fan gear with promo">For a limited time take 25% off fan gear with promo</a></h3>
+</div>
+</li>
+</ul><div class="clearfix"></div>
+</div>
+</div>
+</div>
+<script>var js_tie_block_2740 = {"order":"views","id":["5","7","6","3","2"],"number":"6","pagi":"next-prev","excerpt":"true","excerpt_length":"20","post_meta":"true","read_more":"true","filters":"true","breaking_effect":"reveal","sub_style":"big-thumb","style":"big-thumb"};</script>
+<div id="tie-block_2658" class="mag-box big-posts-box" data-current="1">
+<div class="container-wrapper">
+<div class="mag-box-title the-global-title">
+<h3>
+Recently Sport News </h3>
+</div>
+<div class="mag-box-container clearfix">
+<ul class="posts-items posts-list-container">
+<li class="post-item  post-655 post type-post status-publish format-standard has-post-thumbnail category-watch tag-video tie-video">
+<a href="https://jannah.tielabs.com/sport/2017/02/15/dc-shoes-ac92-250f-awesome/" title="Broncos coach Gary Kubiak had to break up" class="post-thumb"><h5 class="post-cat-wrap"><span class="post-cat tie-cat-8">Watch</span></h5>
+<div class="post-thumb-overlay-wrap">
+<div class="post-thumb-overlay">
+<span class="icon"></span>
+</div>
+</div>
+<img width="390" height="220" src="https://jannah.tielabs.com/sport/wp-content/themes/jannah/assets/images/tie-empty.png" class="attachment-jannah-image-large size-jannah-image-large lazy-img wp-post-image" alt="" data-src="https://jannah.tielabs.com/sport/wp-content/uploads/sites/19/2016/12/pexels-photo-236958-390x220.jpeg" /></a><div class="post-meta">
+<span class="meta-author meta-item"><a href="https://jannah.tielabs.com/sport/author/ashraf/" class="author-name" title="Ashraf Reda"><span class="fa fa-user" aria-hidden="true"></span> Ashraf Reda</a>
+</span>
+<span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>February 15, 2017</span></span><div class="tie-alignright"><span class="meta-comment meta-item"><a href="https://jannah.tielabs.com/sport/2017/02/15/dc-shoes-ac92-250f-awesome/#respond"><span class="fa fa-comments" aria-hidden="true"></span> 0</a></span><span class="meta-views meta-item warm"><span class="tie-icon-fire" aria-hidden="true"></span> 1,081 </span> </div><div class="clearfix"></div></div>
+<div class="post-details">
+<h3 class="post-title"><a href="https://jannah.tielabs.com/sport/2017/02/15/dc-shoes-ac92-250f-awesome/" title="Broncos coach Gary Kubiak had to break up">Broncos coach Gary Kubiak had to break up</a></h3>
+<p class="post-excerpt">DENVER &#8212; The Denver Broncos have had moments this season when their defense has shown frustration after games, but things reached a boiling point Sunday night. Cowboys owner Jerry Jones also&hellip;</p>
+</div>
+</li>
+<li class="post-item  post-565 post type-post status-publish format-standard has-post-thumbnail category-olympics tag-olympics tie-standard">
+<a href="https://jannah.tielabs.com/sport/2017/02/04/paralympian-falls-gets-back-up-3/" title="Paralympian falls, gets back up" class="post-thumb"><h5 class="post-cat-wrap"><span class="post-cat tie-cat-10">Olympics</span></h5>
+<div class="post-thumb-overlay-wrap">
+<div class="post-thumb-overlay">
+<span class="icon"></span>
+</div>
+</div>
+<img width="390" height="220" src="https://jannah.tielabs.com/sport/wp-content/themes/jannah/assets/images/tie-empty.png" class="attachment-jannah-image-large size-jannah-image-large lazy-img wp-post-image" alt="" data-src="https://jannah.tielabs.com/sport/wp-content/uploads/sites/19/2016/12/pexels-photo-1-390x220.jpg" /></a><div class="post-meta">
+<span class="meta-author meta-item"><a href="https://jannah.tielabs.com/sport/author/admin/" class="author-name" title="Fouad Badawy"><span class="fa fa-user" aria-hidden="true"></span> Fouad Badawy</a>
+</span>
+<span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>February 4, 2017</span></span><div class="tie-alignright"><span class="meta-comment meta-item"><a href="https://jannah.tielabs.com/sport/2017/02/04/paralympian-falls-gets-back-up-3/#respond"><span class="fa fa-comments" aria-hidden="true"></span> 0</a></span><span class="meta-views meta-item "><span class="tie-icon-fire" aria-hidden="true"></span> 489 </span> </div><div class="clearfix"></div></div>
+<div class="post-details">
+<h3 class="post-title"><a href="https://jannah.tielabs.com/sport/2017/02/04/paralympian-falls-gets-back-up-3/" title="Paralympian falls, gets back up">Paralympian falls, gets back up</a></h3>
+<p class="post-excerpt">DENVER &#8212; The Denver Broncos have had moments this season when their defense has shown frustration after games, but things reached a boiling point Sunday night. Cowboys owner Jerry Jones also&hellip;</p>
+</div>
+</li>
+<li class="post-item  post-657 post type-post status-publish format-standard has-post-thumbnail category-watch tag-video tie-video">
+<a href="https://jannah.tielabs.com/sport/2017/02/03/the-best-of-extreme-sport-2016-4k-2/" title="Best of eXtreme Sport" class="post-thumb"><h5 class="post-cat-wrap"><span class="post-cat tie-cat-8">Watch</span></h5>
+<div class="post-thumb-overlay-wrap">
+<div class="post-thumb-overlay">
+<span class="icon"></span>
+</div>
+</div>
+<img width="390" height="220" src="https://jannah.tielabs.com/sport/wp-content/themes/jannah/assets/images/tie-empty.png" class="attachment-jannah-image-large size-jannah-image-large lazy-img wp-post-image" alt="" data-src="https://jannah.tielabs.com/sport/wp-content/uploads/sites/19/2017/02/pexels-photo-101604-390x220.jpg" /></a><div class="post-meta">
+<span class="meta-author meta-item"><a href="https://jannah.tielabs.com/sport/author/admin/" class="author-name" title="Fouad Badawy"><span class="fa fa-user" aria-hidden="true"></span> Fouad Badawy</a>
+</span>
+<span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>February 3, 2017</span></span><div class="tie-alignright"><span class="meta-comment meta-item"><a href="https://jannah.tielabs.com/sport/2017/02/03/the-best-of-extreme-sport-2016-4k-2/#respond"><span class="fa fa-comments" aria-hidden="true"></span> 0</a></span><span class="meta-views meta-item "><span class="tie-icon-fire" aria-hidden="true"></span> 311 </span> </div><div class="clearfix"></div></div>
+<div class="post-details">
+<h3 class="post-title"><a href="https://jannah.tielabs.com/sport/2017/02/03/the-best-of-extreme-sport-2016-4k-2/" title="Best of eXtreme Sport">Best of eXtreme Sport</a></h3>
+<p class="post-excerpt">DENVER &#8212; The Denver Broncos have had moments this season when their defense has shown frustration after games, but things reached a boiling point Sunday night. Cowboys owner Jerry Jones also&hellip;</p>
+</div>
+</li>
+<li class="post-item  post-506 post type-post status-publish format-standard has-post-thumbnail category-be-active tag-be-active tag-gallery tie-slider">
+<a href="https://jannah.tielabs.com/sport/2016/12/19/nfl-playoff-picture-patriots-raiders-punch-their-tickets/" title="NFL playoff picture: Patriots, Raiders punch their tickets" class="post-thumb"><h5 class="post-cat-wrap"><span class="post-cat tie-cat-9">Be active</span></h5>
+<div class="post-thumb-overlay-wrap">
+<div class="post-thumb-overlay">
+<span class="icon"></span>
+</div>
+</div>
+<img width="390" height="220" src="https://jannah.tielabs.com/sport/wp-content/themes/jannah/assets/images/tie-empty.png" class="attachment-jannah-image-large size-jannah-image-large lazy-img wp-post-image" alt="" data-src="https://jannah.tielabs.com/sport/wp-content/uploads/sites/19/2016/12/photo-1462181606837-023a46b2d355-1-390x220.jpeg" /></a><div class="post-meta">
+<span class="meta-author meta-item"><a href="https://jannah.tielabs.com/sport/author/admin/" class="author-name" title="Fouad Badawy"><span class="fa fa-user" aria-hidden="true"></span> Fouad Badawy</a>
+</span>
+<span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>December 19, 2016</span></span><div class="tie-alignright"><span class="meta-comment meta-item"><a href="https://jannah.tielabs.com/sport/2016/12/19/nfl-playoff-picture-patriots-raiders-punch-their-tickets/#comments"><span class="fa fa-comments" aria-hidden="true"></span> 1</a></span><span class="meta-views meta-item warm"><span class="tie-icon-fire" aria-hidden="true"></span> 587 </span> </div><div class="clearfix"></div></div>
+<div class="post-details">
+<h3 class="post-title"><a href="https://jannah.tielabs.com/sport/2016/12/19/nfl-playoff-picture-patriots-raiders-punch-their-tickets/" title="NFL playoff picture: Patriots, Raiders punch their tickets">NFL playoff picture: Patriots, Raiders punch their tickets</a></h3>
+<p class="post-excerpt">DENVER &#8212; The Denver Broncos have had moments this season when their defense has shown frustration after games, but things reached a boiling point Sunday night. Cowboys owner Jerry Jones also&hellip;</p>
+</div>
+</li>
+<li class="post-item  post-465 post type-post status-publish format-standard has-post-thumbnail category-football tag-football tie-standard">
+<a href="https://jannah.tielabs.com/sport/2016/12/19/week-15s-best-fantasy-football-free-agent-finds/" title="Week 15&#8217;s best fantasy football free-agent finds" class="post-thumb"><h5 class="post-cat-wrap"><span class="post-cat tie-cat-6">Football</span></h5>
+<div class="post-thumb-overlay-wrap">
+<div class="post-thumb-overlay">
+<span class="icon"></span>
+</div>
+</div>
+<img width="390" height="220" src="https://jannah.tielabs.com/sport/wp-content/themes/jannah/assets/images/tie-empty.png" class="attachment-jannah-image-large size-jannah-image-large lazy-img wp-post-image" alt="" data-src="https://jannah.tielabs.com/sport/wp-content/uploads/sites/19/2016/12/slide22-390x220.jpg" /></a><div class="post-meta">
+<span class="meta-author meta-item"><a href="https://jannah.tielabs.com/sport/author/ashraf/" class="author-name" title="Ashraf Reda"><span class="fa fa-user" aria-hidden="true"></span> Ashraf Reda</a>
+</span>
+<span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>December 19, 2016</span></span><div class="tie-alignright"><span class="meta-comment meta-item"><a href="https://jannah.tielabs.com/sport/2016/12/19/week-15s-best-fantasy-football-free-agent-finds/#comments"><span class="fa fa-comments" aria-hidden="true"></span> 1</a></span><span class="meta-views meta-item "><span class="tie-icon-fire" aria-hidden="true"></span> 428 </span> </div><div class="clearfix"></div></div>
+<div class="post-details">
+<h3 class="post-title"><a href="https://jannah.tielabs.com/sport/2016/12/19/week-15s-best-fantasy-football-free-agent-finds/" title="Week 15&#8217;s best fantasy football free-agent finds">Week 15&#8217;s best fantasy football free-agent finds</a></h3>
+<p class="post-excerpt">DENVER &#8212; The Denver Broncos have had moments this season when their defense has shown frustration after games, but things reached a boiling point Sunday night. Cowboys owner Jerry Jones also&hellip;</p>
+</div>
+</li>
+<li class="post-item  post-583 post type-post status-publish format-standard has-post-thumbnail category-racing tag-racing tie-standard">
+<a href="https://jannah.tielabs.com/sport/2016/12/19/meet-the-rare-white-foal-at-rockridge-stud/" title="Meet the Rare White Foal at Rockridge Stud" class="post-thumb"><h5 class="post-cat-wrap"><span class="post-cat tie-cat-2">Racing</span></h5>
+<div class="post-thumb-overlay-wrap">
+<div class="post-thumb-overlay">
+<span class="icon"></span>
+</div>
+</div>
+<img width="390" height="220" src="https://jannah.tielabs.com/sport/wp-content/themes/jannah/assets/images/tie-empty.png" class="attachment-jannah-image-large size-jannah-image-large lazy-img wp-post-image" alt="" data-src="https://jannah.tielabs.com/sport/wp-content/uploads/sites/19/2016/12/slide2-390x220.jpg" /></a><div class="post-meta">
+<span class="meta-author meta-item"><a href="https://jannah.tielabs.com/sport/author/ashraf/" class="author-name" title="Ashraf Reda"><span class="fa fa-user" aria-hidden="true"></span> Ashraf Reda</a>
+</span>
+<span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>December 19, 2016</span></span><div class="tie-alignright"><span class="meta-comment meta-item"><a href="https://jannah.tielabs.com/sport/2016/12/19/meet-the-rare-white-foal-at-rockridge-stud/#respond"><span class="fa fa-comments" aria-hidden="true"></span> 0</a></span><span class="meta-views meta-item "><span class="tie-icon-fire" aria-hidden="true"></span> 340 </span> </div><div class="clearfix"></div></div>
+<div class="post-details">
+<h3 class="post-title"><a href="https://jannah.tielabs.com/sport/2016/12/19/meet-the-rare-white-foal-at-rockridge-stud/" title="Meet the Rare White Foal at Rockridge Stud">Meet the Rare White Foal at Rockridge Stud</a></h3>
+<p class="post-excerpt">DENVER &#8212; The Denver Broncos have had moments this season when their defense has shown frustration after games, but things reached a boiling point Sunday night. Cowboys owner Jerry Jones also&hellip;</p>
+</div>
+</li>
+</ul><div class="clearfix"></div>
+</div>
+<a class="block-pagination next-posts show-more-button load-more-button" data-text="Load More">Load More</a>
+</div>
+</div>
+<script>var js_tie_block_2658 = {"order":"latest","number":"6","pagi":"load-more","excerpt":"true","excerpt_length":"30","post_meta":"true","breaking_effect":"reveal","sub_style":"big","style":"default"};</script>
+</div>
+<aside class="sidebar tie-col-md-4 tie-col-xs-12 normal-side is-sticky" aria-label="Primary Sidebar">
+<div class="theiaStickySidebar">
+<div id="social-statistics-3" class="container-wrapper widget social-statistics-widget"><div class="widget-title the-global-title has-block-head-4"><h4>Follow Us</h4></div>
+<ul class="solid-social-icons solid-social-icons three-cols three-cols-without-spaces Arqam-Lite">
+<li class="social-icons-item">
+<a class="facebook-social-icon" href="https://www.facebook.com/TieLabs" rel="nofollow" target="_blank">
+<span class="counter-icon fa fa-facebook"></span> <span class="followers">
+<span class="followers-num">13,627</span>
+<span class="followers-name">Fans</span>
+</span>
+</a>
+</li>
+<li class="social-icons-item">
+<a class="twitter-social-icon" href="https://twitter.com/TieLabs" rel="nofollow" target="_blank">
+<span class="counter-icon fa fa-twitter"></span> <span class="followers">
+<span class="followers-num">885</span>
+<span class="followers-name">Followers</span>
+</span>
+</a>
+</li>
+<li class="social-icons-item">
+<a class="google-social-icon" href="https://plus.google.com/+envato" rel="nofollow" target="_blank">
+<span class="counter-icon fa fa-google-plus"></span> <span class="followers">
+<span class="followers-num">0</span>
+<span class="followers-name">Followers</span>
+</span>
+</a>
+</li>
+<li class="social-icons-item">
+<a class="youtube-social-icon" href="https://youtube.com/user/TheVerge" rel="nofollow" target="_blank">
+<span class="counter-icon fa fa-youtube"></span> <span class="followers">
+<span class="followers-num">2M</span>
+<span class="followers-name">Subscribers</span>
+</span>
+</a>
+</li>
+<li class="social-icons-item">
+<a class="dribbble-social-icon" href="https://dribbble.com/mo3aser" rel="nofollow" target="_blank">
+<span class="counter-icon fa fa-dribbble"></span> <span class="followers">
+<span class="followers-num">52</span>
+<span class="followers-name">Followers</span>
+</span>
+</a>
+</li>
+<li class="social-icons-item">
+<a class="instagram-social-icon" href="https://instagram.com/imo3aser" rel="nofollow" target="_blank">
+<span class="counter-icon fa fa-instagram"></span> <span class="followers">
+<span class="followers-num">2,288</span>
+<span class="followers-name">Followers</span>
+</span>
+</a>
+</li>
+</ul>
+<div class="clearfix"></div></div><div id="posts-list-widget-19" class="container-wrapper widget posts-list"><div class="widget-title the-global-title has-block-head-4"><h4>Recent Posts</h4></div><div class=""><ul class="posts-list-items">
+<li class="widget-post-list tie-video">
+<div class="post-widget-thumbnail">
+<a href="https://jannah.tielabs.com/sport/2017/02/15/dc-shoes-ac92-250f-awesome/" title="Broncos coach Gary Kubiak had to break up" class="post-thumb">
+<div class="post-thumb-overlay-wrap">
+<div class="post-thumb-overlay">
+<span class="icon"></span>
+</div>
+</div>
+<img width="220" height="150" src="https://jannah.tielabs.com/sport/wp-content/themes/jannah/assets/images/tie-empty-small.png" class="attachment-jannah-image-small size-jannah-image-small lazy-img tie-small-image wp-post-image" alt="" data-src="https://jannah.tielabs.com/sport/wp-content/uploads/sites/19/2016/12/pexels-photo-236958-220x150.jpeg" /></a> </div>
+<div class="post-widget-body ">
+<h3 class="post-title"><a href="https://jannah.tielabs.com/sport/2017/02/15/dc-shoes-ac92-250f-awesome/" title="Broncos coach Gary Kubiak had to break up">Broncos coach Gary Kubiak had to break up</a></h3>
+<div class="post-meta">
+<span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>February 15, 2017</span></span> </div>
+</div>
+</li>
+<li class="widget-post-list tie-standard">
+<div class="post-widget-thumbnail">
+<a href="https://jannah.tielabs.com/sport/2017/02/04/paralympian-falls-gets-back-up-3/" title="Paralympian falls, gets back up" class="post-thumb">
+<div class="post-thumb-overlay-wrap">
+<div class="post-thumb-overlay">
+<span class="icon"></span>
+</div>
+</div>
+<img width="220" height="150" src="https://jannah.tielabs.com/sport/wp-content/themes/jannah/assets/images/tie-empty-small.png" class="attachment-jannah-image-small size-jannah-image-small lazy-img tie-small-image wp-post-image" alt="" data-src="https://jannah.tielabs.com/sport/wp-content/uploads/sites/19/2016/12/pexels-photo-1-220x150.jpg" /></a> </div>
+<div class="post-widget-body ">
+<h3 class="post-title"><a href="https://jannah.tielabs.com/sport/2017/02/04/paralympian-falls-gets-back-up-3/" title="Paralympian falls, gets back up">Paralympian falls, gets back up</a></h3>
+<div class="post-meta">
+<span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>February 4, 2017</span></span> </div>
+</div>
+</li>
+<li class="widget-post-list tie-video">
+<div class="post-widget-thumbnail">
+<a href="https://jannah.tielabs.com/sport/2017/02/03/the-best-of-extreme-sport-2016-4k-2/" title="Best of eXtreme Sport" class="post-thumb">
+<div class="post-thumb-overlay-wrap">
+<div class="post-thumb-overlay">
+<span class="icon"></span>
+</div>
+</div>
+<img width="220" height="150" src="https://jannah.tielabs.com/sport/wp-content/themes/jannah/assets/images/tie-empty-small.png" class="attachment-jannah-image-small size-jannah-image-small lazy-img tie-small-image wp-post-image" alt="" data-src="https://jannah.tielabs.com/sport/wp-content/uploads/sites/19/2017/02/pexels-photo-101604-220x150.jpg" /></a> </div>
+<div class="post-widget-body ">
+<h3 class="post-title"><a href="https://jannah.tielabs.com/sport/2017/02/03/the-best-of-extreme-sport-2016-4k-2/" title="Best of eXtreme Sport">Best of eXtreme Sport</a></h3>
+<div class="post-meta">
+<span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>February 3, 2017</span></span> </div>
+</div>
+</li>
+<li class="widget-post-list tie-slider">
+<div class="post-widget-thumbnail">
+<a href="https://jannah.tielabs.com/sport/2016/12/19/nfl-playoff-picture-patriots-raiders-punch-their-tickets/" title="NFL playoff picture: Patriots, Raiders punch their tickets" class="post-thumb">
+<div class="post-thumb-overlay-wrap">
+<div class="post-thumb-overlay">
+<span class="icon"></span>
+</div>
+</div>
+<img width="220" height="150" src="https://jannah.tielabs.com/sport/wp-content/themes/jannah/assets/images/tie-empty-small.png" class="attachment-jannah-image-small size-jannah-image-small lazy-img tie-small-image wp-post-image" alt="" data-src="https://jannah.tielabs.com/sport/wp-content/uploads/sites/19/2016/12/photo-1462181606837-023a46b2d355-1-220x150.jpeg" /></a> </div>
+<div class="post-widget-body ">
+<h3 class="post-title"><a href="https://jannah.tielabs.com/sport/2016/12/19/nfl-playoff-picture-patriots-raiders-punch-their-tickets/" title="NFL playoff picture: Patriots, Raiders punch their tickets">NFL playoff picture: Patriots, Raiders punch their tickets</a></h3>
+<div class="post-meta">
+<span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>December 19, 2016</span></span> </div>
+</div>
+</li>
+<li class="widget-post-list tie-standard">
+<div class="post-widget-thumbnail">
+<a href="https://jannah.tielabs.com/sport/2016/12/19/week-15s-best-fantasy-football-free-agent-finds/" title="Week 15&#8217;s best fantasy football free-agent finds" class="post-thumb">
+<div class="post-thumb-overlay-wrap">
+<div class="post-thumb-overlay">
+<span class="icon"></span>
+</div>
+</div>
+<img width="220" height="150" src="https://jannah.tielabs.com/sport/wp-content/themes/jannah/assets/images/tie-empty-small.png" class="attachment-jannah-image-small size-jannah-image-small lazy-img tie-small-image wp-post-image" alt="" data-src="https://jannah.tielabs.com/sport/wp-content/uploads/sites/19/2016/12/slide22-220x150.jpg" /></a> </div>
+<div class="post-widget-body ">
+<h3 class="post-title"><a href="https://jannah.tielabs.com/sport/2016/12/19/week-15s-best-fantasy-football-free-agent-finds/" title="Week 15&#8217;s best fantasy football free-agent finds">Week 15&#8217;s best fantasy football free-agent finds</a></h3>
+<div class="post-meta">
+<span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>December 19, 2016</span></span> </div>
+</div>
+</li>
+</ul></div><div class="clearfix"></div></div>
+<div class="container-wrapper tabs-container-wrapper">
+<div class="widget tabs-widget">
+<div class="widget-container">
+<div class="tabs-widget">
+<div class="tabs-wrapper">
+<ul class="tabs">
+<li><a href="#widget_tabs-5-recent">Recent</a></li><li><a href="#widget_tabs-5-popular">Popular</a></li><li><a href="#widget_tabs-5-comments">Comments</a></li> </ul>
+<div id="widget_tabs-5-recent" class="tab-content tab-content-recent">
+<ul class="tab-content-elements">
+<li class="widget-post-list tie-video">
+<div class="post-widget-thumbnail">
+<a href="https://jannah.tielabs.com/sport/2017/02/15/dc-shoes-ac92-250f-awesome/" title="Broncos coach Gary Kubiak had to break up" class="post-thumb">
+<div class="post-thumb-overlay-wrap">
+<div class="post-thumb-overlay">
+<span class="icon"></span>
+</div>
+</div>
+<img width="220" height="150" src="https://jannah.tielabs.com/sport/wp-content/themes/jannah/assets/images/tie-empty-small.png" class="attachment-jannah-image-small size-jannah-image-small lazy-img tie-small-image wp-post-image" alt="" data-src="https://jannah.tielabs.com/sport/wp-content/uploads/sites/19/2016/12/pexels-photo-236958-220x150.jpeg" /></a> </div>
+<div class="post-widget-body ">
+<h3 class="post-title"><a href="https://jannah.tielabs.com/sport/2017/02/15/dc-shoes-ac92-250f-awesome/" title="Broncos coach Gary Kubiak had to break up">Broncos coach Gary Kubiak had to break up</a></h3>
+<div class="post-meta">
+<span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>February 15, 2017</span></span> </div>
+</div>
+</li>
+<li class="widget-post-list tie-standard">
+<div class="post-widget-thumbnail">
+<a href="https://jannah.tielabs.com/sport/2017/02/04/paralympian-falls-gets-back-up-3/" title="Paralympian falls, gets back up" class="post-thumb">
+<div class="post-thumb-overlay-wrap">
+<div class="post-thumb-overlay">
+<span class="icon"></span>
+</div>
+</div>
+<img width="220" height="150" src="https://jannah.tielabs.com/sport/wp-content/themes/jannah/assets/images/tie-empty-small.png" class="attachment-jannah-image-small size-jannah-image-small lazy-img tie-small-image wp-post-image" alt="" data-src="https://jannah.tielabs.com/sport/wp-content/uploads/sites/19/2016/12/pexels-photo-1-220x150.jpg" /></a> </div>
+<div class="post-widget-body ">
+<h3 class="post-title"><a href="https://jannah.tielabs.com/sport/2017/02/04/paralympian-falls-gets-back-up-3/" title="Paralympian falls, gets back up">Paralympian falls, gets back up</a></h3>
+<div class="post-meta">
+<span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>February 4, 2017</span></span> </div>
+</div>
+</li>
+<li class="widget-post-list tie-video">
+<div class="post-widget-thumbnail">
+<a href="https://jannah.tielabs.com/sport/2017/02/03/the-best-of-extreme-sport-2016-4k-2/" title="Best of eXtreme Sport" class="post-thumb">
+<div class="post-thumb-overlay-wrap">
+<div class="post-thumb-overlay">
+<span class="icon"></span>
+</div>
+</div>
+<img width="220" height="150" src="https://jannah.tielabs.com/sport/wp-content/themes/jannah/assets/images/tie-empty-small.png" class="attachment-jannah-image-small size-jannah-image-small lazy-img tie-small-image wp-post-image" alt="" data-src="https://jannah.tielabs.com/sport/wp-content/uploads/sites/19/2017/02/pexels-photo-101604-220x150.jpg" /></a> </div>
+<div class="post-widget-body ">
+<h3 class="post-title"><a href="https://jannah.tielabs.com/sport/2017/02/03/the-best-of-extreme-sport-2016-4k-2/" title="Best of eXtreme Sport">Best of eXtreme Sport</a></h3>
+<div class="post-meta">
+<span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>February 3, 2017</span></span> </div>
+</div>
+</li>
+<li class="widget-post-list tie-slider">
+<div class="post-widget-thumbnail">
+<a href="https://jannah.tielabs.com/sport/2016/12/19/nfl-playoff-picture-patriots-raiders-punch-their-tickets/" title="NFL playoff picture: Patriots, Raiders punch their tickets" class="post-thumb">
+<div class="post-thumb-overlay-wrap">
+<div class="post-thumb-overlay">
+<span class="icon"></span>
+</div>
+</div>
+<img width="220" height="150" src="https://jannah.tielabs.com/sport/wp-content/themes/jannah/assets/images/tie-empty-small.png" class="attachment-jannah-image-small size-jannah-image-small lazy-img tie-small-image wp-post-image" alt="" data-src="https://jannah.tielabs.com/sport/wp-content/uploads/sites/19/2016/12/photo-1462181606837-023a46b2d355-1-220x150.jpeg" /></a> </div>
+<div class="post-widget-body ">
+<h3 class="post-title"><a href="https://jannah.tielabs.com/sport/2016/12/19/nfl-playoff-picture-patriots-raiders-punch-their-tickets/" title="NFL playoff picture: Patriots, Raiders punch their tickets">NFL playoff picture: Patriots, Raiders punch their tickets</a></h3>
+<div class="post-meta">
+<span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>December 19, 2016</span></span> </div>
+</div>
+</li>
+<li class="widget-post-list tie-standard">
+<div class="post-widget-thumbnail">
+<a href="https://jannah.tielabs.com/sport/2016/12/19/week-15s-best-fantasy-football-free-agent-finds/" title="Week 15&#8217;s best fantasy football free-agent finds" class="post-thumb">
+<div class="post-thumb-overlay-wrap">
+<div class="post-thumb-overlay">
+<span class="icon"></span>
+</div>
+</div>
+<img width="220" height="150" src="https://jannah.tielabs.com/sport/wp-content/themes/jannah/assets/images/tie-empty-small.png" class="attachment-jannah-image-small size-jannah-image-small lazy-img tie-small-image wp-post-image" alt="" data-src="https://jannah.tielabs.com/sport/wp-content/uploads/sites/19/2016/12/slide22-220x150.jpg" /></a> </div>
+<div class="post-widget-body ">
+<h3 class="post-title"><a href="https://jannah.tielabs.com/sport/2016/12/19/week-15s-best-fantasy-football-free-agent-finds/" title="Week 15&#8217;s best fantasy football free-agent finds">Week 15&#8217;s best fantasy football free-agent finds</a></h3>
+<div class="post-meta">
+<span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>December 19, 2016</span></span> </div>
+</div>
+</li>
+</ul>
+</div>
+<div id="widget_tabs-5-popular" class="tab-content tab-content-popular">
+ <ul class="tab-content-elements">
+<li class="widget-post-list tie-standard">
+<div class="post-widget-thumbnail">
+<a href="https://jannah.tielabs.com/sport/2016/12/19/week-15s-best-fantasy-football-free-agent-finds/" title="Week 15&#8217;s best fantasy football free-agent finds" class="post-thumb">
+<div class="post-thumb-overlay-wrap">
+<div class="post-thumb-overlay">
+<span class="icon"></span>
+</div>
+</div>
+<img width="220" height="150" src="https://jannah.tielabs.com/sport/wp-content/themes/jannah/assets/images/tie-empty-small.png" class="attachment-jannah-image-small size-jannah-image-small lazy-img tie-small-image wp-post-image" alt="" data-src="https://jannah.tielabs.com/sport/wp-content/uploads/sites/19/2016/12/slide22-220x150.jpg" /></a> </div>
+<div class="post-widget-body ">
+<h3 class="post-title"><a href="https://jannah.tielabs.com/sport/2016/12/19/week-15s-best-fantasy-football-free-agent-finds/" title="Week 15&#8217;s best fantasy football free-agent finds">Week 15&#8217;s best fantasy football free-agent finds</a></h3>
+<div class="post-meta">
+<span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>December 19, 2016</span></span> </div>
+</div>
+</li>
+<li class="widget-post-list tie-standard">
+<div class="post-widget-thumbnail">
+<a href="https://jannah.tielabs.com/sport/2015/11/19/for-a-limited-time-take-25-off-fan-gear-with-promo/" title="For a limited time take 25% off fan gear with promo" class="post-thumb">
+<div class="post-thumb-overlay-wrap">
+<div class="post-thumb-overlay">
+<span class="icon"></span>
+</div>
+</div>
+<img width="220" height="150" src="https://jannah.tielabs.com/sport/wp-content/themes/jannah/assets/images/tie-empty-small.png" class="attachment-jannah-image-small size-jannah-image-small lazy-img tie-small-image wp-post-image" alt="" data-src="https://jannah.tielabs.com/sport/wp-content/uploads/sites/19/2016/12/slide4-220x150.jpg" /></a> </div>
+<div class="post-widget-body ">
+<h3 class="post-title"><a href="https://jannah.tielabs.com/sport/2015/11/19/for-a-limited-time-take-25-off-fan-gear-with-promo/" title="For a limited time take 25% off fan gear with promo">For a limited time take 25% off fan gear with promo</a></h3>
+<div class="post-meta">
+<span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>November 19, 2015</span></span> </div>
+</div>
+</li>
+<li class="widget-post-list tie-slider">
+<div class="post-widget-thumbnail">
+<a href="https://jannah.tielabs.com/sport/2016/12/19/nfl-playoff-picture-patriots-raiders-punch-their-tickets/" title="NFL playoff picture: Patriots, Raiders punch their tickets" class="post-thumb">
+<div class="post-thumb-overlay-wrap">
+<div class="post-thumb-overlay">
+<span class="icon"></span>
+</div>
+</div>
+<img width="220" height="150" src="https://jannah.tielabs.com/sport/wp-content/themes/jannah/assets/images/tie-empty-small.png" class="attachment-jannah-image-small size-jannah-image-small lazy-img tie-small-image wp-post-image" alt="" data-src="https://jannah.tielabs.com/sport/wp-content/uploads/sites/19/2016/12/photo-1462181606837-023a46b2d355-1-220x150.jpeg" /></a> </div>
+<div class="post-widget-body ">
+<h3 class="post-title"><a href="https://jannah.tielabs.com/sport/2016/12/19/nfl-playoff-picture-patriots-raiders-punch-their-tickets/" title="NFL playoff picture: Patriots, Raiders punch their tickets">NFL playoff picture: Patriots, Raiders punch their tickets</a></h3>
+<div class="post-meta">
+<span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>December 19, 2016</span></span> </div>
+</div>
+</li>
+<li class="widget-post-list tie-standard">
+<div class="post-widget-thumbnail">
+<a href="https://jannah.tielabs.com/sport/2015/12/19/iversons-debut-shoe-an-unquestioned-piece/" title="Iverson&#8217;s debut shoe an unquestioned piece" class="post-thumb">
+<div class="post-thumb-overlay-wrap">
+<div class="post-thumb-overlay">
+<span class="icon"></span>
+</div>
+</div>
+<img width="220" height="150" src="https://jannah.tielabs.com/sport/wp-content/themes/jannah/assets/images/tie-empty-small.png" class="attachment-jannah-image-small size-jannah-image-small lazy-img tie-small-image wp-post-image" alt="" data-src="https://jannah.tielabs.com/sport/wp-content/uploads/sites/19/2016/12/ice-hockey-goalie-goal-sport-39016-220x150.jpeg" /></a> </div>
+<div class="post-widget-body ">
+<h3 class="post-title"><a href="https://jannah.tielabs.com/sport/2015/12/19/iversons-debut-shoe-an-unquestioned-piece/" title="Iverson&#8217;s debut shoe an unquestioned piece">Iverson&#8217;s debut shoe an unquestioned piece</a></h3>
+<div class="post-meta">
+<span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>December 19, 2015</span></span> </div>
+</div>
+</li>
+<li class="widget-post-list tie-video">
+<div class="post-widget-thumbnail">
+<a href="https://jannah.tielabs.com/sport/2017/02/15/dc-shoes-ac92-250f-awesome/" title="Broncos coach Gary Kubiak had to break up" class="post-thumb">
+<div class="post-thumb-overlay-wrap">
+<div class="post-thumb-overlay">
+<span class="icon"></span>
+</div>
+</div>
+<img width="220" height="150" src="https://jannah.tielabs.com/sport/wp-content/themes/jannah/assets/images/tie-empty-small.png" class="attachment-jannah-image-small size-jannah-image-small lazy-img tie-small-image wp-post-image" alt="" data-src="https://jannah.tielabs.com/sport/wp-content/uploads/sites/19/2016/12/pexels-photo-236958-220x150.jpeg" /></a> </div>
+<div class="post-widget-body ">
+<h3 class="post-title"><a href="https://jannah.tielabs.com/sport/2017/02/15/dc-shoes-ac92-250f-awesome/" title="Broncos coach Gary Kubiak had to break up">Broncos coach Gary Kubiak had to break up</a></h3>
+<div class="post-meta">
+<span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>February 15, 2017</span></span> </div>
+</div>
+</li>
+</ul>
+</div>
+<div id="widget_tabs-5-comments" class="tab-content tab-content-comments">
+<ul class="tab-content-elements">
+<li>
+<div class="post-widget-thumbnail" style="width:70px">
+<a class="author-avatar" href="https://jannah.tielabs.com/sport/2015/11/19/for-a-limited-time-take-25-off-fan-gear-with-promo/#comment-10">
+<img alt='' src='https://jannah.tielabs.com/sport/wp-content/themes/jannah/assets/images/tie-empty-square.png' data-src='https://secure.gravatar.com/avatar/8bf9b3cdb1c2635772e6aeb5e6dfe903?s=70&#038;d=mm&#038;r=g' data-2x='https://secure.gravatar.com/avatar/8bf9b3cdb1c2635772e6aeb5e6dfe903?s=140&#038;d=mm&#038;r=g 2x' class='lazy-img avatar avatar-70 photo' height='70' width='70' /> </a>
+</div>
+<div class="comment-body ">
+<a class="comment-author" href="https://jannah.tielabs.com/sport/2015/11/19/for-a-limited-time-take-25-off-fan-gear-with-promo/#comment-10">
+Yahia Ragae </a>
+<p>Neither will anybody else given how much it will be replayed...</p>
+</div>
+</li>
+<li>
+<div class="post-widget-thumbnail" style="width:70px">
+<a class="author-avatar" href="https://jannah.tielabs.com/sport/2016/12/19/week-15s-best-fantasy-football-free-agent-finds/#comment-9">
+<img alt='' src='https://jannah.tielabs.com/sport/wp-content/themes/jannah/assets/images/tie-empty-square.png' data-src='https://secure.gravatar.com/avatar/8bf9b3cdb1c2635772e6aeb5e6dfe903?s=70&#038;d=mm&#038;r=g' data-2x='https://secure.gravatar.com/avatar/8bf9b3cdb1c2635772e6aeb5e6dfe903?s=140&#038;d=mm&#038;r=g 2x' class='lazy-img avatar avatar-70 photo' height='70' width='70' /> </a>
+</div>
+<div class="comment-body ">
+<a class="comment-author" href="https://jannah.tielabs.com/sport/2016/12/19/week-15s-best-fantasy-football-free-agent-finds/#comment-9">
+Ashraf Reda </a>
+<p>The only way to prove that you’re a good sport is to lose...</p>
+</div>
+</li>
+<li>
+<div class="post-widget-thumbnail" style="width:70px">
+<a class="author-avatar" href="https://jannah.tielabs.com/sport/2016/12/19/nfl-playoff-picture-patriots-raiders-punch-their-tickets/#comment-8">
+<img alt='' src='https://jannah.tielabs.com/sport/wp-content/themes/jannah/assets/images/tie-empty-square.png' data-src='https://secure.gravatar.com/avatar/8bf9b3cdb1c2635772e6aeb5e6dfe903?s=70&#038;d=mm&#038;r=g' data-2x='https://secure.gravatar.com/avatar/8bf9b3cdb1c2635772e6aeb5e6dfe903?s=140&#038;d=mm&#038;r=g 2x' class='lazy-img avatar avatar-70 photo' height='70' width='70' /> </a>
+</div>
+<div class="comment-body ">
+<a class="comment-author" href="https://jannah.tielabs.com/sport/2016/12/19/nfl-playoff-picture-patriots-raiders-punch-their-tickets/#comment-8">
+Fouad Badawy </a>
+<p>Osweiler said regardless of the decision that is made about...</p>
+</div>
+</li>
+<li>
+<div class="post-widget-thumbnail" style="width:70px">
+<a class="author-avatar" href="https://jannah.tielabs.com/sport/product/z-blue-sweatshrit/#comment-6">
+<img alt='' src='https://jannah.tielabs.com/sport/wp-content/themes/jannah/assets/images/tie-empty-square.png' data-src='https://secure.gravatar.com/avatar/1c478f0a0f82139e5ebfc1646bc9875d?s=70&#038;d=mm&#038;r=g' data-2x='https://secure.gravatar.com/avatar/1c478f0a0f82139e5ebfc1646bc9875d?s=140&#038;d=mm&#038;r=g 2x' class='lazy-img avatar avatar-70 photo' height='70' width='70' /> </a>
+</div>
+<div class="comment-body ">
+<a class="comment-author" href="https://jannah.tielabs.com/sport/product/z-blue-sweatshrit/#comment-6">
+samuel </a>
+<p>Cool Stuff...</p>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</aside>
+</div>
+</div>
+</div>
+</div>
+<div id="tiepost-2-section-2097" class="section-wrapper container-full has-background">
+<div class="section-item full-width first-block-is-full-width dark-skin" style="background-size: cover;">
+<section id="tie-block_967" class="slider-area mag-box">
+<div id="tie-main-slider-2-block_967" class="tie-main-slider main-slider wide-slider-three-slids-wrapper tie-slick-slider-wrapper" data-slider-id="2" data-speed="3000">
+<div class="loader-overlay">
+<div class="spinner">
+<div class="bounce1"></div>
+<div class="bounce2"></div>
+<div class="bounce3"> </div>
+</div>
+</div>
+<div class="main-slider-inner">
+<div class="container slider-main-container">
+<div class="tie-slick-slider">
+<ul class="tie-slider-nav"></ul>
+<div class="slide lazy-bg slide-id-510 tie-slide-1 tie-slider"><img data-lazy="https://jannah.tielabs.com/sport/wp-content/uploads/sites/19/2016/12/photo-1461237439866-5a557710c921-780x500.jpeg" src="https://jannah.tielabs.com/sport/wp-content/themes/jannah/assets/images/tie-empty.png" width="2000" height="2000" alt=""><div class="slide-bg"></div>
+<a href="https://jannah.tielabs.com/sport/2016/12/19/todd-haley-josh-mcdaniels-names-to-watch-in-jaguars-search/" class="all-over-thumb-link"></a>
+<div class="thumb-overlay"><div class="container"><div class="thumb-content"><div class="thumb-meta"><span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>December 19, 2016</span></span></div>
+<h2 class="thumb-title"><a href="https://jannah.tielabs.com/sport/2016/12/19/todd-haley-josh-mcdaniels-names-to-watch-in-jaguars-search/" title="Todd Haley, Josh McDaniels names to watch in Jaguars search">Todd Haley, Josh McDaniels names to watch in Jaguars search</a></h2>
+<div class="thumb-desc">DENVER &#8212; The Denver Broncos have had moments this season when their defense has shown frustration after games, but things&hellip;</div></div> </div>
+</div>
+</div>
+<div class="slide lazy-bg slide-id-508 tie-slide-2 tie-standard"><img data-lazy="https://jannah.tielabs.com/sport/wp-content/uploads/sites/19/2016/12/photo-1450125531260-73927b22d6f3-780x500.jpeg" src="https://jannah.tielabs.com/sport/wp-content/themes/jannah/assets/images/tie-empty.png" width="2000" height="2000" alt=""><div class="slide-bg"></div>
+<a href="https://jannah.tielabs.com/sport/2016/12/19/spurs-legend-duncan-has-no-21-jersey-retired/" class="all-over-thumb-link"></a>
+<div class="thumb-overlay"><div class="container"><div class="thumb-content"><div class="thumb-meta"><span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>December 19, 2016</span></span></div>
+<h2 class="thumb-title"><a href="https://jannah.tielabs.com/sport/2016/12/19/spurs-legend-duncan-has-no-21-jersey-retired/" title="Spurs legend Duncan has No. 21 jersey retired">Spurs legend Duncan has No. 21 jersey retired</a></h2>
+<div class="thumb-desc">DENVER &#8212; The Denver Broncos have had moments this season when their defense has shown frustration after games, but things&hellip;</div></div> </div>
+</div>
+</div>
+<div class="slide lazy-bg slide-id-507 tie-slide-3 tie-standard"><img data-lazy="https://jannah.tielabs.com/sport/wp-content/uploads/sites/19/2016/12/be-780x500.jpeg" src="https://jannah.tielabs.com/sport/wp-content/themes/jannah/assets/images/tie-empty.png" width="2000" height="2000" alt=""><div class="slide-bg"></div>
+<a href="https://jannah.tielabs.com/sport/2016/12/19/the-big-story-for-every-nfl-team/" class="all-over-thumb-link"></a>
+<div class="thumb-overlay"><div class="container"><div class="thumb-content"><div class="thumb-meta"><span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>December 19, 2016</span></span></div>
+<h2 class="thumb-title"><a href="https://jannah.tielabs.com/sport/2016/12/19/the-big-story-for-every-nfl-team/" title="The Big Story for every NFL team">The Big Story for every NFL team</a></h2>
+<div class="thumb-desc">DENVER &#8212; The Denver Broncos have had moments this season when their defense has shown frustration after games, but things&hellip;</div></div> </div>
+</div>
+</div>
+<div class="slide lazy-bg slide-id-495 tie-slide-4 tie-standard"><img data-lazy="https://jannah.tielabs.com/sport/wp-content/uploads/sites/19/2016/12/photo-1461896836934-ffe607ba8211-780x500.jpeg" src="https://jannah.tielabs.com/sport/wp-content/themes/jannah/assets/images/tie-empty.png" width="2000" height="2000" alt=""><div class="slide-bg"></div>
+<a href="https://jannah.tielabs.com/sport/2016/12/19/source-jerry-kill-to-be-rutgers-next-offensive-coordinator/" class="all-over-thumb-link"></a>
+<div class="thumb-overlay"><div class="container"><div class="thumb-content"><div class="thumb-meta"><span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>December 19, 2016</span></span></div>
+<h2 class="thumb-title"><a href="https://jannah.tielabs.com/sport/2016/12/19/source-jerry-kill-to-be-rutgers-next-offensive-coordinator/" title="Source: Jerry Kill to be Rutgers&#8217; next offensive coordinator">Source: Jerry Kill to be Rutgers&#8217; next offensive coordinator</a></h2>
+<div class="thumb-desc">DENVER &#8212; The Denver Broncos have had moments this season when their defense has shown frustration after games, but things&hellip;</div></div> </div>
+</div>
+</div>
+<div class="slide lazy-bg slide-id-489 tie-slide-5 tie-standard"><img data-lazy="https://jannah.tielabs.com/sport/wp-content/uploads/sites/19/2016/12/photo-1463073003471-a88643b4ebaf-1-780x500.jpg" src="https://jannah.tielabs.com/sport/wp-content/themes/jannah/assets/images/tie-empty.png" width="2000" height="2000" alt=""><div class="slide-bg"></div>
+<a href="https://jannah.tielabs.com/sport/2016/12/19/broncos-squabble-erupts-in-locker-room/" class="all-over-thumb-link"></a>
+<div class="thumb-overlay"><div class="container"><div class="thumb-content"><div class="thumb-meta"><span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>December 19, 2016</span></span></div>
+<h2 class="thumb-title"><a href="https://jannah.tielabs.com/sport/2016/12/19/broncos-squabble-erupts-in-locker-room/" title="Broncos squabble erupts in locker room">Broncos squabble erupts in locker room</a></h2>
+<div class="thumb-desc">DENVER &#8212; The Denver Broncos have had moments this season when their defense has shown frustration after games, but things&hellip;</div></div> </div>
+</div>
+</div>
+<div class="slide lazy-bg slide-id-487 tie-slide-6 tie-slider"><img data-lazy="https://jannah.tielabs.com/sport/wp-content/uploads/sites/19/2016/12/photo-1474107433958-c6374e32ec1a-780x500.jpeg" src="https://jannah.tielabs.com/sport/wp-content/themes/jannah/assets/images/tie-empty.png" width="2000" height="2000" alt=""><div class="slide-bg"></div>
+<a href="https://jannah.tielabs.com/sport/2016/12/19/stock-watch-buy-sell-hold/" class="all-over-thumb-link"></a>
+<div class="thumb-overlay"><div class="container"><div class="thumb-content"><div class="thumb-meta"><span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>December 19, 2016</span></span></div>
+<h2 class="thumb-title"><a href="https://jannah.tielabs.com/sport/2016/12/19/stock-watch-buy-sell-hold/" title="Stock Watch: Buy, sell, hold?">Stock Watch: Buy, sell, hold?</a></h2>
+<div class="thumb-desc">DENVER &#8212; The Denver Broncos have had moments this season when their defense has shown frustration after games, but things&hellip;</div></div> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+<footer id="footer" class="site-footer dark-skin dark-widgetized-area">
+<div id="footer-widgets-container">
+<div class="container">
+<div class="footer-widget-area footer-boxed-widget-area">
+<div class="tie-row">
+<div class="fullwidth-area tie-col-sm-12">
+<div id="latest_tweets_widget-3" class="container-wrapper widget latest-tweets-widget">
+<ul class="tie-slick-slider">
+<li class="slide">
+<div class="twitter-icon-wrap">
+<span class="fa fa-twitter" aria-hidden="true"></span>
+</div>
+<div class="tweetaya-body">
+<p>🤝 ¡Hemos tenido una visita muy especial en <a href="https://twitter.com/#search?q=RMCity" target="_blank">#RMCity</a> esta tarde! <a href="https://twitter.com/PlacidoDomingo" target="_blank">@PlacidoDomingo</a> presenció el entrenamiento vespertin… <a href="https://t.co/ds9Rsk5LBB" target="_blank">https://t.co/ds9Rsk5LBB</a></p>
+<span class="tweetaya-meta"><a href="https://twitter.com/#!/realmadrid/status/1022239821236858880" title="2018/07/25 21:59:00" target="_blank" rel="nofollow">9 hours ago</a></span>
+</div>
+</li>
+<li class="slide">
+<div class="twitter-icon-wrap">
+<span class="fa fa-twitter" aria-hidden="true"></span>
+</div>
+<div class="tweetaya-body">
+<p>💥🎯✨ ¡GOLAZOS del <a href="https://twitter.com/RealMadrid" target="_blank">@RealMadrid</a> en la <a href="https://twitter.com/IntChampionsCup" target="_blank">@IntChampionsCup</a>! <a href="https://twitter.com/#search?q=RMTour" target="_blank">#RMTour</a> <a href="https://t.co/OT77c80yBk" target="_blank">https://t.co/OT77c80yBk</a></p>
+<span class="tweetaya-meta"><a href="https://twitter.com/#!/realmadrid/status/1022224977230225408" title="2018/07/25 21:00:01" target="_blank" rel="nofollow">10 hours ago</a></span>
+</div>
+</li>
+<li class="slide">
+<div class="twitter-icon-wrap">
+<span class="fa fa-twitter" aria-hidden="true"></span>
+</div>
+<div class="tweetaya-body">
+<p>👉👕 GANA la camiseta del Real Madrid de <a href="https://twitter.com/vini11Oficial" target="_blank">@vini11Oficial</a> con la serigrafía de la presentación y su firma. ¡Participa!… <a href="https://t.co/HCnaSCmXhS" target="_blank">https://t.co/HCnaSCmXhS</a></p>
+<span class="tweetaya-meta"><a href="https://twitter.com/#!/realmadrid/status/1022209875441537024" title="2018/07/25 20:00:00" target="_blank" rel="nofollow">11 hours ago</a></span>
+</div>
+</li>
+<li class="slide">
+<div class="twitter-icon-wrap">
+<span class="fa fa-twitter" aria-hidden="true"></span>
+</div>
+<div class="tweetaya-body">
+<p>⤴👟⚽ ¡Regate y GOL!
+<a href="https://twitter.com/Benzema" target="_blank">@Benzema</a> | <a href="https://twitter.com/#search?q=RMCity" target="_blank">#RMCity</a> <a href="https://t.co/JgZP3w5mhI" target="_blank">https://t.co/JgZP3w5mhI</a></p>
+<span class="tweetaya-meta"><a href="https://twitter.com/#!/realmadrid/status/1022134378049224704" title="2018/07/25 15:00:00" target="_blank" rel="nofollow">16 hours ago</a></span>
+</div>
+</li>
+<li class="slide">
+<div class="twitter-icon-wrap">
+<span class="fa fa-twitter" aria-hidden="true"></span>
+</div>
+<div class="tweetaya-body">
+<p>🚗👌 ¡Nuestros nuevos fichajes disfrutando con <a href="https://twitter.com/audispain" target="_blank">@audispain</a>!
+<a href="https://twitter.com/#search?q=RealMadrid" target="_blank">#RealMadrid</a> <a href="https://t.co/73q7qjclqv" target="_blank">https://t.co/73q7qjclqv</a></p>
+<span class="tweetaya-meta"><a href="https://twitter.com/#!/realmadrid/status/1022101607939538945" title="2018/07/25 12:49:47" target="_blank" rel="nofollow">18 hours ago</a></span>
+</div>
+</li>
+</ul>
+<div class="slider-links">
+<ul class="tie-slider-nav"></ul><a href="https://twitter.com/realmadrid" target="_blank" rel="nofollow" class="button">Follow Us</a>
+</div>
+<div class="clearfix"></div>
+<div class="clearfix"></div></div> </div>
+<div class="">
+</div>
+<div class="">
+</div>
+<div class="">
+</div>
+</div>
+</div>
+<div class="footer-widget-area ">
+<div class="tie-row">
+<div class="tie-col-sm-6 normal-side">
+<div id="author-bio-widget-2" class="container-wrapper widget aboutme-widget">
+<div class="about-author about-content-wrapper"><img alt="" src="https://jannah.tielabs.com/sport/wp-content/themes/jannah/assets/images/tie-empty-wide.png" data-src="https://jannah.tielabs.com/jannah-sport/wp-content/uploads/sites/19/2017/04/jnh-sports@2x.png" style="margin-bottom: 0px;width: 275px; " class="about-author-img lazy-img" width="280" height="47">
+<div class="aboutme-widget-content">
+</div>
+<div class="clearfix"></div>
+</div>
+<div class="clearfix"></div></div><div id="text-2" class="container-wrapper widget widget_text"> <div class="textwidget"><p>Jannah is a Clean Responsive WordPress Newspaper, Magazine, News and Blog theme. Packed with options that allow you to completely customize your website to your needs.</p>
+</div>
+<div class="clearfix"></div></div><div class="widget social-icons-widget widget-content-only"><ul class="solid-social-icons"><li class="social-icons-item"><a class="social-link  google-social-icon" title="Google+" rel="nofollow" target="_blank" href="https://google.com/"><span class="fa fa-google-plus"></span></a></li><li class="social-icons-item"><a class="social-link  facebook-social-icon" title="Facebook" rel="nofollow" target="_blank" href="https://facebook.com/"><span class="fa fa-facebook"></span></a></li><li class="social-icons-item"><a class="social-link  twitter-social-icon" title="Twitter" rel="nofollow" target="_blank" href="https://twitter.com/"><span class="fa fa-twitter"></span></a></li><li class="social-icons-item"><a class="social-link  dribbble-social-icon" title="Dribbble" rel="nofollow" target="_blank" href="https://dribbble.com"><span class="fa fa-dribbble"></span></a></li><li class="social-icons-item"><a class="social-link  linkedin-social-icon" title="LinkedIn" rel="nofollow" target="_blank" href="https://linkedin.com/"><span class="fa fa-linkedin"></span></a></li><li class="social-icons-item"><a class="social-link  youtube-social-icon" title="YouTube" rel="nofollow" target="_blank" href="https://youtube.com"><span class="fa fa-youtube"></span></a></li></ul>
+<div class="clearfix"></div></div> </div>
+<div class="tie-col-sm-3 normal-side">
+<div id="nav_menu-2" class="container-wrapper widget widget_nav_menu"><div class="widget-title the-global-title has-block-head-4"><h4>About us</h4></div><div class="menu-footer-menu-1-container"><ul id="menu-footer-menu-1" class="menu"><li id="menu-item-87" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-87"><a href="https://jannah.tielabs.com/sport/community-guidelines/">Community Guidelines</a></li>
+<li id="menu-item-89" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-89"><a href="https://jannah.tielabs.com/sport/privacy-policy/">Privacy Policy</a></li>
+<li id="menu-item-90" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-90"><a href="https://jannah.tielabs.com/sport/terms-of-use/">Terms of Use</a></li>
+<li id="menu-item-91" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-91"><a href="https://jannah.tielabs.com/sport/contribute/">Contribute</a></li>
+</ul></div><div class="clearfix"></div></div> </div>
+<div class="tie-col-sm-3 normal-side">
+<div id="tie-newsletter-3" class="container-wrapper widget subscribe-widget"><div class="widget-title the-global-title has-block-head-4"><h4>Subscribe to our Mailing List</h4></div>
+<div class="widget-inner-wrap">
+<div id="mc_embed_signup-tie-newsletter-3">
+<form action="#" method="post" id="mc-embedded-subscribe-form-tie-newsletter-3" name="mc-embedded-subscribe-form" class="subscribe-form validate" target="_blank" novalidate>
+<div class="mc-field-group">
+<label class="screen-reader-text" for="mce-EMAIL-tie-newsletter-3">Enter your Email address</label>
+<input type="email" value="" id="mce-EMAIL-tie-newsletter-3" placeholder="Enter your Email address" name="EMAIL" class="subscribe-input required email">
+</div>
+<input type="submit" value="Subscribe" name="subscribe" class="button subscribe-submit">
+</form>
+</div>
+</div>
+<div class="clearfix"></div></div> </div>
+</div>
+</div>
+</div>
+</div>
+<div id="site-info" class="site-info-layout-2">
+<div class="container">
+<div class="tie-row">
+<div class="tie-col-md-12">
+<div class="copyright-text copyright-text-first">&copy; Copyright 2018, All Rights Reserved</div><div class="footer-menu"><ul id="menu-footer-menu" class="menu"><li id="menu-item-75" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-75"><a href="https://jannah.tielabs.com/sport/about/">About</a></li>
+<li id="menu-item-74" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-74"><a href="https://jannah.tielabs.com/sport/team/">Team</a></li>
+<li id="menu-item-72" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-72"><a href="https://jannah.tielabs.com/sport/contribute/">Contribute</a></li>
+<li id="menu-item-73" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-73"><a href="https://jannah.tielabs.com/sport/advertise/">Advertise</a></li>
+</ul></div>
+</div>
+</div>
+</div>
+</div>
+</footer>
+<a id="go-to-top" class="go-to-top-button" href="#go-to-tie-body"><span class="fa fa-angle-up"></span></a><div class="clear"></div>
+</div>
+<aside class="side-aside normal-side tie-aside-effect dark-skin dark-widgetized-area is-fullwidth" aria-label="Secondary Sidebar">
+<div data-height="100%" class="side-aside-wrapper has-custom-scroll">
+<a href="#" class="close-side-aside remove big-btn light-btn">
+<span class="screen-reader-text">Close</span>
+</a>
+<div id="mobile-container">
+<div id="mobile-menu" class="hide-menu-icons"></div>
+<div class="mobile-social-search">
+<div id="mobile-social-icons" class="social-icons-widget solid-social-icons">
+<ul><li class="social-icons-item"><a class="social-link  google-social-icon" title="Google+" rel="nofollow" target="_blank" href="https://google.com/"><span class="fa fa-google-plus"></span></a></li><li class="social-icons-item"><a class="social-link  facebook-social-icon" title="Facebook" rel="nofollow" target="_blank" href="https://facebook.com/"><span class="fa fa-facebook"></span></a></li><li class="social-icons-item"><a class="social-link  twitter-social-icon" title="Twitter" rel="nofollow" target="_blank" href="https://twitter.com/"><span class="fa fa-twitter"></span></a></li><li class="social-icons-item"><a class="social-link  dribbble-social-icon" title="Dribbble" rel="nofollow" target="_blank" href="https://dribbble.com"><span class="fa fa-dribbble"></span></a></li><li class="social-icons-item"><a class="social-link  linkedin-social-icon" title="LinkedIn" rel="nofollow" target="_blank" href="https://linkedin.com/"><span class="fa fa-linkedin"></span></a></li><li class="social-icons-item"><a class="social-link  youtube-social-icon" title="YouTube" rel="nofollow" target="_blank" href="https://youtube.com"><span class="fa fa-youtube"></span></a></li></ul>
+</div>
+<div id="mobile-search">
+<form role="search" method="get" class="search-form" action="https://jannah.tielabs.com/sport/">
+<label>
+<span class="screen-reader-text">Search for:</span>
+<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" />
+</label>
+<input type="submit" class="search-submit" value="Search" />
+</form> </div>
+</div>
+</div>
+</div>
+</aside>
+</div>
+</div>
+<div class="demos-panel-btns">
+<a href="#" id="demos-aside-open" class="panel-btn button">
+<span>25+</span>
+<p>Demos</p>
+</a>
+<a target="_blank" href="https://themeforest.net/item/i/19659555?ref=tielabs&utm_source=demos&utm_campaign=jannah&utm_content=sport&utm_medium=buy-button" id="demos-buynow-btn" class="panel-btn">
+<span class="fa fa-shopping-basket"></span>
+<p>Buy Now!</p>
+</a>
+</div>
+<div id="tie-popup-demos">
+<div id="panel-bottom-gradient"></div>
+<a href="#" class="panel-btn-close">
+<span class="tie-icon-cross" aria-hidden="true"></span>
+<span class="screen-reader-text">Close</span>
+</a>
+<div class="popup-content">
+<div class="container-wrapper">
+<div class="demo-panel-header">
+<h4 class="demos-panel-head brand-title">Jannah</h4>
+<p class="amazing-title">Amazing Installable Demos</p>
+<p class="theme-desc">
+Jannah is a Clean Responsive WordPress Newspaper, Magazine, News and Blog theme. Packed with options that allow you to completely customize your website to your needs. </p>
+</div>
+<ul class="demos-list">
+<li class="demodemo-item">
+<a href="https://jannah.tielabs.com/demo" target="_blank">
+<img class="demo-lazy-img" width="870" height="731" src="https://jannah.tielabs.com/sport/wp-content/themes/jannah/assets/images/tie-empty.png" data-src="https://s3-us-west-2.amazonaws.com/tielabs/jannah/images/demos-screenshots/demo.jpg" alt="Main Demo">
+<span>Main Demo</span>
+</a>
+</li>
+<li class="techdemo-item">
+<a href="https://jannah.tielabs.com/tech" target="_blank">
+<img class="demo-lazy-img" width="870" height="731" src="https://jannah.tielabs.com/sport/wp-content/themes/jannah/assets/images/tie-empty.png" data-src="https://s3-us-west-2.amazonaws.com/tielabs/jannah/images/demos-screenshots/tech.jpg" alt="Tech">
+<span>Tech</span>
+</a>
+</li>
+<li class="videos-2demo-item">
+<a href="https://jannah.tielabs.com/videos-2" target="_blank">
+<img class="demo-lazy-img" width="870" height="731" src="https://jannah.tielabs.com/sport/wp-content/themes/jannah/assets/images/tie-empty.png" data-src="https://s3-us-west-2.amazonaws.com/tielabs/jannah/images/demos-screenshots/videos-2.jpg" alt="Videos 2">
+<span>Videos 2</span>
+</a>
+</li>
+<li class="geodemo-item">
+<a href="https://jannah.tielabs.com/geo" target="_blank">
+<img class="demo-lazy-img" width="870" height="731" src="https://jannah.tielabs.com/sport/wp-content/themes/jannah/assets/images/tie-empty.png" data-src="https://s3-us-west-2.amazonaws.com/tielabs/jannah/images/demos-screenshots/geo.jpg" alt="Geo">
+<span>Geo</span>
+<small class="demo-badge new">new<span class="inner-arrow"></span></small>
+</a>
+</li>
+<li class="cryptocurrencydemo-item">
+<a href="https://jannah.tielabs.com/cryptocurrency" target="_blank">
+<img class="demo-lazy-img" width="870" height="731" src="https://jannah.tielabs.com/sport/wp-content/themes/jannah/assets/images/tie-empty.png" data-src="https://s3-us-west-2.amazonaws.com/tielabs/jannah/images/demos-screenshots/cryptocurrency.jpg" alt="Cryptocurrency">
+<span>Cryptocurrency</span>
+<small class="demo-badge new">new<span class="inner-arrow"></span></small>
+</a>
+</li>
+<li class="gamesdemo-item">
+<a href="https://jannah.tielabs.com/games" target="_blank">
+<img class="demo-lazy-img" width="870" height="731" src="https://jannah.tielabs.com/sport/wp-content/themes/jannah/assets/images/tie-empty.png" data-src="https://s3-us-west-2.amazonaws.com/tielabs/jannah/images/demos-screenshots/games.jpg" alt="Games">
+<span>Games</span>
+<small class="demo-badge new">new<span class="inner-arrow"></span></small>
+</a>
+</li>
+<li class="foodsdemo-item">
+<a href="https://jannah.tielabs.com/foods" target="_blank">
+<img class="demo-lazy-img" width="870" height="731" src="https://jannah.tielabs.com/sport/wp-content/themes/jannah/assets/images/tie-empty.png" data-src="https://s3-us-west-2.amazonaws.com/tielabs/jannah/images/demos-screenshots/foods.jpg" alt="Recipes &amp; Tips">
+<span>Recipes &amp; Tips</span>
+</a>
+</li>
+<li class="creativedemo-item">
+<a href="https://jannah.tielabs.com/creative" target="_blank">
+<img class="demo-lazy-img" width="870" height="731" src="https://jannah.tielabs.com/sport/wp-content/themes/jannah/assets/images/tie-empty.png" data-src="https://s3-us-west-2.amazonaws.com/tielabs/jannah/images/demos-screenshots/creative.jpg" alt="Creative">
+<span>Creative</span>
+<small class="demo-badge Hot">Hot<span class="inner-arrow"></span></small>
+</a>
+</li>
+<li class="photographydemo-item">
+<a href="https://jannah.tielabs.com/photography" target="_blank">
+<img class="demo-lazy-img" width="870" height="731" src="https://jannah.tielabs.com/sport/wp-content/themes/jannah/assets/images/tie-empty.png" data-src="https://s3-us-west-2.amazonaws.com/tielabs/jannah/images/demos-screenshots/photography.jpg" alt="Photography">
+<span>Photography</span>
+</a>
+</li>
+<li class="hotelsdemo-item">
+<a href="https://jannah.tielabs.com/hotels" target="_blank">
+<img class="demo-lazy-img" width="870" height="731" src="https://jannah.tielabs.com/sport/wp-content/themes/jannah/assets/images/tie-empty.png" data-src="https://s3-us-west-2.amazonaws.com/tielabs/jannah/images/demos-screenshots/hotels.jpg" alt="Hotels">
+<span>Hotels</span>
+<small class="demo-badge Hot">Hot<span class="inner-arrow"></span></small>
+</a>
+</li>
+<li class="housedemo-item">
+<a href="https://jannah.tielabs.com/house" target="_blank">
+<img class="demo-lazy-img" width="870" height="731" src="https://jannah.tielabs.com/sport/wp-content/themes/jannah/assets/images/tie-empty.png" data-src="https://s3-us-west-2.amazonaws.com/tielabs/jannah/images/demos-screenshots/house.jpg" alt="House">
+<span>House</span>
+</a>
+</li>
+<li class="sportdemo-item">
+<a href="https://jannah.tielabs.com/sport" target="_blank">
+<img class="demo-lazy-img" width="870" height="731" src="https://jannah.tielabs.com/sport/wp-content/themes/jannah/assets/images/tie-empty.png" data-src="https://s3-us-west-2.amazonaws.com/tielabs/jannah/images/demos-screenshots/sport.jpg" alt="Sports">
+<span>Sports</span>
+<small class="demo-badge Hot">Hot<span class="inner-arrow"></span></small>
+</a>
+</li>
+<li class="traveldemo-item">
+<a href="https://jannah.tielabs.com/travel" target="_blank">
+<img class="demo-lazy-img" width="870" height="731" src="https://jannah.tielabs.com/sport/wp-content/themes/jannah/assets/images/tie-empty.png" data-src="https://s3-us-west-2.amazonaws.com/tielabs/jannah/images/demos-screenshots/travel.jpg" alt="Travel">
+<span>Travel</span>
+</a>
+</li>
+<li class="autodemo-item">
+<a href="https://jannah.tielabs.com/auto" target="_blank">
+<img class="demo-lazy-img" width="870" height="731" src="https://jannah.tielabs.com/sport/wp-content/themes/jannah/assets/images/tie-empty.png" data-src="https://s3-us-west-2.amazonaws.com/tielabs/jannah/images/demos-screenshots/auto.jpg" alt="Auto">
+<span>Auto</span>
+</a>
+</li>
+<li class="petsdemo-item">
+<a href="https://jannah.tielabs.com/pets" target="_blank">
+<img class="demo-lazy-img" width="870" height="731" src="https://jannah.tielabs.com/sport/wp-content/themes/jannah/assets/images/tie-empty.png" data-src="https://s3-us-west-2.amazonaws.com/tielabs/jannah/images/demos-screenshots/pets.jpg" alt="Pets">
+<span>Pets</span>
+</a>
+</li>
+<li class="schooldemo-item">
+<a href="https://jannah.tielabs.com/school" target="_blank">
+<img class="demo-lazy-img" width="870" height="731" src="https://jannah.tielabs.com/sport/wp-content/themes/jannah/assets/images/tie-empty.png" data-src="https://s3-us-west-2.amazonaws.com/tielabs/jannah/images/demos-screenshots/school.jpg" alt="School">
+<span>School</span>
+</a>
+</li>
+<li class="travelingdemo-item">
+<a href="https://jannah.tielabs.com/traveling" target="_blank">
+<img class="demo-lazy-img" width="870" height="731" src="https://jannah.tielabs.com/sport/wp-content/themes/jannah/assets/images/tie-empty.png" data-src="https://s3-us-west-2.amazonaws.com/tielabs/jannah/images/demos-screenshots/traveling.jpg" alt="Traveling">
+<span>Traveling</span>
+</a>
+</li>
+<li class="sciencedemo-item">
+<a href="https://jannah.tielabs.com/science" target="_blank">
+<img class="demo-lazy-img" width="870" height="731" src="https://jannah.tielabs.com/sport/wp-content/themes/jannah/assets/images/tie-empty.png" data-src="https://s3-us-west-2.amazonaws.com/tielabs/jannah/images/demos-screenshots/science.jpg" alt="Science">
+<span>Science</span>
+</a>
+</li>
+<li class="healthdemo-item">
+<a href="https://jannah.tielabs.com/health" target="_blank">
+<img class="demo-lazy-img" width="870" height="731" src="https://jannah.tielabs.com/sport/wp-content/themes/jannah/assets/images/tie-empty.png" data-src="https://s3-us-west-2.amazonaws.com/tielabs/jannah/images/demos-screenshots/health.jpg" alt="Health">
+<span>Health</span>
+</a>
+</li>
+<li class="videosdemo-item">
+<a href="https://jannah.tielabs.com/videos" target="_blank">
+<img class="demo-lazy-img" width="870" height="731" src="https://jannah.tielabs.com/sport/wp-content/themes/jannah/assets/images/tie-empty.png" data-src="https://s3-us-west-2.amazonaws.com/tielabs/jannah/images/demos-screenshots/videos.jpg" alt="Videos">
+<span>Videos</span>
+<small class="demo-badge Hot">Hot<span class="inner-arrow"></span></small>
+</a>
+</li>
+<li class="timesdemo-item">
+<a href="https://jannah.tielabs.com/times" target="_blank">
+<img class="demo-lazy-img" width="870" height="731" src="https://jannah.tielabs.com/sport/wp-content/themes/jannah/assets/images/tie-empty.png" data-src="https://s3-us-west-2.amazonaws.com/tielabs/jannah/images/demos-screenshots/times.jpg" alt="Times">
+<span>Times</span>
+<small class="demo-badge Hot">Hot<span class="inner-arrow"></span></small>
+</a>
+</li>
+<li class="minimal-blogdemo-item">
+<a href="https://jannah.tielabs.com/minimal-blog" target="_blank">
+<img class="demo-lazy-img" width="870" height="731" src="https://jannah.tielabs.com/sport/wp-content/themes/jannah/assets/images/tie-empty.png" data-src="https://s3-us-west-2.amazonaws.com/tielabs/jannah/images/demos-screenshots/minimal-blog.jpg" alt="Minimal Blog">
+<span>Minimal Blog</span>
+</a>
+</li>
+<li class="blogdemo-item">
+<a href="https://jannah.tielabs.com/blog" target="_blank">
+<img class="demo-lazy-img" width="870" height="731" src="https://jannah.tielabs.com/sport/wp-content/themes/jannah/assets/images/tie-empty.png" data-src="https://s3-us-west-2.amazonaws.com/tielabs/jannah/images/demos-screenshots/blog.jpg" alt="Personal Blog">
+<span>Personal Blog</span>
+</a>
+</li>
+<li class="citydemo-item">
+<a href="https://jannah.tielabs.com/city" target="_blank">
+<img class="demo-lazy-img" width="870" height="731" src="https://jannah.tielabs.com/sport/wp-content/themes/jannah/assets/images/tie-empty.png" data-src="https://s3-us-west-2.amazonaws.com/tielabs/jannah/images/demos-screenshots/city.jpg" alt="City Magazine">
+<span>City Magazine</span>
+</a>
+</li>
+<li class="rtldemo-item">
+<a href="https://jannah.tielabs.com/rtl" target="_blank">
+<img class="demo-lazy-img" width="870" height="731" src="https://jannah.tielabs.com/sport/wp-content/themes/jannah/assets/images/tie-empty.png" data-src="https://s3-us-west-2.amazonaws.com/tielabs/jannah/images/demos-screenshots/rtl.jpg" alt="RTL Demo">
+<span>RTL Demo</span>
+</a>
+</li>
+<li class="demos-soondemo-item">
+<img class="demo-lazy-img" width="870" height="731" src="https://jannah.tielabs.com/sport/wp-content/themes/jannah/assets/images/tie-empty.png" data-src="https://s3-us-west-2.amazonaws.com/tielabs/jannah/images/demos-screenshots/demos-soon.jpg" alt="Coming Soon">
+<span>Coming Soon</span>
+</li>
+<li class="demos-soondemo-item">
+<img class="demo-lazy-img" width="870" height="731" src="https://jannah.tielabs.com/sport/wp-content/themes/jannah/assets/images/tie-empty.png" data-src="https://s3-us-west-2.amazonaws.com/tielabs/jannah/images/demos-screenshots/demos-soon.jpg" alt="Coming Soon">
+<span>Coming Soon</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div id="fb-root"></div><script type='text/javascript' src='https://jannah.tielabs.com/sport/wp-content/plugins/jannah-demos/assets/js/scripts.js'></script>
+<script type='text/javascript' src='https://jannah.tielabs.com/sport/wp-content/plugins/sportspress/assets/js/jquery.dataTables.min.js'></script>
+<script type='text/javascript' src='https://jannah.tielabs.com/sport/wp-content/plugins/sportspress/assets/js/jquery.countdown.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var localized_strings = {"days":"days","hrs":"hrs","mins":"mins","secs":"secs","previous":"Previous","next":"Next"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://jannah.tielabs.com/sport/wp-content/plugins/sportspress/assets/js/sportspress.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/sport\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/sport\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View cart","cart_url":"https:\/\/jannah.tielabs.com\/sport\/cart\/","is_cart":"","cart_redirect_after_add":"no"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://jannah.tielabs.com/sport/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js'></script>
+<script type='text/javascript' src='https://jannah.tielabs.com/sport/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js'></script>
+<script type='text/javascript' src='https://jannah.tielabs.com/sport/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/sport\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/sport\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://jannah.tielabs.com/sport/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/sport\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/sport\/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_019fae429b45f01e634d8b227c5f4c26","fragment_name":"wc_fragments_019fae429b45f01e634d8b227c5f4c26"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://jannah.tielabs.com/sport/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js'></script>
+<script type='text/javascript' src='https://jannah.tielabs.com/sport/wp-content/themes/jannah/assets/js/scripts.js'></script>
+<script type='text/javascript' src='https://jannah.tielabs.com/sport/wp-includes/js/imagesloaded.min.js'></script>
+<script type='text/javascript' src='https://jannah.tielabs.com/sport/wp-includes/js/wp-embed.min.js'></script>
+<script type='text/javascript' src='https://jannah.tielabs.com/sport/wp-content/themes/jannah/assets/js/sliders.js'></script>
+<script type='text/javascript' src='https://jannah.tielabs.com/sport/wp-content/themes/jannah/assets/js/parallax.js'></script>
+<script type="text/javascript">
+
+					var _foxpush = _foxpush || [];
+					_foxpush.push(['_setDomain', 'tielabscom']);
+
+					(function(){
+						var foxscript = document.createElement('script');
+						foxscript.src = '//cdn.foxpush.net/sdk/foxpush_SDK_min.js';
+						foxscript.type = 'text/javascript';
+						foxscript.async = 'true';
+						var fox_s = document.getElementsByTagName('script')[0];
+						fox_s.parentNode.insertBefore(foxscript, fox_s);
+					})();
+				</script>
+</body>
+</html>

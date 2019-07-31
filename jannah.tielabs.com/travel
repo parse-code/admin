@@ -1,0 +1,1932 @@
+<!DOCTYPE html>
+<html lang="en-US" prefix="og: http://ogp.me/ns#">
+<head>
+<meta charset="UTF-8" />
+<script src="/cdn-cgi/apps/head/svZxNnjSmGCwZH9Ca1C6yPS3ec8.js"></script><link rel="profile" href="https://gmpg.org/xfn/11" />
+<link rel="pingback" href="https://jannah.tielabs.com/travel/xmlrpc.php" />
+<title>Jannah Travel &#8211; Blog Magazine Newspaper buddyPress Theme</title>
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Jannah Travel &raquo; Feed" href="https://jannah.tielabs.com/travel/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Jannah Travel &raquo; Comments Feed" href="https://jannah.tielabs.com/travel/comments/feed/" />
+<meta property="og:title" content="Jannah Travel" />
+<meta property="og:type" content="website" />
+<meta property="og:description" content="Blog Magazine Newspaper buddyPress Theme" />
+<meta property="og:url" content="https://jannah.tielabs.com/travel/" />
+<meta property="og:site_name" content="Jannah Travel" />
+<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/jannah.tielabs.com\/travel\/wp-includes\/js\/wp-emoji-release.min.js"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56692,8205,9792,65039],[55357,56692,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='jannah-demos-css-css' href='https://jannah.tielabs.com/travel/wp-content/plugins/jannah-demos/assets/css/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='tie-css-styles-css' href='https://jannah.tielabs.com/travel/wp-content/themes/jannah/assets/css/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='tie-css-ilightbox-css' href='https://jannah.tielabs.com/travel/wp-content/themes/jannah/assets/css/ilightbox/light-skin/skin.css' type='text/css' media='all' />
+<link rel='stylesheet' id='tie-css-style-custom-css' href='https://jannah.tielabs.com/travel/wp-content/uploads/sites/12/style-custom-12.css' type='text/css' media='all' />
+<style id='tie-css-style-custom-inline-css' type='text/css'>
+.brand-title,a:hover,#tie-popup-search-submit,.components button#search-submit:hover,#logo.text-logo a,#tie-wrapper #top-nav a:hover,#tie-wrapper #top-nav .breaking a:hover,#tie-wrapper #main-nav .components a:hover,#theme-header #top-nav .components > li > a:hover,#theme-header #top-nav .components > li:hover > a,#theme-header #main-nav .components > li > a:hover,#theme-header #main-nav .components > li:hover > a,#top-nav .top-menu .menu > li.tie-current-menu > a,#tie-wrapper #top-nav .top-menu .menu li:hover > a,#tie-wrapper #top-nav .top-menu .menu a:hover,#tie-wrapper #main-nav .main-menu .mega-menu .post-box-title a:hover,#tie-wrapper #main-nav .main-menu .menu .mega-cat-sub-categories.cats-vertical li:hover a,#tie-wrapper #main-nav .main-menu .menu .mega-cat-sub-categories.cats-vertical li a.is-active,div.mag-box .mag-box-options .mag-box-filter-links a.active,.mag-box-filter-links .flexMenu-viewMore:hover > a,.stars-rating-active,body .tabs.tabs .active > a,.video-play-icon,.spinner-circle:after,#go-to-content:hover,.comment-list .comment-author .fn,.commentlist .comment-author .fn,blockquote::before,blockquote cite,blockquote.quote-simple p,.multiple-post-pages a:hover,#story-index li .is-current,.latest-tweets-widget .twitter-icon-wrap span,.wide-next-prev-slider-wrapper .tie-slider-nav li:hover span,#instagram-link:hover,.review-final-score h3,#mobile-menu-icon:hover .menu-text,.entry a,.entry .post-bottom-meta a[href]:hover,#footer-widgets-container a:hover,#footer-widgets-container .stars-rating-active,#footer-widgets-container .latest-tweets-widget .twitter-icon-wrap span,#site-info a:hover,.widget.tie-weather-widget .icon-basecloud-bg:after,.wide-slider-nav-wrapper .slide{color: #01b7f2;}.button,#tie-wrapper #theme-header .comp-sub-menu .button:hover,#tie-wrapper #theme-header .comp-sub-menu .button.guest-btn:hover,#tie-wrapper #theme-header .comp-sub-menu .button.checkout-button,#tie-wrapper #theme-header #main-nav .comp-sub-menu .button:hover,input[type='submit'],.post-cat,.tie-slider-nav li > span:hover,.pages-nav .next-prev li.current span,.pages-nav .pages-numbers li.current span,#tie-wrapper .mejs-container .mejs-controls,.spinner > div,#mobile-menu-icon:hover .nav-icon,#mobile-menu-icon:hover .nav-icon:before,#mobile-menu-icon:hover .nav-icon:after,#theme-header #main-nav .main-menu .menu > li.tie-current-menu > a,#theme-header #main-nav .main-menu .menu > li:hover > a,#theme-header #main-nav .main-menu .menu > li > a:hover,#tie-wrapper #main-nav .main-menu ul li .mega-links-head:after,#theme-header #main-nav .menu .mega-cat-sub-categories.cats-horizontal li a.is-active,#theme-header #main-nav .menu .mega-cat-sub-categories.cats-horizontal li a:hover,.main-nav-dark .main-menu .menu > li > a:hover,#mobile-menu-icon:hover .nav-icon,#mobile-menu-icon:hover .nav-icon:before,#mobile-menu-icon:hover .nav-icon:after,.mag-box-filter-links a:hover,.slider-arrow-nav a:not(.pagination-disabled):hover,.comment-list .reply a:hover,.commentlist .reply a:hover,#reading-position-indicator,.multiple-post-pages > span,#story-index-icon,.posts-list-counter .posts-list-items li:before,.cat-counter span,.digital-rating-static strong,#wp-calendar #today,.basecloud-bg,.basecloud-bg::before,.basecloud-bg::after,.timeline-widget ul li a:hover .date:before,.cat-counter a + span,.videos-block .playlist-title,.review-percentage .review-item span span,.tie-slick-dots li.slick-active button,.tie-slick-dots li button:hover,#tie-body.magazine2:not(.block-head-4) .dark-widgetized-area .tabs a:hover,#tie-body.magazine2:not(.block-head-4) .dark-widgetized-area .tabs .active a,#tie-body.magazine1 .dark-widgetized-area .tabs a:hover,#tie-body.magazine1 .dark-widgetized-area .tabs .active a,#footer-widgets-container .digital-rating-static strong,#footer-widgets-container .timeline-widget li:hover .date:before,#footer-widgets-container #wp-calendar #today,#footer-widgets-container .basecloud-bg::before,#footer-widgets-container .posts-list-counter .posts-list-items li:before,#footer-widgets-container .cat-counter span,#footer-widgets-container .widget-title:after,#footer-widgets-container .button,#footer-widgets-container input[type='submit'],#footer-widgets-container .tie-slider-nav li > span:hover,#footer-widgets-container .fullwidth-area .widget_tag_cloud .tagcloud a:hover,.demo_store,.demo #logo:after,.widget.tie-weather-widget,span.video-close-btn:hover,#go-to-top{background-color: #01b7f2;color: #FFFFFF;}pre,code,.pages-nav .next-prev li.current span,.pages-nav .pages-numbers li.current span,#tie-wrapper #theme-header .comp-sub-menu .button:hover,#tie-wrapper #theme-header .comp-sub-menu .button.guest-btn:hover,.multiple-post-pages > span,.post-content-slideshow .tie-slider-nav li span:hover,.latest-tweets-widget .slider-links .tie-slider-nav li span:hover,.dark-skin .latest-tweets-widget .slider-links .tie-slider-nav span:hover,#instagram-link:before,#instagram-link:after,.slider-arrow-nav a:not(.pagination-disabled):hover,#theme-header #main-nav .menu .mega-cat-sub-categories.cats-horizontal li a.is-active,#theme-header #main-nav .menu .mega-cat-sub-categories.cats-horizontal li a:hover,#footer.dark-skin #instagram-link:before,#footer.dark-skin #instagram-link:after,#footer-widgets-container .tie-slider-nav li > span:hover,#theme-header #main-nav .main-menu .menu > li > .sub-menu,#theme-header #main-nav .main-menu .menu > li > .menu-sub-content{border-color: #01b7f2;}#tie-wrapper #top-nav .top-menu .menu li.menu-item-has-children:hover > a:before{border-top-color: #01b7f2;}#theme-header .main-menu .menu > li.tie-current-menu > a:before,#theme-header #main-nav .main-menu .menu > li > a:hover:before,#theme-header #main-nav .main-menu .menu > li:hover > a:before{border-top-color: #FFFFFF;}#tie-wrapper #top-nav .top-menu .menu li li.menu-item-has-children:hover > a:before{border-left-color: #01b7f2;border-top-color: transparent;}.rtl #tie-wrapper #top-nav .top-menu .menu li li.menu-item-has-children:hover > a:before{border-right-color: #01b7f2;border-top-color: transparent;}#tie-wrapper #main-nav .main-menu .menu > li.tie-current-menu{border-bottom-color: #01b7f2;}::-moz-selection{background-color: #01b7f2;color: #FFFFFF;}::selection{background-color: #01b7f2;color: #FFFFFF;}circle.circle_bar,#footer-widgets-container circle.circle_bar{stroke: #01b7f2;}#reading-position-indicator{box-shadow: 0 0 10px rgba( 1,183,242,0.7);}#tie-popup-search-submit:hover,#logo.text-logo a:hover,.entry a:hover{color: #0085c0;}.button:hover,input[type='submit']:hover,a.post-cat:hover,#footer-widgets-container .button:hover,#footer-widgets-container input[type='submit']:hover{background-color: #0085c0;color: #FFFFFF;}.search-in-main-nav.autocomplete-suggestions a.button:hover,#tie-wrapper #theme-header #top-nav .comp-sub-menu .button.checkout-button:hover,#tie-wrapper #theme-header #main-nav .comp-sub-menu .button.checkout-button:hover{background-color: #0085c0;color: #FFFFFF;}#theme-header #main-nav .comp-sub-menu a.checkout-button:not(:hover),#theme-header #top-nav .comp-sub-menu a.checkout-button:not(:hover),.entry a.button{color: #FFFFFF;}#footer-widgets-container .tie-slider-nav li > span:hover{color: #FFFFFF !important;}@media (max-width: 1600px){#story-index ul{background-color: #01b7f2;}#story-index ul li a,#story-index ul li .is-current{color: #FFFFFF;}}#tie-body .mag-box-title h3 a,#tie-body .block-more-button{color: #01b7f2;}#tie-body .mag-box-title h3 a:hover,#tie-body .block-more-button:hover{color: #0085c0;}#tie-body .mag-box-title{color: #01b7f2;}#tie-body .mag-box-title:before{border-top-color: #01b7f2;}#tie-body .mag-box-title:after,#tie-body #footer .widget-title:after{background-color: #01b7f2;}@media (min-width: 992px){#tiepost-3439-section-7208{margin-top:50px; margin-bottom:50px;}}
+</style>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var tie = {"is_rtl":"","ajaxurl":"https:\/\/jannah.tielabs.com\/travel\/wp-admin\/admin-ajax.php","mobile_menu_active":"true","mobile_menu_top":"","mobile_menu_parent":"","lightbox_all":"true","lightbox_gallery":"true","lightbox_skin":"light","lightbox_thumb":"horizontal","lightbox_arrows":"true","is_singular":"1","is_sticky_video":"","reading_indicator":"true","lazyload":"true","select_share":"true","select_share_twitter":"true","select_share_facebook":"true","select_share_linkedin":"true","select_share_email":"","facebook_app_id":"1050426888323267","twitter_username":"tielabs","responsive_tables":"true","ad_blocker_detector":"","sticky_behavior":"default","sticky_desktop":"true","sticky_mobile":"true","ajax_loader":"<div class=\"loader-overlay\">\n\t\t\t\t<div class=\"spinner\">\n\t\t\t\t\t<div class=\"bounce1\"><\/div>\n\t\t\t\t\t<div class=\"bounce2\"><\/div>\n\t\t\t\t\t<div class=\"bounce3\"> <\/div>\n\t\t\t\t<\/div>\n\t\t\t<\/div>","type_to_search":"1","lang_no_results":"Nothing Found"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://jannah.tielabs.com/travel/wp-includes/js/jquery/jquery.js'></script>
+<script type='text/javascript' src='https://jannah.tielabs.com/travel/wp-includes/js/jquery/jquery-migrate.min.js'></script>
+<link rel='https://api.w.org/' href='https://jannah.tielabs.com/travel/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://jannah.tielabs.com/travel/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://jannah.tielabs.com/travel/wp-includes/wlwmanifest.xml" />
+<meta name="generator" content="WordPress 4.9.7" />
+<link rel="canonical" href="https://jannah.tielabs.com/travel/" />
+<link rel='shortlink' href='https://jannah.tielabs.com/travel/' />
+<link rel="alternate" type="application/json+oembed" href="https://jannah.tielabs.com/travel/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fjannah.tielabs.com%2Ftravel%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://jannah.tielabs.com/travel/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fjannah.tielabs.com%2Ftravel%2F&#038;format=xml" />
+<meta name="generator" content="Jannah 2.1.4" />
+<meta name="theme-color" content="#01b7f2" /><meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<script>
+						WebFontConfig ={
+							google:{
+								families: ['Average+Sans:700:latin', 'Average+Sans:500:latin']
+							}
+						};
+						(function(){
+							var wf   = document.createElement('script');
+							wf.src   = '//ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+							wf.type  = 'text/javascript';
+							wf.async = 'true';
+							var s = document.getElementsByTagName('script')[0];
+							s.parentNode.insertBefore(wf, s);
+						})();
+					</script>
+<link rel="icon" href="https://jannah.tielabs.com/travel/wp-content/uploads/sites/12/2017/04/travel-favicon.png" sizes="32x32" />
+<link rel="icon" href="https://jannah.tielabs.com/travel/wp-content/uploads/sites/12/2017/04/travel-favicon.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://jannah.tielabs.com/travel/wp-content/uploads/sites/12/2017/04/travel-favicon.png" />
+<meta name="msapplication-TileImage" content="https://jannah.tielabs.com/travel/wp-content/uploads/sites/12/2017/04/travel-favicon.png" />
+</head>
+<body id="tie-body" class="home page-template-default page page-id-3439 boxed-layout wrapper-has-shadow block-head-1 magazine1 is-lazyload is-desktop is-header-layout-2 has-builder hide_share_post_top hide_share_post_bottom">
+<div class="background-overlay">
+<div id="tie-container" class="site tie-container">
+<div id="tie-wrapper">
+<header id="theme-header" class="header-layout-2 main-nav-light main-nav-below mobile-header-default">
+<div class="container">
+<div class="tie-row logo-row">
+<div class="logo-wrapper">
+<div class="tie-col-md-4 logo-container">
+<a href="#" id="mobile-menu-icon"><span class="nav-icon"></span></a>
+<div id="logo" class="image-logo" style="margin-top: 40px; margin-bottom: 40px;">
+<a title="Jannah" href="https://jannah.tielabs.com/travel/">
+<img src="https://jannah.tielabs.com/jannah-travel/wp-content/uploads/sites/12/2017/04/logo-travel.png" alt="Jannah" class="logo_normal" width="281" height="61" style="max-height:61px; width: auto;">
+<img src="https://jannah.tielabs.com/jannah-travel/wp-content/uploads/sites/12/2017/04/logo-travel@2x.png" alt="Jannah" class="logo_2x" width="281" height="61" style="max-height:61px; width: auto;">
+<h1 class="h1-off">Jannah</h1> </a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="main-nav-wrapper">
+<nav id="main-nav" data-skin="search-in-main-nav live-search-light" class=" live-search-parent" aria-label="Primary Navigation">
+<div class="container">
+<div class="main-menu-wrapper">
+<div id="menu-components-wrap">
+<div class="main-menu main-menu-wrap tie-alignleft">
+<div id="main-nav-menu" class="main-menu"><ul id="menu-main-menu" class="menu" role="menubar"><li id="menu-item-3514" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-3439 current_page_item menu-item-3514 tie-current-menu menu-item-has-icon is-icon-only"><a href="https://jannah.tielabs.com/travel/"> <span aria-hidden="true" class="fa fa-home"></span> <span class="screen-reader-text">Home</span></a></li>
+<li id="menu-item-3519" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3519"><a href="https://jannah.tielabs.com/travel/category/africa/">Africa</a></li>
+<li id="menu-item-3520" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3520"><a href="https://jannah.tielabs.com/travel/category/asia/">Asia</a></li>
+<li id="menu-item-3521" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3521"><a href="https://jannah.tielabs.com/travel/category/europe/">Europe</a></li>
+<li id="menu-item-3523" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3523"><a href="https://jannah.tielabs.com/travel/category/north-america/">North America</a></li>
+<li id="menu-item-3522" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3522"><a href="https://jannah.tielabs.com/travel/category/middle-east/">Middle East</a></li>
+</ul></div> </div>
+<ul class="components"> <li class="search-compact-icon menu-item custom-menu-link">
+<a href="#" data-type="modal-trigger" class="tie-search-trigger">
+<span class="fa fa-search" aria-hidden="true"></span>
+<span class="screen-reader-text">Search for</span>
+</a>
+<span class="cd-modal-bg"></span>
+</li>
+<li class="side-aside-nav-icon menu-item custom-menu-link">
+<a href="#">
+<span class="fa fa-navicon" aria-hidden="true"></span>
+<span class="screen-reader-text">Sidebar</span>
+</a>
+</li>
+<li class="list-social-icons menu-item custom-menu-link">
+<a href="#" class="follow-btn">
+<span class="fa fa-plus" aria-hidden="true"></span>
+<span class="follow-text">Follow</span>
+</a>
+<ul class="dropdown-social-icons comp-sub-menu"><li class="social-icons-item"><a class="social-link  facebook-social-icon" title="Facebook" rel="nofollow" target="_blank" href="https://www.facebook.com/TieLabs/"><span class="fa fa-facebook"></span><span class="social-text">Facebook</span></a></li><li class="social-icons-item"><a class="social-link  twitter-social-icon" title="Twitter" rel="nofollow" target="_blank" href="https://twitter.com/tielabs"><span class="fa fa-twitter"></span><span class="social-text">Twitter</span></a></li><li class="social-icons-item"><a class="social-link  pinterest-social-icon" title="Pinterest" rel="nofollow" target="_blank" href="https://www.pinterest.com/"><span class="fa fa-pinterest"></span><span class="social-text">Pinterest</span></a></li><li class="social-icons-item"><a class="social-link  flickr-social-icon" title="Flickr" rel="nofollow" target="_blank" href="https://www.flickr.com/"><span class="fa fa-flickr"></span><span class="social-text">Flickr</span></a></li><li class="social-icons-item"><a class="social-link  youtube-social-icon" title="YouTube" rel="nofollow" target="_blank" href="https://youtube.com/user/TEAMMESAI"><span class="fa fa-youtube"></span><span class="social-text">YouTube</span></a></li><li class="social-icons-item"><a class="social-link  tumblr-social-icon" title="Tumblr" rel="nofollow" target="_blank" href="https://tumblr.com/"><span class="fa fa-tumblr"></span><span class="social-text">Tumblr</span></a></li><li class="social-icons-item"><a class="social-link  instagram-social-icon" title="Instagram" rel="nofollow" target="_blank" href="https://www.instagram.com/imo3aser/"><span class="fa fa-instagram"></span><span class="social-text">Instagram</span></a></li><li class="social-icons-item"><a class="social-link  tripadvisor-social-icon" title="TripAdvisor" rel="nofollow" target="_blank" href="#"><span class="fa fa-tripadvisor"></span><span class="social-text">TripAdvisor</span></a></li></ul> </li>
+</ul>
+</div>
+</div>
+</div>
+</nav>
+</div>
+</header>
+<div id="tiepost-3439-section-2638" class="section-wrapper container-full without-background">
+<div class="section-item is-first-section full-width" style="">
+<div class="container">
+<div class="tie-row main-content-row">
+<div class="main-content tie-col-md-12">
+<section id="tie-block_1066" class="slider-area mag-box">
+<div id="tie-main-slider-7-block_1066" class="tie-main-slider main-slider boxed-four-taller-slider boxed-slider tie-slick-slider-wrapper" data-slider-id="7" data-speed="3000">
+<div class="loader-overlay">
+<div class="spinner">
+<div class="bounce1"></div>
+<div class="bounce2"></div>
+<div class="bounce3"> </div>
+</div>
+</div>
+<div class="main-slider-inner">
+<ul class="tie-slider-nav"></ul>
+<div class="containerblock_1066">
+<div class="tie-slick-slider">
+<div class="slide lazy-bg slide-id-3582 tie-slide-1 tie-video"><img data-lazy="https://jannah.tielabs.com/travel/wp-content/uploads/sites/12/2016/11/travel-17-780x500.jpg" src="https://jannah.tielabs.com/travel/wp-content/themes/jannah/assets/images/tie-empty.png" width="2000" height="2000" alt=""><div class="slide-bg"></div>
+<a href="https://jannah.tielabs.com/travel/2017/01/26/vinta-camera-bags-17/" class="all-over-thumb-link"></a>
+<div class="thumb-overlay"><h5 class="post-cat-wrap"><a class="post-cat tie-cat-6" href="https://jannah.tielabs.com/travel/category/africa/">Africa</a></h5><div class="thumb-content"><div class="thumb-meta"><span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>Jan 26, 2017</span></span></div>
+<h2 class="thumb-title"><a href="https://jannah.tielabs.com/travel/2017/01/26/vinta-camera-bags-17/" title="The Ultimate Hurghada Travel Guide">The Ultimate Hurghada Travel Guide</a></h2>
+</div> 
+</div>
+</div>
+<div class="slide lazy-bg slide-id-3559 tie-slide-2 tie-thumb"><img data-lazy="https://jannah.tielabs.com/travel/wp-content/uploads/sites/12/2016/11/travel-11-780x500.jpg" src="https://jannah.tielabs.com/travel/wp-content/themes/jannah/assets/images/tie-empty.png" width="2000" height="2000" alt=""><div class="slide-bg"></div>
+<a href="https://jannah.tielabs.com/travel/2017/01/26/how-to-find-the-cheapest-flight-to-indonesia/" class="all-over-thumb-link"></a>
+<div class="thumb-overlay"><h5 class="post-cat-wrap"><a class="post-cat tie-cat-165" href="https://jannah.tielabs.com/travel/category/asia/">Asia</a></h5><div class="thumb-content"><div class="thumb-meta"><span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>Jan 26, 2017</span></span></div>
+<h2 class="thumb-title"><a href="https://jannah.tielabs.com/travel/2017/01/26/how-to-find-the-cheapest-flight-to-indonesia/" title="How to Find the Cheapest Flight to Indonesia">How to Find the Cheapest Flight to Indonesia</a></h2>
+</div> 
+</div>
+</div>
+<div class="slide lazy-bg slide-id-3584 tie-slide-3 tie-thumb"><img data-lazy="https://jannah.tielabs.com/travel/wp-content/uploads/sites/12/2016/11/travel-18-780x500.jpg" src="https://jannah.tielabs.com/travel/wp-content/themes/jannah/assets/images/tie-empty.png" width="2000" height="2000" alt=""><div class="slide-bg"></div>
+<a href="https://jannah.tielabs.com/travel/2017/01/11/vinta-camera-bags-18/" class="all-over-thumb-link"></a>
+<div class="thumb-overlay"><h5 class="post-cat-wrap"><a class="post-cat tie-cat-164" href="https://jannah.tielabs.com/travel/category/middle-east/">Middle East</a></h5><div class="thumb-content"><div class="thumb-meta"><span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>Jan 11, 2017</span></span></div>
+<h2 class="thumb-title"><a href="https://jannah.tielabs.com/travel/2017/01/11/vinta-camera-bags-18/" title="20 Photos to Inspire You to Visit Petra">20 Photos to Inspire You to Visit Petra</a></h2>
+</div> 
+</div>
+</div>
+<div class="slide lazy-bg slide-id-3596 tie-slide-4 tie-slider"><img data-lazy="https://jannah.tielabs.com/travel/wp-content/uploads/sites/12/2016/11/image16-780x500.jpg" src="https://jannah.tielabs.com/travel/wp-content/themes/jannah/assets/images/tie-empty.png" width="2000" height="2000" alt=""><div class="slide-bg"></div>
+<a href="https://jannah.tielabs.com/travel/2016/11/06/10-super-fun-things-to-do-in-egypt/" class="all-over-thumb-link"></a>
+<div class="thumb-overlay"><h5 class="post-cat-wrap"><a class="post-cat tie-cat-6" href="https://jannah.tielabs.com/travel/category/africa/">Africa</a></h5><div class="thumb-content"><div class="thumb-meta"><span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>Nov 6, 2016</span></span></div>
+<h2 class="thumb-title"><a href="https://jannah.tielabs.com/travel/2016/11/06/10-super-fun-things-to-do-in-egypt/" title="10 Super Fun Things To Do In Egypt #thisisegypt">10 Super Fun Things To Do In Egypt #thisisegypt</a></h2>
+</div> 
+</div>
+</div>
+<div class="slide lazy-bg slide-id-3594 tie-slide-5 tie-thumb"><img data-lazy="https://jannah.tielabs.com/travel/wp-content/uploads/sites/12/2016/11/travel-23-780x500.jpg" src="https://jannah.tielabs.com/travel/wp-content/themes/jannah/assets/images/tie-empty.png" width="2000" height="2000" alt=""><div class="slide-bg"></div>
+<a href="https://jannah.tielabs.com/travel/2016/11/06/why-you-shouldnt-ride-elephants-in-thailand/" class="all-over-thumb-link"></a>
+<div class="thumb-overlay"><h5 class="post-cat-wrap"><a class="post-cat tie-cat-165" href="https://jannah.tielabs.com/travel/category/asia/">Asia</a></h5><div class="thumb-content"><div class="thumb-meta"><span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>Nov 6, 2016</span></span></div>
+<h2 class="thumb-title"><a href="https://jannah.tielabs.com/travel/2016/11/06/why-you-shouldnt-ride-elephants-in-thailand/" title="Why You Shouldn’t Ride Elephants In Thailand">Why You Shouldn’t Ride Elephants In Thailand</a></h2>
+</div> 
+</div>
+</div>
+<div class="slide lazy-bg slide-id-3592 tie-slide-6 tie-thumb"><img data-lazy="https://jannah.tielabs.com/travel/wp-content/uploads/sites/12/2016/11/travel-22-780x500.jpg" src="https://jannah.tielabs.com/travel/wp-content/themes/jannah/assets/images/tie-empty.png" width="2000" height="2000" alt=""><div class="slide-bg"></div>
+<a href="https://jannah.tielabs.com/travel/2016/11/06/10-reasons-to-visit-lyon-france/" class="all-over-thumb-link"></a>
+<div class="thumb-overlay"><h5 class="post-cat-wrap"><a class="post-cat tie-cat-64" href="https://jannah.tielabs.com/travel/category/europe/">Europe</a></h5><div class="thumb-content"><div class="thumb-meta"><span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>Nov 6, 2016</span></span></div>
+<h2 class="thumb-title"><a href="https://jannah.tielabs.com/travel/2016/11/06/10-reasons-to-visit-lyon-france/" title="10 Reasons to Visit Lyon, France">10 Reasons to Visit Lyon, France</a></h2>
+</div> 
+</div>
+</div>
+<div class="slide lazy-bg slide-id-3590 tie-slide-1 tie-thumb"><img data-lazy="https://jannah.tielabs.com/travel/wp-content/uploads/sites/12/2016/11/travel-21-780x500.jpg" src="https://jannah.tielabs.com/travel/wp-content/themes/jannah/assets/images/tie-empty.png" width="2000" height="2000" alt=""><div class="slide-bg"></div>
+<a href="https://jannah.tielabs.com/travel/2016/11/06/20-photos-to-inspire-you-to-visit-dubai/" class="all-over-thumb-link"></a>
+<div class="thumb-overlay"><h5 class="post-cat-wrap"><a class="post-cat tie-cat-164" href="https://jannah.tielabs.com/travel/category/middle-east/">Middle East</a></h5><div class="thumb-content"><div class="thumb-meta"><span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>Nov 6, 2016</span></span></div>
+<h2 class="thumb-title"><a href="https://jannah.tielabs.com/travel/2016/11/06/20-photos-to-inspire-you-to-visit-dubai/" title="20 Photos to Inspire You to Visit Dubai">20 Photos to Inspire You to Visit Dubai</a></h2>
+</div> 
+</div>
+</div>
+<div class="slide lazy-bg slide-id-3576 tie-slide-2 tie-video"><img data-lazy="https://jannah.tielabs.com/travel/wp-content/uploads/sites/12/2016/11/travel-14-780x500.jpg" src="https://jannah.tielabs.com/travel/wp-content/themes/jannah/assets/images/tie-empty.png" width="2000" height="2000" alt=""><div class="slide-bg"></div>
+<a href="https://jannah.tielabs.com/travel/2016/11/06/20-photos-to-inspire-you-to-visit-alexandria/" class="all-over-thumb-link"></a>
+<div class="thumb-overlay"><h5 class="post-cat-wrap"><a class="post-cat tie-cat-6" href="https://jannah.tielabs.com/travel/category/africa/">Africa</a></h5><div class="thumb-content"><div class="thumb-meta"><span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>Nov 6, 2016</span></span></div>
+<h2 class="thumb-title"><a href="https://jannah.tielabs.com/travel/2016/11/06/20-photos-to-inspire-you-to-visit-alexandria/" title="20 Photos to Inspire You to Visit Alexandria">20 Photos to Inspire You to Visit Alexandria</a></h2>
+</div> 
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+</div> </div>
+</div>
+<div id="tiepost-3439-section-4450" class="section-wrapper container-full without-background">
+<div class="section-item sidebar-right has-sidebar" style="">
+<div class="container">
+<div class="tie-row main-content-row">
+<div class="main-content tie-col-md-8 tie-col-xs-12" role="main">
+<div id="tie-block_1820" class="mag-box big-post-left-box big-thumb-left-box first-post-gradient" data-current="1">
+<div class="container-wrapper">
+<div class="mag-box-title the-global-title">
+<h3>
+My Trips </h3>
+<div class="tie-alignright">
+<div class="mag-box-options">
+<ul class="mag-box-filter-links">
+<li><a href="#" class="block-ajax-term active">All</a></li><li><a href="#" data-id="165" class="block-ajax-term">Asia</a></li><li><a href="#" data-id="64" class="block-ajax-term">Europe</a></li><li><a href="#" data-id="164" class="block-ajax-term">Middle East</a></li><li><a href="#" data-id="1" class="block-ajax-term">North America</a></li></ul>
+<ul class="slider-arrow-nav">
+<li><a class="block-pagination prev-posts pagination-disabled" href="#"><span class="fa fa-angle-left" aria-hidden="true"></span></a></li>
+<li><a class="block-pagination next-posts" href="#"><span class="fa fa-angle-right" aria-hidden="true"></span></a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="mag-box-container clearfix">
+<ul class="posts-items posts-list-container">
+<li class="post-item tie-thumb">
+<div class="big-thumb-left-box-inner" data-src="https://jannah.tielabs.com/travel/wp-content/uploads/sites/12/2016/11/travel-16-780x500.jpg">
+<a href="https://jannah.tielabs.com/travel/2017/04/06/where-to-find-the-best-food-in-montreal/" title="Where to Find the Best Food in Montreal" class="post-thumb">
+<div class="post-thumb-overlay-wrap">
+<div class="post-thumb-overlay">
+<span class="icon"></span>
+</div>
+</div>
+</a>
+<div class="post-overlay">
+<div class="post-content">
+<h5 class="post-cat-wrap"><a class="post-cat tie-cat-1" href="https://jannah.tielabs.com/travel/category/north-america/">North America</a></h5>
+<h3 class="post-title"><a href="https://jannah.tielabs.com/travel/2017/04/06/where-to-find-the-best-food-in-montreal/" title="Where to Find the Best Food in Montreal">Where to Find the Best Food in Montreal</a></h3>
+<div class="thumb-meta"><div class="post-meta">
+<span class="meta-author meta-item"><a href="https://jannah.tielabs.com/travel/author/admin/" class="author-name" title="Fouad Badawy"><span class="fa fa-user" aria-hidden="true"></span> Fouad Badawy</a>
+</span>
+<span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>Apr 6, 2017</span></span><div class="tie-alignright"><span class="meta-comment meta-item"><a href="https://jannah.tielabs.com/travel/2017/04/06/where-to-find-the-best-food-in-montreal/#respond"><span class="fa fa-comments" aria-hidden="true"></span> 0</a></span><span class="meta-views meta-item "><span class="tie-icon-fire" aria-hidden="true"></span> 271 </span> </div><div class="clearfix"></div></div></div>
+</div>
+</div>
+</div>
+</li>
+<li class="post-item  tie-thumb">
+<a href="https://jannah.tielabs.com/travel/2017/04/06/searching-for-dolphins-whales-off-island/" title="Searching For Dolphins &#038; Whales Off Island" class="post-thumb">
+<div class="post-thumb-overlay-wrap">
+<div class="post-thumb-overlay">
+<span class="icon"></span>
+</div>
+</div>
+<img width="220" height="150" src="https://jannah.tielabs.com/travel/wp-content/themes/jannah/assets/images/tie-empty-small.png" class="attachment-jannah-image-small size-jannah-image-small lazy-img tie-small-image wp-post-image" alt="" data-src="https://jannah.tielabs.com/travel/wp-content/uploads/sites/12/2016/11/travel-15-220x150.jpg" /></a>
+<div class="post-details">
+<div class="post-meta"><span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>Apr 6, 2017</span></span><div class="clearfix"></div></div>
+<h3 class="post-title"><a href="https://jannah.tielabs.com/travel/2017/04/06/searching-for-dolphins-whales-off-island/" title="Searching For Dolphins &#038; Whales Off Island">Searching For Dolphins &#038; Whales Off Island</a></h3>
+</div>
+</li>
+<li class="post-item  tie-slider">
+<a href="https://jannah.tielabs.com/travel/2017/03/16/the-ultimate-guide-to-new-york-city-in-a-weekend/" title="The Ultimate Guide to New York City in a Weekend" class="post-thumb">
+<div class="post-thumb-overlay-wrap">
+<div class="post-thumb-overlay">
+<span class="icon"></span>
+</div>
+</div>
+ <img width="220" height="150" src="https://jannah.tielabs.com/travel/wp-content/themes/jannah/assets/images/tie-empty-small.png" class="attachment-jannah-image-small size-jannah-image-small lazy-img tie-small-image wp-post-image" alt="" data-src="https://jannah.tielabs.com/travel/wp-content/uploads/sites/12/2016/11/travel-19-220x150.jpg" /></a>
+<div class="post-details">
+<div class="post-meta"><span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>Mar 16, 2017</span></span><div class="clearfix"></div></div>
+<h3 class="post-title"><a href="https://jannah.tielabs.com/travel/2017/03/16/the-ultimate-guide-to-new-york-city-in-a-weekend/" title="The Ultimate Guide to New York City in a Weekend">The Ultimate Guide to New York City in a Weekend</a></h3>
+</div>
+</li>
+<li class="post-item  tie-thumb">
+<a href="https://jannah.tielabs.com/travel/2017/01/26/how-to-find-the-cheapest-flight-to-indonesia/" title="How to Find the Cheapest Flight to Indonesia" class="post-thumb">
+<div class="post-thumb-overlay-wrap">
+<div class="post-thumb-overlay">
+<span class="icon"></span>
+</div>
+</div>
+<img width="220" height="150" src="https://jannah.tielabs.com/travel/wp-content/themes/jannah/assets/images/tie-empty-small.png" class="attachment-jannah-image-small size-jannah-image-small lazy-img tie-small-image wp-post-image" alt="" data-src="https://jannah.tielabs.com/travel/wp-content/uploads/sites/12/2016/11/travel-11-220x150.jpg" /></a>
+<div class="post-details">
+<div class="post-meta"><span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>Jan 26, 2017</span></span><div class="clearfix"></div></div>
+<h3 class="post-title"><a href="https://jannah.tielabs.com/travel/2017/01/26/how-to-find-the-cheapest-flight-to-indonesia/" title="How to Find the Cheapest Flight to Indonesia">How to Find the Cheapest Flight to Indonesia</a></h3>
+</div>
+</li>
+<li class="post-item  tie-thumb">
+<a href="https://jannah.tielabs.com/travel/2017/01/11/vinta-camera-bags-18/" title="20 Photos to Inspire You to Visit Petra" class="post-thumb">
+<div class="post-thumb-overlay-wrap">
+<div class="post-thumb-overlay">
+<span class="icon"></span>
+</div>
+</div>
+<img width="220" height="150" src="https://jannah.tielabs.com/travel/wp-content/themes/jannah/assets/images/tie-empty-small.png" class="attachment-jannah-image-small size-jannah-image-small lazy-img tie-small-image wp-post-image" alt="" data-src="https://jannah.tielabs.com/travel/wp-content/uploads/sites/12/2016/11/travel-18-220x150.jpg" /></a>
+<div class="post-details">
+<div class="post-meta"><span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>Jan 11, 2017</span></span><div class="clearfix"></div></div>
+<h3 class="post-title"><a href="https://jannah.tielabs.com/travel/2017/01/11/vinta-camera-bags-18/" title="20 Photos to Inspire You to Visit Petra">20 Photos to Inspire You to Visit Petra</a></h3>
+</div>
+</li>
+<li class="post-item  tie-thumb">
+<a href="https://jannah.tielabs.com/travel/2016/11/06/why-you-shouldnt-ride-elephants-in-thailand/" title="Why You Shouldn’t Ride Elephants In Thailand" class="post-thumb">
+<div class="post-thumb-overlay-wrap">
+<div class="post-thumb-overlay">
+<span class="icon"></span>
+</div>
+</div>
+<img width="220" height="150" src="https://jannah.tielabs.com/travel/wp-content/themes/jannah/assets/images/tie-empty-small.png" class="attachment-jannah-image-small size-jannah-image-small lazy-img tie-small-image wp-post-image" alt="" data-src="https://jannah.tielabs.com/travel/wp-content/uploads/sites/12/2016/11/travel-23-220x150.jpg" /></a>
+<div class="post-details">
+<div class="post-meta"><span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>Nov 6, 2016</span></span><div class="clearfix"></div></div>
+<h3 class="post-title"><a href="https://jannah.tielabs.com/travel/2016/11/06/why-you-shouldnt-ride-elephants-in-thailand/" title="Why You Shouldn’t Ride Elephants In Thailand">Why You Shouldn’t Ride Elephants In Thailand</a></h3>
+</div>
+</li>
+</ul><div class="clearfix"></div>
+</div>
+</div>
+</div>
+<script>var js_tie_block_1820 = {"order":"latest","id":["165","64","164","1"],"number":"6","pagi":"next-prev","excerpt":"true","post_meta":"true","read_more":"true","filters":"true","breaking_effect":"reveal","sub_style":"big-thumb","style":"big-thumb"};</script>
+<div id="tie-block_1791" class="mag-box news-gallery news-grid">
+<div class="container-wrapper">
+<div class="mag-box-title the-global-title">
+<h3>
+Photos </h3>
+</div>
+<div class="mag-box-container clearfix">
+<ul class="news-gallery-items">
+<li>
+<a href="https://jannah.tielabs.com/travel/2017/01/26/vinta-camera-bags-17/" class="post-thumb tie-video" data-src="https://jannah.tielabs.com/travel/wp-content/uploads/sites/12/2016/11/travel-17-390x220.jpg">
+<div class="post-thumb-overlay-wrap">
+<div class="post-thumb-overlay">
+<span class="icon"></span>
+</div>
+</div>
+</a>
+</li>
+<li>
+<a href="https://jannah.tielabs.com/travel/2017/01/26/how-to-find-the-cheapest-flight-to-indonesia/" class="post-thumb tie-thumb" data-src="https://jannah.tielabs.com/travel/wp-content/uploads/sites/12/2016/11/travel-11-390x220.jpg">
+<div class="post-thumb-overlay-wrap">
+<div class="post-thumb-overlay">
+<span class="icon"></span>
+</div>
+</div>
+</a>
+</li>
+<li>
+<a href="https://jannah.tielabs.com/travel/2017/01/11/vinta-camera-bags-18/" class="post-thumb tie-thumb" data-src="https://jannah.tielabs.com/travel/wp-content/uploads/sites/12/2016/11/travel-18-390x220.jpg">
+<div class="post-thumb-overlay-wrap">
+<div class="post-thumb-overlay">
+<span class="icon"></span>
+</div>
+</div>
+</a>
+</li>
+<li>
+<a href="https://jannah.tielabs.com/travel/2016/11/06/10-super-fun-things-to-do-in-egypt/" class="post-thumb tie-slider" data-src="https://jannah.tielabs.com/travel/wp-content/uploads/sites/12/2016/11/image16-390x220.jpg">
+<div class="post-thumb-overlay-wrap">
+<div class="post-thumb-overlay">
+<span class="icon"></span>
+</div>
+</div>
+</a>
+</li>
+<li>
+<a href="https://jannah.tielabs.com/travel/2016/11/06/why-you-shouldnt-ride-elephants-in-thailand/" class="post-thumb tie-thumb" data-src="https://jannah.tielabs.com/travel/wp-content/uploads/sites/12/2016/11/travel-23-390x220.jpg">
+<div class="post-thumb-overlay-wrap">
+<div class="post-thumb-overlay">
+<span class="icon"></span>
+</div>
+</div>
+</a>
+</li>
+<li>
+<a href="https://jannah.tielabs.com/travel/2016/11/06/10-reasons-to-visit-lyon-france/" class="post-thumb tie-thumb" data-src="https://jannah.tielabs.com/travel/wp-content/uploads/sites/12/2016/11/travel-22-390x220.jpg">
+<div class="post-thumb-overlay-wrap">
+<div class="post-thumb-overlay">
+<span class="icon"></span>
+</div>
+</div>
+</a>
+</li>
+<li>
+<a href="https://jannah.tielabs.com/travel/2016/11/06/20-photos-to-inspire-you-to-visit-dubai/" class="post-thumb tie-thumb" data-src="https://jannah.tielabs.com/travel/wp-content/uploads/sites/12/2016/11/travel-21-390x220.jpg">
+<div class="post-thumb-overlay-wrap">
+<div class="post-thumb-overlay">
+<span class="icon"></span>
+</div>
+</div>
+</a>
+</li>
+<li>
+<a href="https://jannah.tielabs.com/travel/2016/11/06/20-photos-to-inspire-you-to-visit-alexandria/" class="post-thumb tie-video" data-src="https://jannah.tielabs.com/travel/wp-content/uploads/sites/12/2016/11/travel-14-390x220.jpg">
+<div class="post-thumb-overlay-wrap">
+<div class="post-thumb-overlay">
+<span class="icon"></span>
+</div>
+</div>
+</a>
+</li>
+<li>
+<a href="https://jannah.tielabs.com/travel/2016/11/06/20-reasons-to-travel-to-germany/" class="post-thumb tie-thumb" data-src="https://jannah.tielabs.com/travel/wp-content/uploads/sites/12/2016/11/travel-13-390x220.jpg">
+<div class="post-thumb-overlay-wrap">
+<div class="post-thumb-overlay">
+<span class="icon"></span>
+</div>
+</div>
+</a>
+</li>
+<li>
+<a href="https://jannah.tielabs.com/travel/2016/11/06/diving-in-the-red-sea/" class="post-thumb tie-thumb" data-src="https://jannah.tielabs.com/travel/wp-content/uploads/sites/12/2016/11/travel-12-390x220.jpg">
+<div class="post-thumb-overlay-wrap">
+<div class="post-thumb-overlay">
+<span class="icon"></span>
+</div>
+</div>
+</a>
+</li>
+<li>
+<a href="https://jannah.tielabs.com/travel/2016/11/06/tips-for-traveling-mexico-in-the-summer/" class="post-thumb tie-thumb" data-src="https://jannah.tielabs.com/travel/wp-content/uploads/sites/12/2016/11/travel-10-390x220.jpg">
+<div class="post-thumb-overlay-wrap">
+<div class="post-thumb-overlay">
+<span class="icon"></span>
+</div>
+</div>
+</a>
+</li>
+<li>
+<a href="https://jannah.tielabs.com/travel/2016/11/06/vinta-camera-bags-9/" class="post-thumb tie-slider" data-src="https://jannah.tielabs.com/travel/wp-content/uploads/sites/12/2016/11/travel-9-390x220.jpg">
+<div class="post-thumb-overlay-wrap">
+<div class="post-thumb-overlay">
+<span class="icon"></span>
+</div>
+</div>
+</a>
+</li>
+<li>
+<a href="https://jannah.tielabs.com/travel/2016/11/06/where-to-find-the-best-food-in-tulum/" class="post-thumb tie-thumb" data-src="https://jannah.tielabs.com/travel/wp-content/uploads/sites/12/2016/11/travel-8-390x220.jpg">
+<div class="post-thumb-overlay-wrap">
+<div class="post-thumb-overlay">
+<span class="icon"></span>
+</div>
+</div>
+</a>
+</li>
+<li>
+<a href="https://jannah.tielabs.com/travel/2016/11/06/vinta-camera-bags-7/" class="post-thumb tie-video" data-src="https://jannah.tielabs.com/travel/wp-content/uploads/sites/12/2016/11/travel-7-390x220.jpg">
+<div class="post-thumb-overlay-wrap">
+<div class="post-thumb-overlay">
+<span class="icon"></span>
+</div>
+</div>
+</a>
+</li>
+<li>
+<a href="https://jannah.tielabs.com/travel/2016/11/06/20-photos-to-inspire-you-to-visit-bali/" class="post-thumb tie-video" data-src="https://jannah.tielabs.com/travel/wp-content/uploads/sites/12/2016/11/travel-6-390x220.jpg">
+<div class="post-thumb-overlay-wrap">
+<div class="post-thumb-overlay">
+<span class="icon"></span>
+</div>
+</div>
+</a>
+</li>
+<li>
+<a href="https://jannah.tielabs.com/travel/2016/11/06/the-best-time-to-go-to-italy/" class="post-thumb tie-thumb" data-src="https://jannah.tielabs.com/travel/wp-content/uploads/sites/12/2016/11/travel-5-390x220.jpg">
+<div class="post-thumb-overlay-wrap">
+<div class="post-thumb-overlay">
+<span class="icon"></span>
+</div>
+</div>
+</a>
+</li>
+<li>
+<a href="https://jannah.tielabs.com/travel/2016/11/06/10-incredible-adventures-to-have-in-china/" class="post-thumb tie-video" data-src="https://jannah.tielabs.com/travel/wp-content/uploads/sites/12/2016/11/travel-4-390x220.jpg">
+<div class="post-thumb-overlay-wrap">
+<div class="post-thumb-overlay">
+<span class="icon"></span>
+</div>
+</div>
+</a>
+</li>
+<li>
+<a href="https://jannah.tielabs.com/travel/2016/11/06/10-photos-to-inspire-you-to-visit-cape-town/" class="post-thumb tie-thumb" data-src="https://jannah.tielabs.com/travel/wp-content/uploads/sites/12/2016/11/travel-3-390x220.jpg">
+<div class="post-thumb-overlay-wrap">
+<div class="post-thumb-overlay">
+<span class="icon"></span>
+</div>
+</div>
+</a>
+</li>
+</ul><div class="clearfix"></div>
+</div>
+</div>
+</div>
+</div>
+<aside class="sidebar tie-col-md-4 tie-col-xs-12 normal-side is-sticky" aria-label="Primary Sidebar">
+<div class="theiaStickySidebar">
+<div id="author-bio-widget-3" class="container-wrapper widget aboutme-widget"><div class="widget-title the-global-title"><h4>About Me</h4></div>
+<div class="about-author about-content-wrapper is-centered"><img alt="" src="https://jannah.tielabs.com/travel/wp-content/themes/jannah/assets/images/tie-empty-wide.png" data-src="https://jannah.tielabs.com/jannah-travel/wp-content/uploads/sites/12/2017/04/nacho-bilbao-2011-390x220.jpg" class="about-author-img lazy-img" width="280" height="47">
+<div class="aboutme-widget-content"><h3>Fouad Badawy</h3>
+Egyptian, Father, Husband, I design and develop #WordPress themes & plugins, founder of @tielabs
+</div>
+<div class="clearfix"></div>
+</div>
+<div class="clearfix"></div></div><div id="tie-newsletter-5" class="container-wrapper widget subscribe-widget">
+<div class="widget-inner-wrap">
+<span class="fa fa-envelope newsletter-icon" aria-hidden="true"></span>
+<div class="subscribe-widget-content">
+<h4>Subscribe to our mailing list!</h4>
+<h3>Get Tips for your Next Vacation</h3>
+</div>
+<div id="mc_embed_signup-tie-newsletter-5">
+<form action="#" method="post" id="mc-embedded-subscribe-form-tie-newsletter-5" name="mc-embedded-subscribe-form" class="subscribe-form validate" target="_blank" novalidate>
+<div class="mc-field-group">
+<label class="screen-reader-text" for="mce-EMAIL-tie-newsletter-5">Enter your Email address</label>
+<input type="email" value="" id="mce-EMAIL-tie-newsletter-5" placeholder="Enter your Email address" name="EMAIL" class="subscribe-input required email">
+</div>
+<input type="submit" value="Subscribe" name="subscribe" class="button subscribe-submit">
+</form>
+</div>
+</div>
+<div class="clearfix"></div></div><div id="google-widget-3" class="container-wrapper widget google-widget"><div class="widget-title the-global-title"><h4>Follow me on Google+</h4></div>
+<div class="google-box">
+
+<script>
+					  (function(){
+						var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+						po.src = '//apis.google.com/js/plusone.js';
+						var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+					  })();
+					</script>
+
+<a style='display: block; height: 0;' href="https://plus.google.com/+envato" rel="publisher">&nbsp;</a>
+
+<g:plus href="https://plus.google.com/+envato" height="131" width="280" theme="light"></g:plus>
+</div>
+<div class="clearfix"></div></div> </div>
+</aside>
+</div>
+</div>
+</div>
+</div>
+<div id="tiepost-3439-section-7208" class="section-wrapper container-full without-background">
+<div class="section-item full-width" style="">
+<div class="container">
+<div class="tie-row main-content-row">
+<div class="main-content tie-col-md-12">
+<section id="tie-block_1518" class="slider-area mag-box media-overlay">
+<div id="tie-main-slider-9-block_1518" class="tie-main-slider main-slider grid-2-big boxed-slider grid-slider-wrapper tie-slick-slider-wrapper" data-slider-id="9" data-speed="3000">
+<div class="main-slider-inner">
+<div class="containerblock_1518">
+<div class="tie-slick-slider">
+<ul class="tie-slider-nav"></ul><div class="slide"><div class="grid-item lazy-bg slide-id-3576 tie-slide-1 tie-video"><img data-lazy="https://jannah.tielabs.com/travel/wp-content/uploads/sites/12/2016/11/travel-14-780x500.jpg" src="https://jannah.tielabs.com/travel/wp-content/themes/jannah/assets/images/tie-empty.png" width="2000" height="2000" alt=""><div class="slide-bg"></div>
+<a href="https://jannah.tielabs.com/travel/2016/11/06/20-photos-to-inspire-you-to-visit-alexandria/" class="all-over-thumb-link"></a>
+<div class="thumb-overlay">
+<span class="icon"></span>
+<h5 class="post-cat-wrap"><a class="post-cat tie-cat-6" href="https://jannah.tielabs.com/travel/category/africa/">Africa</a></h5><div class="thumb-content"><div class="thumb-meta"><span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>Nov 6, 2016</span></span></div>
+<h2 class="thumb-title"><a href="https://jannah.tielabs.com/travel/2016/11/06/20-photos-to-inspire-you-to-visit-alexandria/" title="20 Photos to Inspire You to Visit Alexandria">20 Photos to Inspire You to Visit Alexandria</a></h2>
+</div> 
+</div>
+</div>
+<div class="grid-item lazy-bg slide-id-3563 tie-slide-2 tie-thumb"><img data-lazy="https://jannah.tielabs.com/travel/wp-content/uploads/sites/12/2016/11/travel-13-780x500.jpg" src="https://jannah.tielabs.com/travel/wp-content/themes/jannah/assets/images/tie-empty.png" width="2000" height="2000" alt=""><div class="slide-bg"></div>
+<a href="https://jannah.tielabs.com/travel/2016/11/06/20-reasons-to-travel-to-germany/" class="all-over-thumb-link"></a>
+<div class="thumb-overlay">
+<span class="icon"></span>
+<h5 class="post-cat-wrap"><a class="post-cat tie-cat-64" href="https://jannah.tielabs.com/travel/category/europe/">Europe</a></h5><div class="thumb-content"><div class="thumb-meta"><span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>Nov 6, 2016</span></span></div>
+<h2 class="thumb-title"><a href="https://jannah.tielabs.com/travel/2016/11/06/20-reasons-to-travel-to-germany/" title="20 Reasons to Travel to Germany">20 Reasons to Travel to Germany</a></h2>
+</div> 
+</div>
+</div>
+</div> <div class="slide"><div class="grid-item lazy-bg slide-id-3561 tie-slide-3 tie-thumb"><img data-lazy="https://jannah.tielabs.com/travel/wp-content/uploads/sites/12/2016/11/travel-12-780x500.jpg" src="https://jannah.tielabs.com/travel/wp-content/themes/jannah/assets/images/tie-empty.png" width="2000" height="2000" alt=""><div class="slide-bg"></div>
+<a href="https://jannah.tielabs.com/travel/2016/11/06/diving-in-the-red-sea/" class="all-over-thumb-link"></a>
+<div class="thumb-overlay">
+<span class="icon"></span>
+<h5 class="post-cat-wrap"><a class="post-cat tie-cat-164" href="https://jannah.tielabs.com/travel/category/middle-east/">Middle East</a></h5><div class="thumb-content"><div class="thumb-meta"><span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>Nov 6, 2016</span></span></div>
+<h2 class="thumb-title"><a href="https://jannah.tielabs.com/travel/2016/11/06/diving-in-the-red-sea/" title="Diving in the Red Sea">Diving in the Red Sea</a></h2>
+</div> 
+</div>
+</div>
+<div class="grid-item lazy-bg slide-id-3557 tie-slide-4 tie-thumb"><img data-lazy="https://jannah.tielabs.com/travel/wp-content/uploads/sites/12/2016/11/travel-10-780x500.jpg" src="https://jannah.tielabs.com/travel/wp-content/themes/jannah/assets/images/tie-empty.png" width="2000" height="2000" alt=""><div class="slide-bg"></div>
+<a href="https://jannah.tielabs.com/travel/2016/11/06/tips-for-traveling-mexico-in-the-summer/" class="all-over-thumb-link"></a>
+<div class="thumb-overlay">
+<span class="icon"></span>
+<h5 class="post-cat-wrap"><a class="post-cat tie-cat-1" href="https://jannah.tielabs.com/travel/category/north-america/">North America</a></h5><div class="thumb-content"><div class="thumb-meta"><span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>Nov 6, 2016</span></span></div>
+<h2 class="thumb-title"><a href="https://jannah.tielabs.com/travel/2016/11/06/tips-for-traveling-mexico-in-the-summer/" title="Tips for Traveling Mexico in the Summer">Tips for Traveling Mexico in the Summer</a></h2>
+</div> 
+</div>
+</div>
+</div> 
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+</div> </div>
+</div>
+<div id="tiepost-3439-section-1466" class="section-wrapper container normal-width without-background">
+<div class="section-item sidebar-right has-sidebar" style="">
+<div class="container-normal">
+<div class="tie-row main-content-row">
+<div class="main-content tie-col-md-8 tie-col-xs-12" role="main">
+<div id="tie-block_1168" class="mag-box miscellaneous-box first-post-gradient has-first-big-post">
+<div class="container-wrapper">
+<div class="mag-box-title the-global-title">
+<h3>
+Trending </h3>
+</div>
+<div class="mag-box-container clearfix">
+<ul class="posts-items posts-list-container">
+<li class="post-item tie-thumb">
+<a href="https://jannah.tielabs.com/travel/2017/04/06/searching-for-dolphins-whales-off-island/" title="Searching For Dolphins &#038; Whales Off Island" class="post-thumb">
+<div class="post-thumb-overlay-wrap">
+<div class="post-thumb-overlay">
+<span class="icon"></span>
+</div>
+</div>
+<img width="780" height="405" src="https://jannah.tielabs.com/travel/wp-content/themes/jannah/assets/images/tie-empty.png" class="attachment-jannah-image-post size-jannah-image-post lazy-img wp-post-image" alt="" data-src="https://jannah.tielabs.com/travel/wp-content/uploads/sites/12/2016/11/travel-15-780x405.jpg" /></a>
+<div class="clearfix"></div>
+<div class="post-overlay">
+<div class="post-content">
+<h5 class="post-cat-wrap"><a class="post-cat tie-cat-165" href="https://jannah.tielabs.com/travel/category/asia/">Asia</a></h5>
+<h3 class="post-title"><a href="https://jannah.tielabs.com/travel/2017/04/06/searching-for-dolphins-whales-off-island/" title="Searching For Dolphins &#038; Whales Off Island">Searching For Dolphins &#038; Whales Off Island</a></h3>
+<div class="thumb-meta"><div class="post-meta">
+<span class="meta-author meta-item"><a href="https://jannah.tielabs.com/travel/author/admin/" class="author-name" title="Fouad Badawy"><span class="fa fa-user" aria-hidden="true"></span> Fouad Badawy</a>
+</span>
+<span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>Apr 6, 2017</span></span><div class="tie-alignright"><span class="meta-comment meta-item"><a href="https://jannah.tielabs.com/travel/2017/04/06/searching-for-dolphins-whales-off-island/#respond"><span class="fa fa-comments" aria-hidden="true"></span> 0</a></span><span class="meta-views meta-item "><span class="tie-icon-fire" aria-hidden="true"></span> 384 </span> </div><div class="clearfix"></div></div></div>
+</div>
+</div>
+</li>
+<li class="post-item tie-slider">
+<a href="https://jannah.tielabs.com/travel/2017/03/16/the-ultimate-guide-to-new-york-city-in-a-weekend/" title="The Ultimate Guide to New York City in a Weekend" class="post-thumb">
+<div class="post-thumb-overlay-wrap">
+<div class="post-thumb-overlay">
+<span class="icon"></span>
+</div>
+</div>
+<img width="390" height="220" src="https://jannah.tielabs.com/travel/wp-content/themes/jannah/assets/images/tie-empty.png" class="attachment-jannah-image-large size-jannah-image-large lazy-img wp-post-image" alt="" data-src="https://jannah.tielabs.com/travel/wp-content/uploads/sites/12/2016/11/travel-19-390x220.jpg" /></a>
+<div class="clearfix"></div>
+<div class="post-overlay">
+<div class="post-content">
+<div class="post-meta"><span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>Mar 16, 2017</span></span><div class="tie-alignright"><span class="meta-comment meta-item"><a href="https://jannah.tielabs.com/travel/2017/03/16/the-ultimate-guide-to-new-york-city-in-a-weekend/#respond"><span class="fa fa-comments" aria-hidden="true"></span> 0</a></span></div><div class="clearfix"></div></div>
+<h3 class="post-title"><a href="https://jannah.tielabs.com/travel/2017/03/16/the-ultimate-guide-to-new-york-city-in-a-weekend/" title="The Ultimate Guide to New York City in a Weekend">The Ultimate Guide to New York City in a Weekend</a></h3>
+<div class="post-meta"></div>
+</div>
+</div>
+</li>
+<li class="post-item tie-thumb">
+<a href="https://jannah.tielabs.com/travel/2017/02/06/explore-south-africa-with-me/" title="Explore South Africa With Me" class="post-thumb">
+<div class="post-thumb-overlay-wrap">
+<div class="post-thumb-overlay">
+<span class="icon"></span>
+</div>
+</div>
+<img width="390" height="220" src="https://jannah.tielabs.com/travel/wp-content/themes/jannah/assets/images/tie-empty.png" class="attachment-jannah-image-large size-jannah-image-large lazy-img wp-post-image" alt="" data-src="https://jannah.tielabs.com/travel/wp-content/uploads/sites/12/2016/11/travel-20-390x220.jpg" /></a>
+<div class="clearfix"></div>
+<div class="post-overlay">
+<div class="post-content">
+<div class="post-meta"><span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>Feb 6, 2017</span></span><div class="tie-alignright"><span class="meta-comment meta-item"><a href="https://jannah.tielabs.com/travel/2017/02/06/explore-south-africa-with-me/#respond"><span class="fa fa-comments" aria-hidden="true"></span> 0</a></span></div><div class="clearfix"></div></div>
+<h3 class="post-title"><a href="https://jannah.tielabs.com/travel/2017/02/06/explore-south-africa-with-me/" title="Explore South Africa With Me">Explore South Africa With Me</a></h3>
+<div class="post-meta"></div>
+</div>
+</div>
+</li>
+<li class="post-item tie-video">
+<a href="https://jannah.tielabs.com/travel/2017/01/26/vinta-camera-bags-17/" title="The Ultimate Hurghada Travel Guide" class="post-thumb">
+<div class="post-thumb-overlay-wrap">
+<div class="post-thumb-overlay">
+<span class="icon"></span>
+</div>
+</div>
+<img width="390" height="220" src="https://jannah.tielabs.com/travel/wp-content/themes/jannah/assets/images/tie-empty.png" class="attachment-jannah-image-large size-jannah-image-large lazy-img wp-post-image" alt="" data-src="https://jannah.tielabs.com/travel/wp-content/uploads/sites/12/2016/11/travel-17-390x220.jpg" /></a>
+<div class="clearfix"></div>
+<div class="post-overlay">
+<div class="post-content">
+<div class="post-meta"><span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>Jan 26, 2017</span></span><div class="tie-alignright"><span class="meta-comment meta-item"><a href="https://jannah.tielabs.com/travel/2017/01/26/vinta-camera-bags-17/#respond"><span class="fa fa-comments" aria-hidden="true"></span> 0</a></span></div><div class="clearfix"></div></div>
+<h3 class="post-title"><a href="https://jannah.tielabs.com/travel/2017/01/26/vinta-camera-bags-17/" title="The Ultimate Hurghada Travel Guide">The Ultimate Hurghada Travel Guide</a></h3>
+<div class="post-meta"></div>
+</div>
+</div>
+</li>
+</ul><div class="clearfix"></div>
+</div>
+</div>
+</div>
+<div id="tie-block_2959" class="mag-box stream-item-mag stream-item content-only">
+<div class="container-wrapper">
+<a href="https://themeforest.net/item/i/19659555?ref=tielabs&utm_source=demos&utm_campaign=jannah&utm_content=travel&utm_medium=ads" title="Buy Jannah Now!" target=&quot;_blank&quot;>
+<img src="https://jannah.tielabs.com/jannah-travel/wp-content/uploads/sites/12/2016/11/travel-img-1.jpg" alt="Buy Jannah Now!" width="728" height="90">
+</a>
+</div>
+</div>
+<div id="tie-block_3036" class="mag-box big-posts-box" data-current="1">
+<div class="container-wrapper">
+<div class="mag-box-title the-global-title">
+<h3>
+Recent Articles </h3>
+</div>
+<div class="mag-box-container clearfix">
+<ul class="posts-items posts-list-container">
+<li class="post-item  post-3582 post type-post status-publish format-standard has-post-thumbnail category-africa tag-egypt tag-hurghada tag-video tie-video">
+<a href="https://jannah.tielabs.com/travel/2017/01/26/vinta-camera-bags-17/" title="The Ultimate Hurghada Travel Guide" class="post-thumb"><h5 class="post-cat-wrap"><span class="post-cat tie-cat-6">Africa</span></h5>
+<div class="post-thumb-overlay-wrap">
+<div class="post-thumb-overlay">
+<span class="icon"></span>
+</div>
+</div>
+<img width="390" height="220" src="https://jannah.tielabs.com/travel/wp-content/themes/jannah/assets/images/tie-empty.png" class="attachment-jannah-image-large size-jannah-image-large lazy-img wp-post-image" alt="" data-src="https://jannah.tielabs.com/travel/wp-content/uploads/sites/12/2016/11/travel-17-390x220.jpg" /></a><div class="post-meta">
+<span class="meta-author meta-item"><a href="https://jannah.tielabs.com/travel/author/yahia/" class="author-name" title="Yahia Ragae"><span class="fa fa-user" aria-hidden="true"></span> Yahia Ragae</a>
+</span>
+<span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>Jan 26, 2017</span></span><div class="tie-alignright"><span class="meta-comment meta-item"><a href="https://jannah.tielabs.com/travel/2017/01/26/vinta-camera-bags-17/#respond"><span class="fa fa-comments" aria-hidden="true"></span> 0</a></span><span class="meta-views meta-item warm"><span class="tie-icon-fire" aria-hidden="true"></span> 580 </span> </div><div class="clearfix"></div></div>
+<div class="post-details">
+<h3 class="post-title"><a href="https://jannah.tielabs.com/travel/2017/01/26/vinta-camera-bags-17/" title="The Ultimate Hurghada Travel Guide">The Ultimate Hurghada Travel Guide</a></h3>
+<p class="post-excerpt">Stay focused and remember we design the best WordPress News and Magazine Themes. It’s the key to more success, why&hellip;</p>
+</div>
+</li>
+<li class="post-item  post-3559 post type-post status-publish format-standard has-post-thumbnail category-asia tag-asia tag-indonesia tie-thumb">
+<a href="https://jannah.tielabs.com/travel/2017/01/26/how-to-find-the-cheapest-flight-to-indonesia/" title="How to Find the Cheapest Flight to Indonesia" class="post-thumb"><h5 class="post-cat-wrap"><span class="post-cat tie-cat-165">Asia</span></h5>
+<div class="post-thumb-overlay-wrap">
+<div class="post-thumb-overlay">
+<span class="icon"></span>
+</div>
+</div>
+<img width="390" height="220" src="https://jannah.tielabs.com/travel/wp-content/themes/jannah/assets/images/tie-empty.png" class="attachment-jannah-image-large size-jannah-image-large lazy-img wp-post-image" alt="" data-src="https://jannah.tielabs.com/travel/wp-content/uploads/sites/12/2016/11/travel-11-390x220.jpg" /></a><div class="post-meta">
+<span class="meta-author meta-item"><a href="https://jannah.tielabs.com/travel/author/yahia/" class="author-name" title="Yahia Ragae"><span class="fa fa-user" aria-hidden="true"></span> Yahia Ragae</a>
+</span>
+<span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>Jan 26, 2017</span></span><div class="tie-alignright"><span class="meta-comment meta-item"><a href="https://jannah.tielabs.com/travel/2017/01/26/how-to-find-the-cheapest-flight-to-indonesia/#respond"><span class="fa fa-comments" aria-hidden="true"></span> 0</a></span><span class="meta-views meta-item warm"><span class="tie-icon-fire" aria-hidden="true"></span> 582 </span> </div><div class="clearfix"></div></div>
+<div class="post-details">
+<h3 class="post-title"><a href="https://jannah.tielabs.com/travel/2017/01/26/how-to-find-the-cheapest-flight-to-indonesia/" title="How to Find the Cheapest Flight to Indonesia">How to Find the Cheapest Flight to Indonesia</a></h3>
+<p class="post-excerpt">Stay focused and remember we design the best WordPress News and Magazine Themes. It’s the key to more success, why&hellip;</p>
+</div>
+</li>
+<li class="post-item  post-3584 post type-post status-publish format-standard has-post-thumbnail category-middle-east tag-jordon tag-petra tie-thumb">
+<a href="https://jannah.tielabs.com/travel/2017/01/11/vinta-camera-bags-18/" title="20 Photos to Inspire You to Visit Petra" class="post-thumb"><h5 class="post-cat-wrap"><span class="post-cat tie-cat-164">Middle East</span></h5>
+<div class="post-thumb-overlay-wrap">
+<div class="post-thumb-overlay">
+<span class="icon"></span>
+</div>
+</div>
+<img width="390" height="220" src="https://jannah.tielabs.com/travel/wp-content/themes/jannah/assets/images/tie-empty.png" class="attachment-jannah-image-large size-jannah-image-large lazy-img wp-post-image" alt="" data-src="https://jannah.tielabs.com/travel/wp-content/uploads/sites/12/2016/11/travel-18-390x220.jpg" /></a><div class="post-meta">
+<span class="meta-author meta-item"><a href="https://jannah.tielabs.com/travel/author/admin/" class="author-name" title="Fouad Badawy"><span class="fa fa-user" aria-hidden="true"></span> Fouad Badawy</a>
+</span>
+<span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>Jan 11, 2017</span></span><div class="tie-alignright"><span class="meta-comment meta-item"><a href="https://jannah.tielabs.com/travel/2017/01/11/vinta-camera-bags-18/#respond"><span class="fa fa-comments" aria-hidden="true"></span> 0</a></span><span class="meta-views meta-item "><span class="tie-icon-fire" aria-hidden="true"></span> 362 </span> </div><div class="clearfix"></div></div>
+<div class="post-details">
+<h3 class="post-title"><a href="https://jannah.tielabs.com/travel/2017/01/11/vinta-camera-bags-18/" title="20 Photos to Inspire You to Visit Petra">20 Photos to Inspire You to Visit Petra</a></h3>
+<p class="post-excerpt">Stay focused and remember we design the best WordPress News and Magazine Themes. It’s the key to more success, why&hellip;</p>
+</div>
+</li>
+<li class="post-item  post-3596 post type-post status-publish format-standard has-post-thumbnail category-africa tag-egypt tag-gallery tie-slider">
+<a href="https://jannah.tielabs.com/travel/2016/11/06/10-super-fun-things-to-do-in-egypt/" title="10 Super Fun Things To Do In Egypt #thisisegypt" class="post-thumb"><h5 class="post-cat-wrap"><span class="post-cat tie-cat-6">Africa</span></h5>
+<div class="post-thumb-overlay-wrap">
+<div class="post-thumb-overlay">
+<span class="icon"></span>
+</div>
+</div>
+<img width="390" height="220" src="https://jannah.tielabs.com/travel/wp-content/themes/jannah/assets/images/tie-empty.png" class="attachment-jannah-image-large size-jannah-image-large lazy-img wp-post-image" alt="" data-src="https://jannah.tielabs.com/travel/wp-content/uploads/sites/12/2016/11/image16-390x220.jpg" /></a><div class="post-meta">
+<span class="meta-author meta-item"><a href="https://jannah.tielabs.com/travel/author/ashraf/" class="author-name" title="Ashraf Reda"><span class="fa fa-user" aria-hidden="true"></span> Ashraf Reda</a>
+</span>
+<span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>Nov 6, 2016</span></span><div class="tie-alignright"><span class="meta-comment meta-item"><a href="https://jannah.tielabs.com/travel/2016/11/06/10-super-fun-things-to-do-in-egypt/#respond"><span class="fa fa-comments" aria-hidden="true"></span> 0</a></span><span class="meta-views meta-item "><span class="tie-icon-fire" aria-hidden="true"></span> 212 </span> </div><div class="clearfix"></div></div>
+<div class="post-details">
+<h3 class="post-title"><a href="https://jannah.tielabs.com/travel/2016/11/06/10-super-fun-things-to-do-in-egypt/" title="10 Super Fun Things To Do In Egypt #thisisegypt">10 Super Fun Things To Do In Egypt #thisisegypt</a></h3>
+<p class="post-excerpt">Stay focused and remember we design the best WordPress News and Magazine Themes. It’s the key to more success, why&hellip;</p>
+</div>
+</li>
+<li class="post-item  post-3594 post type-post status-publish format-standard has-post-thumbnail category-asia tag-elephants tag-thailand tie-thumb">
+<a href="https://jannah.tielabs.com/travel/2016/11/06/why-you-shouldnt-ride-elephants-in-thailand/" title="Why You Shouldn’t Ride Elephants In Thailand" class="post-thumb"><h5 class="post-cat-wrap"><span class="post-cat tie-cat-165">Asia</span></h5>
+<div class="post-thumb-overlay-wrap">
+<div class="post-thumb-overlay">
+<span class="icon"></span>
+</div>
+</div>
+<img width="390" height="220" src="https://jannah.tielabs.com/travel/wp-content/themes/jannah/assets/images/tie-empty.png" class="attachment-jannah-image-large size-jannah-image-large lazy-img wp-post-image" alt="" data-src="https://jannah.tielabs.com/travel/wp-content/uploads/sites/12/2016/11/travel-23-390x220.jpg" /></a><div class="post-meta">
+<span class="meta-author meta-item"><a href="https://jannah.tielabs.com/travel/author/ashraf/" class="author-name" title="Ashraf Reda"><span class="fa fa-user" aria-hidden="true"></span> Ashraf Reda</a>
+</span>
+<span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>Nov 6, 2016</span></span><div class="tie-alignright"><span class="meta-comment meta-item"><a href="https://jannah.tielabs.com/travel/2016/11/06/why-you-shouldnt-ride-elephants-in-thailand/#respond"><span class="fa fa-comments" aria-hidden="true"></span> 0</a></span><span class="meta-views meta-item "><span class="tie-icon-fire" aria-hidden="true"></span> 211 </span> </div><div class="clearfix"></div></div>
+<div class="post-details">
+<h3 class="post-title"><a href="https://jannah.tielabs.com/travel/2016/11/06/why-you-shouldnt-ride-elephants-in-thailand/" title="Why You Shouldn’t Ride Elephants In Thailand">Why You Shouldn’t Ride Elephants In Thailand</a></h3>
+<p class="post-excerpt">Stay focused and remember we design the best WordPress News and Magazine Themes. It’s the key to more success, why&hellip;</p>
+</div>
+</li>
+<li class="post-item  post-3592 post type-post status-publish format-standard has-post-thumbnail category-europe tag-europe tag-france tag-lyon tie-thumb">
+<a href="https://jannah.tielabs.com/travel/2016/11/06/10-reasons-to-visit-lyon-france/" title="10 Reasons to Visit Lyon, France" class="post-thumb"><h5 class="post-cat-wrap"><span class="post-cat tie-cat-64">Europe</span></h5>
+<div class="post-thumb-overlay-wrap">
+<div class="post-thumb-overlay">
+<span class="icon"></span>
+</div>
+</div>
+<img width="390" height="220" src="https://jannah.tielabs.com/travel/wp-content/themes/jannah/assets/images/tie-empty.png" class="attachment-jannah-image-large size-jannah-image-large lazy-img wp-post-image" alt="" data-src="https://jannah.tielabs.com/travel/wp-content/uploads/sites/12/2016/11/travel-22-390x220.jpg" /></a><div class="post-meta">
+<span class="meta-author meta-item"><a href="https://jannah.tielabs.com/travel/author/ashraf/" class="author-name" title="Ashraf Reda"><span class="fa fa-user" aria-hidden="true"></span> Ashraf Reda</a>
+</span>
+<span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>Nov 6, 2016</span></span><div class="tie-alignright"><span class="meta-comment meta-item"><a href="https://jannah.tielabs.com/travel/2016/11/06/10-reasons-to-visit-lyon-france/#respond"><span class="fa fa-comments" aria-hidden="true"></span> 0</a></span><span class="meta-views meta-item "><span class="tie-icon-fire" aria-hidden="true"></span> 254 </span> </div><div class="clearfix"></div></div>
+<div class="post-details">
+<h3 class="post-title"><a href="https://jannah.tielabs.com/travel/2016/11/06/10-reasons-to-visit-lyon-france/" title="10 Reasons to Visit Lyon, France">10 Reasons to Visit Lyon, France</a></h3>
+<p class="post-excerpt">Stay focused and remember we design the best WordPress News and Magazine Themes. It’s the key to more success, why&hellip;</p>
+</div>
+</li>
+</ul><div class="clearfix"></div>
+</div>
+<a class="block-pagination next-posts show-more-button load-more-button" data-text="Load More">Load More</a>
+</div>
+</div>
+<script>var js_tie_block_3036 = {"order":"latest","number":"6","offset":"4","pagi":"load-more","excerpt":"true","post_meta":"true","breaking_effect":"reveal","sub_style":"big","style":"default"};</script>
+</div>
+<aside class="sidebar tie-col-md-4 tie-col-xs-12 normal-side is-sticky" aria-label="Primary Sidebar">
+<div class="theiaStickySidebar">
+<div id="tie-weather-widget-10" class="widget tie-weather-widget">
+<div id="tie-weather-cairo" class="weather-wrap is-animated">
+<div class="weather-icon-and-city">
+<div class="weather-icon">
+<div class="icon-sun"></div>
+</div>
+<h6 class="weather-name">Cairo</h6>
+<div class="weather-desc">clear sky</div>
+</div>
+<div class="weather-todays-stats">
+<div class="weather-current-temp">
+28 <sup>&#x2103;</sup>
+</div>
+<div class="weather-more-todays-stats">
+<div class="weather_highlow">
+<span aria-hidden="true" class="tie-icon-thermometer-half"></span> 40&ordm; - 27&ordm;
+</div>
+<div class="weather_humidty">
+<span aria-hidden="true" class="tie-icon-raindrop"></span>
+<span class="screen-reader-text"></span> 58%
+</div>
+<div class="weather_wind">
+<span aria-hidden="true" class="tie-icon-wind"></span>
+<span class="screen-reader-text"></span> 3.1 km/h</div>
+</div>
+</div> 
+<div class="weather-forecast small-weather-icons weather_days_5">
+<div class="weather-forecast-day">
+<div class="weather-icon">
+<div class="icon-sun"></div>
+</div>
+<div class="weather-forecast-day-temp">40<sup>&#x2103;</sup></div>
+<div class="weather-forecast-day-abbr">Thu</div>
+</div>
+<div class="weather-forecast-day">
+<div class="weather-icon">
+<div class="icon-sun"></div>
+</div>
+<div class="weather-forecast-day-temp">37<sup>&#x2103;</sup></div>
+<div class="weather-forecast-day-abbr">Fri</div>
+</div>
+<div class="weather-forecast-day">
+<div class="weather-icon">
+<div class="icon-sun"></div>
+</div>
+<div class="weather-forecast-day-temp">36<sup>&#x2103;</sup></div>
+<div class="weather-forecast-day-abbr">Sat</div>
+</div>
+<div class="weather-forecast-day">
+<div class="weather-icon">
+<div class="icon-sun"></div>
+</div>
+<div class="weather-forecast-day-temp">35<sup>&#x2103;</sup></div>
+<div class="weather-forecast-day-abbr">Sun</div>
+</div>
+<div class="weather-forecast-day">
+<div class="weather-icon">
+<div class="icon-sun"></div>
+</div>
+<div class="weather-forecast-day-temp">36<sup>&#x2103;</sup></div>
+<div class="weather-forecast-day-abbr">Mon</div>
+</div>
+</div>
+</div> 
+<style scoped type="text/css">
+						#tie-weather-widget-10,
+						#tie-weather-widget-10 .widget-title h4{
+							color: #fcb000;
+						}
+					
+						#tie-weather-widget-10{
+							background-color: #ffffff;
+						}
+
+						#tie-weather-widget-10 .icon-basecloud-bg:after{
+							color: #ffffff;
+						}
+					</style><div class="clearfix"></div></div><div id="social-statistics-2" class="container-wrapper widget social-statistics-widget"><div class="widget-title the-global-title"><h4>Follow Me</h4></div>
+<ul class="solid-social-icons solid-social-icons white-bg squared-four-cols circle-icons Arqam-Lite">
+<li class="social-icons-item">
+<a class="facebook-social-icon" href="https://www.facebook.com/tielabs" rel="nofollow" target="_blank">
+<span class="counter-icon fa fa-facebook"></span> <span class="followers">
+<span class="followers-num">13,627</span>
+<span class="followers-name">Fans</span>
+</span>
+</a>
+</li>
+<li class="social-icons-item">
+<a class="twitter-social-icon" href="https://twitter.com/tielabs" rel="nofollow" target="_blank">
+<span class="counter-icon fa fa-twitter"></span> <span class="followers">
+<span class="followers-num">886</span>
+<span class="followers-name">Followers</span>
+</span>
+</a>
+</li>
+<li class="social-icons-item">
+<a class="youtube-social-icon" href="https://youtube.com/user/TEAMMESAI" rel="nofollow" target="_blank">
+<span class="counter-icon fa fa-youtube"></span> <span class="followers">
+<span class="followers-num">11,551</span>
+<span class="followers-name">Followers</span>
+</span>
+</a>
+</li>
+<li class="social-icons-item">
+<a class="instagram-social-icon" href="https://instagram.com/imo3aser" rel="nofollow" target="_blank">
+<span class="counter-icon fa fa-instagram"></span> <span class="followers">
+<span class="followers-num">2,288</span>
+<span class="followers-name">Followers</span>
+</span>
+</a>
+</li>
+</ul>
+<div class="clearfix"></div></div><div id="posts-list-widget-6" class="container-wrapper widget posts-list"><div class="widget-title the-global-title"><h4>Popular Articles</h4></div><div class="posts-list-counter"><ul class="posts-list-items">
+<li class="widget-post-list tie-video">
+<div class="post-widget-thumbnail">
+<a href="https://jannah.tielabs.com/travel/2017/01/26/vinta-camera-bags-17/" title="The Ultimate Hurghada Travel Guide" class="post-thumb">
+<div class="post-thumb-overlay-wrap">
+<div class="post-thumb-overlay">
+<span class="icon"></span>
+</div>
+</div>
+<img width="220" height="150" src="https://jannah.tielabs.com/travel/wp-content/themes/jannah/assets/images/tie-empty-small.png" class="attachment-jannah-image-small size-jannah-image-small lazy-img tie-small-image wp-post-image" alt="" data-src="https://jannah.tielabs.com/travel/wp-content/uploads/sites/12/2016/11/travel-17-220x150.jpg" /></a> </div>
+<div class="post-widget-body ">
+<h3 class="post-title"><a href="https://jannah.tielabs.com/travel/2017/01/26/vinta-camera-bags-17/" title="The Ultimate Hurghada Travel Guide">The Ultimate Hurghada Travel Guide</a></h3>
+<div class="post-meta">
+<span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>Jan 26, 2017</span></span> </div>
+</div>
+</li>
+<li class="widget-post-list tie-thumb">
+<div class="post-widget-thumbnail">
+<a href="https://jannah.tielabs.com/travel/2017/04/06/searching-for-dolphins-whales-off-island/" title="Searching For Dolphins &#038; Whales Off Island" class="post-thumb">
+<div class="post-thumb-overlay-wrap">
+<div class="post-thumb-overlay">
+<span class="icon"></span>
+</div>
+</div>
+ <img width="220" height="150" src="https://jannah.tielabs.com/travel/wp-content/themes/jannah/assets/images/tie-empty-small.png" class="attachment-jannah-image-small size-jannah-image-small lazy-img tie-small-image wp-post-image" alt="" data-src="https://jannah.tielabs.com/travel/wp-content/uploads/sites/12/2016/11/travel-15-220x150.jpg" /></a> </div>
+<div class="post-widget-body ">
+<h3 class="post-title"><a href="https://jannah.tielabs.com/travel/2017/04/06/searching-for-dolphins-whales-off-island/" title="Searching For Dolphins &#038; Whales Off Island">Searching For Dolphins &#038; Whales Off Island</a></h3>
+<div class="post-meta">
+<span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>Apr 6, 2017</span></span> </div>
+</div>
+</li>
+<li class="widget-post-list tie-thumb">
+<div class="post-widget-thumbnail">
+<a href="https://jannah.tielabs.com/travel/2017/01/11/vinta-camera-bags-18/" title="20 Photos to Inspire You to Visit Petra" class="post-thumb">
+<div class="post-thumb-overlay-wrap">
+<div class="post-thumb-overlay">
+<span class="icon"></span>
+</div>
+</div>
+<img width="220" height="150" src="https://jannah.tielabs.com/travel/wp-content/themes/jannah/assets/images/tie-empty-small.png" class="attachment-jannah-image-small size-jannah-image-small lazy-img tie-small-image wp-post-image" alt="" data-src="https://jannah.tielabs.com/travel/wp-content/uploads/sites/12/2016/11/travel-18-220x150.jpg" /></a> </div>
+<div class="post-widget-body ">
+<h3 class="post-title"><a href="https://jannah.tielabs.com/travel/2017/01/11/vinta-camera-bags-18/" title="20 Photos to Inspire You to Visit Petra">20 Photos to Inspire You to Visit Petra</a></h3>
+<div class="post-meta">
+<span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>Jan 11, 2017</span></span> </div>
+</div>
+</li>
+<li class="widget-post-list tie-thumb">
+<div class="post-widget-thumbnail">
+<a href="https://jannah.tielabs.com/travel/2017/04/06/where-to-find-the-best-food-in-montreal/" title="Where to Find the Best Food in Montreal" class="post-thumb">
+<div class="post-thumb-overlay-wrap">
+<div class="post-thumb-overlay">
+<span class="icon"></span>
+</div>
+</div>
+<img width="220" height="150" src="https://jannah.tielabs.com/travel/wp-content/themes/jannah/assets/images/tie-empty-small.png" class="attachment-jannah-image-small size-jannah-image-small lazy-img tie-small-image wp-post-image" alt="" data-src="https://jannah.tielabs.com/travel/wp-content/uploads/sites/12/2016/11/travel-16-220x150.jpg" /></a> </div>
+<div class="post-widget-body ">
+<h3 class="post-title"><a href="https://jannah.tielabs.com/travel/2017/04/06/where-to-find-the-best-food-in-montreal/" title="Where to Find the Best Food in Montreal">Where to Find the Best Food in Montreal</a></h3>
+<div class="post-meta">
+<span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>Apr 6, 2017</span></span> </div>
+</div>
+</li>
+<li class="widget-post-list tie-thumb">
+<div class="post-widget-thumbnail">
+<a href="https://jannah.tielabs.com/travel/2016/11/06/10-reasons-to-visit-lyon-france/" title="10 Reasons to Visit Lyon, France" class="post-thumb">
+<div class="post-thumb-overlay-wrap">
+<div class="post-thumb-overlay">
+<span class="icon"></span>
+</div>
+</div>
+<img width="220" height="150" src="https://jannah.tielabs.com/travel/wp-content/themes/jannah/assets/images/tie-empty-small.png" class="attachment-jannah-image-small size-jannah-image-small lazy-img tie-small-image wp-post-image" alt="" data-src="https://jannah.tielabs.com/travel/wp-content/uploads/sites/12/2016/11/travel-22-220x150.jpg" /></a> </div>
+<div class="post-widget-body ">
+<h3 class="post-title"><a href="https://jannah.tielabs.com/travel/2016/11/06/10-reasons-to-visit-lyon-france/" title="10 Reasons to Visit Lyon, France">10 Reasons to Visit Lyon, France</a></h3>
+<div class="post-meta">
+<span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>Nov 6, 2016</span></span> </div>
+</div>
+</li>
+</ul></div><div class="clearfix"></div></div><div id="stream-item-widget-13" class="widget stream-item-widget widget-content-only"><div class="stream-item-widget-content"><a href="https://themeforest.net/item/i/19659555?ref=tielabs&#038;utm_source=demos&#038;utm_campaign=jannah&#038;utm_content=travel&#038;utm_medium=ads" target="_blank"><img src="https://jannah.tielabs.com/jannah-travel/wp-content/uploads/sites/12/2016/11/travel-img-2.jpg" width="728" height="90" alt=""></a></div></div><div id="latest_tweets_widget-3" class="container-wrapper widget latest-tweets-widget"><div class="widget-title the-global-title"><h4><a href="https://twitter.com/tielabs" target="_blank">Follow me on Twitter</a></h4></div>
+<ul class="tie-slick-slider">
+<li class="slide">
+<div class="twitter-icon-wrap">
+<span class="fa fa-twitter" aria-hidden="true"></span>
+</div>
+<div class="tweetaya-body">
+<p><a href="https://twitter.com/kamalbadawy" target="_blank">@kamalbadawy</a> If you have any further questions or need assistance, renew you support, and open a ticket… <a href="https://t.co/ZI9HyF3mQZ" target="_blank">https://t.co/ZI9HyF3mQZ</a></p>
+<span class="tweetaya-meta"><a href="https://twitter.com/#!/tielabs/status/970523177733541888" title="2018/03/05 04:55:31" target="_blank" rel="nofollow">2018/03/05</a></span>
+</div>
+</li>
+<li class="slide">
+<div class="twitter-icon-wrap">
+<span class="fa fa-twitter" aria-hidden="true"></span>
+</div>
+<div class="tweetaya-body">
+<p><a href="https://twitter.com/kamalbadawy" target="_blank">@kamalbadawy</a> In the theme options page &gt; Ads tab &gt; header Ad &gt; custom code section</p>
+<span class="tweetaya-meta"><a href="https://twitter.com/#!/tielabs/status/970519637850017793" title="2018/03/05 04:41:27" target="_blank" rel="nofollow">2018/03/05</a></span>
+</div>
+</li>
+<li class="slide">
+<div class="twitter-icon-wrap">
+<span class="fa fa-twitter" aria-hidden="true"></span>
+</div>
+<div class="tweetaya-body">
+<p><a href="https://twitter.com/kamalbadawy" target="_blank">@kamalbadawy</a> Hi,
+Please provide us with the Ticket ID.</p>
+<span class="tweetaya-meta"><a href="https://twitter.com/#!/tielabs/status/970156798694035456" title="2018/03/04 04:39:40" target="_blank" rel="nofollow">2018/03/04</a></span>
+</div>
+</li>
+</ul>
+<div class="slider-links">
+<ul class="tie-slider-nav"></ul><a href="https://twitter.com/tielabs" target="_blank" rel="nofollow" class="button">Follow Us</a>
+</div>
+<div class="clearfix"></div>
+<div class="clearfix"></div></div> </div>
+</aside>
+</div>
+</div>
+</div>
+</div>
+<footer id="footer" class="site-footer dark-skin dark-widgetized-area">
+<div id="footer-instagram" class="footer-instagram-section">
+<a id="instagram-link" target="_blank" rel="nofollow" href="https://www.instagram.com/tassiegrammer/"><span class="fa fa-instagram" aria-hidden="true"></span> Follow Me</a>
+<div class="tie-insta-box instagram-lightbox">
+<div class="tie-insta-photos">
+<div class="tie-insta-post">
+<a href="https://scontent-frx5-1.cdninstagram.com/vp/defd0c95374347ae7f9b22e88b5101a6/5BF0CACB/t51.2885-15/e35/36816650_607202713180692_2586072316559491072_n.jpg" class="lightbox-enabled" data-options="thumbnail: 'https://scontent-frx5-1.cdninstagram.com/vp/b75574ef05a10d6cc4e7eeef167de78f/5BEE9B88/t51.2885-15/sh0.08/e35/c0.135.1080.1080/s640x640/36816650_607202713180692_2586072316559491072_n.jpg', width: 640, height: 640" data-title="" data-caption="&lt;span class='fa fa-heart'&gt;&lt;/span&gt; &nbsp;4,973&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;span class='fa fa-comment'&gt;&lt;/span&gt; &nbsp;119" target="_blank" rel="nofollow">
+<img src="https://scontent-frx5-1.cdninstagram.com/vp/b75574ef05a10d6cc4e7eeef167de78f/5BEE9B88/t51.2885-15/sh0.08/e35/c0.135.1080.1080/s640x640/36816650_607202713180692_2586072316559491072_n.jpg" width="640" heigh="640" alt="" />
+</a> </div>
+<div class="tie-insta-post">
+<a href="https://scontent-frx5-1.cdninstagram.com/vp/13d8c32e2d97a129cfd599a1d20cafc4/5BD34075/t51.2885-15/e35/36136573_262316691209765_1750336165396873216_n.jpg" class="lightbox-enabled" data-options="thumbnail: 'https://scontent-frx5-1.cdninstagram.com/vp/40a63a96961ac0487d4b48830f666bfd/5BD29836/t51.2885-15/sh0.08/e35/c0.135.1080.1080/s640x640/36136573_262316691209765_1750336165396873216_n.jpg', width: 640, height: 640" data-title="" data-caption="&lt;span class='fa fa-heart'&gt;&lt;/span&gt; &nbsp;6,338&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;span class='fa fa-comment'&gt;&lt;/span&gt; &nbsp;161" target="_blank" rel="nofollow">
+<img src="https://scontent-frx5-1.cdninstagram.com/vp/40a63a96961ac0487d4b48830f666bfd/5BD29836/t51.2885-15/sh0.08/e35/c0.135.1080.1080/s640x640/36136573_262316691209765_1750336165396873216_n.jpg" width="640" heigh="640" alt="" />
+</a> </div>
+<div class="tie-insta-post">
+<a href="https://scontent-frx5-1.cdninstagram.com/vp/94302626a7312f9d8a07e3b4a6193f37/5BD47084/t51.2885-15/e35/34548900_575539906181187_5735632883381436416_n.jpg" class="lightbox-enabled" data-options="thumbnail: 'https://scontent-frx5-1.cdninstagram.com/vp/101d44508266681c88a562d6e10498f4/5BDA53C7/t51.2885-15/sh0.08/e35/c0.135.1080.1080/s640x640/34548900_575539906181187_5735632883381436416_n.jpg', width: 640, height: 640" data-title="" data-caption="&lt;span class='fa fa-heart'&gt;&lt;/span&gt; &nbsp;7,545&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;span class='fa fa-comment'&gt;&lt;/span&gt; &nbsp;189" target="_blank" rel="nofollow">
+<img src="https://scontent-frx5-1.cdninstagram.com/vp/101d44508266681c88a562d6e10498f4/5BDA53C7/t51.2885-15/sh0.08/e35/c0.135.1080.1080/s640x640/34548900_575539906181187_5735632883381436416_n.jpg" width="640" heigh="640" alt="" />
+</a> </div>
+<div class="tie-insta-post">
+<a href="https://scontent-frx5-1.cdninstagram.com/vp/64b18373a2cadd40a7bced7af78ad590/5BDAC6E9/t51.2885-15/e35/35328207_449015285560582_2936328458621419520_n.jpg" class="lightbox-enabled" data-options="thumbnail: 'https://scontent-frx5-1.cdninstagram.com/vp/b022529406b5f3bddab5016f0dfade12/5C0A16AA/t51.2885-15/sh0.08/e35/c0.135.1080.1080/s640x640/35328207_449015285560582_2936328458621419520_n.jpg', width: 640, height: 640" data-title="" data-caption="&lt;span class='fa fa-heart'&gt;&lt;/span&gt; &nbsp;4,442&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;span class='fa fa-comment'&gt;&lt;/span&gt; &nbsp;101" target="_blank" rel="nofollow">
+<img src="https://scontent-frx5-1.cdninstagram.com/vp/b022529406b5f3bddab5016f0dfade12/5C0A16AA/t51.2885-15/sh0.08/e35/c0.135.1080.1080/s640x640/35328207_449015285560582_2936328458621419520_n.jpg" width="640" heigh="640" alt="" />
+</a> </div>
+<div class="tie-insta-post">
+<a href="https://scontent-frx5-1.cdninstagram.com/vp/7215c77b56ddbcb24976d197555c453f/5C139D62/t51.2885-15/e35/33157269_459971341108609_8400414865096704000_n.jpg" class="lightbox-enabled" data-options="thumbnail: 'https://scontent-frx5-1.cdninstagram.com/vp/43f92713c627ca6683e3df82c79b096f/5BF6E421/t51.2885-15/sh0.08/e35/c0.135.1080.1080/s640x640/33157269_459971341108609_8400414865096704000_n.jpg', width: 640, height: 640" data-title="" data-caption="&lt;span class='fa fa-heart'&gt;&lt;/span&gt; &nbsp;6,702&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;span class='fa fa-comment'&gt;&lt;/span&gt; &nbsp;270" target="_blank" rel="nofollow">
+<img src="https://scontent-frx5-1.cdninstagram.com/vp/43f92713c627ca6683e3df82c79b096f/5BF6E421/t51.2885-15/sh0.08/e35/c0.135.1080.1080/s640x640/33157269_459971341108609_8400414865096704000_n.jpg" width="640" heigh="640" alt="" />
+</a> </div>
+<div class="tie-insta-post">
+<a href="https://scontent-frx5-1.cdninstagram.com/vp/129b352ae13a17eb52911281afc6c12b/5C13C0E4/t51.2885-15/e35/27892442_1506721646092369_1036000829678551040_n.jpg" class="lightbox-enabled" data-options="thumbnail: 'https://scontent-frx5-1.cdninstagram.com/vp/313d1b028c184dd594cd1377c124403e/5C09BC7C/t51.2885-15/sh0.08/e35/c0.135.1080.1080/s640x640/27892442_1506721646092369_1036000829678551040_n.jpg', width: 640, height: 640" data-title="" data-caption="&lt;span class='fa fa-heart'&gt;&lt;/span&gt; &nbsp;7,719&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;span class='fa fa-comment'&gt;&lt;/span&gt; &nbsp;1,473" target="_blank" rel="nofollow">
+<img src="https://scontent-frx5-1.cdninstagram.com/vp/313d1b028c184dd594cd1377c124403e/5C09BC7C/t51.2885-15/sh0.08/e35/c0.135.1080.1080/s640x640/27892442_1506721646092369_1036000829678551040_n.jpg" width="640" heigh="640" alt="" />
+</a> </div>
+</div>
+</div>
+</div>
+<div id="footer-widgets-container">
+<div class="container">
+<div class="footer-widget-area ">
+<div class="tie-row">
+<div class="tie-col-sm-6 normal-side">
+<div id="tag_cloud-6" class="container-wrapper widget widget_tag_cloud"><div class="widget-title the-global-title"><h4>Tags</h4></div><div class="tagcloud"><a href="https://jannah.tielabs.com/travel/tag/alexandria/" class="tag-cloud-link tag-link-174 tag-link-position-1" style="font-size: 8pt;" aria-label="alexandria (1 item)">alexandria</a>
+<a href="https://jannah.tielabs.com/travel/tag/asia/" class="tag-cloud-link tag-link-175 tag-link-position-2" style="font-size: 22pt;" aria-label="asia (6 items)">asia</a>
+<a href="https://jannah.tielabs.com/travel/tag/cairo/" class="tag-cloud-link tag-link-177 tag-link-position-3" style="font-size: 8pt;" aria-label="cairo (1 item)">cairo</a>
+<a href="https://jannah.tielabs.com/travel/tag/cape-town/" class="tag-cloud-link tag-link-176 tag-link-position-4" style="font-size: 8pt;" aria-label="Cape Town (1 item)">Cape Town</a>
+<a href="https://jannah.tielabs.com/travel/tag/china/" class="tag-cloud-link tag-link-178 tag-link-position-5" style="font-size: 12.581818181818pt;" aria-label="China (2 items)">China</a>
+<a href="https://jannah.tielabs.com/travel/tag/dolphins/" class="tag-cloud-link tag-link-170 tag-link-position-6" style="font-size: 8pt;" aria-label="Dolphins (1 item)">Dolphins</a>
+<a href="https://jannah.tielabs.com/travel/tag/egypt/" class="tag-cloud-link tag-link-145 tag-link-position-7" style="font-size: 20.218181818182pt;" aria-label="Egypt (5 items)">Egypt</a>
+<a href="https://jannah.tielabs.com/travel/tag/elephants/" class="tag-cloud-link tag-link-169 tag-link-position-8" style="font-size: 8pt;" aria-label="Elephants (1 item)">Elephants</a>
+<a href="https://jannah.tielabs.com/travel/tag/europe/" class="tag-cloud-link tag-link-184 tag-link-position-9" style="font-size: 15.636363636364pt;" aria-label="europe (3 items)">europe</a>
+<a href="https://jannah.tielabs.com/travel/tag/food/" class="tag-cloud-link tag-link-154 tag-link-position-10" style="font-size: 8pt;" aria-label="food (1 item)">food</a>
+<a href="https://jannah.tielabs.com/travel/tag/gallery/" class="tag-cloud-link tag-link-199 tag-link-position-11" style="font-size: 18.181818181818pt;" aria-label="gallery (4 items)">gallery</a>
+<a href="https://jannah.tielabs.com/travel/tag/hurghada/" class="tag-cloud-link tag-link-173 tag-link-position-12" style="font-size: 8pt;" aria-label="hurghada (1 item)">hurghada</a>
+<a href="https://jannah.tielabs.com/travel/tag/life-style/" class="tag-cloud-link tag-link-155 tag-link-position-13" style="font-size: 8pt;" aria-label="life style (1 item)">life style</a>
+<a href="https://jannah.tielabs.com/travel/tag/south-africa/" class="tag-cloud-link tag-link-172 tag-link-position-14" style="font-size: 8pt;" aria-label="South Africa (1 item)">South Africa</a>
+<a href="https://jannah.tielabs.com/travel/tag/thailand/" class="tag-cloud-link tag-link-168 tag-link-position-15" style="font-size: 8pt;" aria-label="Thailand (1 item)">Thailand</a>
+<a href="https://jannah.tielabs.com/travel/tag/timeline/" class="tag-cloud-link tag-link-163 tag-link-position-16" style="font-size: 8pt;" aria-label="timeline (1 item)">timeline</a>
+<a href="https://jannah.tielabs.com/travel/tag/video/" class="tag-cloud-link tag-link-62 tag-link-position-17" style="font-size: 20.218181818182pt;" aria-label="Video (5 items)">Video</a>
+<a href="https://jannah.tielabs.com/travel/tag/whales/" class="tag-cloud-link tag-link-171 tag-link-position-18" style="font-size: 8pt;" aria-label="Whales (1 item)">Whales</a></div>
+<div class="clearfix"></div></div> </div>
+<div class="tie-col-sm-3 normal-side">
+<div id="posts-list-widget-8" class="container-wrapper widget posts-list"><div class="widget-title the-global-title"><h4>Last Modified Posts</h4></div><div class="posts-pictures-widget"><div class="tie-row"> <div class="tie-col-xs-4 tie-thumb">
+<a href="https://jannah.tielabs.com/travel/2016/11/06/vinta-camera-bags/" title="Ten Tips for Your First Trip to China" class="post-thumb">
+<div class="post-thumb-overlay-wrap">
+<div class="post-thumb-overlay">
+<span class="icon"></span>
+</div>
+</div>
+<img width="390" height="220" src="https://jannah.tielabs.com/travel/wp-content/themes/jannah/assets/images/tie-empty.png" class="attachment-jannah-image-large size-jannah-image-large lazy-img wp-post-image" alt="" data-src="https://jannah.tielabs.com/travel/wp-content/uploads/sites/12/2016/11/travel-1-390x220.jpg" /></a> </div>
+<div class="tie-col-xs-4 tie-thumb">
+<a href="https://jannah.tielabs.com/travel/2016/11/06/where-to-find-the-best-food-in-tulum/" title="Where To Find The Best Food in Tulum" class="post-thumb">
+<div class="post-thumb-overlay-wrap">
+<div class="post-thumb-overlay">
+<span class="icon"></span>
+</div>
+</div>
+<img width="390" height="220" src="https://jannah.tielabs.com/travel/wp-content/themes/jannah/assets/images/tie-empty.png" class="attachment-jannah-image-large size-jannah-image-large lazy-img wp-post-image" alt="" data-src="https://jannah.tielabs.com/travel/wp-content/uploads/sites/12/2016/11/travel-8-390x220.jpg" /></a> </div>
+<div class="tie-col-xs-4 tie-video">
+<a href="https://jannah.tielabs.com/travel/2016/11/06/vinta-camera-bags-7/" title="10 Incredible Adventures to Have in Egypt" class="post-thumb">
+<div class="post-thumb-overlay-wrap">
+<div class="post-thumb-overlay">
+<span class="icon"></span>
+</div>
+</div>
+<img width="390" height="220" src="https://jannah.tielabs.com/travel/wp-content/themes/jannah/assets/images/tie-empty.png" class="attachment-jannah-image-large size-jannah-image-large lazy-img wp-post-image" alt="" data-src="https://jannah.tielabs.com/travel/wp-content/uploads/sites/12/2016/11/travel-7-390x220.jpg" /></a> </div>
+<div class="tie-col-xs-4 tie-video">
+<a href="https://jannah.tielabs.com/travel/2016/11/06/20-photos-to-inspire-you-to-visit-bali/" title="20 Photos to Inspire You to Visit Bali" class="post-thumb">
+<div class="post-thumb-overlay-wrap">
+<div class="post-thumb-overlay">
+<span class="icon"></span>
+</div>
+</div>
+<img width="390" height="220" src="https://jannah.tielabs.com/travel/wp-content/themes/jannah/assets/images/tie-empty.png" class="attachment-jannah-image-large size-jannah-image-large lazy-img wp-post-image" alt="" data-src="https://jannah.tielabs.com/travel/wp-content/uploads/sites/12/2016/11/travel-6-390x220.jpg" /></a> </div>
+<div class="tie-col-xs-4 tie-thumb">
+<a href="https://jannah.tielabs.com/travel/2016/11/06/the-best-time-to-go-to-italy/" title="The Best Time to Go to Italy" class="post-thumb">
+<div class="post-thumb-overlay-wrap">
+<div class="post-thumb-overlay">
+<span class="icon"></span>
+</div>
+</div>
+<img width="390" height="220" src="https://jannah.tielabs.com/travel/wp-content/themes/jannah/assets/images/tie-empty.png" class="attachment-jannah-image-large size-jannah-image-large lazy-img wp-post-image" alt="" data-src="https://jannah.tielabs.com/travel/wp-content/uploads/sites/12/2016/11/travel-5-390x220.jpg" /></a> </div>
+<div class="tie-col-xs-4 tie-video">
+<a href="https://jannah.tielabs.com/travel/2016/11/06/10-incredible-adventures-to-have-in-china/" title="10 Incredible Adventures to Have in China" class="post-thumb">
+<div class="post-thumb-overlay-wrap">
+<div class="post-thumb-overlay">
+<span class="icon"></span>
+</div>
+</div>
+<img width="390" height="220" src="https://jannah.tielabs.com/travel/wp-content/themes/jannah/assets/images/tie-empty.png" class="attachment-jannah-image-large size-jannah-image-large lazy-img wp-post-image" alt="" data-src="https://jannah.tielabs.com/travel/wp-content/uploads/sites/12/2016/11/travel-4-390x220.jpg" /></a> </div>
+<div class="tie-col-xs-4 tie-thumb">
+<a href="https://jannah.tielabs.com/travel/2016/11/06/10-photos-to-inspire-you-to-visit-cape-town/" title="10 Photos to Inspire You to Visit Cape Town" class="post-thumb">
+<div class="post-thumb-overlay-wrap">
+<div class="post-thumb-overlay">
+<span class="icon"></span>
+</div>
+</div>
+<img width="390" height="220" src="https://jannah.tielabs.com/travel/wp-content/themes/jannah/assets/images/tie-empty.png" class="attachment-jannah-image-large size-jannah-image-large lazy-img wp-post-image" alt="" data-src="https://jannah.tielabs.com/travel/wp-content/uploads/sites/12/2016/11/travel-3-390x220.jpg" /></a> </div>
+<div class="tie-col-xs-4 tie-slider">
+<a href="https://jannah.tielabs.com/travel/2016/11/06/20-tips-for-your-first-trip-to-tokyo/" title="20 Tips for Your First Trip to Tokyo" class="post-thumb">
+<div class="post-thumb-overlay-wrap">
+<div class="post-thumb-overlay">
+<span class="icon"></span>
+</div>
+</div>
+<img width="390" height="220" src="https://jannah.tielabs.com/travel/wp-content/themes/jannah/assets/images/tie-empty.png" class="attachment-jannah-image-large size-jannah-image-large lazy-img wp-post-image" alt="" data-src="https://jannah.tielabs.com/travel/wp-content/uploads/sites/12/2016/11/travel-2-390x220.jpg" /></a> </div>
+<div class="tie-col-xs-4 tie-thumb">
+<a href="https://jannah.tielabs.com/travel/2017/04/06/where-to-find-the-best-food-in-montreal/" title="Where to Find the Best Food in Montreal" class="post-thumb">
+<div class="post-thumb-overlay-wrap">
+<div class="post-thumb-overlay">
+<span class="icon"></span>
+</div>
+</div>
+<img width="390" height="220" src="https://jannah.tielabs.com/travel/wp-content/themes/jannah/assets/images/tie-empty.png" class="attachment-jannah-image-large size-jannah-image-large lazy-img wp-post-image" alt="" data-src="https://jannah.tielabs.com/travel/wp-content/uploads/sites/12/2016/11/travel-16-390x220.jpg" /></a> </div>
+</div></div><div class="clearfix"></div></div> </div>
+<div class="tie-col-sm-3 normal-side">
+<div id="tie-widget-categories-2" class="container-wrapper widget widget_categories tie-widget-categories"><div class="widget-title the-global-title"><h4>Destinations</h4></div><ul> <li class="cat-item cat-counter tie-cat-item-6"><a href="https://jannah.tielabs.com/travel/category/africa/" title="Beautiful photography and adventure travel stories from Africa.">Africa</a> <span>10</span>
+</li>
+<li class="cat-item cat-counter tie-cat-item-1"><a href="https://jannah.tielabs.com/travel/category/north-america/" title="This is the place of all the world latest news, get it and make sure you always follow us to be up to dated all the time. ">North America</a> <span>8</span>
+</li>
+<li class="cat-item cat-counter tie-cat-item-165"><a href="https://jannah.tielabs.com/travel/category/asia/" title="Beautiful photography and adventure travel stories from Asia.">Asia</a> <span>8</span>
+</li>
+<li class="cat-item cat-counter tie-cat-item-64"><a href="https://jannah.tielabs.com/travel/category/europe/">Europe</a> <span>7</span>
+</li>
+<li class="cat-item cat-counter tie-cat-item-164"><a href="https://jannah.tielabs.com/travel/category/middle-east/">Middle East</a> <span>7</span>
+</li>
+</ul><div class="clearfix"></div></div> </div>
+</div>
+</div>
+<div class="footer-widget-area ">
+<div class="tie-row">
+<div class="fullwidth-area tie-col-sm-12">
+<div id="tie-slider-widget-6" class="widget container-wrapper tie-slider-widget widget-content-only">
+<div class="main-slider boxed-slider boxed-five-slides-slider slider-in-widget">
+<div class="loader-overlay">
+<div class="spinner">
+<div class="bounce1"></div>
+<div class="bounce2"></div>
+<div class="bounce3"> </div>
+</div>
+</div>
+<div class="main-slider-inner">
+<ul class="tie-slider-nav"></ul>
+<div class="container">
+<div class="tie-slick-slider">
+<div class="slide">
+<img data-lazy="https://jannah.tielabs.com/travel/wp-content/uploads/sites/12/2016/11/travel-16-780x405.jpg" src="https://jannah.tielabs.com/travel/wp-content/themes/jannah/assets/images/tie-empty.png" alt="">
+ <div class="slide-bg"></div>
+<a href="https://jannah.tielabs.com/travel/2017/04/06/where-to-find-the-best-food-in-montreal/" title="Where to Find the Best Food in Montreal" class="all-over-thumb-link"></a>
+<div class="thumb-overlay">
+<div class="thumb-content">
+<div class="thumb-meta"><div class="post-meta"><span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>Apr 6, 2017</span></span><div class="clearfix"></div></div></div> <h3 class="thumb-title"><a href="https://jannah.tielabs.com/travel/2017/04/06/where-to-find-the-best-food-in-montreal/" title="Where to Find the Best Food in Montreal">Where to Find the Best Food in Montreal</a></h3>
+</div>
+</div>
+</div>
+<div class="slide">
+<img data-lazy="https://jannah.tielabs.com/travel/wp-content/uploads/sites/12/2016/11/travel-15-780x405.jpg" src="https://jannah.tielabs.com/travel/wp-content/themes/jannah/assets/images/tie-empty.png" alt="">
+<div class="slide-bg"></div>
+<a href="https://jannah.tielabs.com/travel/2017/04/06/searching-for-dolphins-whales-off-island/" title="Searching For Dolphins &#038; Whales Off Island" class="all-over-thumb-link"></a>
+<div class="thumb-overlay">
+<div class="thumb-content">
+<div class="thumb-meta"><div class="post-meta"><span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>Apr 6, 2017</span></span><div class="clearfix"></div></div></div> <h3 class="thumb-title"><a href="https://jannah.tielabs.com/travel/2017/04/06/searching-for-dolphins-whales-off-island/" title="Searching For Dolphins &#038; Whales Off Island">Searching For Dolphins &#038; Whales Off Island</a></h3>
+</div>
+</div>
+</div>
+<div class="slide">
+<img data-lazy="https://jannah.tielabs.com/travel/wp-content/uploads/sites/12/2016/11/travel-19-780x405.jpg" src="https://jannah.tielabs.com/travel/wp-content/themes/jannah/assets/images/tie-empty.png" alt="">
+<div class="slide-bg"></div>
+<a href="https://jannah.tielabs.com/travel/2017/03/16/the-ultimate-guide-to-new-york-city-in-a-weekend/" title="The Ultimate Guide to New York City in a Weekend" class="all-over-thumb-link"></a>
+<div class="thumb-overlay">
+<div class="thumb-content">
+<div class="thumb-meta"><div class="post-meta"><span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>Mar 16, 2017</span></span><div class="clearfix"></div></div></div> <h3 class="thumb-title"><a href="https://jannah.tielabs.com/travel/2017/03/16/the-ultimate-guide-to-new-york-city-in-a-weekend/" title="The Ultimate Guide to New York City in a Weekend">The Ultimate Guide to New York City in a Weekend</a></h3>
+</div>
+</div>
+</div>
+<div class="slide">
+<img data-lazy="https://jannah.tielabs.com/travel/wp-content/uploads/sites/12/2016/11/travel-20-780x405.jpg" src="https://jannah.tielabs.com/travel/wp-content/themes/jannah/assets/images/tie-empty.png" alt="">
+<div class="slide-bg"></div>
+<a href="https://jannah.tielabs.com/travel/2017/02/06/explore-south-africa-with-me/" title="Explore South Africa With Me" class="all-over-thumb-link"></a>
+<div class="thumb-overlay">
+<div class="thumb-content">
+<div class="thumb-meta"><div class="post-meta"><span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>Feb 6, 2017</span></span><div class="clearfix"></div></div></div> <h3 class="thumb-title"><a href="https://jannah.tielabs.com/travel/2017/02/06/explore-south-africa-with-me/" title="Explore South Africa With Me">Explore South Africa With Me</a></h3>
+</div>
+</div>
+</div>
+<div class="slide">
+<img data-lazy="https://jannah.tielabs.com/travel/wp-content/uploads/sites/12/2016/11/travel-17-780x405.jpg" src="https://jannah.tielabs.com/travel/wp-content/themes/jannah/assets/images/tie-empty.png" alt="">
+<div class="slide-bg"></div>
+<a href="https://jannah.tielabs.com/travel/2017/01/26/vinta-camera-bags-17/" title="The Ultimate Hurghada Travel Guide" class="all-over-thumb-link"></a>
+<div class="thumb-overlay">
+<div class="thumb-content">
+<div class="thumb-meta"><div class="post-meta"><span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>Jan 26, 2017</span></span><div class="clearfix"></div></div></div> <h3 class="thumb-title"><a href="https://jannah.tielabs.com/travel/2017/01/26/vinta-camera-bags-17/" title="The Ultimate Hurghada Travel Guide">The Ultimate Hurghada Travel Guide</a></h3>
+</div>
+</div>
+</div>
+<div class="slide">
+<img data-lazy="https://jannah.tielabs.com/travel/wp-content/uploads/sites/12/2016/11/travel-11-780x405.jpg" src="https://jannah.tielabs.com/travel/wp-content/themes/jannah/assets/images/tie-empty.png" alt="">
+<div class="slide-bg"></div>
+<a href="https://jannah.tielabs.com/travel/2017/01/26/how-to-find-the-cheapest-flight-to-indonesia/" title="How to Find the Cheapest Flight to Indonesia" class="all-over-thumb-link"></a>
+<div class="thumb-overlay">
+<div class="thumb-content">
+<div class="thumb-meta"><div class="post-meta"><span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>Jan 26, 2017</span></span><div class="clearfix"></div></div></div> <h3 class="thumb-title"><a href="https://jannah.tielabs.com/travel/2017/01/26/how-to-find-the-cheapest-flight-to-indonesia/" title="How to Find the Cheapest Flight to Indonesia">How to Find the Cheapest Flight to Indonesia</a></h3>
+</div>
+</div>
+</div>
+<div class="slide">
+<img data-lazy="https://jannah.tielabs.com/travel/wp-content/uploads/sites/12/2016/11/travel-18-780x405.jpg" src="https://jannah.tielabs.com/travel/wp-content/themes/jannah/assets/images/tie-empty.png" alt="">
+<div class="slide-bg"></div>
+<a href="https://jannah.tielabs.com/travel/2017/01/11/vinta-camera-bags-18/" title="20 Photos to Inspire You to Visit Petra" class="all-over-thumb-link"></a>
+<div class="thumb-overlay">
+<div class="thumb-content">
+<div class="thumb-meta"><div class="post-meta"><span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>Jan 11, 2017</span></span><div class="clearfix"></div></div></div> <h3 class="thumb-title"><a href="https://jannah.tielabs.com/travel/2017/01/11/vinta-camera-bags-18/" title="20 Photos to Inspire You to Visit Petra">20 Photos to Inspire You to Visit Petra</a></h3>
+</div>
+</div>
+</div>
+<div class="slide">
+<img data-lazy="https://jannah.tielabs.com/travel/wp-content/uploads/sites/12/2016/11/image16-780x405.jpg" src="https://jannah.tielabs.com/travel/wp-content/themes/jannah/assets/images/tie-empty.png" alt="">
+<div class="slide-bg"></div>
+<a href="https://jannah.tielabs.com/travel/2016/11/06/10-super-fun-things-to-do-in-egypt/" title="10 Super Fun Things To Do In Egypt #thisisegypt" class="all-over-thumb-link"></a>
+<div class="thumb-overlay">
+<div class="thumb-content">
+<div class="thumb-meta"><div class="post-meta"><span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>Nov 6, 2016</span></span><div class="clearfix"></div></div></div> <h3 class="thumb-title"><a href="https://jannah.tielabs.com/travel/2016/11/06/10-super-fun-things-to-do-in-egypt/" title="10 Super Fun Things To Do In Egypt #thisisegypt">10 Super Fun Things To Do In Egypt #thisisegypt</a></h3>
+</div>
+</div>
+</div>
+<div class="slide">
+<img data-lazy="https://jannah.tielabs.com/travel/wp-content/uploads/sites/12/2016/11/travel-23-780x405.jpg" src="https://jannah.tielabs.com/travel/wp-content/themes/jannah/assets/images/tie-empty.png" alt="">
+<div class="slide-bg"></div>
+<a href="https://jannah.tielabs.com/travel/2016/11/06/why-you-shouldnt-ride-elephants-in-thailand/" title="Why You Shouldn’t Ride Elephants In Thailand" class="all-over-thumb-link"></a>
+<div class="thumb-overlay">
+<div class="thumb-content">
+<div class="thumb-meta"><div class="post-meta"><span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>Nov 6, 2016</span></span><div class="clearfix"></div></div></div> <h3 class="thumb-title"><a href="https://jannah.tielabs.com/travel/2016/11/06/why-you-shouldnt-ride-elephants-in-thailand/" title="Why You Shouldn’t Ride Elephants In Thailand">Why You Shouldn’t Ride Elephants In Thailand</a></h3>
+</div>
+</div>
+</div>
+<div class="slide">
+<img data-lazy="https://jannah.tielabs.com/travel/wp-content/uploads/sites/12/2016/11/travel-22-780x405.jpg" src="https://jannah.tielabs.com/travel/wp-content/themes/jannah/assets/images/tie-empty.png" alt="">
+<div class="slide-bg"></div>
+<a href="https://jannah.tielabs.com/travel/2016/11/06/10-reasons-to-visit-lyon-france/" title="10 Reasons to Visit Lyon, France" class="all-over-thumb-link"></a>
+<div class="thumb-overlay">
+<div class="thumb-content">
+<div class="thumb-meta"><div class="post-meta"><span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>Nov 6, 2016</span></span><div class="clearfix"></div></div></div> <h3 class="thumb-title"><a href="https://jannah.tielabs.com/travel/2016/11/06/10-reasons-to-visit-lyon-france/" title="10 Reasons to Visit Lyon, France">10 Reasons to Visit Lyon, France</a></h3>
+</div>
+</div>
+</div>
+<div class="slide">
+<img data-lazy="https://jannah.tielabs.com/travel/wp-content/uploads/sites/12/2016/11/travel-21-780x405.jpg" src="https://jannah.tielabs.com/travel/wp-content/themes/jannah/assets/images/tie-empty.png" alt="">
+<div class="slide-bg"></div>
+<a href="https://jannah.tielabs.com/travel/2016/11/06/20-photos-to-inspire-you-to-visit-dubai/" title="20 Photos to Inspire You to Visit Dubai" class="all-over-thumb-link"></a>
+ <div class="thumb-overlay">
+<div class="thumb-content">
+<div class="thumb-meta"><div class="post-meta"><span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>Nov 6, 2016</span></span><div class="clearfix"></div></div></div> <h3 class="thumb-title"><a href="https://jannah.tielabs.com/travel/2016/11/06/20-photos-to-inspire-you-to-visit-dubai/" title="20 Photos to Inspire You to Visit Dubai">20 Photos to Inspire You to Visit Dubai</a></h3>
+</div>
+</div>
+</div>
+<div class="slide">
+<img data-lazy="https://jannah.tielabs.com/travel/wp-content/uploads/sites/12/2016/11/travel-14-780x405.jpg" src="https://jannah.tielabs.com/travel/wp-content/themes/jannah/assets/images/tie-empty.png" alt="">
+<div class="slide-bg"></div>
+<a href="https://jannah.tielabs.com/travel/2016/11/06/20-photos-to-inspire-you-to-visit-alexandria/" title="20 Photos to Inspire You to Visit Alexandria" class="all-over-thumb-link"></a>
+<div class="thumb-overlay">
+<div class="thumb-content">
+<div class="thumb-meta"><div class="post-meta"><span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>Nov 6, 2016</span></span><div class="clearfix"></div></div></div> <h3 class="thumb-title"><a href="https://jannah.tielabs.com/travel/2016/11/06/20-photos-to-inspire-you-to-visit-alexandria/" title="20 Photos to Inspire You to Visit Alexandria">20 Photos to Inspire You to Visit Alexandria</a></h3>
+</div>
+</div>
+</div>
+<div class="slide">
+<img data-lazy="https://jannah.tielabs.com/travel/wp-content/uploads/sites/12/2016/11/travel-13-780x405.jpg" src="https://jannah.tielabs.com/travel/wp-content/themes/jannah/assets/images/tie-empty.png" alt="">
+<div class="slide-bg"></div>
+<a href="https://jannah.tielabs.com/travel/2016/11/06/20-reasons-to-travel-to-germany/" title="20 Reasons to Travel to Germany" class="all-over-thumb-link"></a>
+<div class="thumb-overlay">
+<div class="thumb-content">
+<div class="thumb-meta"><div class="post-meta"><span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>Nov 6, 2016</span></span><div class="clearfix"></div></div></div> <h3 class="thumb-title"><a href="https://jannah.tielabs.com/travel/2016/11/06/20-reasons-to-travel-to-germany/" title="20 Reasons to Travel to Germany">20 Reasons to Travel to Germany</a></h3>
+</div>
+</div>
+</div>
+<div class="slide">
+<img data-lazy="https://jannah.tielabs.com/travel/wp-content/uploads/sites/12/2016/11/travel-12-780x405.jpg" src="https://jannah.tielabs.com/travel/wp-content/themes/jannah/assets/images/tie-empty.png" alt="">
+<div class="slide-bg"></div>
+<a href="https://jannah.tielabs.com/travel/2016/11/06/diving-in-the-red-sea/" title="Diving in the Red Sea" class="all-over-thumb-link"></a>
+<div class="thumb-overlay">
+<div class="thumb-content">
+<div class="thumb-meta"><div class="post-meta"><span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>Nov 6, 2016</span></span><div class="clearfix"></div></div></div> <h3 class="thumb-title"><a href="https://jannah.tielabs.com/travel/2016/11/06/diving-in-the-red-sea/" title="Diving in the Red Sea">Diving in the Red Sea</a></h3>
+</div>
+ </div>
+</div>
+<div class="slide">
+<img data-lazy="https://jannah.tielabs.com/travel/wp-content/uploads/sites/12/2016/11/travel-10-780x405.jpg" src="https://jannah.tielabs.com/travel/wp-content/themes/jannah/assets/images/tie-empty.png" alt="">
+<div class="slide-bg"></div>
+<a href="https://jannah.tielabs.com/travel/2016/11/06/tips-for-traveling-mexico-in-the-summer/" title="Tips for Traveling Mexico in the Summer" class="all-over-thumb-link"></a>
+<div class="thumb-overlay">
+<div class="thumb-content">
+<div class="thumb-meta"><div class="post-meta"><span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>Nov 6, 2016</span></span><div class="clearfix"></div></div></div> <h3 class="thumb-title"><a href="https://jannah.tielabs.com/travel/2016/11/06/tips-for-traveling-mexico-in-the-summer/" title="Tips for Traveling Mexico in the Summer">Tips for Traveling Mexico in the Summer</a></h3>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div> </div>
+</div>
+</div>
+</div>
+</div>
+<div id="site-info" class="site-info-layout-2">
+<div class="container">
+<div class="tie-row">
+<div class="tie-col-md-12">
+<div class="copyright-text copyright-text-first">&copy; Copyright 2018, All Rights Reserved</div><ul class="social-icons"><li class="social-icons-item"><a class="social-link  facebook-social-icon" title="Facebook" rel="nofollow" target="_blank" href="https://www.facebook.com/TieLabs/"><span class="fa fa-facebook"></span></a></li><li class="social-icons-item"><a class="social-link  twitter-social-icon" title="Twitter" rel="nofollow" target="_blank" href="https://twitter.com/tielabs"><span class="fa fa-twitter"></span></a></li><li class="social-icons-item"><a class="social-link  pinterest-social-icon" title="Pinterest" rel="nofollow" target="_blank" href="https://www.pinterest.com/"><span class="fa fa-pinterest"></span></a></li><li class="social-icons-item"><a class="social-link  flickr-social-icon" title="Flickr" rel="nofollow" target="_blank" href="https://www.flickr.com/"><span class="fa fa-flickr"></span></a></li><li class="social-icons-item"><a class="social-link  youtube-social-icon" title="YouTube" rel="nofollow" target="_blank" href="https://youtube.com/user/TEAMMESAI"><span class="fa fa-youtube"></span></a></li><li class="social-icons-item"><a class="social-link  tumblr-social-icon" title="Tumblr" rel="nofollow" target="_blank" href="https://tumblr.com/"><span class="fa fa-tumblr"></span></a></li><li class="social-icons-item"><a class="social-link  instagram-social-icon" title="Instagram" rel="nofollow" target="_blank" href="https://www.instagram.com/imo3aser/"><span class="fa fa-instagram"></span></a></li><li class="social-icons-item"><a class="social-link  tripadvisor-social-icon" title="TripAdvisor" rel="nofollow" target="_blank" href="#"><span class="fa fa-tripadvisor"></span></a></li></ul>
+</div>
+</div>
+</div>
+</div>
+</footer>
+<a id="go-to-top" class="go-to-top-button" href="#go-to-tie-body"><span class="fa fa-angle-up"></span></a><div class="clear"></div>
+</div>
+<aside class="side-aside normal-side tie-aside-effect dark-skin dark-widgetized-area is-fullwidth" aria-label="Secondary Sidebar">
+<div data-height="100%" class="side-aside-wrapper has-custom-scroll">
+<a href="#" class="close-side-aside remove big-btn light-btn">
+<span class="screen-reader-text">Close</span>
+</a>
+<div id="mobile-container">
+<div id="mobile-menu" class="hide-menu-icons"></div>
+<div class="mobile-social-search">
+<div id="mobile-social-icons" class="social-icons-widget solid-social-icons">
+<ul><li class="social-icons-item"><a class="social-link  facebook-social-icon" title="Facebook" rel="nofollow" target="_blank" href="https://www.facebook.com/TieLabs/"><span class="fa fa-facebook"></span></a></li><li class="social-icons-item"><a class="social-link  twitter-social-icon" title="Twitter" rel="nofollow" target="_blank" href="https://twitter.com/tielabs"><span class="fa fa-twitter"></span></a></li><li class="social-icons-item"><a class="social-link  pinterest-social-icon" title="Pinterest" rel="nofollow" target="_blank" href="https://www.pinterest.com/"><span class="fa fa-pinterest"></span></a></li><li class="social-icons-item"><a class="social-link  flickr-social-icon" title="Flickr" rel="nofollow" target="_blank" href="https://www.flickr.com/"><span class="fa fa-flickr"></span></a></li><li class="social-icons-item"><a class="social-link  youtube-social-icon" title="YouTube" rel="nofollow" target="_blank" href="https://youtube.com/user/TEAMMESAI"><span class="fa fa-youtube"></span></a></li><li class="social-icons-item"><a class="social-link  tumblr-social-icon" title="Tumblr" rel="nofollow" target="_blank" href="https://tumblr.com/"><span class="fa fa-tumblr"></span></a></li><li class="social-icons-item"><a class="social-link  instagram-social-icon" title="Instagram" rel="nofollow" target="_blank" href="https://www.instagram.com/imo3aser/"><span class="fa fa-instagram"></span></a></li><li class="social-icons-item"><a class="social-link  tripadvisor-social-icon" title="TripAdvisor" rel="nofollow" target="_blank" href="#"><span class="fa fa-tripadvisor"></span></a></li></ul>
+</div>
+<div id="mobile-search">
+<form role="search" method="get" class="search-form" action="https://jannah.tielabs.com/travel/">
+<label>
+<span class="screen-reader-text">Search for:</span>
+<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" />
+</label>
+<input type="submit" class="search-submit" value="Search" />
+</form> </div>
+</div>
+</div>
+<div id="slide-sidebar-widgets">
+<div id="posts-list-widget-25" class="container-wrapper widget posts-list"><div class="widget-title the-global-title"><h4>Popular Posts</h4></div><div class=""><ul class="posts-list-items">
+<li class="widget-post-list tie-thumb">
+<div class="post-widget-thumbnail">
+<a href="https://jannah.tielabs.com/travel/2017/01/26/how-to-find-the-cheapest-flight-to-indonesia/" title="How to Find the Cheapest Flight to Indonesia" class="post-thumb">
+<div class="post-thumb-overlay-wrap">
+<div class="post-thumb-overlay">
+<span class="icon"></span>
+</div>
+</div>
+<img width="220" height="150" src="https://jannah.tielabs.com/travel/wp-content/themes/jannah/assets/images/tie-empty-small.png" class="attachment-jannah-image-small size-jannah-image-small lazy-img tie-small-image wp-post-image" alt="" data-src="https://jannah.tielabs.com/travel/wp-content/uploads/sites/12/2016/11/travel-11-220x150.jpg" /></a> </div>
+<div class="post-widget-body ">
+<h3 class="post-title"><a href="https://jannah.tielabs.com/travel/2017/01/26/how-to-find-the-cheapest-flight-to-indonesia/" title="How to Find the Cheapest Flight to Indonesia">How to Find the Cheapest Flight to Indonesia</a></h3>
+<div class="post-meta">
+<span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>Jan 26, 2017</span></span> </div>
+</div>
+</li>
+<li class="widget-post-list tie-video">
+<div class="post-widget-thumbnail">
+<a href="https://jannah.tielabs.com/travel/2017/01/26/vinta-camera-bags-17/" title="The Ultimate Hurghada Travel Guide" class="post-thumb">
+<div class="post-thumb-overlay-wrap">
+<div class="post-thumb-overlay">
+<span class="icon"></span>
+</div>
+</div>
+<img width="220" height="150" src="https://jannah.tielabs.com/travel/wp-content/themes/jannah/assets/images/tie-empty-small.png" class="attachment-jannah-image-small size-jannah-image-small lazy-img tie-small-image wp-post-image" alt="" data-src="https://jannah.tielabs.com/travel/wp-content/uploads/sites/12/2016/11/travel-17-220x150.jpg" /></a> </div>
+<div class="post-widget-body ">
+<h3 class="post-title"><a href="https://jannah.tielabs.com/travel/2017/01/26/vinta-camera-bags-17/" title="The Ultimate Hurghada Travel Guide">The Ultimate Hurghada Travel Guide</a></h3>
+<div class="post-meta">
+<span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>Jan 26, 2017</span></span> </div>
+</div>
+</li>
+<li class="widget-post-list tie-thumb">
+<div class="post-widget-thumbnail">
+<a href="https://jannah.tielabs.com/travel/2017/04/06/searching-for-dolphins-whales-off-island/" title="Searching For Dolphins &#038; Whales Off Island" class="post-thumb">
+<div class="post-thumb-overlay-wrap">
+<div class="post-thumb-overlay">
+<span class="icon"></span>
+</div>
+</div>
+<img width="220" height="150" src="https://jannah.tielabs.com/travel/wp-content/themes/jannah/assets/images/tie-empty-small.png" class="attachment-jannah-image-small size-jannah-image-small lazy-img tie-small-image wp-post-image" alt="" data-src="https://jannah.tielabs.com/travel/wp-content/uploads/sites/12/2016/11/travel-15-220x150.jpg" /></a> </div>
+<div class="post-widget-body ">
+<h3 class="post-title"><a href="https://jannah.tielabs.com/travel/2017/04/06/searching-for-dolphins-whales-off-island/" title="Searching For Dolphins &#038; Whales Off Island">Searching For Dolphins &#038; Whales Off Island</a></h3>
+<div class="post-meta">
+<span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>Apr 6, 2017</span></span> </div>
+</div>
+</li>
+<li class="widget-post-list tie-thumb">
+<div class="post-widget-thumbnail">
+<a href="https://jannah.tielabs.com/travel/2017/01/11/vinta-camera-bags-18/" title="20 Photos to Inspire You to Visit Petra" class="post-thumb">
+<div class="post-thumb-overlay-wrap">
+<div class="post-thumb-overlay">
+<span class="icon"></span>
+</div>
+</div>
+<img width="220" height="150" src="https://jannah.tielabs.com/travel/wp-content/themes/jannah/assets/images/tie-empty-small.png" class="attachment-jannah-image-small size-jannah-image-small lazy-img tie-small-image wp-post-image" alt="" data-src="https://jannah.tielabs.com/travel/wp-content/uploads/sites/12/2016/11/travel-18-220x150.jpg" /></a> </div>
+<div class="post-widget-body ">
+<h3 class="post-title"><a href="https://jannah.tielabs.com/travel/2017/01/11/vinta-camera-bags-18/" title="20 Photos to Inspire You to Visit Petra">20 Photos to Inspire You to Visit Petra</a></h3>
+<div class="post-meta">
+<span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>Jan 11, 2017</span></span> </div>
+</div>
+</li>
+<li class="widget-post-list tie-thumb">
+<div class="post-widget-thumbnail">
+<a href="https://jannah.tielabs.com/travel/2017/04/06/where-to-find-the-best-food-in-montreal/" title="Where to Find the Best Food in Montreal" class="post-thumb">
+<div class="post-thumb-overlay-wrap">
+<div class="post-thumb-overlay">
+<span class="icon"></span>
+</div>
+</div>
+<img width="220" height="150" src="https://jannah.tielabs.com/travel/wp-content/themes/jannah/assets/images/tie-empty-small.png" class="attachment-jannah-image-small size-jannah-image-small lazy-img tie-small-image wp-post-image" alt="" data-src="https://jannah.tielabs.com/travel/wp-content/uploads/sites/12/2016/11/travel-16-220x150.jpg" /></a> </div>
+<div class="post-widget-body ">
+<h3 class="post-title"><a href="https://jannah.tielabs.com/travel/2017/04/06/where-to-find-the-best-food-in-montreal/" title="Where to Find the Best Food in Montreal">Where to Find the Best Food in Montreal</a></h3>
+<div class="post-meta">
+<span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>Apr 6, 2017</span></span> </div>
+</div>
+</li>
+</ul></div><div class="clearfix"></div></div><div id="posts-list-widget-22" class="container-wrapper widget posts-list"><div class="widget-title the-global-title"><h4>Recent Posts</h4></div><div class="posts-list-counter"><ul class="posts-list-items">
+<li class="widget-post-list tie-thumb">
+<div class="post-widget-thumbnail">
+<a href="https://jannah.tielabs.com/travel/2017/04/06/where-to-find-the-best-food-in-montreal/" title="Where to Find the Best Food in Montreal" class="post-thumb">
+<div class="post-thumb-overlay-wrap">
+<div class="post-thumb-overlay">
+<span class="icon"></span>
+</div>
+</div>
+<img width="220" height="150" src="https://jannah.tielabs.com/travel/wp-content/themes/jannah/assets/images/tie-empty-small.png" class="attachment-jannah-image-small size-jannah-image-small lazy-img tie-small-image wp-post-image" alt="" data-src="https://jannah.tielabs.com/travel/wp-content/uploads/sites/12/2016/11/travel-16-220x150.jpg" /></a> </div>
+<div class="post-widget-body ">
+<h3 class="post-title"><a href="https://jannah.tielabs.com/travel/2017/04/06/where-to-find-the-best-food-in-montreal/" title="Where to Find the Best Food in Montreal">Where to Find the Best Food in Montreal</a></h3>
+<div class="post-meta">
+<span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>Apr 6, 2017</span></span> </div>
+</div>
+</li>
+<li class="widget-post-list tie-thumb">
+<div class="post-widget-thumbnail">
+<a href="https://jannah.tielabs.com/travel/2017/04/06/searching-for-dolphins-whales-off-island/" title="Searching For Dolphins &#038; Whales Off Island" class="post-thumb">
+<div class="post-thumb-overlay-wrap">
+<div class="post-thumb-overlay">
+<span class="icon"></span>
+</div>
+</div>
+<img width="220" height="150" src="https://jannah.tielabs.com/travel/wp-content/themes/jannah/assets/images/tie-empty-small.png" class="attachment-jannah-image-small size-jannah-image-small lazy-img tie-small-image wp-post-image" alt="" data-src="https://jannah.tielabs.com/travel/wp-content/uploads/sites/12/2016/11/travel-15-220x150.jpg" /></a> </div>
+<div class="post-widget-body ">
+<h3 class="post-title"><a href="https://jannah.tielabs.com/travel/2017/04/06/searching-for-dolphins-whales-off-island/" title="Searching For Dolphins &#038; Whales Off Island">Searching For Dolphins &#038; Whales Off Island</a></h3>
+<div class="post-meta">
+<span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>Apr 6, 2017</span></span> </div>
+</div>
+</li>
+<li class="widget-post-list tie-slider">
+<div class="post-widget-thumbnail">
+<a href="https://jannah.tielabs.com/travel/2017/03/16/the-ultimate-guide-to-new-york-city-in-a-weekend/" title="The Ultimate Guide to New York City in a Weekend" class="post-thumb">
+<div class="post-thumb-overlay-wrap">
+<div class="post-thumb-overlay">
+<span class="icon"></span>
+</div>
+</div>
+<img width="220" height="150" src="https://jannah.tielabs.com/travel/wp-content/themes/jannah/assets/images/tie-empty-small.png" class="attachment-jannah-image-small size-jannah-image-small lazy-img tie-small-image wp-post-image" alt="" data-src="https://jannah.tielabs.com/travel/wp-content/uploads/sites/12/2016/11/travel-19-220x150.jpg" /></a> </div>
+<div class="post-widget-body ">
+<h3 class="post-title"><a href="https://jannah.tielabs.com/travel/2017/03/16/the-ultimate-guide-to-new-york-city-in-a-weekend/" title="The Ultimate Guide to New York City in a Weekend">The Ultimate Guide to New York City in a Weekend</a></h3>
+<div class="post-meta">
+<span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>Mar 16, 2017</span></span> </div>
+</div>
+</li>
+<li class="widget-post-list tie-thumb">
+<div class="post-widget-thumbnail">
+<a href="https://jannah.tielabs.com/travel/2017/02/06/explore-south-africa-with-me/" title="Explore South Africa With Me" class="post-thumb">
+<div class="post-thumb-overlay-wrap">
+<div class="post-thumb-overlay">
+<span class="icon"></span>
+</div>
+</div>
+<img width="220" height="150" src="https://jannah.tielabs.com/travel/wp-content/themes/jannah/assets/images/tie-empty-small.png" class="attachment-jannah-image-small size-jannah-image-small lazy-img tie-small-image wp-post-image" alt="" data-src="https://jannah.tielabs.com/travel/wp-content/uploads/sites/12/2016/11/travel-20-220x150.jpg" /></a> </div>
+<div class="post-widget-body ">
+<h3 class="post-title"><a href="https://jannah.tielabs.com/travel/2017/02/06/explore-south-africa-with-me/" title="Explore South Africa With Me">Explore South Africa With Me</a></h3>
+<div class="post-meta">
+<span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>Feb 6, 2017</span></span> </div>
+</div>
+</li>
+<li class="widget-post-list tie-video">
+<div class="post-widget-thumbnail">
+<a href="https://jannah.tielabs.com/travel/2017/01/26/vinta-camera-bags-17/" title="The Ultimate Hurghada Travel Guide" class="post-thumb">
+<div class="post-thumb-overlay-wrap">
+<div class="post-thumb-overlay">
+<span class="icon"></span>
+</div>
+</div>
+<img width="220" height="150" src="https://jannah.tielabs.com/travel/wp-content/themes/jannah/assets/images/tie-empty-small.png" class="attachment-jannah-image-small size-jannah-image-small lazy-img tie-small-image wp-post-image" alt="" data-src="https://jannah.tielabs.com/travel/wp-content/uploads/sites/12/2016/11/travel-17-220x150.jpg" /></a> </div>
+<div class="post-widget-body ">
+<h3 class="post-title"><a href="https://jannah.tielabs.com/travel/2017/01/26/vinta-camera-bags-17/" title="The Ultimate Hurghada Travel Guide">The Ultimate Hurghada Travel Guide</a></h3>
+<div class="post-meta">
+<span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>Jan 26, 2017</span></span> </div>
+</div>
+</li>
+</ul></div><div class="clearfix"></div></div><div id="tie-widget-categories-7" class="container-wrapper widget widget_categories tie-widget-categories"><div class="widget-title the-global-title"><h4>Categories</h4></div><ul> <li class="cat-item cat-counter tie-cat-item-6"><a href="https://jannah.tielabs.com/travel/category/africa/" title="Beautiful photography and adventure travel stories from Africa.">Africa</a> <span>10</span>
+</li>
+<li class="cat-item cat-counter tie-cat-item-1"><a href="https://jannah.tielabs.com/travel/category/north-america/" title="This is the place of all the world latest news, get it and make sure you always follow us to be up to dated all the time. ">North America</a> <span>8</span>
+</li>
+<li class="cat-item cat-counter tie-cat-item-165"><a href="https://jannah.tielabs.com/travel/category/asia/" title="Beautiful photography and adventure travel stories from Asia.">Asia</a> <span>8</span>
+</li>
+<li class="cat-item cat-counter tie-cat-item-64"><a href="https://jannah.tielabs.com/travel/category/europe/">Europe</a> <span>7</span>
+</li>
+<li class="cat-item cat-counter tie-cat-item-164"><a href="https://jannah.tielabs.com/travel/category/middle-east/">Middle East</a> <span>7</span>
+</li>
+</ul><div class="clearfix"></div></div><div id="posts-list-widget-24" class="container-wrapper widget posts-list"><div class="widget-title the-global-title"><h4>Recent Posts</h4></div><div class="timeline-widget"><ul class="posts-list-items"> <li>
+<a href="https://jannah.tielabs.com/travel/2017/04/06/where-to-find-the-best-food-in-montreal/">
+<span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>Apr 6, 2017</span></span> <h3>Where to Find the Best Food in Montreal</h3>
+</a>
+</li>
+<li>
+<a href="https://jannah.tielabs.com/travel/2016/11/06/20-tips-for-your-first-trip-to-tokyo/">
+<span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>Nov 6, 2016</span></span> <h3>20 Tips for Your First Trip to Tokyo</h3>
+</a>
+</li>
+<li>
+<a href="https://jannah.tielabs.com/travel/2016/11/06/10-photos-to-inspire-you-to-visit-cape-town/">
+<span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>Nov 6, 2016</span></span> <h3>10 Photos to Inspire You to Visit Cape Town</h3>
+</a>
+</li>
+<li>
+<a href="https://jannah.tielabs.com/travel/2016/11/06/10-incredible-adventures-to-have-in-china/">
+<span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>Nov 6, 2016</span></span> <h3>10 Incredible Adventures to Have in China</h3>
+</a>
+</li>
+<li>
+<a href="https://jannah.tielabs.com/travel/2016/11/06/the-best-time-to-go-to-italy/">
+<span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>Nov 6, 2016</span></span> <h3>The Best Time to Go to Italy</h3>
+</a>
+</li>
+<li>
+<a href="https://jannah.tielabs.com/travel/2016/11/06/20-photos-to-inspire-you-to-visit-bali/">
+<span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>Nov 6, 2016</span></span> <h3>20 Photos to Inspire You to Visit Bali</h3>
+</a>
+</li>
+</ul></div><div class="clearfix"></div></div><div id="tag_cloud-5" class="container-wrapper widget widget_tag_cloud"><div class="widget-title the-global-title"><h4>Tags</h4></div><div class="tagcloud"><a href="https://jannah.tielabs.com/travel/tag/alexandria/" class="tag-cloud-link tag-link-174 tag-link-position-1" style="font-size: 8pt;" aria-label="alexandria (1 item)">alexandria</a>
+<a href="https://jannah.tielabs.com/travel/tag/asia/" class="tag-cloud-link tag-link-175 tag-link-position-2" style="font-size: 22pt;" aria-label="asia (6 items)">asia</a>
+<a href="https://jannah.tielabs.com/travel/tag/cairo/" class="tag-cloud-link tag-link-177 tag-link-position-3" style="font-size: 8pt;" aria-label="cairo (1 item)">cairo</a>
+<a href="https://jannah.tielabs.com/travel/tag/cape-town/" class="tag-cloud-link tag-link-176 tag-link-position-4" style="font-size: 8pt;" aria-label="Cape Town (1 item)">Cape Town</a>
+<a href="https://jannah.tielabs.com/travel/tag/china/" class="tag-cloud-link tag-link-178 tag-link-position-5" style="font-size: 12.581818181818pt;" aria-label="China (2 items)">China</a>
+<a href="https://jannah.tielabs.com/travel/tag/dolphins/" class="tag-cloud-link tag-link-170 tag-link-position-6" style="font-size: 8pt;" aria-label="Dolphins (1 item)">Dolphins</a>
+<a href="https://jannah.tielabs.com/travel/tag/egypt/" class="tag-cloud-link tag-link-145 tag-link-position-7" style="font-size: 20.218181818182pt;" aria-label="Egypt (5 items)">Egypt</a>
+<a href="https://jannah.tielabs.com/travel/tag/elephants/" class="tag-cloud-link tag-link-169 tag-link-position-8" style="font-size: 8pt;" aria-label="Elephants (1 item)">Elephants</a>
+<a href="https://jannah.tielabs.com/travel/tag/europe/" class="tag-cloud-link tag-link-184 tag-link-position-9" style="font-size: 15.636363636364pt;" aria-label="europe (3 items)">europe</a>
+<a href="https://jannah.tielabs.com/travel/tag/food/" class="tag-cloud-link tag-link-154 tag-link-position-10" style="font-size: 8pt;" aria-label="food (1 item)">food</a>
+<a href="https://jannah.tielabs.com/travel/tag/gallery/" class="tag-cloud-link tag-link-199 tag-link-position-11" style="font-size: 18.181818181818pt;" aria-label="gallery (4 items)">gallery</a>
+<a href="https://jannah.tielabs.com/travel/tag/hurghada/" class="tag-cloud-link tag-link-173 tag-link-position-12" style="font-size: 8pt;" aria-label="hurghada (1 item)">hurghada</a>
+<a href="https://jannah.tielabs.com/travel/tag/life-style/" class="tag-cloud-link tag-link-155 tag-link-position-13" style="font-size: 8pt;" aria-label="life style (1 item)">life style</a>
+<a href="https://jannah.tielabs.com/travel/tag/south-africa/" class="tag-cloud-link tag-link-172 tag-link-position-14" style="font-size: 8pt;" aria-label="South Africa (1 item)">South Africa</a>
+<a href="https://jannah.tielabs.com/travel/tag/thailand/" class="tag-cloud-link tag-link-168 tag-link-position-15" style="font-size: 8pt;" aria-label="Thailand (1 item)">Thailand</a>
+<a href="https://jannah.tielabs.com/travel/tag/timeline/" class="tag-cloud-link tag-link-163 tag-link-position-16" style="font-size: 8pt;" aria-label="timeline (1 item)">timeline</a>
+<a href="https://jannah.tielabs.com/travel/tag/video/" class="tag-cloud-link tag-link-62 tag-link-position-17" style="font-size: 20.218181818182pt;" aria-label="Video (5 items)">Video</a>
+<a href="https://jannah.tielabs.com/travel/tag/whales/" class="tag-cloud-link tag-link-171 tag-link-position-18" style="font-size: 8pt;" aria-label="Whales (1 item)">Whales</a></div>
+<div class="clearfix"></div></div><div id="latest_tweets_widget-9" class="container-wrapper widget latest-tweets-widget"><div class="widget-title the-global-title"><h4><a href="https://twitter.com/tielabs" target="_blank">From Twitter</a></h4></div>
+<ul>
+<li class="slide">
+<div class="twitter-icon-wrap">
+<span class="fa fa-twitter" aria-hidden="true"></span>
+</div>
+<div class="tweetaya-body">
+<p><a href="https://twitter.com/kamalbadawy" target="_blank">@kamalbadawy</a> If you have any further questions or need assistance, renew you support, and open a ticket… <a href="https://t.co/ZI9HyF3mQZ" target="_blank">https://t.co/ZI9HyF3mQZ</a></p>
+<span class="tweetaya-meta"><a href="https://twitter.com/#!/tielabs/status/970523177733541888" title="2018/03/05 04:55:31" target="_blank" rel="nofollow">2018/03/05</a></span>
+</div>
+</li>
+<li class="slide">
+<div class="twitter-icon-wrap">
+<span class="fa fa-twitter" aria-hidden="true"></span>
+</div>
+<div class="tweetaya-body">
+<p><a href="https://twitter.com/kamalbadawy" target="_blank">@kamalbadawy</a> In the theme options page &gt; Ads tab &gt; header Ad &gt; custom code section</p>
+<span class="tweetaya-meta"><a href="https://twitter.com/#!/tielabs/status/970519637850017793" title="2018/03/05 04:41:27" target="_blank" rel="nofollow">2018/03/05</a></span>
+</div>
+</li>
+<li class="slide">
+<div class="twitter-icon-wrap">
+<span class="fa fa-twitter" aria-hidden="true"></span>
+</div>
+<div class="tweetaya-body">
+<p><a href="https://twitter.com/kamalbadawy" target="_blank">@kamalbadawy</a> Hi,
+Please provide us with the Ticket ID.</p>
+<span class="tweetaya-meta"><a href="https://twitter.com/#!/tielabs/status/970156798694035456" title="2018/03/04 04:39:40" target="_blank" rel="nofollow">2018/03/04</a></span>
+</div>
+</li>
+<li class="slide">
+<div class="twitter-icon-wrap">
+<span class="fa fa-twitter" aria-hidden="true"></span>
+</div>
+<div class="tweetaya-body">
+<p><a href="https://twitter.com/Uzuto38" target="_blank">@Uzuto38</a> Games and Geo demos have been released last week <a href="https://t.co/qRtKV3hsQS" target="_blank">https://t.co/qRtKV3hsQS</a></p>
+<span class="tweetaya-meta"><a href="https://twitter.com/#!/tielabs/status/962603143967240194" title="2018/02/11 08:24:08" target="_blank" rel="nofollow">2018/02/11</a></span>
+</div>
+ </li>
+<li class="slide">
+<div class="twitter-icon-wrap">
+<span class="fa fa-twitter" aria-hidden="true"></span>
+</div>
+<div class="tweetaya-body">
+<p>Jannah 2.0 <a href="https://twitter.com/#search?q=WordPress" target="_blank">#WordPress</a> Theme is here! : Discover a brand new experience with <a href="https://twitter.com/#search?q=Jannah" target="_blank">#Jannah</a>
+<a href="https://t.co/yAV1sQK8D2" target="_blank">https://t.co/yAV1sQK8D2</a> <a href="https://t.co/QfEq7MrBFW" target="_blank">https://t.co/QfEq7MrBFW</a></p>
+<span class="tweetaya-meta"><a href="https://twitter.com/#!/tielabs/status/958208140436279296" title="2018/01/30 05:19:57" target="_blank" rel="nofollow">2018/01/30</a></span>
+</div>
+</li>
+</ul>
+<a href="https://twitter.com/tielabs" target="_blank" rel="nofollow" class="button dark-btn fullwidth">Follow us on Twitter</a>
+<div class="clearfix"></div></div><div class="widget social-icons-widget widget-content-only"><ul class="solid-social-icons is-centered"><li class="social-icons-item"><a class="social-link  facebook-social-icon" title="Facebook" rel="nofollow" target="_blank" href="https://www.facebook.com/TieLabs/"><span class="fa fa-facebook"></span></a></li><li class="social-icons-item"><a class="social-link  twitter-social-icon" title="Twitter" rel="nofollow" target="_blank" href="https://twitter.com/tielabs"><span class="fa fa-twitter"></span></a></li><li class="social-icons-item"><a class="social-link  pinterest-social-icon" title="Pinterest" rel="nofollow" target="_blank" href="https://www.pinterest.com/"><span class="fa fa-pinterest"></span></a></li><li class="social-icons-item"><a class="social-link  flickr-social-icon" title="Flickr" rel="nofollow" target="_blank" href="https://www.flickr.com/"><span class="fa fa-flickr"></span></a></li><li class="social-icons-item"><a class="social-link  youtube-social-icon" title="YouTube" rel="nofollow" target="_blank" href="https://youtube.com/user/TEAMMESAI"><span class="fa fa-youtube"></span></a></li><li class="social-icons-item"><a class="social-link  tumblr-social-icon" title="Tumblr" rel="nofollow" target="_blank" href="https://tumblr.com/"><span class="fa fa-tumblr"></span></a></li><li class="social-icons-item"><a class="social-link  instagram-social-icon" title="Instagram" rel="nofollow" target="_blank" href="https://www.instagram.com/imo3aser/"><span class="fa fa-instagram"></span></a></li><li class="social-icons-item"><a class="social-link  tripadvisor-social-icon" title="TripAdvisor" rel="nofollow" target="_blank" href="#"><span class="fa fa-tripadvisor"></span></a></li></ul>
+<div class="clearfix"></div></div> </div>
+</div>
+</aside>
+</div>
+</div>
+<div class="demos-panel-btns">
+<a href="#" id="demos-aside-open" class="panel-btn button">
+<span>25+</span>
+<p>Demos</p>
+</a>
+<a target="_blank" href="https://themeforest.net/item/i/19659555?ref=tielabs&utm_source=demos&utm_campaign=jannah&utm_content=travel&utm_medium=buy-button" id="demos-buynow-btn" class="panel-btn">
+<span class="fa fa-shopping-basket"></span>
+<p>Buy Now!</p>
+</a>
+</div>
+<div id="tie-popup-demos">
+<div id="panel-bottom-gradient"></div>
+<a href="#" class="panel-btn-close">
+<span class="tie-icon-cross" aria-hidden="true"></span>
+<span class="screen-reader-text">Close</span>
+</a>
+<div class="popup-content">
+<div class="container-wrapper">
+<div class="demo-panel-header">
+<h4 class="demos-panel-head brand-title">Jannah</h4>
+<p class="amazing-title">Amazing Installable Demos</p>
+<p class="theme-desc">
+Jannah is a Clean Responsive WordPress Newspaper, Magazine, News and Blog theme. Packed with options that allow you to completely customize your website to your needs. </p>
+</div>
+<ul class="demos-list">
+<li class="demodemo-item">
+<a href="https://jannah.tielabs.com/demo" target="_blank">
+<img class="demo-lazy-img" width="870" height="731" src="https://jannah.tielabs.com/travel/wp-content/themes/jannah/assets/images/tie-empty.png" data-src="https://s3-us-west-2.amazonaws.com/tielabs/jannah/images/demos-screenshots/demo.jpg" alt="Main Demo">
+<span>Main Demo</span>
+</a>
+</li>
+<li class="techdemo-item">
+<a href="https://jannah.tielabs.com/tech" target="_blank">
+<img class="demo-lazy-img" width="870" height="731" src="https://jannah.tielabs.com/travel/wp-content/themes/jannah/assets/images/tie-empty.png" data-src="https://s3-us-west-2.amazonaws.com/tielabs/jannah/images/demos-screenshots/tech.jpg" alt="Tech">
+<span>Tech</span>
+</a>
+</li>
+<li class="videos-2demo-item">
+<a href="https://jannah.tielabs.com/videos-2" target="_blank">
+<img class="demo-lazy-img" width="870" height="731" src="https://jannah.tielabs.com/travel/wp-content/themes/jannah/assets/images/tie-empty.png" data-src="https://s3-us-west-2.amazonaws.com/tielabs/jannah/images/demos-screenshots/videos-2.jpg" alt="Videos 2">
+<span>Videos 2</span>
+</a>
+</li>
+<li class="geodemo-item">
+<a href="https://jannah.tielabs.com/geo" target="_blank">
+<img class="demo-lazy-img" width="870" height="731" src="https://jannah.tielabs.com/travel/wp-content/themes/jannah/assets/images/tie-empty.png" data-src="https://s3-us-west-2.amazonaws.com/tielabs/jannah/images/demos-screenshots/geo.jpg" alt="Geo">
+<span>Geo</span>
+<small class="demo-badge new">new<span class="inner-arrow"></span></small>
+</a>
+</li>
+<li class="cryptocurrencydemo-item">
+<a href="https://jannah.tielabs.com/cryptocurrency" target="_blank">
+<img class="demo-lazy-img" width="870" height="731" src="https://jannah.tielabs.com/travel/wp-content/themes/jannah/assets/images/tie-empty.png" data-src="https://s3-us-west-2.amazonaws.com/tielabs/jannah/images/demos-screenshots/cryptocurrency.jpg" alt="Cryptocurrency">
+<span>Cryptocurrency</span>
+<small class="demo-badge new">new<span class="inner-arrow"></span></small>
+</a>
+</li>
+<li class="gamesdemo-item">
+<a href="https://jannah.tielabs.com/games" target="_blank">
+<img class="demo-lazy-img" width="870" height="731" src="https://jannah.tielabs.com/travel/wp-content/themes/jannah/assets/images/tie-empty.png" data-src="https://s3-us-west-2.amazonaws.com/tielabs/jannah/images/demos-screenshots/games.jpg" alt="Games">
+<span>Games</span>
+<small class="demo-badge new">new<span class="inner-arrow"></span></small>
+</a>
+</li>
+<li class="foodsdemo-item">
+<a href="https://jannah.tielabs.com/foods" target="_blank">
+<img class="demo-lazy-img" width="870" height="731" src="https://jannah.tielabs.com/travel/wp-content/themes/jannah/assets/images/tie-empty.png" data-src="https://s3-us-west-2.amazonaws.com/tielabs/jannah/images/demos-screenshots/foods.jpg" alt="Recipes &amp; Tips">
+<span>Recipes &amp; Tips</span>
+</a>
+</li>
+<li class="creativedemo-item">
+<a href="https://jannah.tielabs.com/creative" target="_blank">
+<img class="demo-lazy-img" width="870" height="731" src="https://jannah.tielabs.com/travel/wp-content/themes/jannah/assets/images/tie-empty.png" data-src="https://s3-us-west-2.amazonaws.com/tielabs/jannah/images/demos-screenshots/creative.jpg" alt="Creative">
+<span>Creative</span>
+<small class="demo-badge Hot">Hot<span class="inner-arrow"></span></small>
+</a>
+</li>
+<li class="photographydemo-item">
+<a href="https://jannah.tielabs.com/photography" target="_blank">
+<img class="demo-lazy-img" width="870" height="731" src="https://jannah.tielabs.com/travel/wp-content/themes/jannah/assets/images/tie-empty.png" data-src="https://s3-us-west-2.amazonaws.com/tielabs/jannah/images/demos-screenshots/photography.jpg" alt="Photography">
+<span>Photography</span>
+</a>
+</li>
+<li class="hotelsdemo-item">
+<a href="https://jannah.tielabs.com/hotels" target="_blank">
+<img class="demo-lazy-img" width="870" height="731" src="https://jannah.tielabs.com/travel/wp-content/themes/jannah/assets/images/tie-empty.png" data-src="https://s3-us-west-2.amazonaws.com/tielabs/jannah/images/demos-screenshots/hotels.jpg" alt="Hotels">
+<span>Hotels</span>
+<small class="demo-badge Hot">Hot<span class="inner-arrow"></span></small>
+</a>
+</li>
+<li class="housedemo-item">
+<a href="https://jannah.tielabs.com/house" target="_blank">
+<img class="demo-lazy-img" width="870" height="731" src="https://jannah.tielabs.com/travel/wp-content/themes/jannah/assets/images/tie-empty.png" data-src="https://s3-us-west-2.amazonaws.com/tielabs/jannah/images/demos-screenshots/house.jpg" alt="House">
+<span>House</span>
+</a>
+</li>
+<li class="sportdemo-item">
+<a href="https://jannah.tielabs.com/sport" target="_blank">
+<img class="demo-lazy-img" width="870" height="731" src="https://jannah.tielabs.com/travel/wp-content/themes/jannah/assets/images/tie-empty.png" data-src="https://s3-us-west-2.amazonaws.com/tielabs/jannah/images/demos-screenshots/sport.jpg" alt="Sports">
+<span>Sports</span>
+<small class="demo-badge Hot">Hot<span class="inner-arrow"></span></small>
+</a>
+</li>
+<li class="traveldemo-item">
+<a href="https://jannah.tielabs.com/travel" target="_blank">
+<img class="demo-lazy-img" width="870" height="731" src="https://jannah.tielabs.com/travel/wp-content/themes/jannah/assets/images/tie-empty.png" data-src="https://s3-us-west-2.amazonaws.com/tielabs/jannah/images/demos-screenshots/travel.jpg" alt="Travel">
+<span>Travel</span>
+</a>
+</li>
+<li class="autodemo-item">
+<a href="https://jannah.tielabs.com/auto" target="_blank">
+<img class="demo-lazy-img" width="870" height="731" src="https://jannah.tielabs.com/travel/wp-content/themes/jannah/assets/images/tie-empty.png" data-src="https://s3-us-west-2.amazonaws.com/tielabs/jannah/images/demos-screenshots/auto.jpg" alt="Auto">
+<span>Auto</span>
+</a>
+</li>
+<li class="petsdemo-item">
+<a href="https://jannah.tielabs.com/pets" target="_blank">
+<img class="demo-lazy-img" width="870" height="731" src="https://jannah.tielabs.com/travel/wp-content/themes/jannah/assets/images/tie-empty.png" data-src="https://s3-us-west-2.amazonaws.com/tielabs/jannah/images/demos-screenshots/pets.jpg" alt="Pets">
+<span>Pets</span>
+</a>
+</li>
+<li class="schooldemo-item">
+<a href="https://jannah.tielabs.com/school" target="_blank">
+<img class="demo-lazy-img" width="870" height="731" src="https://jannah.tielabs.com/travel/wp-content/themes/jannah/assets/images/tie-empty.png" data-src="https://s3-us-west-2.amazonaws.com/tielabs/jannah/images/demos-screenshots/school.jpg" alt="School">
+<span>School</span>
+</a>
+</li>
+<li class="travelingdemo-item">
+<a href="https://jannah.tielabs.com/traveling" target="_blank">
+<img class="demo-lazy-img" width="870" height="731" src="https://jannah.tielabs.com/travel/wp-content/themes/jannah/assets/images/tie-empty.png" data-src="https://s3-us-west-2.amazonaws.com/tielabs/jannah/images/demos-screenshots/traveling.jpg" alt="Traveling">
+<span>Traveling</span>
+</a>
+</li>
+<li class="sciencedemo-item">
+<a href="https://jannah.tielabs.com/science" target="_blank">
+<img class="demo-lazy-img" width="870" height="731" src="https://jannah.tielabs.com/travel/wp-content/themes/jannah/assets/images/tie-empty.png" data-src="https://s3-us-west-2.amazonaws.com/tielabs/jannah/images/demos-screenshots/science.jpg" alt="Science">
+<span>Science</span>
+</a>
+</li>
+<li class="healthdemo-item">
+<a href="https://jannah.tielabs.com/health" target="_blank">
+<img class="demo-lazy-img" width="870" height="731" src="https://jannah.tielabs.com/travel/wp-content/themes/jannah/assets/images/tie-empty.png" data-src="https://s3-us-west-2.amazonaws.com/tielabs/jannah/images/demos-screenshots/health.jpg" alt="Health">
+<span>Health</span>
+</a>
+</li>
+<li class="videosdemo-item">
+<a href="https://jannah.tielabs.com/videos" target="_blank">
+<img class="demo-lazy-img" width="870" height="731" src="https://jannah.tielabs.com/travel/wp-content/themes/jannah/assets/images/tie-empty.png" data-src="https://s3-us-west-2.amazonaws.com/tielabs/jannah/images/demos-screenshots/videos.jpg" alt="Videos">
+<span>Videos</span>
+<small class="demo-badge Hot">Hot<span class="inner-arrow"></span></small>
+</a>
+</li>
+<li class="timesdemo-item">
+<a href="https://jannah.tielabs.com/times" target="_blank">
+<img class="demo-lazy-img" width="870" height="731" src="https://jannah.tielabs.com/travel/wp-content/themes/jannah/assets/images/tie-empty.png" data-src="https://s3-us-west-2.amazonaws.com/tielabs/jannah/images/demos-screenshots/times.jpg" alt="Times">
+<span>Times</span>
+<small class="demo-badge Hot">Hot<span class="inner-arrow"></span></small>
+</a>
+</li>
+<li class="minimal-blogdemo-item">
+<a href="https://jannah.tielabs.com/minimal-blog" target="_blank">
+<img class="demo-lazy-img" width="870" height="731" src="https://jannah.tielabs.com/travel/wp-content/themes/jannah/assets/images/tie-empty.png" data-src="https://s3-us-west-2.amazonaws.com/tielabs/jannah/images/demos-screenshots/minimal-blog.jpg" alt="Minimal Blog">
+<span>Minimal Blog</span>
+</a>
+</li>
+<li class="blogdemo-item">
+<a href="https://jannah.tielabs.com/blog" target="_blank">
+<img class="demo-lazy-img" width="870" height="731" src="https://jannah.tielabs.com/travel/wp-content/themes/jannah/assets/images/tie-empty.png" data-src="https://s3-us-west-2.amazonaws.com/tielabs/jannah/images/demos-screenshots/blog.jpg" alt="Personal Blog">
+<span>Personal Blog</span>
+</a>
+</li>
+<li class="citydemo-item">
+<a href="https://jannah.tielabs.com/city" target="_blank">
+<img class="demo-lazy-img" width="870" height="731" src="https://jannah.tielabs.com/travel/wp-content/themes/jannah/assets/images/tie-empty.png" data-src="https://s3-us-west-2.amazonaws.com/tielabs/jannah/images/demos-screenshots/city.jpg" alt="City Magazine">
+<span>City Magazine</span>
+</a>
+</li>
+<li class="rtldemo-item">
+<a href="https://jannah.tielabs.com/rtl" target="_blank">
+<img class="demo-lazy-img" width="870" height="731" src="https://jannah.tielabs.com/travel/wp-content/themes/jannah/assets/images/tie-empty.png" data-src="https://s3-us-west-2.amazonaws.com/tielabs/jannah/images/demos-screenshots/rtl.jpg" alt="RTL Demo">
+<span>RTL Demo</span>
+</a>
+</li>
+<li class="demos-soondemo-item">
+<img class="demo-lazy-img" width="870" height="731" src="https://jannah.tielabs.com/travel/wp-content/themes/jannah/assets/images/tie-empty.png" data-src="https://s3-us-west-2.amazonaws.com/tielabs/jannah/images/demos-screenshots/demos-soon.jpg" alt="Coming Soon">
+<span>Coming Soon</span>
+</li>
+<li class="demos-soondemo-item">
+<img class="demo-lazy-img" width="870" height="731" src="https://jannah.tielabs.com/travel/wp-content/themes/jannah/assets/images/tie-empty.png" data-src="https://s3-us-west-2.amazonaws.com/tielabs/jannah/images/demos-screenshots/demos-soon.jpg" alt="Coming Soon">
+<span>Coming Soon</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div id="fb-root"></div> <div id="tie-popup-search-wrap" class="tie-popup">
+<a href="#" class="tie-btn-close remove big-btn light-btn">
+<span class="screen-reader-text">Close</span>
+</a>
+<div class="container">
+<div class="popup-search-wrap-inner">
+<div class="tie-row">
+<div id="pop-up-live-search" class="tie-col-md-12 live-search-parent" data-skin="live-search-popup" aria-label="Search">
+<form method="get" id="tie-popup-search-form" action="https://jannah.tielabs.com/travel//">
+<input id="tie-popup-search-input" class="is-ajax-search" type="text" name="s" title="Search for" autocomplete="off" placeholder="Type and hit Enter" />
+<button id="tie-popup-search-submit" type="submit"><span class="fa fa-search" aria-hidden="true"></span></button>
+</form>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="tie-popup-login" class="tie-popup">
+<a href="#" class="tie-btn-close remove big-btn light-btn">
+<span class="screen-reader-text">Close</span>
+</a>
+<div class="tie-popup-container">
+<div class="container-wrapper">
+<div class="widget login-widget">
+<div class="widget-title the-global-title">
+<h4>Log In <span class="widget-title-icon fa "></span>
+</h4>
+</div>
+<div class="widget-container">
+<div class="login-form">
+<form name="registerform" action="https://jannah.tielabs.com/travel/wp-login.php" method="post">
+<input type="text" name="log" title="Username" placeholder="Username">
+<div class="pass-container">
+<input type="password" name="pwd" title="Password" placeholder="Password">
+<a class="forget-text" href="https://jannah.tielabs.com/wp-login.php?action=lostpassword&redirect_to=https%3A%2F%2Fjannah.tielabs.com%2Ftravel">Forget?</a>
+</div>
+<input type="hidden" name="redirect_to" value="/travel/" />
+<label for="rememberme" class="rememberme">
+<input id="rememberme" name="rememberme" type="checkbox" checked="checked" value="forever" /> Remember me </label>
+<button type="submit" class="button fullwidth login-submit">Log In</button>
+</form>
+<p class="register-link"><a href="https://jannah.tielabs.com/travel/wp-login.php?action=register">Don&#039;t have an account?</a></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script type='text/javascript' src='https://jannah.tielabs.com/travel/wp-content/plugins/jannah-demos/assets/js/scripts.js'></script>
+<script type='text/javascript' src='https://jannah.tielabs.com/travel/wp-content/themes/jannah/assets/js/scripts.js'></script>
+<script type='text/javascript' src='https://jannah.tielabs.com/travel/wp-includes/js/imagesloaded.min.js'></script>
+<script type='text/javascript' src='https://jannah.tielabs.com/travel/wp-includes/js/wp-embed.min.js'></script>
+<script type='text/javascript' src='https://jannah.tielabs.com/travel/wp-content/themes/jannah/assets/js/sliders.js'></script>
+<script type="text/javascript">
+
+					var _foxpush = _foxpush || [];
+					_foxpush.push(['_setDomain', 'tielabscom']);
+
+					(function(){
+						var foxscript = document.createElement('script');
+						foxscript.src = '//cdn.foxpush.net/sdk/foxpush_SDK_min.js';
+						foxscript.type = 'text/javascript';
+						foxscript.async = 'true';
+						var fox_s = document.getElementsByTagName('script')[0];
+						fox_s.parentNode.insertBefore(foxscript, fox_s);
+					})();
+				</script>
+</body>
+</html>
